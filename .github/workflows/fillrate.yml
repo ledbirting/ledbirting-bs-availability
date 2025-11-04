@@ -1,0 +1,48 @@
+name: Build & publish fillrate JSON
+
+on:
+  schedule:
+    # Every 20 minutes, Monday–Friday, 07:00–17:59 UTC (Iceland time == UTC)
+    - cron: "*/20 7-17 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Generate next-30-day JSON
+        env:
+          BROADSIGN_BASE: ${{ secrets.BROADSIGN_BASE }}
+          BROADSIGN_EMAIL: ${{ secrets.BROADSIGN_EMAIL }}
+          BROADSIGN_PASSWORD: ${{ secrets.BROADSIGN_PASSWORD }}
+        run: node generate.mjs
+
+      - name: Upload artifact for Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
