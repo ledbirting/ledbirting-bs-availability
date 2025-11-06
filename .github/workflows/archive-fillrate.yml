@@ -3,7 +3,7 @@ name: Archive fill-rate daily
 on:
   schedule:
     # 23:59 UTC (Reykjavík) every day
-    - cron: "59 23 * * *"
+    - cron: "0 23 * * *"
   workflow_dispatch: {}   # manual run button, just in case
 
 permissions:
