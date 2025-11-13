@@ -1,614 +1,977 @@
 [
   {
     "id": "569050",
-    "name": "Glerartorg",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/569050-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/569050-Icon.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/800x1000px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 2,
     "mapUrl": "https://example.com/map/569050",
     "offerUrl": "https://example.com/offer/569050",
     "criteria": {
-      "landssvaedi": ["Landsbyggð"],
-      "borg_baer": ["Akureyri"],
-      "upplausn": "800x1000",
-      "orientation": "portrait"
+      "landssvaedi": [
+        "Landsbyggð"
+      ],
+      "borg_baer": [
+        "Akureyri"
+      ],
+      "building": [
+        "Billboards"
+      ],
+      "upplausn": [
+        "800x1000"
+      ],
+      "orientation": [
+        "portrait"
+      ]
     }
   },
   {
     "id": "490445",
-    "name": "Vestmannaeyjar",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/490445-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/490445-Icon.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/800x1000px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/490445",
     "offerUrl": "https://example.com/offer/490445",
     "criteria": {
-      "landssvaedi": ["Landsbyggð"],
-      "borg_baer": ["Vestmannaeyjabær"],
-      "upplausn": "800x1000",
-      "orientation": "portrait"
+      "landssvaedi": [
+        "Landsbyggð"
+      ],
+      "borg_baer": [
+        "Vestmannaeyjabær"
+      ],
+      "building": [
+        "Billboards"
+      ],
+      "upplausn": [
+        "800x1000"
+      ],
+      "orientation": [
+        "portrait"
+      ]
     }
   },
   {
     "id": "408992",
-    "name": "Litlatun",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/408992-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/408992-Icon.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x652px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/408992",
     "offerUrl": "https://example.com/offer/408992",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Garðabær"],
-      "upplausn": "1000x652",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Garðabær"
+      ],
+      "building": [
+        "Billboards",
+        "Parking area"
+      ],
+      "upplausn": [
+        "1000x652"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "445022",
-    "name": "Smaratorg",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/445022-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/445022-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/800x1000px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 2,
     "mapUrl": "https://example.com/map/445022",
     "offerUrl": "https://example.com/offer/445022",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Kópavogur"],
-      "upplausn": "800x1000",
-      "orientation": "portrait"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Kópavogur"
+      ],
+      "building": [
+        "Billboards",
+        "Parking area"
+      ],
+      "upplausn": [
+        "800x1000"
+      ],
+      "orientation": [
+        "portrait"
+      ]
     }
   },
   {
     "id": "235462",
-    "name": "Vesturlandsvegur",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/235462-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/235462-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x652px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 2,
     "mapUrl": "https://example.com/map/235462",
     "offerUrl": "https://example.com/offer/235462",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Reykjavík"],
-      "upplausn": "1000x652",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Reykjavík"
+      ],
+      "building": [
+        "Billboards"
+      ],
+      "upplausn": [
+        "1000x652"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "527245",
-    "name": "Hafnartorg Lengja",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/527245-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/527245-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1680x504px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/527245",
     "offerUrl": "https://example.com/offer/527245",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Reykjavík"],
-      "upplausn": "1680x504",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Reykjavík"
+      ],
+      "building": [
+        "Parking area"
+      ],
+      "upplausn": [
+        "1200x400"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "333333",
-    "name": "Smaralind LED",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/333333-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/333333-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x652px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/333333",
     "offerUrl": "https://example.com/offer/333333",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Kópavogur"],
-      "upplausn": "1000x652",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Kópavogur"
+      ],
+      "building": [
+        "Parking area",
+        "Shopping centers"
+      ],
+      "upplausn": [
+        "1000x652"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "441742",
-    "name": "Einhella",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/441742-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/441742-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x800px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/441742",
     "offerUrl": "https://example.com/offer/441742",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Hafnarfjörður"],
-      "upplausn": "1000x800",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Hafnarfjörður"
+      ],
+      "building": [
+        "Billboards"
+      ],
+      "upplausn": [
+        "1000x800"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "237865",
-    "name": "Breidholt",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/237865-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/237865-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x652px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 2,
     "mapUrl": "https://example.com/map/237865",
     "offerUrl": "https://example.com/offer/237865",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Reykjavík"],
-      "upplausn": "1000x652",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Reykjavík"
+      ],
+      "building": [
+        "Billboards"
+      ],
+      "upplausn": [
+        "1000x652"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "527246",
-    "name": "Hafnartorg Inngangur",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/527246-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/527246-Icon.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x652px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/527246",
     "offerUrl": "https://example.com/offer/527246",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Reykjavík"],
-      "upplausn": "1000x652",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Reykjavík"
+      ],
+      "building": [
+        "Parking area"
+      ],
+      "upplausn": [
+        "1000x652"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "237892",
-    "name": "Haedasmari Apotek",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/237892-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/237892-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/480x440px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/237892",
     "offerUrl": "https://example.com/offer/237892",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Kópavogur"],
-      "upplausn": "480x440",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Kópavogur"
+      ],
+      "building": [
+        "Pharmacies",
+        "Billboards"
+      ],
+      "upplausn": [
+        "600x550"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
-    "id": "321888",
-    "name": "Reykjanesbaer Frumherji",
+    "id": "321889",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/321888-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/321888-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x1000px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/321888",
     "offerUrl": "https://example.com/offer/321888",
     "criteria": {
-      "landssvaedi": ["Landsbyggð"],
-      "borg_baer": ["Selfoss"],
-      "upplausn": "1000x1000",
-      "orientation": "square"
+      "landssvaedi": [
+        "Landsbyggð"
+      ],
+      "borg_baer": [
+        "Reykjanesbær"
+      ],
+      "building": [
+        "Car Services",
+        "Billboards"
+      ],
+      "upplausn": [
+        "1000x1000"
+      ],
+      "orientation": [
+        "square"
+      ]
     }
   },
   {
     "id": "331111",
-    "name": "Vesturlandsvegur Lyfjaval",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/331111-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/331111-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x1000px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 2,
     "mapUrl": "https://example.com/map/331111",
     "offerUrl": "https://example.com/offer/331111",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Reykjavík"],
-      "upplausn": "1000x1000",
-      "orientation": "square"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Reykjavík"
+      ],
+      "building": [
+        "Pharmacies"
+      ],
+      "upplausn": [
+        "1000x1000"
+      ],
+      "orientation": [
+        "square"
+      ]
     }
   },
   {
     "id": "237870",
-    "name": "Thingvallastraeti",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/237870-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/237870-Icon.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x652px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 2,
     "mapUrl": "https://example.com/map/237870",
     "offerUrl": "https://example.com/offer/237870",
     "criteria": {
-      "landssvaedi": ["Landsbyggð"],
-      "borg_baer": ["Akureyri"],
-      "upplausn": "1000x652",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Landsbyggð"
+      ],
+      "borg_baer": [
+        "Akureyri"
+      ],
+      "building": [
+        "Billboards"
+      ],
+      "upplausn": [
+        "1000x652"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "222222",
-    "name": "Lyfjaval Lugur",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/222222-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/222222-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/800x1000px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 16,
     "mapUrl": "https://example.com/map/222222",
     "offerUrl": "https://example.com/offer/222222",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði", "Landsbyggð"],
-      "borg_baer": ["Reykjavík", "Kópavogur", "Selfoss", "Reykjanesbær"],
-      "upplausn": "",
-      "orientation": ""
+      "landssvaedi": [
+        "Höfuðborgarsvæði,Landsbyggð"
+      ],
+      "borg_baer": [
+        "Reykjavík,Kópavogur,Selfoss,Reykjanesbær"
+      ],
+      "building": [
+        "Pharmacies"
+      ],
+      "upplausn": [
+        "1080x1920,1920x1080"
+      ],
+      "orientation": [
+        "landscape,portrait"
+      ]
     }
   },
   {
     "id": "235463",
-    "name": "Kaplakriki",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/235463-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/235463-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x652px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 3,
     "mapUrl": "https://example.com/map/235463",
     "offerUrl": "https://example.com/offer/235463",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Hafnarfjörður"],
-      "upplausn": "1000x652",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Hafnarfjörður"
+      ],
+      "building": [
+        "Billboards"
+      ],
+      "upplausn": [
+        "1000x652"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "480851",
-    "name": "Sudurfell Lyfjaval",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/480851-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/480851-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x500px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/480851",
     "offerUrl": "https://example.com/offer/480851",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Reykjavík"],
-      "upplausn": "1000x500",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Reykjavík"
+      ],
+      "building": [
+        "Pharmacies",
+        "Billboards"
+      ],
+      "upplausn": [
+        "1000x500"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "666666",
-    "name": "Orkan",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/666666-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/666666-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/400x400px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 10,
     "mapUrl": "https://example.com/map/666666",
     "offerUrl": "https://example.com/offer/666666",
     "criteria": {
-      "landssvaedi": ["Landsbyggð"],
-      "borg_baer": ["Akureyri", "Selfoss", "Hvolsvöllur", "Reykjanesbær", "Borgarnes"],
-      "upplausn": "400x400",
-      "orientation": "square"
+      "landssvaedi": [
+        "Landsbyggð"
+      ],
+      "borg_baer": [
+        "Akureyri,Selfoss,Hvolsvöllur,Reykjanesbær,Borgarnes"
+      ],
+      "building": [
+        "Gas Stations"
+      ],
+      "upplausn": [
+        "400x400"
+      ],
+      "orientation": [
+        "square"
+      ]
     }
   },
   {
     "id": "527247",
-    "name": "Hafnartorg Greidsluvel",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/527247-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/527247-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/640x480px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/527247",
     "offerUrl": "https://example.com/offer/527247",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Reykjavík"],
-      "upplausn": "640x480",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Reykjavík"
+      ],
+      "building": [
+        "Parking area"
+      ],
+      "upplausn": [
+        "640x480"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "445024",
-    "name": "Vatnsendahvarf",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/445024-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/445024-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x500px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/445024",
     "offerUrl": "https://example.com/offer/445024",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Kópavogur"],
-      "upplausn": "1000x500",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Kópavogur"
+      ],
+      "building": [
+        "Billboards"
+      ],
+      "upplausn": [
+        "1000x500"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "438452",
-    "name": "Hagasmari",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/438452-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/438452-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x652px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/438452",
     "offerUrl": "https://example.com/offer/438452",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Kópavogur"],
-      "upplausn": "1000x652",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Kópavogur"
+      ],
+      "building": [
+        "Billboards",
+        "Shopping centers",
+        "Gas Stations"
+      ],
+      "upplausn": [
+        "1000x652"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "405768",
-    "name": "Saebraut Sundaborg",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/405768-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/405768-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x500px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/405768",
     "offerUrl": "https://example.com/offer/405768",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Reykjavík"],
-      "upplausn": "1000x500",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Reykjavík"
+      ],
+      "building": [
+        "Billboards"
+      ],
+      "upplausn": [
+        "1000x500"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "406591",
-    "name": "Borgartun",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/406591-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/406591-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/800x1200px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/406591",
     "offerUrl": "https://example.com/offer/406591",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Reykjavík"],
-      "upplausn": "800x1200",
-      "orientation": "portrait"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Reykjavík"
+      ],
+      "building": [
+        "Billboards"
+      ],
+      "upplausn": [
+        "800x1200"
+      ],
+      "orientation": [
+        "portrait"
+      ]
     }
   },
   {
     "id": "237874",
-    "name": "Saebraut Holtagardar",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/237874-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/237874-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/972x324px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/237874",
     "offerUrl": "https://example.com/offer/237874",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Reykjavík"],
-      "upplausn": "972x324",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Reykjavík"
+      ],
+      "building": [
+        "Billboards"
+      ],
+      "upplausn": [
+        "1200x400"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "235464",
-    "name": "Egilsholl",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/235464-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/235464-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x652px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 2,
     "mapUrl": "https://example.com/map/235464",
     "offerUrl": "https://example.com/offer/235464",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Reykjavík"],
-      "upplausn": "1000x652",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Reykjavík"
+      ],
+      "building": [
+        "Billboards"
+      ],
+      "upplausn": [
+        "1000x652"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "235466",
-    "name": "Hofdabakki",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/235466-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/235466-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/640x480px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 2,
     "mapUrl": "https://example.com/map/235466",
     "offerUrl": "https://example.com/offer/235466",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Reykjavík"],
-      "upplausn": "640x480",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Reykjavík"
+      ],
+      "building": [
+        "Billboards"
+      ],
+      "upplausn": [
+        "640x480"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "237868",
-    "name": "Selfoss",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/237868-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/237868-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x652px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 2,
     "mapUrl": "https://example.com/map/237868",
     "offerUrl": "https://example.com/offer/237868",
     "criteria": {
-      "landssvaedi": ["Landsbyggð"],
-      "borg_baer": ["Selfoss"],
-      "upplausn": "1000x652",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Landsbyggð"
+      ],
+      "borg_baer": [
+        "Selfoss"
+      ],
+      "building": [
+        "Billboards"
+      ],
+      "upplausn": [
+        "1000x652"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "111111",
-    "name": "Lyfjaval Landscape Inni",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/111111-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/111111-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1920x1080px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 2,
     "mapUrl": "https://example.com/map/111111",
     "offerUrl": "https://example.com/offer/111111",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Reykjavík", "Kópavogur"],
-      "upplausn": "1920x1080",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Reykjavík,Kópavogur"
+      ],
+      "building": [
+        "Pharmacies"
+      ],
+      "upplausn": [
+        "1920x1080"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "456840",
-    "name": "Fjardarhraun",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/456840-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/456840-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/640x480px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/456840",
     "offerUrl": "https://example.com/offer/456840",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Hafnarfjörður"],
-      "upplausn": "640x480",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Hafnarfjörður"
+      ],
+      "building": [
+        "Billboards",
+        "Parking area"
+      ],
+      "upplausn": [
+        "640x480"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "555555",
-    "name": "Egilsholl Inni",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/555555-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/555555-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x500px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 2,
     "mapUrl": "https://example.com/map/555555",
     "offerUrl": "https://example.com/offer/555555",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Reykjavík"],
-      "upplausn": "1000x500",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Reykjavík"
+      ],
+      "building": [
+        "Shopping centers",
+        "Health/Entertainment centers"
+      ],
+      "upplausn": [
+        "1000x500"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "527254",
-    "name": "Hafnartorg Kubbur",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/527254-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/527254-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/504x504px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/527254",
     "offerUrl": "https://example.com/offer/527254",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Reykjavík"],
-      "upplausn": "504x504",
-      "orientation": "square"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Reykjavík"
+      ],
+      "building": [
+        "Parking area"
+      ],
+      "upplausn": [
+        "1000x1000"
+      ],
+      "orientation": [
+        "square"
+      ]
     }
   },
   {
     "id": "444444",
-    "name": "Smaralind inni 40",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/444444-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/444444-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1080x1920px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 40,
     "mapUrl": "https://example.com/map/444444",
     "offerUrl": "https://example.com/offer/444444",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Kópavogur"],
-      "upplausn": "1080x1920",
-      "orientation": "portrait"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Kópavogur"
+      ],
+      "building": [
+        "Shopping centers",
+        "Health/Entertainment centers"
+      ],
+      "upplausn": [
+        "1080x1920"
+      ],
+      "orientation": [
+        "portrait"
+      ]
     }
   },
   {
     "id": "404813",
-    "name": "Austurstraeti",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/404813-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/404813-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/512x2500px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/404813",
     "offerUrl": "https://example.com/offer/404813",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Reykjavík"],
-      "upplausn": "512x2500",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Reykjavík"
+      ],
+      "building": [
+        "Billboards",
+        "City Center"
+      ],
+      "upplausn": [
+        "512x2500"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "237871",
-    "name": "Grandi",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/237871-L@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/237871-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/1000x800px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 1,
     "mapUrl": "https://example.com/map/237871",
     "offerUrl": "https://example.com/offer/237871",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Reykjavík"],
-      "upplausn": "1000x800",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Reykjavík"
+      ],
+      "building": [
+        "Billboards"
+      ],
+      "upplausn": [
+        "1000x800"
+      ],
+      "orientation": [
+        "landscape"
+      ]
     }
   },
   {
     "id": "331110",
-    "name": "Haedasmari Standur",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/331110-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/331110-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/800x1200px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 2,
     "mapUrl": "https://example.com/map/331110",
     "offerUrl": "https://example.com/offer/331110",
     "criteria": {
-      "landssvaedi": ["Höfuðborgarsvæði"],
-      "borg_baer": ["Kópavogur"],
-      "upplausn": "800x1200",
-      "orientation": "portrait"
+      "landssvaedi": [
+        "Höfuðborgarsvæði"
+      ],
+      "borg_baer": [
+        "Kópavogur"
+      ],
+      "building": [
+        "Billboards"
+      ],
+      "upplausn": [
+        "800x1200"
+      ],
+      "orientation": [
+        "portrait"
+      ]
     }
   },
   {
     "id": "251695",
-    "name": "Njardarbraut",
     "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/251695-R@2x_cropped.png",
     "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/251695-Icon-Temporary.jpg",
     "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
-    "resolutionIcon": "https://ledbirting.is/wp-content/uploads/2025/11/640x480px@2x.png",
-    "facesIcon": "https://ledbirting.is/wp-content/uploads/2025/11/01fl@2x.png",
+    "facesIcon": 2,
     "mapUrl": "https://example.com/map/251695",
     "offerUrl": "https://example.com/offer/251695",
     "criteria": {
-      "landssvaedi": ["Landsbyggð"],
-      "borg_baer": ["Reykjanesbær"],
-      "upplausn": "640x480",
-      "orientation": "landscape"
+      "landssvaedi": [
+        "Landsbyggð"
+      ],
+      "borg_baer": [
+        "Reykjanesbær"
+      ],
+      "building": [
+        "Billboards"
+      ],
+      "upplausn": [
+        "640x480"
+      ],
+      "orientation": [
+        "landscape"
+      ]
+    }
+  },
+  {
+    "id": "321888",
+    "titleImage": "https://ledbirting.is/wp-content/uploads/2025/11/321888-Title.png",
+    "photoUrl": "https://ledbirting.is/wp-content/uploads/2025/11/321888-Real-Icon.jpg",
+    "bgTexture": "https://ledbirting.is/wp-content/uploads/2025/11/Blue-BG.jpg",
+    "facesIcon": 1,
+    "mapUrl": "https://example.com/map/251695",
+    "offerUrl": "https://example.com/offer/251695",
+    "criteria": {
+      "landssvaedi": [
+        "Landsbyggð"
+      ],
+      "borg_baer": [
+        "Selfoss"
+      ],
+      "building": [
+        "Car Services",
+        "Billboards"
+      ],
+      "upplausn": [
+        "1000x1000"
+      ],
+      "orientation": [
+        "square"
+      ]
     }
   }
 ]
