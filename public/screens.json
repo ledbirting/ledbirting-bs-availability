@@ -378,19 +378,25 @@
     "offerUrl": "https://example.com/offer/222222",
     "criteria": {
       "landssvaedi": [
-        "Höfuðborgarsvæði,Landsbyggð"
+        "Höfuðborgarsvæði",
+        "Landsbyggð"
       ],
       "borg_baer": [
-        "Reykjavík,Kópavogur,Selfoss,Reykjanesbær"
+        "Reykjavík",
+        "Kópavogur",
+        "Selfoss",
+        "Reykjanesbær"
       ],
       "building": [
         "Pharmacies"
       ],
       "upplausn": [
-        "1080x1920,1920x1080"
+        "1080x1920",
+        "1920x1080"
       ],
       "orientation": [
-        "landscape,portrait"
+        "landscape",
+        "portrait"
       ]
     }
   },
@@ -460,7 +466,11 @@
         "Landsbyggð"
       ],
       "borg_baer": [
-        "Akureyri,Selfoss,Hvolsvöllur,Reykjanesbær,Borgarnes"
+        "Akureyri",
+        "Selfoss",
+        "Hvolsvöllur",
+        "Reykjanesbær",
+        "Borgarnes"
       ],
       "building": [
         "Gas Stations"
@@ -722,7 +732,8 @@
         "Höfuðborgarsvæði"
       ],
       "borg_baer": [
-        "Reykjavík,Kópavogur"
+        "Reykjavík",
+        "Kópavogur"
       ],
       "building": [
         "Pharmacies"
