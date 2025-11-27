@@ -1,0 +1,184 @@
+{
+  "date": "2025-11-27",
+  "generated_at": "2025-11-27T17:52:14.425Z",
+  "count": 42,
+  "rows": [
+    {
+      "screen": "Akureyri #1",
+      "fill_rate": 0.9999589574074073
+    },
+    {
+      "screen": "Akureyri #2",
+      "fill_rate": 1
+    },
+    {
+      "screen": "Austurstræti",
+      "fill_rate": 0.25
+    },
+    {
+      "screen": "Borgartún",
+      "fill_rate": 0.9999999999999998
+    },
+    {
+      "screen": "Breiðholt #1",
+      "fill_rate": 0.9577179817592592
+    },
+    {
+      "screen": "Breiðholt #2",
+      "fill_rate": 0.9998148148148147
+    },
+    {
+      "screen": "Egilshöll #1",
+      "fill_rate": 0.9999305555555554
+    },
+    {
+      "screen": "Egilshöll #2",
+      "fill_rate": 0.7459777155092592
+    },
+    {
+      "screen": "Einhella",
+      "fill_rate": 0.43499999999999994
+    },
+    {
+      "screen": "Fjarðarhraun",
+      "fill_rate": 0.5508680146759259
+    },
+    {
+      "screen": "Frumherji - Reykjanesbær",
+      "fill_rate": 0.23336666666666667
+    },
+    {
+      "screen": "Frumherji - Selfoss",
+      "fill_rate": 0.4666666666666666
+    },
+    {
+      "screen": "Glerártorg #1",
+      "fill_rate": 0.9727869159722221
+    },
+    {
+      "screen": "Glerártorg #2",
+      "fill_rate": 0.9568958257870369
+    },
+    {
+      "screen": "Grandi",
+      "fill_rate": 0.9999837976388889
+    },
+    {
+      "screen": "Hæðasmári #1",
+      "fill_rate": 0.6756157858796296
+    },
+    {
+      "screen": "Hæðasmári Standur - Portrait",
+      "fill_rate": 0.49999999999999994
+    },
+    {
+      "screen": "Hafnartorg #1 Inngangur",
+      "fill_rate": 1
+    },
+    {
+      "screen": "Hafnartorg #2 Lengja",
+      "fill_rate": 0.8437500000000001
+    },
+    {
+      "screen": "Hafnartorg #3 Greiðsluvél",
+      "fill_rate": 0.8437500000000001
+    },
+    {
+      "screen": "Hafnartorg #4 Kubbur",
+      "fill_rate": 0.6770833333333334
+    },
+    {
+      "screen": "Hagasmári",
+      "fill_rate": 0.9999507094444443
+    },
+    {
+      "screen": "Höfðabakki #1",
+      "fill_rate": 0.9999999999999999
+    },
+    {
+      "screen": "Höfðabakki #2",
+      "fill_rate": 0.9997222222222221
+    },
+    {
+      "screen": "Kaplakriki #1",
+      "fill_rate": 0.9999572842129628
+    },
+    {
+      "screen": "Kaplakriki #2",
+      "fill_rate": 0.9999970056944443
+    },
+    {
+      "screen": "Kaplakriki #3",
+      "fill_rate": 0.9704432741203702
+    },
+    {
+      "screen": "Litlatún #1",
+      "fill_rate": 0.9857716356018517
+    },
+    {
+      "screen": "Lyfjaval - Suðurfell",
+      "fill_rate": 0.26666666666666666
+    },
+    {
+      "screen": "Lyfjaval - Vesturlandsvegur",
+      "fill_rate": 0.26666666666666666
+    },
+    {
+      "screen": "Njarðarbraut #1",
+      "fill_rate": 0.7192013480092593
+    },
+    {
+      "screen": "Njarðarbraut #2",
+      "fill_rate": 0.7005614038425926
+    },
+    {
+      "screen": "Sæbraut - Holtagarðar",
+      "fill_rate": 0.5333333333333333
+    },
+    {
+      "screen": "Sæbraut - Sundaborg",
+      "fill_rate": 0.6
+    },
+    {
+      "screen": "Selfoss #1",
+      "fill_rate": 0.8769697425462962
+    },
+    {
+      "screen": "Selfoss #2",
+      "fill_rate": 0.9997685185185184
+    },
+    {
+      "screen": "Smáratorg #1",
+      "fill_rate": 0.8333333333333333
+    },
+    {
+      "screen": "Smáratorg #2",
+      "fill_rate": 0.4333333333333333
+    },
+    {
+      "screen": "Vatnsendahvarf #1",
+      "fill_rate": 0.9683333333333333
+    },
+    {
+      "screen": "Vestmannaeyjar",
+      "fill_rate": 0.4375
+    },
+    {
+      "screen": "Vesturlandsvegur #1",
+      "fill_rate": 0.9442397172685184
+    },
+    {
+      "screen": "Vesturlandsvegur #2",
+      "fill_rate": 0.9779491534722221
+    }
+  ],
+  "meta": {
+    "note": "Values are 0..1 fill rates; >=0.934 considered 'sold out' by UI.",
+    "source_urls": [
+      "https://ledbirting.github.io/ledbirting-bs-availability/fillrate-next30.json",
+      "https://cdn.jsdelivr.net/gh/ledbirting/ledbirting-bs-availability/fillrate-next30.json",
+      "https://raw.githubusercontent.com/ledbirting/ledbirting-bs-availability/refs/heads/main/fillrate-next30.json"
+    ],
+    "archived_at_utc": "2025-11-27T23:29:54.049Z"
+  }
+}
