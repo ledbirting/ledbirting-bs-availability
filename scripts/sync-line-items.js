@@ -25,6 +25,9 @@ const SCREEN_IDS = [
 
 const REPORT_FROM_TODAY_ONLY = String(process.env.LINE_ITEMS_REPORT_FROM_TODAY_ONLY || "true").toLowerCase() !== "false";
 const FAR_FUTURE_END_DATE = process.env.LINE_ITEMS_FAR_FUTURE_END_DATE || "2099-12-31";
+const RANGE_CHUNK_DAYS = parseEnvInt("LINE_ITEMS_RANGE_CHUNK_DAYS", 30);
+const EMPTY_CHUNK_STOP_AFTER = parseEnvInt("LINE_ITEMS_EMPTY_CHUNK_STOP_AFTER", 6);
+const MAX_RANGE_CHUNKS = parseEnvInt("LINE_ITEMS_MAX_RANGE_CHUNKS", 48);
 const SCREEN_BATCH_SIZE = parseEnvInt("LINE_ITEMS_SCREEN_BATCH_SIZE", 12);
 const PAGE_SIZE = parseEnvInt("LINE_ITEMS_PAGE_SIZE", 300);
 const MAX_PAGES_PER_QUERY = parseEnvInt("LINE_ITEMS_MAX_PAGES_PER_QUERY", 3);
@@ -48,6 +51,27 @@ function buildDateRange() {
   const startDate = dateISO(today);
   const endDate = FAR_FUTURE_END_DATE;
   return { startDate, endDate };
+}
+
+function addDaysToIso(isoDate, daysToAdd) {
+  const d = new Date(`${isoDate}T00:00:00Z`);
+  d.setUTCDate(d.getUTCDate() + daysToAdd);
+  return dateISO(d);
+}
+
+function minIso(a, b) {
+  return a <= b ? a : b;
+}
+
+function buildChunkedRanges(startDate, endDate, chunkDays, maxChunks) {
+  const ranges = [];
+  let cursor = startDate;
+  for (let i = 0; i < maxChunks && cursor <= endDate; i += 1) {
+    const chunkEnd = minIso(addDaysToIso(cursor, chunkDays - 1), endDate);
+    ranges.push({ startDate: cursor, endDate: chunkEnd });
+    cursor = addDaysToIso(chunkEnd, 1);
+  }
+  return ranges;
 }
 
 function chunk(array, size) {
@@ -157,42 +181,80 @@ function makeKey(campaignName, lineItemName, price) {
 
 async function main() {
   const todayIso = dateISO(new Date());
-  const range = buildDateRange();
+  const globalRange = buildDateRange();
+  const ranges = buildChunkedRanges(
+    globalRange.startDate,
+    globalRange.endDate,
+    RANGE_CHUNK_DAYS,
+    MAX_RANGE_CHUNKS
+  );
   const screenChunks = chunk(SCREEN_IDS, SCREEN_BATCH_SIZE);
-  const counters = { apiCalls: 0, totalItemsSeen: 0, hitLimit: false };
+  const counters = {
+    apiCalls: 0,
+    totalItemsSeen: 0,
+    hitLimit: false,
+    rangeChunksProcessed: 0,
+    stoppedOnEmptyRanges: false,
+    maxRangeChunksReached: false
+  };
   const map = new Map();
+  let consecutiveEmptyRanges = 0;
 
-  for (const group of screenChunks) {
-    const items = await fetchProposalItems(range, group, counters);
-    for (const item of items) {
-      if (REPORT_FROM_TODAY_ONLY && !isNotExpired(item, todayIso)) continue;
+  for (const range of ranges) {
+    counters.rangeChunksProcessed += 1;
+    let rangeItemCount = 0;
 
-      const campaignName = String(item?.campaign_name || "").trim() || "Unknown campaign";
-      const lineItemName = String(item?.line_name || "").trim() || "Unnamed line item";
-      const price = normalizePrice(item?.price);
-      const startDate = String(item?.start_date || "").slice(0, 10) || null;
-      const endDate = String(item?.end_date || "").slice(0, 10) || null;
-      const key = makeKey(campaignName, lineItemName, price);
+    for (const group of screenChunks) {
+      const items = await fetchProposalItems(range, group, counters);
+      rangeItemCount += items.length;
 
-      let entry = map.get(key);
-      if (!entry) {
-        entry = {
-          campaign_name: campaignName,
-          line_item_name: lineItemName,
-          price,
-          start_date: startDate,
-          end_date: endDate,
-          seen_count: 0
-        };
-        map.set(key, entry);
-      } else {
-        if (startDate && (!entry.start_date || startDate < entry.start_date)) entry.start_date = startDate;
-        if (endDate && (!entry.end_date || endDate > entry.end_date)) entry.end_date = endDate;
+      for (const item of items) {
+        if (REPORT_FROM_TODAY_ONLY && !isNotExpired(item, todayIso)) continue;
+
+        const campaignName = String(item?.campaign_name || "").trim() || "Unknown campaign";
+        const lineItemName = String(item?.line_name || "").trim() || "Unnamed line item";
+        const price = normalizePrice(item?.price);
+        const startDate = String(item?.start_date || "").slice(0, 10) || null;
+        const endDate = String(item?.end_date || "").slice(0, 10) || null;
+        const key = makeKey(campaignName, lineItemName, price);
+
+        let entry = map.get(key);
+        if (!entry) {
+          entry = {
+            campaign_name: campaignName,
+            line_item_name: lineItemName,
+            price,
+            start_date: startDate,
+            end_date: endDate,
+            seen_count: 0
+          };
+          map.set(key, entry);
+        } else {
+          if (startDate && (!entry.start_date || startDate < entry.start_date)) entry.start_date = startDate;
+          if (endDate && (!entry.end_date || endDate > entry.end_date)) entry.end_date = endDate;
+        }
+
+        entry.seen_count += 1;
       }
 
-      entry.seen_count += 1;
+      if (counters.hitLimit) break;
     }
+
+    if (rangeItemCount === 0) {
+      consecutiveEmptyRanges += 1;
+      if (consecutiveEmptyRanges >= EMPTY_CHUNK_STOP_AFTER) {
+        counters.stoppedOnEmptyRanges = true;
+        break;
+      }
+    } else {
+      consecutiveEmptyRanges = 0;
+    }
+
     if (counters.hitLimit) break;
+  }
+
+  if (!counters.hitLimit && !counters.stoppedOnEmptyRanges && counters.rangeChunksProcessed >= MAX_RANGE_CHUNKS) {
+    counters.maxRangeChunksReached = true;
   }
 
   const rows = Array.from(map.values()).sort((a, b) =>
@@ -203,22 +265,28 @@ async function main() {
   const out = {
     generated_at: new Date().toISOString(),
     scope: {
-      report_start_date: range.startDate,
-      report_end_date: range.endDate,
+      report_start_date: globalRange.startDate,
+      report_end_date: globalRange.endDate,
       include_from_today_only: REPORT_FROM_TODAY_ONLY
     },
     optimization: {
-      rule: "Query from today to far-future in batched screen requests with paging limits and a hard max item budget.",
+      rule: "Query chunked date ranges from today onward, stop after consecutive empty chunks, and enforce paging/item caps.",
+      range_chunk_days: RANGE_CHUNK_DAYS,
+      empty_chunk_stop_after: EMPTY_CHUNK_STOP_AFTER,
+      max_range_chunks: MAX_RANGE_CHUNKS,
       screen_batch_size: SCREEN_BATCH_SIZE,
       page_size: PAGE_SIZE,
       max_pages_per_query: MAX_PAGES_PER_QUERY,
       max_items_per_run: MAX_ITEMS_PER_RUN,
-      truncated: counters.hitLimit
+      truncated: counters.hitLimit || counters.maxRangeChunksReached || counters.stoppedOnEmptyRanges
     },
     stats: {
       api_calls: counters.apiCalls,
       items_seen: counters.totalItemsSeen,
-      unique_items: rows.length
+      unique_items: rows.length,
+      range_chunks_processed: counters.rangeChunksProcessed,
+      stopped_on_empty_ranges: counters.stoppedOnEmptyRanges,
+      max_range_chunks_reached: counters.maxRangeChunksReached
     },
     items: rows
   };
