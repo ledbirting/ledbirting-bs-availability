@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-04-09T16:22:25.016Z",
+  "scope": {
+    "report_start_date": "2026-04-09",
+    "report_end_date": "2099-12-31",
+    "include_from_today_only": true
+  },
+  "optimization": {
+    "rule": "Query from today to far-future in batched screen requests with paging limits and a hard max item budget.",
+    "screen_batch_size": 12,
+    "page_size": 300,
+    "max_pages_per_query": 3,
+    "max_items_per_run": 20000,
+    "truncated": false
+  },
+  "stats": {
+    "api_calls": 4,
+    "items_seen": 0,
+    "unique_items": 0
+  },
+  "items": []
+}
