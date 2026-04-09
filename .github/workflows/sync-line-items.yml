@@ -37,8 +37,8 @@ jobs:
           BROADSIGN_PASSWORD: ${{ secrets.BROADSIGN_PASSWORD }}
           LINE_ITEMS_OUTPUT_PATH: public/campaign-line-items.json
           # Runtime controls
-          LINE_ITEMS_LOOKBACK_DAYS: "2"
-          LINE_ITEMS_LOOKAHEAD_DAYS: "14"
+          LINE_ITEMS_REPORT_FROM_TODAY_ONLY: "true"
+          LINE_ITEMS_FAR_FUTURE_END_DATE: "2099-12-31"
           LINE_ITEMS_SCREEN_BATCH_SIZE: "12"
           LINE_ITEMS_PAGE_SIZE: "300"
           LINE_ITEMS_MAX_PAGES_PER_QUERY: "3"

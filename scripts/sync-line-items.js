@@ -23,8 +23,8 @@ const SCREEN_IDS = [
   235462, 237863
 ];
 
-const LOOKBACK_DAYS = parseEnvInt("LINE_ITEMS_LOOKBACK_DAYS", 2);
-const LOOKAHEAD_DAYS = parseEnvInt("LINE_ITEMS_LOOKAHEAD_DAYS", 14);
+const REPORT_FROM_TODAY_ONLY = String(process.env.LINE_ITEMS_REPORT_FROM_TODAY_ONLY || "true").toLowerCase() !== "false";
+const FAR_FUTURE_END_DATE = process.env.LINE_ITEMS_FAR_FUTURE_END_DATE || "2099-12-31";
 const SCREEN_BATCH_SIZE = parseEnvInt("LINE_ITEMS_SCREEN_BATCH_SIZE", 12);
 const PAGE_SIZE = parseEnvInt("LINE_ITEMS_PAGE_SIZE", 300);
 const MAX_PAGES_PER_QUERY = parseEnvInt("LINE_ITEMS_MAX_PAGES_PER_QUERY", 3);
@@ -43,15 +43,11 @@ function dateISO(inputDate) {
   return inputDate.toISOString().slice(0, 10);
 }
 
-function buildDateWindow() {
+function buildDateRange() {
   const today = new Date();
-  const dates = [];
-  for (let offset = -LOOKBACK_DAYS; offset <= LOOKAHEAD_DAYS; offset += 1) {
-    const d = new Date(today);
-    d.setUTCDate(today.getUTCDate() + offset);
-    dates.push(dateISO(d));
-  }
-  return dates;
+  const startDate = dateISO(today);
+  const endDate = FAR_FUTURE_END_DATE;
+  return { startDate, endDate };
 }
 
 function chunk(array, size) {
@@ -102,7 +98,7 @@ function extractItems(resp) {
   return [];
 }
 
-async function fetchProposalItems(date, screenIds, counters) {
+async function fetchProposalItems(range, screenIds, counters) {
   const all = [];
   let skip = 0;
 
@@ -113,8 +109,8 @@ async function fetchProposalItems(date, screenIds, counters) {
     }
 
     const payload = {
-      start_date: date,
-      end_date: date,
+      start_date: range.startDate,
+      end_date: range.endDate,
       start_time: "00:00:00",
       end_time: "23:59:59",
       time_interval: "day",
@@ -149,45 +145,52 @@ function normalizePrice(value) {
   return Number.isFinite(n) ? n : null;
 }
 
+function isNotExpired(item, todayIso) {
+  const endDate = String(item?.end_date || "").slice(0, 10);
+  if (!endDate) return true;
+  return endDate >= todayIso;
+}
+
 function makeKey(campaignName, lineItemName, price) {
   return `${campaignName}\u001f${lineItemName}\u001f${price === null ? "null" : String(price)}`;
 }
 
 async function main() {
-  const dateWindow = buildDateWindow();
+  const todayIso = dateISO(new Date());
+  const range = buildDateRange();
   const screenChunks = chunk(SCREEN_IDS, SCREEN_BATCH_SIZE);
   const counters = { apiCalls: 0, totalItemsSeen: 0, hitLimit: false };
   const map = new Map();
 
-  for (const date of dateWindow) {
-    for (const group of screenChunks) {
-      const items = await fetchProposalItems(date, group, counters);
-      for (const item of items) {
-        const campaignName = String(item?.campaign_name || "").trim() || "Unknown campaign";
-        const lineItemName = String(item?.line_name || "").trim() || "Unnamed line item";
-        const price = normalizePrice(item?.price);
-        const key = makeKey(campaignName, lineItemName, price);
+  for (const group of screenChunks) {
+    const items = await fetchProposalItems(range, group, counters);
+    for (const item of items) {
+      if (REPORT_FROM_TODAY_ONLY && !isNotExpired(item, todayIso)) continue;
 
-        let entry = map.get(key);
-        if (!entry) {
-          entry = {
-            campaign_name: campaignName,
-            line_item_name: lineItemName,
-            price,
-            first_seen_date: date,
-            last_seen_date: date,
-            seen_count: 0
-          };
-          map.set(key, entry);
-        } else {
-          if (date < entry.first_seen_date) entry.first_seen_date = date;
-          if (date > entry.last_seen_date) entry.last_seen_date = date;
-        }
+      const campaignName = String(item?.campaign_name || "").trim() || "Unknown campaign";
+      const lineItemName = String(item?.line_name || "").trim() || "Unnamed line item";
+      const price = normalizePrice(item?.price);
+      const startDate = String(item?.start_date || "").slice(0, 10) || null;
+      const endDate = String(item?.end_date || "").slice(0, 10) || null;
+      const key = makeKey(campaignName, lineItemName, price);
 
-        entry.seen_count += 1;
+      let entry = map.get(key);
+      if (!entry) {
+        entry = {
+          campaign_name: campaignName,
+          line_item_name: lineItemName,
+          price,
+          start_date: startDate,
+          end_date: endDate,
+          seen_count: 0
+        };
+        map.set(key, entry);
+      } else {
+        if (startDate && (!entry.start_date || startDate < entry.start_date)) entry.start_date = startDate;
+        if (endDate && (!entry.end_date || endDate > entry.end_date)) entry.end_date = endDate;
       }
 
-      if (counters.hitLimit) break;
+      entry.seen_count += 1;
     }
     if (counters.hitLimit) break;
   }
@@ -199,14 +202,13 @@ async function main() {
 
   const out = {
     generated_at: new Date().toISOString(),
-    window: {
-      start_date: dateWindow[0],
-      end_date: dateWindow[dateWindow.length - 1],
-      lookback_days: LOOKBACK_DAYS,
-      lookahead_days: LOOKAHEAD_DAYS
+    scope: {
+      report_start_date: range.startDate,
+      report_end_date: range.endDate,
+      include_from_today_only: REPORT_FROM_TODAY_ONLY
     },
     optimization: {
-      rule: "Bound each run by a rolling date window, screen batching, paging limits, and a hard max item budget.",
+      rule: "Query from today to far-future in batched screen requests with paging limits and a hard max item budget.",
       screen_batch_size: SCREEN_BATCH_SIZE,
       page_size: PAGE_SIZE,
       max_pages_per_query: MAX_PAGES_PER_QUERY,
