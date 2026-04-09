@@ -1,0 +1,57 @@
+name: Sync campaign line items
+
+on:
+  schedule:
+    # Every 3 hours
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-campaign-line-items
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Use Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Sync campaign line-items JSON
+        run: node scripts/sync-line-items.js
+        env:
+          BROADSIGN_BASE: ${{ secrets.BROADSIGN_BASE }}
+          BROADSIGN_EMAIL: ${{ secrets.BROADSIGN_EMAIL }}
+          BROADSIGN_PASSWORD: ${{ secrets.BROADSIGN_PASSWORD }}
+          LINE_ITEMS_OUTPUT_PATH: public/campaign-line-items.json
+          # Runtime controls
+          LINE_ITEMS_LOOKBACK_DAYS: "2"
+          LINE_ITEMS_LOOKAHEAD_DAYS: "14"
+          LINE_ITEMS_SCREEN_BATCH_SIZE: "12"
+          LINE_ITEMS_PAGE_SIZE: "300"
+          LINE_ITEMS_MAX_PAGES_PER_QUERY: "3"
+          LINE_ITEMS_MAX_ITEMS_PER_RUN: "20000"
+
+      - name: Commit updated JSON
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add public/campaign-line-items.json
+            git commit -m "Update campaign line-items snapshot"
+            git push
+          else
+            echo "No changes to commit."
+          fi

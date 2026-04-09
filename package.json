@@ -2,6 +2,9 @@
   "name": "ledbirting-bs-availability",
   "version": "1.0.0",
   "type": "module",
+  "scripts": {
+    "sync:line-items": "node scripts/sync-line-items.js"
+  },
   "dependencies": {
     "dotenv": "^16.4.5",
     "node-fetch": "^3.3.2"
