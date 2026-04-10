@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T09:30:46.432Z",
+  "generated_at": "2026-04-10T12:19:25.738Z",
   "scope": {
     "report_start_date": "2026-04-10",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 636,
-    "unique_items": 352,
+    "items_seen": 634,
+    "unique_items": 351,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -47,6 +47,14 @@
       "price": 65000,
       "start_date": "2026-04-01",
       "end_date": "2026-04-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Áltak-mediacom",
+      "line_item_name": "Áltak-mediacom",
+      "price": 149500,
+      "start_date": "2026-04-15",
+      "end_date": "2026-05-07",
       "seen_count": 1
     },
     {
@@ -79,6 +87,22 @@
       "price": 198000,
       "start_date": "2026-03-26",
       "end_date": "2026-04-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Artasan - Voltaren - Gunnar - Hæðasmári - Maí",
+      "line_item_name": "Artasan - Voltaren - Gunnar - Hæðasmára - Maí",
+      "price": 71500,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-13",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Artasan - Voltaren - Gunnar - Hæðasmári - Maí",
+      "line_item_name": "Artasan - Voltaren - Gunnar - Hæðasmári - Maí",
+      "price": 82500,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-31",
       "seen_count": 1
     },
     {
@@ -992,22 +1016,6 @@
       "start_date": "2026-04-15",
       "end_date": "2026-04-21",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Cirkus/Caravan - Tilboð - Frumherji",
-      "line_item_name": "Cirkus/Caravan - Tilboð - Frumherji - Apríl",
-      "price": 491400,
-      "start_date": "2026-04-13",
-      "end_date": "2026-04-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Cirkus/Caravan - Tilboð - Frumherji",
-      "line_item_name": "Copy_of_Cirkus/Caravan - Tilboð - Frumherji - Maí",
-      "price": 806200,
-      "start_date": "2026-05-01",
-      "end_date": "2026-05-29",
-      "seen_count": 2
     },
     {
       "campaign_name": "Datera - ágúst 2026",
@@ -2011,8 +2019,8 @@
     },
     {
       "campaign_name": "Media com-Myllan -april",
-      "line_item_name": "Media com-Myllan -april",
-      "price": 148500,
+      "line_item_name": "Empty- Media com-Myllan -april",
+      "price": 90000,
       "start_date": "2026-04-10",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2020,7 +2028,7 @@
     {
       "campaign_name": "Media com-Myllan -april",
       "line_item_name": "Media com-Myllan -april",
-      "price": 90000,
+      "price": 148500,
       "start_date": "2026-04-10",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2530,22 +2538,6 @@
       "seen_count": 9
     },
     {
-      "campaign_name": "Satis",
-      "line_item_name": "Satis",
-      "price": 81500,
-      "start_date": "2026-09-07",
-      "end_date": "2026-11-27",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Satis",
-      "line_item_name": "Satis okt",
-      "price": 79000,
-      "start_date": "2026-10-19",
-      "end_date": "2026-10-23",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Sep-12 Kaldalón Hæðasmári",
       "line_item_name": "Kaldalón - HST (until end of Feb 24')",
       "price": 0,
@@ -2788,17 +2780,17 @@
     {
       "campaign_name": "Vinstri grænir Akureyri",
       "line_item_name": "Vinstri grænir Akureyri",
-      "price": 71500,
+      "price": 273000,
       "start_date": "2026-05-03",
-      "end_date": "2026-05-13",
+      "end_date": "2026-05-16",
       "seen_count": 2
     },
     {
       "campaign_name": "Vinstri grænir Akureyri",
       "line_item_name": "Vinstri grænir Akureyri",
-      "price": 273000,
+      "price": 71500,
       "start_date": "2026-05-03",
-      "end_date": "2026-05-16",
+      "end_date": "2026-05-13",
       "seen_count": 2
     },
     {
