@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T06:39:46.417Z",
+  "generated_at": "2026-04-10T09:30:46.432Z",
   "scope": {
     "report_start_date": "2026-04-10",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 629,
-    "unique_items": 348,
+    "items_seen": 636,
+    "unique_items": 352,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -964,7 +964,7 @@
     {
       "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
       "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "price": 116400,
+      "price": 128400,
       "start_date": "2026-04-08",
       "end_date": "2026-04-14",
       "seen_count": 1
@@ -972,7 +972,7 @@
     {
       "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
       "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "price": 128400,
+      "price": 116400,
       "start_date": "2026-04-08",
       "end_date": "2026-04-14",
       "seen_count": 1
@@ -1135,6 +1135,38 @@
       "price": 217500,
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Flokkur Folksins",
+      "line_item_name": "Flokkur Fólksins  RVK. Grandi 21-29 apríl.67.500 kr.. + vsk.",
+      "price": 67500,
+      "start_date": "2026-04-21",
+      "end_date": "2026-04-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Flokkur Folksins",
+      "line_item_name": "Flokkur Fólksins  RVK. Grandi.01-13 maí.97.500 kr. + vsk.",
+      "price": 97500,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-13",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Flokkur Folksins",
+      "line_item_name": "Flokkur Fólksins  RVK.01-16 maí Hafnatorg-Höfðatorg.246.400 kr,.+ vsk.",
+      "price": 246400,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-16",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Flokkur Folksins",
+      "line_item_name": "Flokkur Fólksins RVK. BT-BH-EH-HB-SF-VL-SBH-VLV. 1.600.000 kr. + vsk.",
+      "price": 1599000,
+      "start_date": "2026-04-21",
+      "end_date": "2026-05-16",
       "seen_count": 2
     },
     {
@@ -1980,7 +2012,7 @@
     {
       "campaign_name": "Media com-Myllan -april",
       "line_item_name": "Media com-Myllan -april",
-      "price": 90000,
+      "price": 148500,
       "start_date": "2026-04-10",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -1988,7 +2020,7 @@
     {
       "campaign_name": "Media com-Myllan -april",
       "line_item_name": "Media com-Myllan -april",
-      "price": 148500,
+      "price": 90000,
       "start_date": "2026-04-10",
       "end_date": "2026-04-30",
       "seen_count": 1
