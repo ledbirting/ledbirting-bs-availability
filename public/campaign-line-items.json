@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T15:19:40.321Z",
+  "generated_at": "2026-04-10T18:19:47.760Z",
   "scope": {
     "report_start_date": "2026-04-10",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 662,
-    "unique_items": 379,
+    "items_seen": 682,
+    "unique_items": 399,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1092,7 +1092,7 @@
     {
       "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
       "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "price": 116400,
+      "price": 128400,
       "start_date": "2026-04-08",
       "end_date": "2026-04-14",
       "seen_count": 1
@@ -1100,7 +1100,7 @@
     {
       "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
       "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "price": 128400,
+      "price": 116400,
       "start_date": "2026-04-08",
       "end_date": "2026-04-14",
       "seen_count": 1
@@ -1119,6 +1119,30 @@
       "price": 117000,
       "start_date": "2026-04-15",
       "end_date": "2026-04-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Cirkus/Caravan - Frumherji",
+      "line_item_name": "Cirkus/Caravan - Frumherji - 1-9 Maí",
+      "price": 245700,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Cirkus/Caravan - Frumherji",
+      "line_item_name": "Cirkus/Caravan - Frumherji - 17-31 maí",
+      "price": 409500,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Cirkus/Caravan - Frumherji",
+      "line_item_name": "Cirkus/Caravan - Frumherji - Apríl",
+      "price": 300300,
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-30",
       "seen_count": 1
     },
     {
@@ -1175,6 +1199,22 @@
       "price": 2169600,
       "start_date": "2026-08-24",
       "end_date": "2026-08-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Dominos Apríl 11-12",
+      "line_item_name": "Dominos Apríl 11",
+      "price": 53500,
+      "start_date": "2026-04-11",
+      "end_date": "2026-04-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Dominos Apríl 11-12",
+      "line_item_name": "Dominos Apríl 12",
+      "price": 53200,
+      "start_date": "2026-04-12",
+      "end_date": "2026-04-12",
       "seen_count": 1
     },
     {
@@ -2314,6 +2354,126 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
+      "line_item_name": "Mjólka Gríska - 11. apríl / 2x1",
+      "price": 14000,
+      "start_date": "2026-04-11",
+      "end_date": "2026-04-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
+      "line_item_name": "Mjólka Gríska - 12. apríl / 1x1",
+      "price": 7500,
+      "start_date": "2026-04-12",
+      "end_date": "2026-04-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
+      "line_item_name": "Mjólka Gríska - 13. apríl / 1x1",
+      "price": 7500,
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
+      "line_item_name": "Mjólka Gríska - 14. apríl / 2x1",
+      "price": 14000,
+      "start_date": "2026-04-14",
+      "end_date": "2026-04-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
+      "line_item_name": "Mjólka Gríska - 15. apríl / 2x1",
+      "price": 14000,
+      "start_date": "2026-04-15",
+      "end_date": "2026-04-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
+      "line_item_name": "Mjólka Gríska - 17. apríl / 2x1",
+      "price": 14000,
+      "start_date": "2026-04-17",
+      "end_date": "2026-04-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
+      "line_item_name": "Mjólka Gríska - 19. apríl / 1x1",
+      "price": 7500,
+      "start_date": "2026-04-19",
+      "end_date": "2026-04-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
+      "line_item_name": "Mjólka Gríska - 20. apríl / 1x1",
+      "price": 7500,
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
+      "line_item_name": "Mjólka Gríska - 21. apríl / 2x1",
+      "price": 14000,
+      "start_date": "2026-04-21",
+      "end_date": "2026-04-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
+      "line_item_name": "Mjólka Gríska - 22. apríl / 2x1",
+      "price": 14000,
+      "start_date": "2026-04-22",
+      "end_date": "2026-04-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
+      "line_item_name": "Mjólka Gríska - 25. apríl / 2x1",
+      "price": 14000,
+      "start_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
+      "line_item_name": "Mjólka Gríska - 26. apríl / 2x1",
+      "price": 14000,
+      "start_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
+      "line_item_name": "Mjólka Gríska - 27. apríl / 2x1",
+      "price": 14000,
+      "start_date": "2026-04-27",
+      "end_date": "2026-04-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
+      "line_item_name": "Mjólka Gríska - 28. apríl / 1x1",
+      "price": 7500,
+      "start_date": "2026-04-28",
+      "end_date": "2026-04-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
+      "line_item_name": "Mjólka Gríska - 29. apríl / 2x1",
+      "price": 14000,
+      "start_date": "2026-04-29",
+      "end_date": "2026-04-29",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "N1 árssamingur Glerártorg.",
       "line_item_name": "N1 árssamingur Glerártorg.",
       "price": 2372500,
@@ -2804,7 +2964,7 @@
     {
       "campaign_name": "Sólar apríl  Birtingahúsið.",
       "line_item_name": "Sólar apríl  Birtingahúsið.",
-      "price": 125400,
+      "price": 105000,
       "start_date": "2026-04-12",
       "end_date": "2026-04-18",
       "seen_count": 1
@@ -2812,9 +2972,9 @@
     {
       "campaign_name": "Sólar apríl  Birtingahúsið.",
       "line_item_name": "Sólar apríl  Birtingahúsið.",
-      "price": 141900,
-      "start_date": "2026-04-12",
-      "end_date": "2026-04-18",
+      "price": 48000,
+      "start_date": "2026-04-26",
+      "end_date": "2026-04-30",
       "seen_count": 1
     },
     {
