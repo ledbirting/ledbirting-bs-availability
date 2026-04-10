@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T12:19:25.738Z",
+  "generated_at": "2026-04-10T15:19:40.321Z",
   "scope": {
     "report_start_date": "2026-04-10",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 634,
-    "unique_items": 351,
+    "items_seen": 662,
+    "unique_items": 379,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -80,6 +80,110 @@
       "start_date": "2026-05-09",
       "end_date": "2026-05-16",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Apótekarinn / HN - apríl 2026",
+      "line_item_name": "Apótekarinn / HN - 14. apríl / 7x1",
+      "price": 44000,
+      "start_date": "2026-04-14",
+      "end_date": "2026-04-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Apótekarinn / HN - apríl 2026",
+      "line_item_name": "Apótekarinn / HN - 15. apríl / 7x1",
+      "price": 46500,
+      "start_date": "2026-04-15",
+      "end_date": "2026-04-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Apótekarinn / HN - apríl 2026",
+      "line_item_name": "Apótekarinn / HN - 16. apríl / 6x1",
+      "price": 37000,
+      "start_date": "2026-04-16",
+      "end_date": "2026-04-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Apótekarinn / HN - apríl 2026",
+      "line_item_name": "Apótekarinn / HN - 17. apríl / 6x1",
+      "price": 41500,
+      "start_date": "2026-04-17",
+      "end_date": "2026-04-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Apótekarinn / HN - apríl 2026",
+      "line_item_name": "Apótekarinn / HN - 18. apríl / 6x1",
+      "price": 39500,
+      "start_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Apótekarinn / HN - apríl 2026",
+      "line_item_name": "Apótekarinn / HN - 20. apríl / 4x1",
+      "price": 27000,
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Apótekarinn / HN - apríl 2026",
+      "line_item_name": "Apótekarinn / HN - 21. apríl / 4x1",
+      "price": 26000,
+      "start_date": "2026-04-21",
+      "end_date": "2026-04-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Apótekarinn / HN - apríl 2026",
+      "line_item_name": "Apótekarinn / HN - 24. apríl / 4x1",
+      "price": 25500,
+      "start_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Apótekarinn / HN - apríl 2026",
+      "line_item_name": "Apótekarinn / HN - 25. apríl / 4x1",
+      "price": 26000,
+      "start_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Apótekarinn / HN - apríl 2026",
+      "line_item_name": "Apótekarinn / HN - 27. apríl / 4x1",
+      "price": 24500,
+      "start_date": "2026-04-27",
+      "end_date": "2026-04-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Apótekarinn / HN - apríl 2026",
+      "line_item_name": "Apótekarinn / HN - 28. apríl / 4x1",
+      "price": 25000,
+      "start_date": "2026-04-28",
+      "end_date": "2026-04-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Apótekarinn / HN - apríl 2026",
+      "line_item_name": "Apótekarinn / HN - 29. apríl / 4x1",
+      "price": 25000,
+      "start_date": "2026-04-29",
+      "end_date": "2026-04-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Apótekarinn / HN - apríl 2026",
+      "line_item_name": "Apótekarinn / HN - 30. apríl / 4x1",
+      "price": 24000,
+      "start_date": "2026-04-30",
+      "end_date": "2026-04-30",
+      "seen_count": 1
     },
     {
       "campaign_name": "Artasan - Hæðasmári - Bio-Kult - Heiða - Apríl",
@@ -988,6 +1092,14 @@
     {
       "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
       "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
+      "price": 116400,
+      "start_date": "2026-04-08",
+      "end_date": "2026-04-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
+      "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
       "price": 128400,
       "start_date": "2026-04-08",
       "end_date": "2026-04-14",
@@ -996,9 +1108,9 @@
     {
       "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
       "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "price": 116400,
-      "start_date": "2026-04-08",
-      "end_date": "2026-04-14",
+      "price": 112500,
+      "start_date": "2026-04-15",
+      "end_date": "2026-04-21",
       "seen_count": 1
     },
     {
@@ -1010,11 +1122,43 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "price": 112500,
-      "start_date": "2026-04-15",
+      "campaign_name": "Danól. Nesquik Andrés Andar leikarnir.",
+      "line_item_name": "Danól. Nesquik Andrés Andar leikarnir.21 apríl.",
+      "price": 26000,
+      "start_date": "2026-04-21",
       "end_date": "2026-04-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Danól. Nesquik Andrés Andar leikarnir.",
+      "line_item_name": "Danól. Nesquik Andrés Andar leikarnir.22 apríl.",
+      "price": 19500,
+      "start_date": "2026-04-22",
+      "end_date": "2026-04-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Danól. Nesquik Andrés Andar leikarnir.",
+      "line_item_name": "Danól. Nesquik Andrés Andar leikarnir.23 apríl.",
+      "price": 26000,
+      "start_date": "2026-04-23",
+      "end_date": "2026-04-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Danól. Nesquik Andrés Andar leikarnir.",
+      "line_item_name": "Danól. Nesquik Andrés Andar leikarnir.24 apríl.",
+      "price": 26000,
+      "start_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Danól. Nesquik Andrés Andar leikarnir.",
+      "line_item_name": "Danól. Nesquik Andrés Andar leikarnir.25 apríl.",
+      "price": 26000,
+      "start_date": "2026-04-25",
+      "end_date": "2026-04-25",
       "seen_count": 1
     },
     {
@@ -2658,6 +2802,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Sólar apríl  Birtingahúsið.",
+      "line_item_name": "Sólar apríl  Birtingahúsið.",
+      "price": 125400,
+      "start_date": "2026-04-12",
+      "end_date": "2026-04-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sólar apríl  Birtingahúsið.",
+      "line_item_name": "Sólar apríl  Birtingahúsið.",
+      "price": 141900,
+      "start_date": "2026-04-12",
+      "end_date": "2026-04-18",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Sólning vor / Digido - apríl 2026",
       "line_item_name": "Sólning / Mið, Fim og Lau / HÆÐ standur, NJA1",
       "price": 47500,
@@ -2679,6 +2839,22 @@
       "price": 148000,
       "start_date": "2026-04-06",
       "end_date": "2026-04-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "SS maí Birtingahúsið.",
+      "line_item_name": "SS maí Birtingahúsið.",
+      "price": 262000,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "SS maí Birtingahúsið.",
+      "line_item_name": "SS maí Birtingahúsið.",
+      "price": 176400,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-20",
       "seen_count": 1
     },
     {
@@ -2831,6 +3007,54 @@
       "price": 520000,
       "start_date": "2027-06-30",
       "end_date": "2027-07-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Þorgerður verð í skjái frá 27/05-02/06",
+      "line_item_name": "Þorgerður verð í skjái 01 maí",
+      "price": 81500,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Þorgerður verð í skjái frá 27/05-02/06",
+      "line_item_name": "Þorgerður verð í skjái 02 maí",
+      "price": 81000,
+      "start_date": "2026-05-02",
+      "end_date": "2026-05-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Þorgerður verð í skjái frá 27/05-02/06",
+      "line_item_name": "Þorgerður verð í skjái 27 apríl",
+      "price": 89000,
+      "start_date": "2026-04-27",
+      "end_date": "2026-04-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Þorgerður verð í skjái frá 27/05-02/06",
+      "line_item_name": "Þorgerður verð í skjái 28 apríl",
+      "price": 96500,
+      "start_date": "2026-04-28",
+      "end_date": "2026-04-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Þorgerður verð í skjái frá 27/05-02/06",
+      "line_item_name": "Þorgerður verð í skjái 29 apríl",
+      "price": 88500,
+      "start_date": "2026-04-29",
+      "end_date": "2026-04-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Þorgerður verð í skjái frá 27/05-02/06",
+      "line_item_name": "Þorgerður verð í skjái 30 apríl",
+      "price": 65500,
+      "start_date": "2026-04-30",
+      "end_date": "2026-04-30",
       "seen_count": 1
     }
   ]
