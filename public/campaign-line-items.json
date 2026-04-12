@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T18:15:06.012Z",
+  "generated_at": "2026-04-12T21:11:38.563Z",
   "scope": {
     "report_start_date": "2026-04-12",
     "report_end_date": "2099-12-31",
@@ -1068,14 +1068,6 @@
     {
       "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
       "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "price": 128400,
-      "start_date": "2026-04-08",
-      "end_date": "2026-04-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
       "price": 116400,
       "start_date": "2026-04-08",
       "end_date": "2026-04-14",
@@ -1084,7 +1076,15 @@
     {
       "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
       "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "price": 117000,
+      "price": 128400,
+      "start_date": "2026-04-08",
+      "end_date": "2026-04-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
+      "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
+      "price": 112500,
       "start_date": "2026-04-15",
       "end_date": "2026-04-21",
       "seen_count": 1
@@ -1092,7 +1092,7 @@
     {
       "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
       "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "price": 112500,
+      "price": 117000,
       "start_date": "2026-04-15",
       "end_date": "2026-04-21",
       "seen_count": 1
@@ -3036,17 +3036,17 @@
     {
       "campaign_name": "Vinstri grænir Akureyri",
       "line_item_name": "Vinstri grænir Akureyri",
-      "price": 273000,
+      "price": 71500,
       "start_date": "2026-05-03",
-      "end_date": "2026-05-16",
+      "end_date": "2026-05-13",
       "seen_count": 2
     },
     {
       "campaign_name": "Vinstri grænir Akureyri",
       "line_item_name": "Vinstri grænir Akureyri",
-      "price": 71500,
+      "price": 273000,
       "start_date": "2026-05-03",
-      "end_date": "2026-05-13",
+      "end_date": "2026-05-16",
       "seen_count": 2
     },
     {
