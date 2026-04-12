@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-11T21:10:38.217Z",
+  "generated_at": "2026-04-12T00:32:54.740Z",
   "scope": {
-    "report_start_date": "2026-04-11",
+    "report_start_date": "2026-04-12",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 675,
-    "unique_items": 396,
+    "items_seen": 669,
+    "unique_items": 389,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -423,7 +423,7 @@
       "price": 97500,
       "start_date": "2026-12-07",
       "end_date": "2026-12-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun-vogue-Glerártorg júni",
@@ -495,14 +495,6 @@
       "price": 6500,
       "start_date": "2026-08-09",
       "end_date": "2026-08-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir KA. 11 apríl",
-      "price": 6500,
-      "start_date": "2026-04-11",
-      "end_date": "2026-04-11",
       "seen_count": 1
     },
     {
@@ -751,14 +743,6 @@
       "price": 6500,
       "start_date": "2026-05-29",
       "end_date": "2026-05-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Dressmann.",
-      "line_item_name": "Birtingahsúsið Dressmann. 05-11 apríl.",
-      "price": 67000,
-      "start_date": "2026-04-10",
-      "end_date": "2026-04-11",
       "seen_count": 1
     },
     {
@@ -1195,14 +1179,6 @@
     },
     {
       "campaign_name": "Dominos Apríl 11-12",
-      "line_item_name": "Dominos Apríl 11",
-      "price": 53500,
-      "start_date": "2026-04-11",
-      "end_date": "2026-04-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Dominos Apríl 11-12",
       "line_item_name": "Dominos Apríl 12",
       "price": 53200,
       "start_date": "2026-04-12",
@@ -1484,7 +1460,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 90000,
+      "price": 67500,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -1492,7 +1468,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 67500,
+      "price": 90000,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2007,7 +1983,7 @@
       "price": 39000,
       "start_date": "2026-11-05",
       "end_date": "2026-11-07",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2079,14 +2055,6 @@
       "price": 30000,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Löður - Apríl 2027",
-      "line_item_name": "V15",
-      "price": 40000,
-      "start_date": "2026-04-05",
-      "end_date": "2026-04-11",
       "seen_count": 1
     },
     {
@@ -2331,14 +2299,6 @@
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
-      "line_item_name": "Mjólka Gríska - 11. apríl / 2x1",
-      "price": 14000,
-      "start_date": "2026-04-11",
-      "end_date": "2026-04-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
       "line_item_name": "Mjólka Gríska - 12. apríl / 1x1",
       "price": 7500,
       "start_date": "2026-04-12",
@@ -2536,14 +2496,6 @@
       "start_date": "2027-03-01",
       "end_date": "2027-03-31",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Orkan - Apríl 2026",
-      "line_item_name": "V15",
-      "price": 458500,
-      "start_date": "2026-04-05",
-      "end_date": "2026-04-11",
-      "seen_count": 1
     },
     {
       "campaign_name": "Orkan - Apríl 2026",
@@ -2839,7 +2791,7 @@
       "price": 91000,
       "start_date": "2026-05-11",
       "end_date": "2026-05-24",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Sérefni - langtímasamningur Glerártorgi 2026",
@@ -2872,14 +2824,6 @@
       "start_date": "2026-05-08",
       "end_date": "2026-05-14",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Smáralind - Gjafakort og ímynd / Datera / 8. til 22. apríl",
-      "line_item_name": "Smáralind - Gjafakort og ímynd / Datera / 11. apríl / 4x1",
-      "price": 24000,
-      "start_date": "2026-04-11",
-      "end_date": "2026-04-11",
-      "seen_count": 1
     },
     {
       "campaign_name": "Smáralind - Gjafakort og ímynd / Datera / 8. til 22. apríl",
@@ -3076,18 +3020,18 @@
     {
       "campaign_name": "Vinsti grænir - Plan",
       "line_item_name": "Vinsti grænir - Plan",
-      "price": 222000,
-      "start_date": "2026-05-01",
-      "end_date": "2026-05-15",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Vinsti grænir - Plan",
-      "line_item_name": "Vinsti grænir - Plan",
       "price": 37500,
       "start_date": "2026-05-01",
       "end_date": "2026-05-09",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Vinsti grænir - Plan",
+      "line_item_name": "Vinsti grænir - Plan",
+      "price": 222000,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-15",
+      "seen_count": 2
     },
     {
       "campaign_name": "Vinstri grænir Akureyri",
