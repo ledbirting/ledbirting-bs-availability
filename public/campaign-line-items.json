@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-12T21:11:38.563Z",
+  "generated_at": "2026-04-13T00:33:34.681Z",
   "scope": {
-    "report_start_date": "2026-04-12",
+    "report_start_date": "2026-04-13",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 669,
-    "unique_items": 389,
+    "items_seen": 661,
+    "unique_items": 380,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -308,14 +308,6 @@
     {
       "campaign_name": "Beiersdorf. NIVEA Lumnious skin Glow.",
       "line_item_name": "Beiersdorf. NIVEA Lumnious skin Glow.",
-      "price": 339200,
-      "start_date": "2026-04-07",
-      "end_date": "2026-04-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Beiersdorf. NIVEA Lumnious skin Glow.",
-      "line_item_name": "Beiersdorf. NIVEA Lumnious skin Glow.",
       "price": 198900,
       "start_date": "2026-04-08",
       "end_date": "2026-04-14",
@@ -431,7 +423,7 @@
       "price": 104000,
       "start_date": "2026-06-11",
       "end_date": "2026-06-26",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun-Vogue-júli-Glerártorg",
@@ -754,14 +746,6 @@
       "seen_count": 9
     },
     {
-      "campaign_name": "Birtingahúsið Wolt 20 mar - 12 apríl.",
-      "line_item_name": "Birtingahúsið Wolt  09-12 apríl.",
-      "price": 105600,
-      "start_date": "2026-04-09",
-      "end_date": "2026-04-12",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Bitingahúsið Lyfja",
       "line_item_name": "Bitingahúsið Lyfja Glerártorg 12-14 apríl.",
       "price": 39000,
@@ -1068,7 +1052,7 @@
     {
       "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
       "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "price": 116400,
+      "price": 128400,
       "start_date": "2026-04-08",
       "end_date": "2026-04-14",
       "seen_count": 1
@@ -1076,7 +1060,7 @@
     {
       "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
       "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "price": 128400,
+      "price": 116400,
       "start_date": "2026-04-08",
       "end_date": "2026-04-14",
       "seen_count": 1
@@ -1175,14 +1159,6 @@
       "price": 2169600,
       "start_date": "2026-08-24",
       "end_date": "2026-08-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Dominos Apríl 11-12",
-      "line_item_name": "Dominos Apríl 12",
-      "price": 53200,
-      "start_date": "2026-04-12",
-      "end_date": "2026-04-12",
       "seen_count": 1
     },
     {
@@ -1455,7 +1431,7 @@
       "price": 629000,
       "start_date": "2026-07-05",
       "end_date": "2026-08-10",
-      "seen_count": 3
+      "seen_count": 2
     },
     {
       "campaign_name": "Híbýli apríl.",
@@ -1551,14 +1527,6 @@
       "price": 748000,
       "start_date": "2026-03-18",
       "end_date": "2026-04-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - apríl 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 12. apríl / 5x1",
-      "price": 29500,
-      "start_date": "2026-04-12",
-      "end_date": "2026-04-12",
       "seen_count": 1
     },
     {
@@ -1991,7 +1959,7 @@
       "price": 39000,
       "start_date": "2027-01-07",
       "end_date": "2027-01-09",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2111,14 +2079,6 @@
       "price": 234500,
       "start_date": "2026-05-04",
       "end_date": "2026-05-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Media com -Boozt vika 15",
-      "line_item_name": "Media com -Boozt vika 15",
-      "price": 234500,
-      "start_date": "2026-04-06",
-      "end_date": "2026-04-12",
       "seen_count": 1
     },
     {
@@ -2299,14 +2259,6 @@
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
-      "line_item_name": "Mjólka Gríska - 12. apríl / 1x1",
-      "price": 7500,
-      "start_date": "2026-04-12",
-      "end_date": "2026-04-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
       "line_item_name": "Mjólka Gríska - 13. apríl / 1x1",
       "price": 7500,
       "start_date": "2026-04-13",
@@ -2416,14 +2368,6 @@
       "start_date": "2026-01-21",
       "end_date": "2027-01-20",
       "seen_count": 10
-    },
-    {
-      "campaign_name": "Nova Birtingahúsið",
-      "line_item_name": "Nova Birtingahúsið miðv. og sunnud Grandi",
-      "price": 30000,
-      "start_date": "2026-03-30",
-      "end_date": "2026-04-12",
-      "seen_count": 1
     },
     {
       "campaign_name": "Nova. Glerártorg árssamningu.",
@@ -2588,14 +2532,6 @@
     {
       "campaign_name": "Reykjagarður Birtingahúsið.",
       "line_item_name": "Reykjagarður Birtingahúsið.",
-      "price": 145500,
-      "start_date": "2026-04-07",
-      "end_date": "2026-04-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Reykjagarður Birtingahúsið.",
-      "line_item_name": "Reykjagarður Birtingahúsið.",
       "price": 153900,
       "start_date": "2026-04-14",
       "end_date": "2026-04-20",
@@ -2743,7 +2679,7 @@
       "price": 1676000,
       "start_date": "2026-04-26",
       "end_date": "2026-05-13",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Samkaup / Nettó - jan 2026",
@@ -2783,7 +2719,7 @@
       "price": 91000,
       "start_date": "2026-08-10",
       "end_date": "2026-08-23",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Sérefni - langtímasamningur Glerártorgi 2026",
@@ -2824,14 +2760,6 @@
       "start_date": "2026-05-08",
       "end_date": "2026-05-14",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Smáralind - Gjafakort og ímynd / Datera / 8. til 22. apríl",
-      "line_item_name": "Smáralind - Gjafakort og ímynd / Datera / 12. apríl / 4x1",
-      "price": 23500,
-      "start_date": "2026-04-12",
-      "end_date": "2026-04-12",
-      "seen_count": 1
     },
     {
       "campaign_name": "Smáralind - Gjafakort og ímynd / Datera / 8. til 22. apríl",
