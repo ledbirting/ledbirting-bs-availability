@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T15:28:55.420Z",
+  "generated_at": "2026-04-14T18:28:27.010Z",
   "scope": {
     "report_start_date": "2026-04-14",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1235,
-    "unique_items": 535,
+    "items_seen": 1267,
+    "unique_items": 551,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1460,8 +1460,8 @@
     {
       "campaign_name": "Brimborg - Höfuðborgarsvæði",
       "line_item_name": "Brimborg - Höfuðborgarsvæði",
-      "price": 198800,
-      "start_date": "2026-04-15",
+      "price": 168600,
+      "start_date": "2026-04-16",
       "end_date": "2026-04-18",
       "seen_count": 2
     },
@@ -1484,18 +1484,18 @@
     {
       "campaign_name": "BY-L inneign.",
       "line_item_name": "BY-L inneign. 21-22 apríl.",
-      "price": 47600,
-      "start_date": "2026-04-21",
-      "end_date": "2026-04-22",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "BY-L inneign.",
-      "line_item_name": "BY-L inneign. 21-22 apríl.",
       "price": 25000,
       "start_date": "2026-04-21",
       "end_date": "2026-04-22",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "BY-L inneign.",
+      "line_item_name": "BY-L inneign. 21-22 apríl.",
+      "price": 47600,
+      "start_date": "2026-04-21",
+      "end_date": "2026-04-22",
+      "seen_count": 2
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -2236,7 +2236,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 90000,
+      "price": 67500,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2244,7 +2244,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 67500,
+      "price": 90000,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -3176,6 +3176,134 @@
       "start_date": "2026-05-09",
       "end_date": "2026-05-16",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Miðflokkurinn / HN - maí 2026",
+      "line_item_name": "Miðflokkurinn 1. maí",
+      "price": 97300,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-01",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Miðflokkurinn / HN - maí 2026",
+      "line_item_name": "Miðflokkurinn 10. maí",
+      "price": 87800,
+      "start_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Miðflokkurinn / HN - maí 2026",
+      "line_item_name": "Miðflokkurinn 11. maí",
+      "price": 115300,
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-11",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Miðflokkurinn / HN - maí 2026",
+      "line_item_name": "Miðflokkurinn 12. maí",
+      "price": 115300,
+      "start_date": "2026-05-12",
+      "end_date": "2026-05-12",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Miðflokkurinn / HN - maí 2026",
+      "line_item_name": "Miðflokkurinn 13. maí",
+      "price": 99500,
+      "start_date": "2026-05-13",
+      "end_date": "2026-05-13",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Miðflokkurinn / HN - maí 2026",
+      "line_item_name": "Miðflokkurinn 14. maí",
+      "price": 95900,
+      "start_date": "2026-05-14",
+      "end_date": "2026-05-14",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Miðflokkurinn / HN - maí 2026",
+      "line_item_name": "Miðflokkurinn 15. maí",
+      "price": 85400,
+      "start_date": "2026-05-15",
+      "end_date": "2026-05-15",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Miðflokkurinn / HN - maí 2026",
+      "line_item_name": "Miðflokkurinn 16. maí",
+      "price": 105400,
+      "start_date": "2026-05-16",
+      "end_date": "2026-05-16",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Miðflokkurinn / HN - maí 2026",
+      "line_item_name": "Miðflokkurinn 2. maí",
+      "price": 73800,
+      "start_date": "2026-05-02",
+      "end_date": "2026-05-02",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Miðflokkurinn / HN - maí 2026",
+      "line_item_name": "Miðflokkurinn 3. maí",
+      "price": 115300,
+      "start_date": "2026-05-03",
+      "end_date": "2026-05-03",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Miðflokkurinn / HN - maí 2026",
+      "line_item_name": "Miðflokkurinn 4. maí",
+      "price": 107300,
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-04",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Miðflokkurinn / HN - maí 2026",
+      "line_item_name": "Miðflokkurinn 5. maí",
+      "price": 87800,
+      "start_date": "2026-05-05",
+      "end_date": "2026-05-05",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Miðflokkurinn / HN - maí 2026",
+      "line_item_name": "Miðflokkurinn 6. maí",
+      "price": 87800,
+      "start_date": "2026-05-06",
+      "end_date": "2026-05-06",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Miðflokkurinn / HN - maí 2026",
+      "line_item_name": "Miðflokkurinn 7. maí",
+      "price": 110300,
+      "start_date": "2026-05-07",
+      "end_date": "2026-05-07",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Miðflokkurinn / HN - maí 2026",
+      "line_item_name": "Miðflokkurinn 8. maí",
+      "price": 97300,
+      "start_date": "2026-05-08",
+      "end_date": "2026-05-08",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Miðflokkurinn / HN - maí 2026",
+      "line_item_name": "Miðflokkurinn 9. maí",
+      "price": 105300,
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-09",
+      "seen_count": 2
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
