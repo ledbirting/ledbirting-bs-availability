@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-13T21:18:16.200Z",
+  "generated_at": "2026-04-14T00:35:18.727Z",
   "scope": {
-    "report_start_date": "2026-04-13",
+    "report_start_date": "2026-04-14",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 651,
-    "unique_items": 371,
+    "items_seen": 638,
+    "unique_items": 362,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -207,7 +207,7 @@
       "price": 71500,
       "start_date": "2026-05-01",
       "end_date": "2026-05-13",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Artasan - Voltaren - Gunnar - Hæðasmári - Maí",
@@ -284,14 +284,6 @@
     {
       "campaign_name": "Beiersdorf. Eucerin Sun Oil Control",
       "line_item_name": "Beiersdorf. Eucerin Sun Oil Control",
-      "price": 203400,
-      "start_date": "2026-04-07",
-      "end_date": "2026-04-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Beiersdorf. Eucerin Sun Oil Control",
-      "line_item_name": "Beiersdorf. Eucerin Sun Oil Control",
       "price": 253200,
       "start_date": "2026-04-14",
       "end_date": "2026-04-20",
@@ -311,14 +303,6 @@
       "price": 151600,
       "start_date": "2026-04-28",
       "end_date": "2026-04-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Beiersdorf. NIVEA Lumnious skin Glow.",
-      "line_item_name": "Beiersdorf. NIVEA Lumnious skin Glow.",
-      "price": 198900,
-      "start_date": "2026-04-08",
-      "end_date": "2026-04-14",
       "seen_count": 1
     },
     {
@@ -771,14 +755,6 @@
     },
     {
       "campaign_name": "Bónus / HN - apríl 2026",
-      "line_item_name": "Bónus 13. apríl - Mán / 9x1",
-      "price": 56000,
-      "start_date": "2026-04-13",
-      "end_date": "2026-04-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - apríl 2026",
       "line_item_name": "Bónus 15. apríl - Mið / 10x1",
       "price": 58500,
       "start_date": "2026-04-15",
@@ -1060,15 +1036,7 @@
     {
       "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
       "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "price": 116400,
-      "start_date": "2026-04-08",
-      "end_date": "2026-04-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "price": 117000,
+      "price": 112500,
       "start_date": "2026-04-15",
       "end_date": "2026-04-21",
       "seen_count": 1
@@ -1076,7 +1044,7 @@
     {
       "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
       "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "price": 112500,
+      "price": 117000,
       "start_date": "2026-04-15",
       "end_date": "2026-04-21",
       "seen_count": 1
@@ -1287,7 +1255,7 @@
       "price": 97500,
       "start_date": "2026-05-01",
       "end_date": "2026-05-13",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Flokkur Folksins",
@@ -1827,19 +1795,11 @@
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
-      "line_item_name": "Kavita - Samningur - EGH/KAP og AK/GLER - 12-13.apríl",
-      "price": 26000,
-      "start_date": "2026-04-12",
-      "end_date": "2026-04-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
       "line_item_name": "Kavita - Samningur - EGH/KAP og AK/GLER - 12-13.júlí",
       "price": 26000,
       "start_date": "2026-07-12",
       "end_date": "2026-07-13",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2163,14 +2123,6 @@
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
-      "line_item_name": "Mjólka Gríska - 13. apríl / 1x1",
-      "price": 7500,
-      "start_date": "2026-04-13",
-      "end_date": "2026-04-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
       "line_item_name": "Mjólka Gríska - 14. apríl / 2x1",
       "price": 14000,
       "start_date": "2026-04-14",
@@ -2282,14 +2234,6 @@
       "seen_count": 9
     },
     {
-      "campaign_name": "Optical - Akureyri - Tilboð",
-      "line_item_name": "Optical - Akureyri - Tilboð",
-      "price": 65000,
-      "start_date": "2026-04-09",
-      "end_date": "2026-04-13",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Optical Studio - Sérkjör 6 mán- Hafnartorg",
       "line_item_name": "Optical Studio - Sérkjör 6mán - Hafnartorg",
       "price": 1760000,
@@ -2303,7 +2247,7 @@
       "price": 1886300,
       "start_date": "2026-05-01",
       "end_date": "2026-05-13",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
@@ -2319,7 +2263,7 @@
       "price": 1706400,
       "start_date": "2026-05-13",
       "end_date": "2026-05-16",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
@@ -2327,7 +2271,7 @@
       "price": 484000,
       "start_date": "2026-05-13",
       "end_date": "2026-05-16",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Orkan - Apríl 2026",
@@ -2583,7 +2527,7 @@
       "price": 1372800,
       "start_date": "2026-04-26",
       "end_date": "2026-05-13",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
@@ -2672,14 +2616,6 @@
       "start_date": "2026-05-08",
       "end_date": "2026-05-14",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Smáralind - Gjafakort og ímynd / Datera / 8. til 22. apríl",
-      "line_item_name": "Smáralind - Gjafakort og ímynd / Datera / 13. apríl / 5x1",
-      "price": 29500,
-      "start_date": "2026-04-13",
-      "end_date": "2026-04-13",
-      "seen_count": 1
     },
     {
       "campaign_name": "Smáralind - Gjafakort og ímynd / Datera / 8. til 22. apríl",
@@ -2879,7 +2815,7 @@
       "price": 58500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-13",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Viðreisn - Sveitastjórnarkosningar / Datera",
@@ -2908,17 +2844,17 @@
     {
       "campaign_name": "Vinstri grænir Akureyri",
       "line_item_name": "Vinstri grænir Akureyri",
-      "price": 273000,
+      "price": 71500,
       "start_date": "2026-05-03",
-      "end_date": "2026-05-16",
-      "seen_count": 2
+      "end_date": "2026-05-13",
+      "seen_count": 1
     },
     {
       "campaign_name": "Vinstri grænir Akureyri",
       "line_item_name": "Vinstri grænir Akureyri",
-      "price": 71500,
+      "price": 273000,
       "start_date": "2026-05-03",
-      "end_date": "2026-05-13",
+      "end_date": "2026-05-16",
       "seen_count": 2
     },
     {
@@ -2935,14 +2871,6 @@
       "price": 19500,
       "start_date": "2026-04-22",
       "end_date": "2026-04-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "VÍS / Datera Landsbyggðin - apríl '26",
-      "line_item_name": "VÍS Akureyri 8.4 til 14.4 / Mán, Mið, Lau / AKU2, GLER1",
-      "price": 19500,
-      "start_date": "2026-04-08",
-      "end_date": "2026-04-14",
       "seen_count": 1
     },
     {
@@ -2975,7 +2903,7 @@
       "price": 19500,
       "start_date": "2026-05-08",
       "end_date": "2026-05-14",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "VÍS á Akureyri / Datera - 1. til 4. júlí 2026",
