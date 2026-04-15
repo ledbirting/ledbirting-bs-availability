@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-14T21:19:27.551Z",
+  "generated_at": "2026-04-15T00:36:24.899Z",
   "scope": {
-    "report_start_date": "2026-04-14",
+    "report_start_date": "2026-04-15",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1267,
-    "unique_items": 551,
+    "items_seen": 1246,
+    "unique_items": 541,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -48,14 +48,6 @@
       "start_date": "2026-01-22",
       "end_date": "2027-01-22",
       "seen_count": 10
-    },
-    {
-      "campaign_name": "AB Varahlutir",
-      "line_item_name": "Akureyri",
-      "price": 52000,
-      "start_date": "2026-04-01",
-      "end_date": "2026-04-15",
-      "seen_count": 1
     },
     {
       "campaign_name": "AB Varahlutir",
@@ -103,14 +95,6 @@
       "price": 185600,
       "start_date": "2026-05-09",
       "end_date": "2026-05-16",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Apótekarinn / HN - apríl 2026",
-      "line_item_name": "Apótekarinn / HN - 14. apríl / 7x1",
-      "price": 42500,
-      "start_date": "2026-04-14",
-      "end_date": "2026-04-14",
       "seen_count": 2
     },
     {
@@ -679,7 +663,7 @@
       "price": 52000,
       "start_date": "2026-09-04",
       "end_date": "2026-09-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Bílaverkstæði Þóris 12 mán samningur",
@@ -1227,14 +1211,6 @@
     },
     {
       "campaign_name": "Bitingahúsið Lyfja",
-      "line_item_name": "Bitingahúsið Lyfja Glerártorg 12-14 apríl.",
-      "price": 39000,
-      "start_date": "2026-04-12",
-      "end_date": "2026-04-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bitingahúsið Lyfja",
       "line_item_name": "Bitingahúsið Lyfja Glerártorg 15 apríl.",
       "price": 13000,
       "start_date": "2026-04-15",
@@ -1632,14 +1608,6 @@
       "start_date": "2026-04-20",
       "end_date": "2026-04-22",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "line_item_name": "CCEP'Coke Zero Birrtingahúsið.",
-      "price": 128400,
-      "start_date": "2026-04-08",
-      "end_date": "2026-04-14",
-      "seen_count": 2
     },
     {
       "campaign_name": "CCEP'Coke Zero Birrtingahúsið.",
@@ -2355,14 +2323,6 @@
     },
     {
       "campaign_name": "IKEA / HN - apríl 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 14. apríl / 4x1",
-      "price": 26000,
-      "start_date": "2026-04-14",
-      "end_date": "2026-04-14",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "IKEA / HN - apríl 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 15. apríl / 4x1",
       "price": 25500,
       "start_date": "2026-04-15",
@@ -2730,14 +2690,6 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Jamboree Entertainment - 2 weeks - Hafnartorg",
-      "line_item_name": "Jamboree Entertainment - 2 weeks - Harnartorg",
-      "price": 140000,
-      "start_date": "2026-04-01",
-      "end_date": "2026-04-14",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Jb úr og skart - Tilboð - 29 dagar",
       "line_item_name": "Jb úr og skart - Tilboð - 29 dagar (alla mið-laug)",
       "price": 104000,
@@ -2759,7 +2711,7 @@
       "price": 26000,
       "start_date": "2026-10-11",
       "end_date": "2026-10-12",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2767,7 +2719,7 @@
       "price": 26000,
       "start_date": "2026-07-12",
       "end_date": "2026-07-13",
-      "seen_count": 4
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2863,7 +2815,7 @@
       "price": 39000,
       "start_date": "2027-01-07",
       "end_date": "2027-01-09",
-      "seen_count": 4
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2893,14 +2845,6 @@
       "campaign_name": "Klettur vor / Digido - apríl 2026",
       "line_item_name": "Klettur - apríl / Digido / Mán, Mið, Fös, Lau",
       "price": 303000,
-      "start_date": "2026-04-06",
-      "end_date": "2026-04-15",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Klettur vor / Digido - apríl 2026",
-      "line_item_name": "Klettur - apríl / Digido / Sun, Þri, Fim, Fös",
-      "price": 216500,
       "start_date": "2026-04-06",
       "end_date": "2026-04-15",
       "seen_count": 2
@@ -3079,7 +3023,7 @@
       "price": 10000,
       "start_date": "2026-05-01",
       "end_date": "2026-05-16",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Media com -Boozt vika  17",
@@ -3303,14 +3247,6 @@
       "price": 105300,
       "start_date": "2026-05-09",
       "end_date": "2026-05-09",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
-      "line_item_name": "Mjólka Gríska - 14. apríl / 2x1",
-      "price": 14000,
-      "start_date": "2026-04-14",
-      "end_date": "2026-04-14",
       "seen_count": 2
     },
     {
@@ -3560,14 +3496,6 @@
       "start_date": "2026-05-01",
       "end_date": "2026-05-29",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Pipar Hagar Takk. AK- mars-apríl.",
-      "line_item_name": "Pipar Hagar Takk.1-14 apríl.",
-      "price": 52000,
-      "start_date": "2026-04-01",
-      "end_date": "2026-04-14",
-      "seen_count": 1
     },
     {
       "campaign_name": "Pipar LBHÍ",
@@ -3975,7 +3903,7 @@
       "price": 45500,
       "start_date": "2026-05-08",
       "end_date": "2026-05-14",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Sjomannastofan Vor - Tilboð",
@@ -3983,14 +3911,6 @@
       "price": 59500,
       "start_date": "2026-04-12",
       "end_date": "2026-04-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Smáralind - Gjafakort og ímynd / Datera / 8. til 22. apríl",
-      "line_item_name": "Smáralind - Gjafakort og ímynd / Datera / 14. apríl / 4x1",
-      "price": 23000,
-      "start_date": "2026-04-14",
-      "end_date": "2026-04-14",
       "seen_count": 1
     },
     {
@@ -4295,7 +4215,7 @@
       "price": 70200,
       "start_date": "2026-05-05",
       "end_date": "2026-05-14",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Vík vélaverkstæði - Einhella 2025-2026 12mán samningur",
