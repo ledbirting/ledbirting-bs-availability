@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T15:30:26.823Z",
+  "generated_at": "2026-04-15T18:28:16.973Z",
   "scope": {
     "report_start_date": "2026-04-15",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1289,
-    "unique_items": 559,
+    "items_seen": 1284,
+    "unique_items": 557,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1939,6 +1939,14 @@
     },
     {
       "campaign_name": "Flokkur Folksins",
+      "line_item_name": "Flokkur Fólksins  RVK. VLV.1. 16 maí. (2) (1)",
+      "price": 7500,
+      "start_date": "2026-05-16",
+      "end_date": "2026-05-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Flokkur Folksins",
       "line_item_name": "Flokkur Fólksins RVK. BT-BH-EH-HB--SBH- 29 apríl - 16 maí.",
       "price": 765000,
       "start_date": "2026-04-29",
@@ -2204,18 +2212,18 @@
     {
       "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
       "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
-      "price": 195000,
-      "start_date": "2026-04-16",
-      "end_date": "2026-04-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
-      "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
       "price": 279000,
       "start_date": "2026-04-16",
       "end_date": "2026-04-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
+      "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
+      "price": 195000,
+      "start_date": "2026-04-16",
+      "end_date": "2026-04-30",
+      "seen_count": 1
     },
     {
       "campaign_name": "Healing in Iceland - Hæðasmári",
@@ -2266,7 +2274,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Hjólað í vinnuna / Ennemm - apríl 2026",
+      "campaign_name": "Hjólað í vinnuna - ÍSÍ / Ennemm - apríl 2026",
       "line_item_name": "Hjólað í vinnuna (mán, mið, fös)",
       "price": 242000,
       "start_date": "2026-04-17",
@@ -2274,7 +2282,7 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Hjólað í vinnuna / Ennemm - apríl 2026",
+      "campaign_name": "Hjólað í vinnuna - ÍSÍ / Ennemm - apríl 2026",
       "line_item_name": "Hjólað í vinnuna (þri, fim)",
       "price": 134000,
       "start_date": "2026-04-17",
@@ -2751,30 +2759,6 @@
       "price": 130000,
       "start_date": "2026-04-16",
       "end_date": "2026-04-20",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Ísak Toyota",
-      "line_item_name": "Ísak Toyota 16 apríl.",
-      "price": 64300,
-      "start_date": "2026-04-16",
-      "end_date": "2026-04-16",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Ísak Toyota",
-      "line_item_name": "Ísak Toyota 17 apríl.",
-      "price": 85300,
-      "start_date": "2026-04-17",
-      "end_date": "2026-04-17",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Ísak Toyota",
-      "line_item_name": "Ísak Toyota 18 apríl.",
-      "price": 92800,
-      "start_date": "2026-04-18",
-      "end_date": "2026-04-18",
       "seen_count": 2
     },
     {
@@ -4195,7 +4179,7 @@
     },
     {
       "campaign_name": "Tannlækna kynning",
-      "line_item_name": "Tannlækna kynning Selfoss 21 apríl.",
+      "line_item_name": "Tannlækna kynning  Akureyri 21 apríl.",
       "price": 26000,
       "start_date": "2026-04-21",
       "end_date": "2026-04-21",
@@ -4203,7 +4187,7 @@
     },
     {
       "campaign_name": "Tannlækna kynning",
-      "line_item_name": "Tannlækna kynning Selfoss 22 apríl.",
+      "line_item_name": "Tannlækna kynning Akureyri. 23-24 apríl.",
       "price": 52000,
       "start_date": "2026-04-23",
       "end_date": "2026-04-24",
