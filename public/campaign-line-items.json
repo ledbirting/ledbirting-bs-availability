@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T09:34:57.100Z",
+  "generated_at": "2026-04-15T12:24:23.364Z",
   "scope": {
     "report_start_date": "2026-04-15",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1250,
-    "unique_items": 542,
+    "items_seen": 1257,
+    "unique_items": 541,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1714,6 +1714,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Eldum rétt / Digido / ágúst 2026",
+      "line_item_name": "Eldum rétt / Digido / Mið (Ves, Kap, Gbr, Borg)",
+      "price": 260100,
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-31",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "ELKO árssamningur",
       "line_item_name": "ELKO árssamningur 01 mars 2026 - 28 feb. 2027",
       "price": 3198000,
@@ -1875,33 +1883,17 @@
     },
     {
       "campaign_name": "Flokkur Folksins",
-      "line_item_name": "Flokkur Fólksins  RVK. Grandi 21-29 apríl.67.500 kr.. + vsk.",
-      "price": 60000,
-      "start_date": "2026-04-21",
-      "end_date": "2026-04-29",
+      "line_item_name": "Flokkur Fólksins  RVK. Grandi.01-14maí.",
+      "price": 105000,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-14",
       "seen_count": 1
     },
     {
       "campaign_name": "Flokkur Folksins",
-      "line_item_name": "Flokkur Fólksins  RVK. Grandi.01-13 maí.97.500 kr. + vsk.",
-      "price": 97500,
-      "start_date": "2026-05-01",
-      "end_date": "2026-05-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Flokkur Folksins",
-      "line_item_name": "Flokkur Fólksins  RVK.01-16 maí Hafnatorg-Höfðatorg.246.400 kr,.+ vsk.",
-      "price": 246400,
-      "start_date": "2026-05-01",
-      "end_date": "2026-05-16",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Flokkur Folksins",
-      "line_item_name": "Flokkur Fólksins RVK. BT-BH-EH-HB-SF-VL-SBH-VLV. 1.600.000 kr. + vsk.",
-      "price": 1599000,
-      "start_date": "2026-04-21",
+      "line_item_name": "Flokkur Fólksins RVK. BT-BH-EH-HB--SBH- 29 apríl - 16 maí.",
+      "price": 765000,
+      "start_date": "2026-04-29",
       "end_date": "2026-05-16",
       "seen_count": 4
     },
@@ -2159,22 +2151,6 @@
       "price": 123200,
       "start_date": "2026-05-01",
       "end_date": "2026-05-31",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
-      "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
-      "price": 195000,
-      "start_date": "2026-04-16",
-      "end_date": "2026-04-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
-      "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
-      "price": 279000,
-      "start_date": "2026-04-16",
-      "end_date": "2026-04-30",
       "seen_count": 2
     },
     {
@@ -3258,6 +3234,14 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Minjasafnið á Akureyri 18-23 apríl",
+      "line_item_name": "Minjasafnið á Akureyri 18-23 apríl",
+      "price": 78000,
+      "start_date": "2026-04-18",
+      "end_date": "2026-04-23",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
       "line_item_name": "Mjólka Gríska - 15. apríl / 2x1",
       "price": 14000,
@@ -3780,7 +3764,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "26 apríl - 13 maí -",
-      "price": 1372800,
+      "price": 1194400,
       "start_date": "2026-04-26",
       "end_date": "2026-05-13",
       "seen_count": 2
@@ -3788,7 +3772,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "26 apríl -13 maí -",
-      "price": 1676000,
+      "price": 1471000,
       "start_date": "2026-04-26",
       "end_date": "2026-05-13",
       "seen_count": 2
@@ -4344,6 +4328,14 @@
       "start_date": "2026-04-16",
       "end_date": "2026-05-16",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "ÞG Verk - Thorraholtid",
+      "line_item_name": "ÞG Verk - Thorraholtid",
+      "price": 0,
+      "start_date": "2026-04-15",
+      "end_date": "2027-02-01",
+      "seen_count": 10
     },
     {
       "campaign_name": "Þjóðleikhúsið 17 júní og menningar nótt 22 ágúst. Austurstræti",
