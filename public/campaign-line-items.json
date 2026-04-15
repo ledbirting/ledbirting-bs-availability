@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T12:24:23.364Z",
+  "generated_at": "2026-04-15T15:30:26.823Z",
   "scope": {
     "report_start_date": "2026-04-15",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1257,
-    "unique_items": 541,
+    "items_seen": 1289,
+    "unique_items": 559,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1460,18 +1460,18 @@
     {
       "campaign_name": "BY-L inneign.",
       "line_item_name": "BY-L inneign. 21-22 apríl.",
-      "price": 25000,
-      "start_date": "2026-04-21",
-      "end_date": "2026-04-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "BY-L inneign.",
-      "line_item_name": "BY-L inneign. 21-22 apríl.",
       "price": 47600,
       "start_date": "2026-04-21",
       "end_date": "2026-04-22",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "BY-L inneign.",
+      "line_item_name": "BY-L inneign. 21-22 apríl.",
+      "price": 25000,
+      "start_date": "2026-04-21",
+      "end_date": "2026-04-22",
+      "seen_count": 1
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -1712,6 +1712,54 @@
       "start_date": "2026-04-09",
       "end_date": "2026-04-30",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Duty Free - Heinemann  / Datera -  ágúst 2026",
+      "line_item_name": "Duty Free - Heinemann / AKU1 (fim)",
+      "price": 26000,
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Duty Free - Heinemann  / Datera -  ágúst 2026",
+      "line_item_name": "Duty Free - Heinemann / GLER2 (fös)",
+      "price": 26000,
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Duty Free - Heinemann  / Datera - júlí 2026",
+      "line_item_name": "Duty Free - Heinemann / AKU1 (fim)",
+      "price": 26000,
+      "start_date": "2026-07-09",
+      "end_date": "2026-07-30",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Duty Free - Heinemann  / Datera - okt 2026",
+      "line_item_name": "Duty Free - Heinemann / AKU1 (fim)",
+      "price": 19500,
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-15",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Duty Free - Heinemann  / Datera - okt 2026",
+      "line_item_name": "Duty Free - Heinemann / GLER2 (fös)",
+      "price": 13000,
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Duty Free - Heinemann  / Datera - sept 2026",
+      "line_item_name": "Duty Free - Heinemann / AKU1 (fim)",
+      "price": 26000,
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-30",
+      "seen_count": 2
     },
     {
       "campaign_name": "Eldum rétt / Digido / ágúst 2026",
@@ -1987,7 +2035,7 @@
     },
     {
       "campaign_name": "Framsókn - Reykjavík / Digido - 23. apríl til 16. maí 2026",
-      "line_item_name": "Framsókn / 1. til 16. maí",
+      "line_item_name": "Framsókn / 1. til 16. maí (Breiðholtsbraut)",
       "price": 221760,
       "start_date": "2026-05-01",
       "end_date": "2026-05-16",
@@ -1995,7 +2043,7 @@
     },
     {
       "campaign_name": "Framsókn - Reykjavík / Digido - 23. apríl til 16. maí 2026",
-      "line_item_name": "Framsókn / 23. til 30. apríl",
+      "line_item_name": "Framsókn / 23. til 30. apríl (Breiðholtsbraut)",
       "price": 79200,
       "start_date": "2026-04-23",
       "end_date": "2026-04-30",
@@ -2154,6 +2202,22 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
+      "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
+      "price": 195000,
+      "start_date": "2026-04-16",
+      "end_date": "2026-04-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
+      "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
+      "price": 279000,
+      "start_date": "2026-04-16",
+      "end_date": "2026-04-30",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Healing in Iceland - Hæðasmári",
       "line_item_name": "Healing in Iceland - Hæðasmári",
       "price": 0,
@@ -2188,7 +2252,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 67500,
+      "price": 90000,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2196,10 +2260,26 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 90000,
+      "price": 67500,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Hjólað í vinnuna / Ennemm - apríl 2026",
+      "line_item_name": "Hjólað í vinnuna (mán, mið, fös)",
+      "price": 242000,
+      "start_date": "2026-04-17",
+      "end_date": "2026-04-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Hjólað í vinnuna / Ennemm - apríl 2026",
+      "line_item_name": "Hjólað í vinnuna (þri, fim)",
+      "price": 134000,
+      "start_date": "2026-04-17",
+      "end_date": "2026-04-26",
+      "seen_count": 2
     },
     {
       "campaign_name": "Höldur",
@@ -2663,6 +2743,38 @@
       "price": 33500,
       "start_date": "2026-05-09",
       "end_date": "2026-05-09",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Ilva Akureyri 16-20april",
+      "line_item_name": "Ilva Akureyri 16-20april",
+      "price": 130000,
+      "start_date": "2026-04-16",
+      "end_date": "2026-04-20",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Ísak Toyota",
+      "line_item_name": "Ísak Toyota 16 apríl.",
+      "price": 64300,
+      "start_date": "2026-04-16",
+      "end_date": "2026-04-16",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Ísak Toyota",
+      "line_item_name": "Ísak Toyota 17 apríl.",
+      "price": 85300,
+      "start_date": "2026-04-17",
+      "end_date": "2026-04-17",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Ísak Toyota",
+      "line_item_name": "Ísak Toyota 18 apríl.",
+      "price": 92800,
+      "start_date": "2026-04-18",
+      "end_date": "2026-04-18",
       "seen_count": 2
     },
     {
@@ -3394,6 +3506,22 @@
       "seen_count": 9
     },
     {
+      "campaign_name": "Optical Studio - Akureyri - Andrés Andarleikarnir - 22-25 apríl",
+      "line_item_name": "Optical Studio - Akureyri - Andrés Andarleikarnir",
+      "price": 52000,
+      "start_date": "2026-04-22",
+      "end_date": "2026-04-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Optical Studio - Akureyri - Andrés Andarleikarnir - 22-25 apríl",
+      "line_item_name": "Optical Studio - Akureyri - Andrés Andarleikarnir - 22-25 apríl",
+      "price": 52000,
+      "start_date": "2026-04-22",
+      "end_date": "2026-04-25",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Optical Studio - Sérkjör 6 mán- Hafnartorg",
       "line_item_name": "Optical Studio - Sérkjör 6mán - Hafnartorg",
       "price": 1760000,
@@ -4063,6 +4191,22 @@
       "price": 176400,
       "start_date": "2026-05-17",
       "end_date": "2026-05-20",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Tannlækna kynning",
+      "line_item_name": "Tannlækna kynning Selfoss 21 apríl.",
+      "price": 26000,
+      "start_date": "2026-04-21",
+      "end_date": "2026-04-21",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Tannlækna kynning",
+      "line_item_name": "Tannlækna kynning Selfoss 22 apríl.",
+      "price": 52000,
+      "start_date": "2026-04-23",
+      "end_date": "2026-04-24",
       "seen_count": 2
     },
     {
