@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T15:35:31.887Z",
+  "generated_at": "2026-04-16T18:28:07.109Z",
   "scope": {
     "report_start_date": "2026-04-16",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1275,
-    "unique_items": 554,
+    "items_seen": 1278,
+    "unique_items": 556,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1674,6 +1674,22 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Dekkjahöllin á Akureyri - apríl 2026",
+      "line_item_name": "Dekkjahöllin - Mán, Þri, Fös",
+      "price": 39000,
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dekkjahöllin á Akureyri - apríl 2026",
+      "line_item_name": "Dekkjahöllin - Mið, Fim",
+      "price": 26000,
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Dekkjasalan-Birtingahúsið.",
       "line_item_name": "Dekkjasalan-Birtingahúsið.Fjarðarhraun.",
       "price": 49500,
@@ -2212,18 +2228,18 @@
     {
       "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
       "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
-      "price": 279000,
-      "start_date": "2026-04-16",
-      "end_date": "2026-04-30",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
-      "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
       "price": 195000,
       "start_date": "2026-04-16",
       "end_date": "2026-04-30",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
+      "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
+      "price": 279000,
+      "start_date": "2026-04-16",
+      "end_date": "2026-04-30",
+      "seen_count": 2
     },
     {
       "campaign_name": "Healing in Iceland - Hæðasmári",
@@ -2260,7 +2276,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 67500,
+      "price": 90000,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2268,7 +2284,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 90000,
+      "price": 67500,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2277,16 +2293,16 @@
       "campaign_name": "Hjólað í vinnuna - ÍSÍ / Ennemm - apríl 2026",
       "line_item_name": "Hjólað í vinnuna (mán, mið, fös)",
       "price": 242000,
-      "start_date": "2026-04-17",
-      "end_date": "2026-04-26",
+      "start_date": "2026-04-18",
+      "end_date": "2026-04-27",
       "seen_count": 2
     },
     {
       "campaign_name": "Hjólað í vinnuna - ÍSÍ / Ennemm - apríl 2026",
       "line_item_name": "Hjólað í vinnuna (þri, fim)",
-      "price": 134000,
-      "start_date": "2026-04-17",
-      "end_date": "2026-04-26",
+      "price": 121000,
+      "start_date": "2026-04-18",
+      "end_date": "2026-04-27",
       "seen_count": 2
     },
     {
@@ -3180,7 +3196,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 10. maí",
-      "price": 69800,
+      "price": 65800,
       "start_date": "2026-05-10",
       "end_date": "2026-05-10",
       "seen_count": 2
@@ -3188,7 +3204,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 11. maí",
-      "price": 74800,
+      "price": 75800,
       "start_date": "2026-05-11",
       "end_date": "2026-05-11",
       "seen_count": 2
@@ -3196,7 +3212,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 12. maí",
-      "price": 79800,
+      "price": 75800,
       "start_date": "2026-05-12",
       "end_date": "2026-05-12",
       "seen_count": 2
@@ -3204,7 +3220,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 13. maí",
-      "price": 74000,
+      "price": 70000,
       "start_date": "2026-05-13",
       "end_date": "2026-05-13",
       "seen_count": 2
@@ -3212,7 +3228,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 14. maí",
-      "price": 79800,
+      "price": 75800,
       "start_date": "2026-05-14",
       "end_date": "2026-05-14",
       "seen_count": 2
@@ -3220,7 +3236,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 15. maí",
-      "price": 79800,
+      "price": 75800,
       "start_date": "2026-05-15",
       "end_date": "2026-05-15",
       "seen_count": 2
@@ -3228,7 +3244,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 16. maí",
-      "price": 105400,
+      "price": 67800,
       "start_date": "2026-05-16",
       "end_date": "2026-05-16",
       "seen_count": 2
@@ -3244,7 +3260,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 3. maí",
-      "price": 56300,
+      "price": 52300,
       "start_date": "2026-05-03",
       "end_date": "2026-05-03",
       "seen_count": 2
@@ -3260,7 +3276,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 5. maí",
-      "price": 62800,
+      "price": 57800,
       "start_date": "2026-05-05",
       "end_date": "2026-05-05",
       "seen_count": 2
@@ -3268,7 +3284,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 6. maí",
-      "price": 56300,
+      "price": 52300,
       "start_date": "2026-05-06",
       "end_date": "2026-05-06",
       "seen_count": 2
@@ -3276,7 +3292,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 7. maí",
-      "price": 70800,
+      "price": 65300,
       "start_date": "2026-05-07",
       "end_date": "2026-05-07",
       "seen_count": 2
@@ -3284,7 +3300,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 8. maí",
-      "price": 66800,
+      "price": 57300,
       "start_date": "2026-05-08",
       "end_date": "2026-05-08",
       "seen_count": 2
@@ -3292,7 +3308,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 9. maí",
-      "price": 57800,
+      "price": 62800,
       "start_date": "2026-05-09",
       "end_date": "2026-05-09",
       "seen_count": 2
