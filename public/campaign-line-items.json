@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T12:26:20.309Z",
+  "generated_at": "2026-04-16T15:35:31.887Z",
   "scope": {
     "report_start_date": "2026-04-16",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1274,
-    "unique_items": 552,
+    "items_seen": 1275,
+    "unique_items": 554,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1596,7 +1596,7 @@
     {
       "campaign_name": "Cirkus/Caravan - Frumherji",
       "line_item_name": "1-9 Maí",
-      "price": 245700,
+      "price": 200700,
       "start_date": "2026-05-01",
       "end_date": "2026-05-09",
       "seen_count": 2
@@ -1604,7 +1604,7 @@
     {
       "campaign_name": "Cirkus/Caravan - Frumherji",
       "line_item_name": "17-31 maí",
-      "price": 409500,
+      "price": 334500,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 2
@@ -1612,10 +1612,10 @@
     {
       "campaign_name": "Cirkus/Caravan - Frumherji",
       "line_item_name": "Apríl",
-      "price": 300300,
+      "price": 333300,
       "start_date": "2026-04-20",
       "end_date": "2026-04-30",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Danól. Nesquik Andrés Andar leikarnir.",
@@ -1752,6 +1752,14 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Eik Glerártorg",
+      "line_item_name": "Eik Glerártorg",
+      "price": 52000,
+      "start_date": "2026-04-16",
+      "end_date": "2026-04-23",
+      "seen_count": 1
     },
     {
       "campaign_name": "Eldum rétt / Digido / ágúst 2026",
@@ -3164,7 +3172,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 1. maí",
-      "price": 97300,
+      "price": 52300,
       "start_date": "2026-05-01",
       "end_date": "2026-05-01",
       "seen_count": 2
@@ -3172,7 +3180,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 10. maí",
-      "price": 87800,
+      "price": 69800,
       "start_date": "2026-05-10",
       "end_date": "2026-05-10",
       "seen_count": 2
@@ -3180,7 +3188,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 11. maí",
-      "price": 115300,
+      "price": 74800,
       "start_date": "2026-05-11",
       "end_date": "2026-05-11",
       "seen_count": 2
@@ -3188,7 +3196,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 12. maí",
-      "price": 115300,
+      "price": 79800,
       "start_date": "2026-05-12",
       "end_date": "2026-05-12",
       "seen_count": 2
@@ -3196,7 +3204,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 13. maí",
-      "price": 99500,
+      "price": 74000,
       "start_date": "2026-05-13",
       "end_date": "2026-05-13",
       "seen_count": 2
@@ -3204,7 +3212,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 14. maí",
-      "price": 95900,
+      "price": 79800,
       "start_date": "2026-05-14",
       "end_date": "2026-05-14",
       "seen_count": 2
@@ -3212,7 +3220,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 15. maí",
-      "price": 85400,
+      "price": 79800,
       "start_date": "2026-05-15",
       "end_date": "2026-05-15",
       "seen_count": 2
@@ -3228,7 +3236,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 2. maí",
-      "price": 73800,
+      "price": 52300,
       "start_date": "2026-05-02",
       "end_date": "2026-05-02",
       "seen_count": 2
@@ -3236,7 +3244,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 3. maí",
-      "price": 115300,
+      "price": 56300,
       "start_date": "2026-05-03",
       "end_date": "2026-05-03",
       "seen_count": 2
@@ -3244,7 +3252,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 4. maí",
-      "price": 107300,
+      "price": 62800,
       "start_date": "2026-05-04",
       "end_date": "2026-05-04",
       "seen_count": 2
@@ -3252,7 +3260,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 5. maí",
-      "price": 87800,
+      "price": 62800,
       "start_date": "2026-05-05",
       "end_date": "2026-05-05",
       "seen_count": 2
@@ -3260,7 +3268,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 6. maí",
-      "price": 87800,
+      "price": 56300,
       "start_date": "2026-05-06",
       "end_date": "2026-05-06",
       "seen_count": 2
@@ -3268,7 +3276,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 7. maí",
-      "price": 110300,
+      "price": 70800,
       "start_date": "2026-05-07",
       "end_date": "2026-05-07",
       "seen_count": 2
@@ -3276,7 +3284,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 8. maí",
-      "price": 97300,
+      "price": 66800,
       "start_date": "2026-05-08",
       "end_date": "2026-05-08",
       "seen_count": 2
@@ -3284,7 +3292,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 9. maí",
-      "price": 105300,
+      "price": 57800,
       "start_date": "2026-05-09",
       "end_date": "2026-05-09",
       "seen_count": 2
@@ -4120,6 +4128,14 @@
       "start_date": "2026-05-17",
       "end_date": "2026-05-20",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Steindal - N1 mótið - Akureyri",
+      "line_item_name": "Steindal - N1 mótið - Akureyri",
+      "price": 52000,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-04",
+      "seen_count": 1
     },
     {
       "campaign_name": "Svens",
