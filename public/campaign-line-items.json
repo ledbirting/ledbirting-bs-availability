@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T09:34:17.492Z",
+  "generated_at": "2026-04-16T12:26:20.309Z",
   "scope": {
     "report_start_date": "2026-04-16",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1271,
-    "unique_items": 551,
+    "items_seen": 1274,
+    "unique_items": 552,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1698,6 +1698,14 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Dressmann Glerártorg. 29 apríl-01 maí",
+      "line_item_name": "Dressmann Glerártorg. 29 apríl-01 maí",
+      "price": 39000,
+      "start_date": "2026-04-29",
+      "end_date": "2026-05-01",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Duty Free - Heinemann  / Datera -  ágúst 2026",
       "line_item_name": "Duty Free - Heinemann / AKU1 (fim)",
       "price": 26000,
@@ -2244,7 +2252,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 90000,
+      "price": 67500,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2252,7 +2260,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 67500,
+      "price": 90000,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2279,22 +2287,6 @@
       "price": 130000,
       "start_date": "2026-04-14",
       "end_date": "2026-04-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Icelandair  / Hvíta húsið - Apríl '26",
-      "line_item_name": "Icelandair / Mán, Mið og Fös / BRE1, VES2",
-      "price": 130000,
-      "start_date": "2026-04-08",
-      "end_date": "2026-04-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Icelandair  / Hvíta húsið - Apríl '26",
-      "line_item_name": "Icelandar / Fim og Fös / EGI1, GBR",
-      "price": 63000,
-      "start_date": "2026-04-10",
-      "end_date": "2026-04-30",
       "seen_count": 1
     },
     {
@@ -3954,10 +3946,10 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Sjálfstæðisflokkurinn 17 til 22 april",
-      "line_item_name": "Sjálfstæðisflokkurinn 17 til 21 april",
-      "price": 147500,
-      "start_date": "2026-04-17",
+      "campaign_name": "Sjálfstæðisflokkurinn 16 til 21 april",
+      "line_item_name": "Sjálfstæðisflokkurinn 16 til 21 april",
+      "price": 177000,
+      "start_date": "2026-04-16",
       "end_date": "2026-04-21",
       "seen_count": 2
     },
@@ -4130,6 +4122,22 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Svens",
+      "line_item_name": "Svens",
+      "price": 331500,
+      "start_date": "2026-04-24",
+      "end_date": "2026-05-10",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Svens",
+      "line_item_name": "Svens",
+      "price": 104000,
+      "start_date": "2026-04-25",
+      "end_date": "2026-05-10",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Tannlækna kynning",
       "line_item_name": "Tannlækna kynning  Akureyri 21 apríl.",
       "price": 26000,
@@ -4180,10 +4188,10 @@
     {
       "campaign_name": "Útivist og veiði - Andrés andar",
       "line_item_name": "Útivist og veiði - Andrés andar",
-      "price": 52000,
-      "start_date": "2026-04-18",
+      "price": 26000,
+      "start_date": "2026-04-22",
       "end_date": "2026-04-25",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Varmi - feb/mars/apríl",
