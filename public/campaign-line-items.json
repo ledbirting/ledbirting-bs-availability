@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-15T21:20:15.894Z",
+  "generated_at": "2026-04-16T00:36:22.776Z",
   "scope": {
-    "report_start_date": "2026-04-15",
+    "report_start_date": "2026-04-16",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1286,
-    "unique_items": 558,
+    "items_seen": 1267,
+    "unique_items": 549,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -50,20 +50,12 @@
       "seen_count": 10
     },
     {
-      "campaign_name": "AB Varahlutir",
-      "line_item_name": "Höfðabakki",
-      "price": 65000,
-      "start_date": "2026-04-01",
-      "end_date": "2026-04-15",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Áltak-mediacom",
       "line_item_name": "Áltak-mediacom",
       "price": 58500,
       "start_date": "2026-05-07",
       "end_date": "2026-05-15",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Áltak-mediacom",
@@ -95,14 +87,6 @@
       "price": 185600,
       "start_date": "2026-05-09",
       "end_date": "2026-05-16",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Apótekarinn / HN - apríl 2026",
-      "line_item_name": "Apótekarinn / HN - 15. apríl / 7x1",
-      "price": 49500,
-      "start_date": "2026-04-15",
-      "end_date": "2026-04-15",
       "seen_count": 2
     },
     {
@@ -559,7 +543,7 @@
       "price": 52000,
       "start_date": "2026-05-15",
       "end_date": "2026-05-22",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun-22 ágúst",
@@ -1210,22 +1194,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Bitingahúsið Lyfja",
-      "line_item_name": "Bitingahúsið Lyfja Glerártorg 15 apríl.",
-      "price": 13000,
-      "start_date": "2026-04-15",
-      "end_date": "2026-04-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - apríl 2026",
-      "line_item_name": "Bónus 15. apríl - Mið / 10x1",
-      "price": 58500,
-      "start_date": "2026-04-15",
-      "end_date": "2026-04-15",
-      "seen_count": 2
-    },
-    {
       "campaign_name": "Bónus / HN - apríl 2026",
       "line_item_name": "Bónus 17. apríl - Fös / 10x1",
       "price": 63000,
@@ -1479,7 +1447,7 @@
       "price": 94500,
       "start_date": "2026-08-09",
       "end_date": "2026-08-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -2212,18 +2180,18 @@
     {
       "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
       "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
-      "price": 195000,
-      "start_date": "2026-04-16",
-      "end_date": "2026-04-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
-      "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
       "price": 279000,
       "start_date": "2026-04-16",
       "end_date": "2026-04-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
+      "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
+      "price": 195000,
+      "start_date": "2026-04-16",
+      "end_date": "2026-04-30",
+      "seen_count": 1
     },
     {
       "campaign_name": "Healing in Iceland - Hæðasmári",
@@ -2392,14 +2360,6 @@
       "start_date": "2026-03-18",
       "end_date": "2026-04-30",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - apríl 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 15. apríl / 4x1",
-      "price": 25500,
-      "start_date": "2026-04-15",
-      "end_date": "2026-04-15",
-      "seen_count": 2
     },
     {
       "campaign_name": "IKEA / HN - apríl 2026 (500 þús pr. mánuð)",
@@ -2791,7 +2751,7 @@
       "price": 26000,
       "start_date": "2026-10-11",
       "end_date": "2026-10-12",
-      "seen_count": 4
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2823,7 +2783,7 @@
       "price": 26000,
       "start_date": "2026-06-14",
       "end_date": "2026-06-15",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2919,14 +2879,6 @@
       "price": 39000,
       "start_date": "2026-08-06",
       "end_date": "2026-08-08",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Klettur vor / Digido - apríl 2026",
-      "line_item_name": "Klettur - apríl / Digido / Mán, Mið, Fös, Lau",
-      "price": 303000,
-      "start_date": "2026-04-06",
-      "end_date": "2026-04-15",
       "seen_count": 2
     },
     {
@@ -3143,7 +3095,7 @@
       "price": 710000,
       "start_date": "2026-04-11",
       "end_date": "2026-05-15",
-      "seen_count": 4
+      "seen_count": 2
     },
     {
       "campaign_name": "Media com- UNAK",
@@ -3191,7 +3143,7 @@
       "price": 261000,
       "start_date": "2026-05-04",
       "end_date": "2026-05-15",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Miðflokkurinn - Akureyri - 9-16 maí",
@@ -3339,14 +3291,6 @@
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
-      "line_item_name": "Mjólka Gríska - 15. apríl / 2x1",
-      "price": 14000,
-      "start_date": "2026-04-15",
-      "end_date": "2026-04-15",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
       "line_item_name": "Mjólka Gríska - 16. apríl / 1x1",
       "price": 6500,
       "start_date": "2026-04-16",
@@ -3472,14 +3416,6 @@
       "start_date": "2026-01-21",
       "end_date": "2027-01-20",
       "seen_count": 10
-    },
-    {
-      "campaign_name": "Nova Birtingahúsið",
-      "line_item_name": "Nova Birtingahúsið mánd-miðvi-Borgartún",
-      "price": 26000,
-      "start_date": "2026-04-05",
-      "end_date": "2026-04-18",
-      "seen_count": 1
     },
     {
       "campaign_name": "Nova. Glerártorg árssamningu.",
@@ -3999,7 +3935,7 @@
       "price": 63000,
       "start_date": "2026-05-02",
       "end_date": "2026-05-15",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Sjálfstæðisflokkurinn 17 til 22 april",
@@ -4023,14 +3959,6 @@
       "price": 59500,
       "start_date": "2026-04-12",
       "end_date": "2026-04-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Smáralind - Gjafakort og ímynd / Datera / 8. til 22. apríl",
-      "line_item_name": "Smáralind - Gjafakort og ímynd / Datera / 15. apríl / 4x1",
-      "price": 24000,
-      "start_date": "2026-04-15",
-      "end_date": "2026-04-15",
       "seen_count": 1
     },
     {
@@ -4175,7 +4103,7 @@
       "price": 117900,
       "start_date": "2026-05-10",
       "end_date": "2026-05-16",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "SS maí Birtingahúsið.",
@@ -4319,7 +4247,7 @@
       "price": 13000,
       "start_date": "2026-05-15",
       "end_date": "2026-05-16",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Viðreisn - Sveitastjórnarkosningar / Datera",
@@ -4359,7 +4287,7 @@
       "price": 222000,
       "start_date": "2026-05-01",
       "end_date": "2026-05-15",
-      "seen_count": 4
+      "seen_count": 2
     },
     {
       "campaign_name": "Vinsti grænir - Plan",
