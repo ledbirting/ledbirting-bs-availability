@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T06:41:26.008Z",
+  "generated_at": "2026-04-16T09:34:17.492Z",
   "scope": {
     "report_start_date": "2026-04-16",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1267,
-    "unique_items": 549,
+    "items_seen": 1271,
+    "unique_items": 551,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1680,6 +1680,22 @@
       "start_date": "2026-04-09",
       "end_date": "2026-04-30",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Dominos 20-21 apríl.",
+      "line_item_name": "Dominos 20 apríl. Mánudagastilboð 50% og nýjar pizzur 50%",
+      "price": 100000,
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-20",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dominos 20-21 apríl.",
+      "line_item_name": "Dominos 21 april. Þriðjudagstilboð 50% og nýjar pizzur 50%",
+      "price": 107000,
+      "start_date": "2026-04-21",
+      "end_date": "2026-04-21",
+      "seen_count": 2
     },
     {
       "campaign_name": "Duty Free - Heinemann  / Datera -  ágúst 2026",
