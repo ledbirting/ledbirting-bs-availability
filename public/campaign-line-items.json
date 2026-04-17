@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T09:34:33.389Z",
+  "generated_at": "2026-04-17T12:23:20.149Z",
   "scope": {
     "report_start_date": "2026-04-17",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1245,
-    "unique_items": 546,
+    "items_seen": 1253,
+    "unique_items": 550,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1642,7 +1642,7 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Dekkjahöllin á Akureyri - apríl 2026",
+      "campaign_name": "Dekkjahöllin á Akureyri / Askja - Apríl 2026",
       "line_item_name": "Dekkjahöllin - Mán, Þri, Fös",
       "price": 39000,
       "start_date": "2026-04-20",
@@ -1650,7 +1650,7 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Dekkjahöllin á Akureyri - apríl 2026",
+      "campaign_name": "Dekkjahöllin á Akureyri / Askja - Apríl 2026",
       "line_item_name": "Dekkjahöllin - Mið, Fim",
       "price": 26000,
       "start_date": "2026-04-20",
@@ -2188,18 +2188,18 @@
     {
       "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
       "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
-      "price": 195000,
-      "start_date": "2026-04-16",
-      "end_date": "2026-04-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
-      "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
       "price": 279000,
       "start_date": "2026-04-16",
       "end_date": "2026-04-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
+      "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
+      "price": 195000,
+      "start_date": "2026-04-16",
+      "end_date": "2026-04-30",
+      "seen_count": 1
     },
     {
       "campaign_name": "Healing in Iceland - Hæðasmári",
@@ -2236,7 +2236,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 67500,
+      "price": 90000,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2244,7 +2244,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 90000,
+      "price": 67500,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2898,6 +2898,14 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Lífland - Selfoss",
+      "line_item_name": "Lífland - Selfoss",
+      "price": 77000,
+      "start_date": "2026-04-22",
+      "end_date": "2026-04-28",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Löður - Apríl 2027",
       "line_item_name": "Popup",
       "price": 30000,
@@ -3256,14 +3264,6 @@
       "start_date": "2026-05-09",
       "end_date": "2026-05-09",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri 18-23 apríl",
-      "line_item_name": "Minjasafnið á Akureyri 18-23 apríl",
-      "price": 78000,
-      "start_date": "2026-04-18",
-      "end_date": "2026-04-23",
-      "seen_count": 1
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
@@ -4351,6 +4351,38 @@
       "price": 520000,
       "start_date": "2027-06-30",
       "end_date": "2027-07-03",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Wolt. 05-24 maí.",
+      "line_item_name": "Wolt. 05-24 maí.",
+      "price": 154500,
+      "start_date": "2026-05-05",
+      "end_date": "2026-05-09",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Wolt. 05-24 maí.",
+      "line_item_name": "Wolt. 05-24 maí.",
+      "price": 260000,
+      "start_date": "2026-05-10",
+      "end_date": "2026-05-16",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Wolt. 05-24 maí.",
+      "line_item_name": "Wolt. 05-24 maí.",
+      "price": 236400,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-23",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Wolt. 05-24 maí.",
+      "line_item_name": "Wolt. 05-24 maí.",
+      "price": 62800,
+      "start_date": "2026-05-24",
+      "end_date": "2026-05-24",
       "seen_count": 2
     },
     {
