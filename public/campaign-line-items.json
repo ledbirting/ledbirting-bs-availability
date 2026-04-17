@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T04:04:33.544Z",
+  "generated_at": "2026-04-17T06:41:30.715Z",
   "scope": {
     "report_start_date": "2026-04-17",
     "report_end_date": "2099-12-31",
@@ -1396,18 +1396,18 @@
     {
       "campaign_name": "BY-L inneign.",
       "line_item_name": "BY-L inneign. 21-22 apríl.",
-      "price": 47600,
-      "start_date": "2026-04-21",
-      "end_date": "2026-04-22",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "BY-L inneign.",
-      "line_item_name": "BY-L inneign. 21-22 apríl.",
       "price": 25000,
       "start_date": "2026-04-21",
       "end_date": "2026-04-22",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "BY-L inneign.",
+      "line_item_name": "BY-L inneign. 21-22 apríl.",
+      "price": 47600,
+      "start_date": "2026-04-21",
+      "end_date": "2026-04-22",
+      "seen_count": 2
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
