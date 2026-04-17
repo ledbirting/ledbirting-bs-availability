@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T12:23:20.149Z",
+  "generated_at": "2026-04-17T15:25:24.529Z",
   "scope": {
     "report_start_date": "2026-04-17",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1253,
-    "unique_items": 550,
+    "items_seen": 1260,
+    "unique_items": 555,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1322,6 +1322,14 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Bónus viðbót / HN - 17. til 30. apríl 2026",
+      "line_item_name": "Bónus - HAGA, SMT1, SMT2",
+      "price": 221200,
+      "start_date": "2026-04-17",
+      "end_date": "2026-04-30",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Borgarleikhúsið / Datera - apríl 2026",
       "line_item_name": "Þetta er Laddi - 21. apríl / 4x1",
       "price": 27500,
@@ -1376,6 +1384,14 @@
       "start_date": "2026-04-16",
       "end_date": "2026-04-18",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "BSRB - HN / 18.  apríl 2026",
+      "line_item_name": "BSRB - HN / 18. apríl / 1x4",
+      "price": 26000,
+      "start_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "seen_count": 1
     },
     {
       "campaign_name": "BY-L inneign.",
@@ -2162,6 +2178,38 @@
       "seen_count": 4
     },
     {
+      "campaign_name": "Halldór úrsmiður AK.",
+      "line_item_name": "Halldór úrsmiður Glerártorg.",
+      "price": 45500,
+      "start_date": "2026-04-20",
+      "end_date": "2026-05-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Halldór úrsmiður AK.",
+      "line_item_name": "Halldór úrsmiður Glerártorg.",
+      "price": 39000,
+      "start_date": "2026-04-20",
+      "end_date": "2026-05-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Halldór úrsmiður AK.",
+      "line_item_name": "Halldór úrsmiður Glerártorg.",
+      "price": 65000,
+      "start_date": "2026-05-26",
+      "end_date": "2026-06-17",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Halldór úrsmiður AK.",
+      "line_item_name": "Halldór úrsmiður Glerártorg.",
+      "price": 84500,
+      "start_date": "2026-05-26",
+      "end_date": "2026-06-17",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Happdrætti DAS / Datera - 8. til 29. apríl 2026",
       "line_item_name": "DAS / Datera - þri og mið í apríl (Glerártorg)",
       "price": 54600,
@@ -2184,22 +2232,6 @@
       "start_date": "2026-05-01",
       "end_date": "2026-05-31",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
-      "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
-      "price": 279000,
-      "start_date": "2026-04-16",
-      "end_date": "2026-04-30",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Háskóli Íslands - umsóknir - apríl 2026",
-      "line_item_name": "Háskóli Íslands - umsóknir - apríl 2026",
-      "price": 195000,
-      "start_date": "2026-04-16",
-      "end_date": "2026-04-30",
-      "seen_count": 1
     },
     {
       "campaign_name": "Healing in Iceland - Hæðasmári",
@@ -3535,6 +3567,14 @@
       "price": 13000,
       "start_date": "2026-05-15",
       "end_date": "2026-05-15",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Pris april Drangasamningur",
+      "line_item_name": "Pris april Drangasamningur",
+      "price": 434000,
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-28",
       "seen_count": 2
     },
     {
