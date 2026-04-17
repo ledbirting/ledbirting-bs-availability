@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T18:20:45.945Z",
+  "generated_at": "2026-04-17T21:17:35.197Z",
   "scope": {
     "report_start_date": "2026-04-17",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1260,
-    "unique_items": 555,
+    "items_seen": 1262,
+    "unique_items": 556,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -2280,6 +2280,14 @@
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Hjólað í vinnuna - 18 apr",
+      "line_item_name": "Hjólað í vinnuna - 18 apr",
+      "price": 0,
+      "start_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "seen_count": 2
     },
     {
       "campaign_name": "Hjólað í vinnuna - ÍSÍ / Ennemm - apríl 2026",
