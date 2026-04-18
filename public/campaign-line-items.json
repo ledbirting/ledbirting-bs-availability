@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T09:18:58.178Z",
+  "generated_at": "2026-04-18T12:14:26.035Z",
   "scope": {
     "report_start_date": "2026-04-18",
     "report_end_date": "2099-12-31",
@@ -2180,18 +2180,18 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
-      "start_date": "2026-05-26",
-      "end_date": "2026-06-17",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Halldór úrsmiður AK.",
-      "line_item_name": "Halldór úrsmiður Glerártorg.",
       "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Halldór úrsmiður AK.",
+      "line_item_name": "Halldór úrsmiður Glerártorg.",
+      "price": 65000,
+      "start_date": "2026-05-26",
+      "end_date": "2026-06-17",
+      "seen_count": 2
     },
     {
       "campaign_name": "Happdrætti DAS / Datera - 8. til 29. apríl 2026",
