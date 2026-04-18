@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-17T21:17:35.197Z",
+  "generated_at": "2026-04-18T00:31:27.521Z",
   "scope": {
-    "report_start_date": "2026-04-17",
+    "report_start_date": "2026-04-18",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1262,
-    "unique_items": 556,
+    "items_seen": 1253,
+    "unique_items": 547,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -88,14 +88,6 @@
       "start_date": "2026-05-09",
       "end_date": "2026-05-16",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Apótekarinn / HN - apríl 2026",
-      "line_item_name": "Apótekarinn / HN - 17. apríl / 6x1",
-      "price": 40000,
-      "start_date": "2026-04-17",
-      "end_date": "2026-04-17",
-      "seen_count": 2
     },
     {
       "campaign_name": "Apótekarinn / HN - apríl 2026",
@@ -375,7 +367,7 @@
       "price": 82500,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Artasan -Sóley - Hæðasmári - 2026",
@@ -1171,14 +1163,6 @@
     },
     {
       "campaign_name": "Bónus / HN - apríl 2026",
-      "line_item_name": "Bónus 17. apríl - Fös / 10x1",
-      "price": 63000,
-      "start_date": "2026-04-17",
-      "end_date": "2026-04-17",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Bónus / HN - apríl 2026",
       "line_item_name": "Bónus 20. apríl - Mán / 9x1",
       "price": 62500,
       "start_date": "2026-04-20",
@@ -1591,7 +1575,7 @@
       "price": 334500,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "Cirkus/Caravan - Frumherji",
@@ -2180,7 +2164,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 45500,
+      "price": 39000,
       "start_date": "2026-04-20",
       "end_date": "2026-05-02",
       "seen_count": 1
@@ -2188,7 +2172,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 39000,
+      "price": 45500,
       "start_date": "2026-04-20",
       "end_date": "2026-05-02",
       "seen_count": 1
@@ -2207,7 +2191,7 @@
       "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Happdrætti DAS / Datera - 8. til 29. apríl 2026",
@@ -2268,7 +2252,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 90000,
+      "price": 67500,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2276,7 +2260,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 67500,
+      "price": 90000,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2391,14 +2375,6 @@
       "price": 748000,
       "start_date": "2026-03-18",
       "end_date": "2026-04-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - apríl 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 17. apríl / 4x1",
-      "price": 27500,
-      "start_date": "2026-04-17",
-      "end_date": "2026-04-17",
       "seen_count": 1
     },
     {
@@ -2791,7 +2767,7 @@
       "price": 26000,
       "start_date": "2026-12-13",
       "end_date": "2026-12-14",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2799,7 +2775,7 @@
       "price": 26000,
       "start_date": "2026-09-13",
       "end_date": "2026-09-14",
-      "seen_count": 4
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2839,7 +2815,7 @@
       "price": 26000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-18",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -3303,14 +3279,6 @@
       "price": 62800,
       "start_date": "2026-05-09",
       "end_date": "2026-05-09",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
-      "line_item_name": "Mjólka Gríska - 17. apríl / 2x1",
-      "price": 14000,
-      "start_date": "2026-04-17",
-      "end_date": "2026-04-17",
       "seen_count": 2
     },
     {
@@ -3979,14 +3947,6 @@
     },
     {
       "campaign_name": "Smáralind - Gjafakort og ímynd / Datera / 8. til 22. apríl",
-      "line_item_name": "Smáralind - Gjafakort og ímynd / Datera / 17. apríl / 5x1",
-      "price": 28500,
-      "start_date": "2026-04-17",
-      "end_date": "2026-04-17",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Smáralind - Gjafakort og ímynd / Datera / 8. til 22. apríl",
       "line_item_name": "Smáralind - Gjafakort og ímynd / Datera / 18. apríl / 4x1",
       "price": 23500,
       "start_date": "2026-04-18",
@@ -4044,14 +4004,6 @@
     {
       "campaign_name": "Sólar apríl  Birtingahúsið.",
       "line_item_name": "Sólar apríl  Birtingahúsið.",
-      "price": 105000,
-      "start_date": "2026-04-12",
-      "end_date": "2026-04-18",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Sólar apríl  Birtingahúsið.",
-      "line_item_name": "Sólar apríl  Birtingahúsið.",
       "price": 119400,
       "start_date": "2026-04-19",
       "end_date": "2026-04-25",
@@ -4063,30 +4015,6 @@
       "price": 48000,
       "start_date": "2026-04-26",
       "end_date": "2026-04-30",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Sólning vor / Digido - apríl 2026",
-      "line_item_name": "Sólning / Sun, Mán, Þri, Fös, Lau / HÖF2, VES2",
-      "price": 100000,
-      "start_date": "2026-04-06",
-      "end_date": "2026-04-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sólning vor / Digido - apríl 2026",
-      "line_item_name": "Sólning / Þri og Fös / BRE1",
-      "price": 22000,
-      "start_date": "2026-04-06",
-      "end_date": "2026-04-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sólning vor / Digido - apríl 2026",
-      "line_item_name": "Sólning / Þri, Mið, Fim, Fös / BRE2, HÖF1, KAP1",
-      "price": 148000,
-      "start_date": "2026-04-06",
-      "end_date": "2026-04-17",
       "seen_count": 2
     },
     {
@@ -4111,7 +4039,7 @@
       "price": 176400,
       "start_date": "2026-05-17",
       "end_date": "2026-05-20",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "Steindal - N1 mótið - Akureyri",
