@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-18T21:12:13.096Z",
+  "generated_at": "2026-04-19T00:34:20.003Z",
   "scope": {
-    "report_start_date": "2026-04-18",
+    "report_start_date": "2026-04-19",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1253,
-    "unique_items": 547,
+    "items_seen": 1233,
+    "unique_items": 534,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -88,14 +88,6 @@
       "start_date": "2026-05-09",
       "end_date": "2026-05-16",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Apótekarinn / HN - apríl 2026",
-      "line_item_name": "Apótekarinn / HN - 18. apríl / 6x1",
-      "price": 40500,
-      "start_date": "2026-04-18",
-      "end_date": "2026-04-18",
-      "seen_count": 2
     },
     {
       "campaign_name": "Apótekarinn / HN - apríl 2026",
@@ -1346,54 +1338,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Brimborg - Akureyri",
-      "line_item_name": "Brimborg - Akureyri (Glerártorg)",
-      "price": 13000,
-      "start_date": "2026-04-17",
-      "end_date": "2026-04-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Brimborg - Akureyri",
-      "line_item_name": "Brimborg - Akureyri (KA)",
-      "price": 13000,
-      "start_date": "2026-04-17",
-      "end_date": "2026-04-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Brimborg - Höfuðborgarsvæði",
-      "line_item_name": "Brimborg - Höfuðborgarsvæði",
-      "price": 168600,
-      "start_date": "2026-04-16",
-      "end_date": "2026-04-18",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "BSRB - HN / 18.  apríl 2026",
-      "line_item_name": "BSRB - HN / 18. apríl / 1x4",
-      "price": 26000,
-      "start_date": "2026-04-18",
-      "end_date": "2026-04-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "BY-L inneign.",
-      "line_item_name": "BY-L inneign. 14-18 apríl.",
-      "price": 62500,
-      "start_date": "2026-04-14",
-      "end_date": "2026-04-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "BY-L inneign.",
-      "line_item_name": "BY-L inneign. 14-18 apríl.",
-      "price": 94000,
-      "start_date": "2026-04-14",
-      "end_date": "2026-04-18",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "BY-L inneign.",
       "line_item_name": "BY-L inneign. 21-22 apríl.",
       "price": 47600,
@@ -1719,7 +1663,7 @@
       "price": 19500,
       "start_date": "2026-10-01",
       "end_date": "2026-10-15",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Duty Free - Heinemann  / Datera - okt 2026",
@@ -2164,7 +2108,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 39000,
+      "price": 45500,
       "start_date": "2026-04-20",
       "end_date": "2026-05-02",
       "seen_count": 1
@@ -2172,7 +2116,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 45500,
+      "price": 39000,
       "start_date": "2026-04-20",
       "end_date": "2026-05-02",
       "seen_count": 1
@@ -2191,7 +2135,7 @@
       "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Happdrætti DAS / Datera - 8. til 29. apríl 2026",
@@ -2264,14 +2208,6 @@
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Hjólað í vinnuna - 18 apr",
-      "line_item_name": "Hjólað í vinnuna - 18 apr",
-      "price": 0,
-      "start_date": "2026-04-18",
-      "end_date": "2026-04-18",
-      "seen_count": 2
     },
     {
       "campaign_name": "Hjólað í vinnuna - ÍSÍ / Ennemm - apríl 2026",
@@ -2376,14 +2312,6 @@
       "start_date": "2026-03-18",
       "end_date": "2026-04-30",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - apríl 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 18. apríl / 4x1",
-      "price": 26000,
-      "start_date": "2026-04-18",
-      "end_date": "2026-04-18",
-      "seen_count": 2
     },
     {
       "campaign_name": "IKEA / HN - apríl 2026 (500 þús pr. mánuð)",
@@ -2767,7 +2695,7 @@
       "price": 26000,
       "start_date": "2026-12-13",
       "end_date": "2026-12-14",
-      "seen_count": 4
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2799,7 +2727,7 @@
       "price": 26000,
       "start_date": "2026-08-16",
       "end_date": "2026-08-17",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2815,7 +2743,7 @@
       "price": 26000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-18",
-      "seen_count": 4
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2931,14 +2859,6 @@
     },
     {
       "campaign_name": "Löður - Apríl 2027",
-      "line_item_name": "V16",
-      "price": 25000,
-      "start_date": "2026-04-12",
-      "end_date": "2026-04-18",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Löður - Apríl 2027",
       "line_item_name": "V17",
       "price": 80000,
       "start_date": "2026-04-19",
@@ -3039,7 +2959,7 @@
       "price": 30000,
       "start_date": "2026-05-16",
       "end_date": "2026-05-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "MarsMedia-Rými",
@@ -3111,7 +3031,7 @@
       "price": 162081,
       "start_date": "2026-05-17",
       "end_date": "2026-06-05",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Media com- UNAK",
@@ -3472,14 +3392,6 @@
       "start_date": "2027-03-01",
       "end_date": "2027-03-31",
       "seen_count": 4
-    },
-    {
-      "campaign_name": "Orkan - Apríl 2026",
-      "line_item_name": "V16",
-      "price": 305666.67,
-      "start_date": "2026-04-12",
-      "end_date": "2026-04-18",
-      "seen_count": 2
     },
     {
       "campaign_name": "Orkan - Apríl 2026",
@@ -3938,22 +3850,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Sjomannastofan Vor - Tilboð",
-      "line_item_name": "Sjomannastofan Vor - Tilboð",
-      "price": 59500,
-      "start_date": "2026-04-12",
-      "end_date": "2026-04-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Smáralind - Gjafakort og ímynd / Datera / 8. til 22. apríl",
-      "line_item_name": "Smáralind - Gjafakort og ímynd / Datera / 18. apríl / 4x1",
-      "price": 23500,
-      "start_date": "2026-04-18",
-      "end_date": "2026-04-18",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Smáralind - Gjafakort og ímynd / Datera / 8. til 22. apríl",
       "line_item_name": "Smáralind - Gjafakort og ímynd / Datera / 19. apríl / 4x1",
       "price": 27000,
@@ -4103,7 +3999,7 @@
       "price": 0,
       "start_date": "2026-04-15",
       "end_date": "2026-06-05",
-      "seen_count": 3
+      "seen_count": 4
     },
     {
       "campaign_name": "Útivist og veiði - Andrés andar",
