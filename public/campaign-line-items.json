@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T09:38:22.408Z",
+  "generated_at": "2026-04-20T12:28:44.902Z",
   "scope": {
     "report_start_date": "2026-04-20",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1233,
-    "unique_items": 530,
+    "items_seen": 1239,
+    "unique_items": 534,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -48,6 +48,22 @@
       "start_date": "2026-01-22",
       "end_date": "2027-01-22",
       "seen_count": 10
+    },
+    {
+      "campaign_name": "Afreksverk - Hafnartorg",
+      "line_item_name": "Afreksverk - Hafnartorg- Júní",
+      "price": 145000,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-29",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Afreksverk - Hafnartorg",
+      "line_item_name": "Maí",
+      "price": 145000,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-29",
+      "seen_count": 2
     },
     {
       "campaign_name": "Áltak-mediacom",
@@ -1307,7 +1323,7 @@
     },
     {
       "campaign_name": "Borgarleikhúsið / Datera - lok apríl 2026",
-      "line_item_name": "27. apríl - almennar birtingar",
+      "line_item_name": "27. apríl - Borgarleikhúsið - almennar birtingar",
       "price": 46000,
       "start_date": "2026-04-27",
       "end_date": "2026-04-27",
@@ -1315,7 +1331,7 @@
     },
     {
       "campaign_name": "Borgarleikhúsið / Datera - lok apríl 2026",
-      "line_item_name": "30. apríl - almennar birtingar",
+      "line_item_name": "30. apríl - Borgarleikhúsið - almennar birtingar",
       "price": 42000,
       "start_date": "2026-04-30",
       "end_date": "2026-04-30",
@@ -1323,7 +1339,7 @@
     },
     {
       "campaign_name": "Borgarleikhúsið / Datera - lok apríl 2026",
-      "line_item_name": "30.apríl - Yfirtaka á Granda",
+      "line_item_name": "30.apríl - Borgarleikhúsið - Yfirtaka á Granda",
       "price": 112500,
       "start_date": "2026-04-30",
       "end_date": "2026-04-30",
@@ -2100,7 +2116,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 39000,
+      "price": 45500,
       "start_date": "2026-04-20",
       "end_date": "2026-05-02",
       "seen_count": 1
@@ -2108,7 +2124,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 45500,
+      "price": 39000,
       "start_date": "2026-04-20",
       "end_date": "2026-05-02",
       "seen_count": 1
@@ -2176,6 +2192,22 @@
       "start_date": "2026-07-05",
       "end_date": "2026-08-10",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "HHÍ flokkahappdrætti  / HN - maí 2026",
+      "line_item_name": "HHÍ flokkahappdrætti / HN / 1. til 11. maí",
+      "price": 108900,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "HHÍ flokkahappdrætti  / HN - maí 2026",
+      "line_item_name": "HHÍ flokkahappdrætti / HN / 12. maí til kl. 16",
+      "price": 10000,
+      "start_date": "2026-05-12",
+      "end_date": "2026-05-12",
+      "seen_count": 1
     },
     {
       "campaign_name": "Híbýli apríl.",
@@ -3299,7 +3331,7 @@
     },
     {
       "campaign_name": "Optical Studio - Akureyri - Andrés Andarleikarnir - 22-25 apríl",
-      "line_item_name": "Optical Studio - Akureyri - Andrés Andarleikarnir",
+      "line_item_name": "No pics yet... Optical Studio - Akureyri - Andrés Andarleikarnir",
       "price": 52000,
       "start_date": "2026-04-22",
       "end_date": "2026-04-25",
