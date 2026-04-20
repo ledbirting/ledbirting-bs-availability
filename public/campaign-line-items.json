@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T15:32:16.098Z",
+  "generated_at": "2026-04-20T18:23:36.106Z",
   "scope": {
     "report_start_date": "2026-04-20",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1242,
-    "unique_items": 533,
+    "items_seen": 1236,
+    "unique_items": 529,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1348,18 +1348,18 @@
     {
       "campaign_name": "BY-L inneign.",
       "line_item_name": "BY-L inneign. 21-22 apríl.",
-      "price": 47600,
-      "start_date": "2026-04-21",
-      "end_date": "2026-04-22",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "BY-L inneign.",
-      "line_item_name": "BY-L inneign. 21-22 apríl.",
       "price": 25000,
       "start_date": "2026-04-21",
       "end_date": "2026-04-22",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "BY-L inneign.",
+      "line_item_name": "BY-L inneign. 21-22 apríl.",
+      "price": 47600,
+      "start_date": "2026-04-21",
+      "end_date": "2026-04-22",
+      "seen_count": 2
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -2112,22 +2112,6 @@
       "start_date": "2026-04-20",
       "end_date": "2026-08-08",
       "seen_count": 4
-    },
-    {
-      "campaign_name": "Halldór úrsmiður AK.",
-      "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 39000,
-      "start_date": "2026-04-20",
-      "end_date": "2026-05-02",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Halldór úrsmiður AK.",
-      "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 45500,
-      "start_date": "2026-04-20",
-      "end_date": "2026-05-02",
-      "seen_count": 1
     },
     {
       "campaign_name": "Halldór úrsmiður AK.",
@@ -3952,22 +3936,6 @@
       "start_date": "2026-04-25",
       "end_date": "2026-05-10",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Tannlækna kynning",
-      "line_item_name": "Tannlækna kynning  Akureyri 21 apríl.",
-      "price": 26000,
-      "start_date": "2026-04-21",
-      "end_date": "2026-04-21",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Tannlækna kynning",
-      "line_item_name": "Tannlækna kynning Akureyri. 23-24 apríl.",
-      "price": 52000,
-      "start_date": "2026-04-23",
-      "end_date": "2026-04-24",
-      "seen_count": 2
     },
     {
       "campaign_name": "Te og kaffi (Kontor)",
