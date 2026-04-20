@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-19T21:12:36.281Z",
+  "generated_at": "2026-04-20T00:34:07.232Z",
   "scope": {
-    "report_start_date": "2026-04-19",
+    "report_start_date": "2026-04-20",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -19,7 +19,7 @@
   "stats": {
     "api_calls": 96,
     "items_seen": 1233,
-    "unique_items": 534,
+    "unique_items": 530,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -439,14 +439,6 @@
       "price": 342000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-02",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Beiersdorf. Eucerin Sun Oil Control",
-      "line_item_name": "Beiersdorf. Eucerin Sun Oil Control",
-      "price": 253200,
-      "start_date": "2026-04-14",
-      "end_date": "2026-04-20",
       "seen_count": 2
     },
     {
@@ -1340,18 +1332,18 @@
     {
       "campaign_name": "BY-L inneign.",
       "line_item_name": "BY-L inneign. 21-22 apríl.",
-      "price": 25000,
-      "start_date": "2026-04-21",
-      "end_date": "2026-04-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "BY-L inneign.",
-      "line_item_name": "BY-L inneign. 21-22 apríl.",
       "price": 47600,
       "start_date": "2026-04-21",
       "end_date": "2026-04-22",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "BY-L inneign.",
+      "line_item_name": "BY-L inneign. 21-22 apríl.",
+      "price": 25000,
+      "start_date": "2026-04-21",
+      "end_date": "2026-04-22",
+      "seen_count": 1
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -1575,7 +1567,7 @@
       "price": 1318100,
       "start_date": "2026-08-17",
       "end_date": "2026-08-23",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "Datera - ágúst 2026",
@@ -2108,14 +2100,6 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 45500,
-      "start_date": "2026-04-20",
-      "end_date": "2026-05-02",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Halldór úrsmiður AK.",
-      "line_item_name": "Halldór úrsmiður Glerártorg.",
       "price": 39000,
       "start_date": "2026-04-20",
       "end_date": "2026-05-02",
@@ -2124,7 +2108,15 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 45500,
+      "start_date": "2026-04-20",
+      "end_date": "2026-05-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Halldór úrsmiður AK.",
+      "line_item_name": "Halldór úrsmiður Glerártorg.",
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2132,7 +2124,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2196,7 +2188,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 67500,
+      "price": 90000,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2204,7 +2196,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 90000,
+      "price": 67500,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2312,14 +2304,6 @@
       "start_date": "2026-03-18",
       "end_date": "2026-04-30",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - apríl 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 19. apríl / 5x1",
-      "price": 32000,
-      "start_date": "2026-04-19",
-      "end_date": "2026-04-19",
-      "seen_count": 2
     },
     {
       "campaign_name": "IKEA / HN - apríl 2026 (500 þús pr. mánuð)",
@@ -2719,7 +2703,7 @@
       "price": 26000,
       "start_date": "2026-11-15",
       "end_date": "2026-11-16",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2727,7 +2711,7 @@
       "price": 26000,
       "start_date": "2026-08-16",
       "end_date": "2026-08-17",
-      "seen_count": 4
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -3211,14 +3195,6 @@
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
-      "line_item_name": "Mjólka Gríska - 19. apríl / 1x1",
-      "price": 7500,
-      "start_date": "2026-04-19",
-      "end_date": "2026-04-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
       "line_item_name": "Mjólka Gríska - 20. apríl / 1x1",
       "price": 7500,
       "start_date": "2026-04-20",
@@ -3431,7 +3407,7 @@
       "price": 50250,
       "start_date": "2026-05-19",
       "end_date": "2026-05-23",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "Pipar LBHÍ",
@@ -3851,14 +3827,6 @@
     },
     {
       "campaign_name": "Smáralind - Gjafakort og ímynd / Datera / 8. til 22. apríl",
-      "line_item_name": "Smáralind - Gjafakort og ímynd / Datera / 19. apríl / 4x1",
-      "price": 27000,
-      "start_date": "2026-04-19",
-      "end_date": "2026-04-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Smáralind - Gjafakort og ímynd / Datera / 8. til 22. apríl",
       "line_item_name": "Smáralind - Gjafakort og ímynd / Datera / 20. apríl / 4x1",
       "price": 27000,
       "start_date": "2026-04-20",
@@ -4247,7 +4215,7 @@
       "price": 236400,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "Wolt. 05-24 maí.",
