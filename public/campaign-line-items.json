@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T12:25:34.242Z",
+  "generated_at": "2026-04-21T15:32:13.634Z",
   "scope": {
     "report_start_date": "2026-04-21",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1239,
-    "unique_items": 534,
+    "items_seen": 1243,
+    "unique_items": 536,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1615,6 +1615,22 @@
       "price": 107000,
       "start_date": "2026-04-21",
       "end_date": "2026-04-21",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dominos 26-27 apríl.",
+      "line_item_name": "Dominos 26 apríl",
+      "price": 62500,
+      "start_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dominos 26-27 apríl.",
+      "line_item_name": "Dominos 27 apríl",
+      "price": 60300,
+      "start_date": "2026-04-27",
+      "end_date": "2026-04-27",
       "seen_count": 2
     },
     {
