@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T15:32:13.634Z",
+  "generated_at": "2026-04-21T18:25:38.724Z",
   "scope": {
     "report_start_date": "2026-04-21",
     "report_end_date": "2099-12-31",
@@ -18,7 +18,7 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1243,
+    "items_seen": 1244,
     "unique_items": 536,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
@@ -3075,11 +3075,11 @@
     },
     {
       "campaign_name": "Media com-Myllan -april",
-      "line_item_name": "Empty- Media com-Myllan -april",
+      "line_item_name": "Media com-Myllan -april",
       "price": 90000,
       "start_date": "2026-04-10",
       "end_date": "2026-04-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Media com-Myllan -april",
