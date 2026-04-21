@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T06:41:31.036Z",
+  "generated_at": "2026-04-21T09:35:19.657Z",
   "scope": {
     "report_start_date": "2026-04-21",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1213,
-    "unique_items": 519,
+    "items_seen": 1219,
+    "unique_items": 522,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1602,6 +1602,30 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Dominos 22-24 apríl.",
+      "line_item_name": "Dominos 22 apríl. Sumartilboð",
+      "price": 67500,
+      "start_date": "2026-04-21",
+      "end_date": "2026-04-21",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dominos 22-24 apríl.",
+      "line_item_name": "Dominos 23 april. Sumartilboð",
+      "price": 68300,
+      "start_date": "2026-04-22",
+      "end_date": "2026-04-22",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dominos 22-24 apríl.",
+      "line_item_name": "Dominos 24 apríl. Sumartilboð",
+      "price": 66500,
+      "start_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Dressmann Glerártorg. 29 apríl-01 maí",
       "line_item_name": "Dressmann Glerártorg. 29 apríl-01 maí",
       "price": 39000,
@@ -2084,7 +2108,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2092,7 +2116,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2172,7 +2196,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 67500,
+      "price": 90000,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2180,7 +2204,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 90000,
+      "price": 67500,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
