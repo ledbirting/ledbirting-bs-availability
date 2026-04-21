@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T09:35:19.657Z",
+  "generated_at": "2026-04-21T12:25:34.242Z",
   "scope": {
     "report_start_date": "2026-04-21",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1219,
-    "unique_items": 522,
+    "items_seen": 1239,
+    "unique_items": 534,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -443,7 +443,7 @@
     },
     {
       "campaign_name": "Barnaheill",
-      "line_item_name": "Barnaheill",
+      "line_item_name": "No pics.... Barnaheill",
       "price": 342000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-02",
@@ -1154,6 +1154,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "BM Vallá / Datera - maí 2026",
+      "line_item_name": "BM Vallá / Datera / Mán, Fim / Höfðabakki og Vesturlandsvegur",
+      "price": 75000,
+      "start_date": "2026-05-06",
+      "end_date": "2026-05-27",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "BM Vallá / Datera - maí 2026",
+      "line_item_name": "BM Vallá / Datera / Mið, Fös / Akureyri og Borgartún",
+      "price": 104000,
+      "start_date": "2026-05-06",
+      "end_date": "2026-05-29",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Bónus / HN - apríl 2026",
       "line_item_name": "Bónus 22. apríl - Mið / 10x1",
       "price": 61000,
@@ -1332,18 +1348,18 @@
     {
       "campaign_name": "BY-L inneign.",
       "line_item_name": "BY-L inneign. 21-22 apríl.",
-      "price": 47600,
-      "start_date": "2026-04-21",
-      "end_date": "2026-04-22",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "BY-L inneign.",
-      "line_item_name": "BY-L inneign. 21-22 apríl.",
       "price": 25000,
       "start_date": "2026-04-21",
       "end_date": "2026-04-22",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "BY-L inneign.",
+      "line_item_name": "BY-L inneign. 21-22 apríl.",
+      "price": 47600,
+      "start_date": "2026-04-21",
+      "end_date": "2026-04-22",
+      "seen_count": 2
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -1602,25 +1618,25 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Dominos 22-24 apríl.",
+      "campaign_name": "Dominos Sumartilboð 22-24 apríl.",
       "line_item_name": "Dominos 22 apríl. Sumartilboð",
       "price": 67500,
-      "start_date": "2026-04-21",
-      "end_date": "2026-04-21",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Dominos 22-24 apríl.",
-      "line_item_name": "Dominos 23 april. Sumartilboð",
-      "price": 68300,
       "start_date": "2026-04-22",
       "end_date": "2026-04-22",
       "seen_count": 2
     },
     {
-      "campaign_name": "Dominos 22-24 apríl.",
+      "campaign_name": "Dominos Sumartilboð 22-24 apríl.",
+      "line_item_name": "Dominos 23 april. Sumartilboð",
+      "price": 60800,
+      "start_date": "2026-04-23",
+      "end_date": "2026-04-23",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dominos Sumartilboð 22-24 apríl.",
       "line_item_name": "Dominos 24 apríl. Sumartilboð",
-      "price": 66500,
+      "price": 74000,
       "start_date": "2026-04-24",
       "end_date": "2026-04-24",
       "seen_count": 2
@@ -2196,7 +2212,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 90000,
+      "price": 67500,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2204,7 +2220,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 67500,
+      "price": 90000,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2911,6 +2927,30 @@
       "price": 34000,
       "start_date": "2026-05-31",
       "end_date": "2026-05-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lyfja maí",
+      "line_item_name": "Lyfja 05-12 maí",
+      "price": 142500,
+      "start_date": "2026-05-05",
+      "end_date": "2026-05-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lyfja maí",
+      "line_item_name": "Lyfja 05-12 maí",
+      "price": 85500,
+      "start_date": "2026-05-05",
+      "end_date": "2026-05-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lyfja maí",
+      "line_item_name": "Lyfja 17-18 maí",
+      "price": 57000,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-18",
       "seen_count": 1
     },
     {
@@ -3874,6 +3914,38 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Sumar kropp  - Nói Siríus / Digido - 22. til 25. apríl",
+      "line_item_name": "Sumar kropp  - Nói Siríus / Digido - 22. apríl 2026",
+      "price": 128500,
+      "start_date": "2026-04-22",
+      "end_date": "2026-04-22",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Sumar kropp  - Nói Siríus / Digido - 22. til 25. apríl",
+      "line_item_name": "Sumar kropp - Nói Siríus / Digido - 23. apríl 2026",
+      "price": 125500,
+      "start_date": "2026-04-23",
+      "end_date": "2026-04-23",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Sumar kropp  - Nói Siríus / Digido - 22. til 25. apríl",
+      "line_item_name": "Sumar kropp - Nói Siríus / Digido - 24. apríl 2026",
+      "price": 138300,
+      "start_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Sumar kropp  - Nói Siríus / Digido - 22. til 25. apríl",
+      "line_item_name": "Sumar kropp - Nói Siríus / Digido - 25. apríl 2026",
+      "price": 161800,
+      "start_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
       "price": 331500,
@@ -4127,6 +4199,30 @@
       "price": 520000,
       "start_date": "2027-06-30",
       "end_date": "2027-07-03",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Vörður - B2B / Digido - 22. apríl til 6. maí",
+      "line_item_name": "Vörður - B2B / Digido / Mán, Fim",
+      "price": 100000,
+      "start_date": "2026-04-22",
+      "end_date": "2026-05-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Vörður - B2B / Digido - 22. apríl til 6. maí",
+      "line_item_name": "Vörður - B2B / Digido / Mið, Lau",
+      "price": 122500,
+      "start_date": "2026-04-22",
+      "end_date": "2026-05-06",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Vörður - B2B / Digido - 22. apríl til 6. maí",
+      "line_item_name": "Vörður - B2B / Digido / Þri, Fös",
+      "price": 82000,
+      "start_date": "2026-04-22",
+      "end_date": "2026-05-06",
       "seen_count": 2
     },
     {
