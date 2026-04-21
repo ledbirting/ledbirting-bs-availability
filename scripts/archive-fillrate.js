@@ -27,6 +27,15 @@ const outJson = path.join(outDir, `${dateISO}.json`);
 const outCsv  = path.join(outDir, `${dateISO}.csv`);
 
 async function getJSON(urlList){
+  const localPath = process.env.SOURCE_FILE;
+  if (localPath && fs.existsSync(localPath)) {
+    try {
+      console.log(`Using local source: ${localPath}`);
+      return JSON.parse(fs.readFileSync(localPath, "utf8"));
+    } catch (e) {
+      console.warn(`Local source ${localPath} failed: ${e.message}`);
+    }
+  }
   const errs = [];
   for (const u of urlList){
     const url = `${u}?_=${Date.now()}`;
