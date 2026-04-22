@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T12:47:23.325Z",
+  "generated_at": "2026-04-22T18:47:46.739Z",
   "scope": {
     "report_start_date": "2026-04-22",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1234,
-    "unique_items": 534,
+    "items_seen": 1263,
+    "unique_items": 549,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -435,7 +435,7 @@
     },
     {
       "campaign_name": "Barnaheill",
-      "line_item_name": "No pics.... Barnaheill",
+      "line_item_name": ". Barnaheill",
       "price": 342000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-02",
@@ -1323,6 +1323,62 @@
     },
     {
       "campaign_name": "BY-L inneign.",
+      "line_item_name": "BY-L 02-23 og 27-30 maí HB-BH",
+      "price": 84000,
+      "start_date": "2026-05-20",
+      "end_date": "2026-05-30",
+      "seen_count": 4
+    },
+    {
+      "campaign_name": "BY-L inneign.",
+      "line_item_name": "BY-L 15 maí. EH-HASMI-GB-VLV:-GRI-KAPLA.-BH",
+      "price": 39000,
+      "start_date": "2026-05-15",
+      "end_date": "2026-05-15",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "BY-L inneign.",
+      "line_item_name": "BY-L 20-21 og 27-28 maí BT",
+      "price": 26000,
+      "start_date": "2026-05-20",
+      "end_date": "2026-05-30",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "BY-L inneign.",
+      "line_item_name": "BY-L 20-23 maí. EH-HASMI-GB-VLV:--GRI.",
+      "price": 125200,
+      "start_date": "2026-05-20",
+      "end_date": "2026-05-23",
+      "seen_count": 4
+    },
+    {
+      "campaign_name": "BY-L inneign.",
+      "line_item_name": "BY-L 27-30 maí. EH-HASMI-GB-VLV:--GRI.",
+      "price": 125200,
+      "start_date": "2026-05-27",
+      "end_date": "2026-05-30",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "BY-L inneign.",
+      "line_item_name": "BY-L 7 maí. EH-HASMI-GB-VLV:-BH1-BT",
+      "price": 35800,
+      "start_date": "2026-05-07",
+      "end_date": "2026-05-07",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "BY-L inneign.",
+      "line_item_name": "BY-L 8 maí. EH-HASMI-GB-VLV:-KAPLA-GRI.",
+      "price": 44300,
+      "start_date": "2026-05-08",
+      "end_date": "2026-05-08",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "BY-L inneign.",
       "line_item_name": "BY-L inneign. 21-22 apríl.",
       "price": 47600,
       "start_date": "2026-04-21",
@@ -1336,6 +1392,14 @@
       "start_date": "2026-04-21",
       "end_date": "2026-04-22",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "BY-L inneign.",
+      "line_item_name": "BY-L14 maí. EH-HASMI-GB-VLV:-GRI-BT-HB",
+      "price": 37000,
+      "start_date": "2026-05-14",
+      "end_date": "2026-05-14",
+      "seen_count": 2
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -1946,7 +2010,7 @@
       "seen_count": 4
     },
     {
-      "campaign_name": "Framsókn - Reykjavík / Digido - 23. apríl til 16. maí 2026",
+      "campaign_name": "Framsókn - Reykjavík / Digido - apríl til maí 2026",
       "line_item_name": "Framsókn / 1. til 16. maí (Breiðholtsbraut)",
       "price": 221760,
       "start_date": "2026-05-01",
@@ -1954,10 +2018,10 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Framsókn - Reykjavík / Digido - 23. apríl til 16. maí 2026",
-      "line_item_name": "Framsókn / 23. til 30. apríl (Breiðholtsbraut)",
-      "price": 79200,
-      "start_date": "2026-04-23",
+      "campaign_name": "Framsókn - Reykjavík / Digido - apríl til maí 2026",
+      "line_item_name": "Framsókn / 27. til 30. apríl (Breiðholtsbraut)",
+      "price": 88000,
+      "start_date": "2026-04-27",
       "end_date": "2026-04-30",
       "seen_count": 1
     },
@@ -2115,16 +2179,16 @@
     },
     {
       "campaign_name": "Happdrætti DAS / Datera - maí 2026",
-      "line_item_name": "DAS / Datera - þri og mið (Breiðholt)",
-      "price": 44000,
+      "line_item_name": "DAS / Datera - mið (Breiðholt)",
+      "price": 22000,
       "start_date": "2026-05-01",
       "end_date": "2026-05-31",
       "seen_count": 2
     },
     {
       "campaign_name": "Happdrætti DAS / Datera - maí 2026",
-      "line_item_name": "DAS / Datera - þri og mið (Hafnartorg og Höfðatorg)",
-      "price": 123200,
+      "line_item_name": "DAS / Datera - þri (Hafnartorg og Höfðatorg)",
+      "price": 68800,
       "start_date": "2026-05-01",
       "end_date": "2026-05-31",
       "seen_count": 2
@@ -2180,7 +2244,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 90000,
+      "price": 67500,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2188,7 +2252,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 67500,
+      "price": 90000,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2802,6 +2866,38 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Ljósið / Datera - maí til júní 2026",
+      "line_item_name": "DAS / Datera - 1. til 20. júní / Mið og Fös (EGI1, GBR Litla)",
+      "price": 30000,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ljósið / Datera - maí til júní 2026",
+      "line_item_name": "DAS / Datera - 18. til 31. mái / Mán, Mið og Fös (EGI1, GBR Litla)",
+      "price": 60000,
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Ljósið / Datera - maí til júní 2026",
+      "line_item_name": "Ljósið / Datera - 1. til 20. júní / Þri og fim Fim (BORG, VES1)",
+      "price": 40000,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ljósið / Datera - maí til júní 2026",
+      "line_item_name": "Ljósið / Datera - 18. til 31. maí / Sun, Þri, Fim og Lau (BORG, VES1)",
+      "price": 107000,
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-31",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Löður - Apríl 2027",
       "line_item_name": "Popup",
       "price": 30000,
@@ -2892,7 +2988,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 142500,
+      "price": 85500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2900,7 +2996,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 85500,
+      "price": 142500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -3964,9 +4060,33 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
+      "price": 91000,
+      "start_date": "2026-05-10",
+      "end_date": "2026-05-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Svens",
+      "line_item_name": "Svens",
       "price": 104000,
       "start_date": "2026-04-25",
       "end_date": "2026-05-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Svens",
+      "line_item_name": "Svens",
+      "price": 13000,
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Svens",
+      "line_item_name": "Svens",
+      "price": 19500,
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
