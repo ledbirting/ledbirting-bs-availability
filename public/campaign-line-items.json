@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T09:57:11.643Z",
+  "generated_at": "2026-04-22T12:47:23.325Z",
   "scope": {
     "report_start_date": "2026-04-22",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1222,
-    "unique_items": 525,
+    "items_seen": 1234,
+    "unique_items": 534,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -2892,7 +2892,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 85500,
+      "price": 142500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2900,7 +2900,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 142500,
+      "price": 85500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -3040,6 +3040,14 @@
       "start_date": "2026-05-04",
       "end_date": "2026-05-15",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Mediacom-Heimkaup",
+      "line_item_name": "Mediacom-Heimkaup",
+      "price": 33600,
+      "start_date": "2026-04-23",
+      "end_date": "2026-04-23",
+      "seen_count": 2
     },
     {
       "campaign_name": "Miðflokkurinn - Akureyri - 9-16 maí",
@@ -3651,17 +3659,81 @@
     },
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
-      "line_item_name": "26 apríl - 13 maí -",
-      "price": 1194400,
+      "line_item_name": "01-13 maí Einhella. - fjarðarhraun.",
+      "price": 115500,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
+      "line_item_name": "06 -13 maí Hæðasmári.",
+      "price": 38500,
+      "start_date": "2026-05-07",
+      "end_date": "2026-05-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
+      "line_item_name": "26 apríl - 13 maí - Akueryri-Garðabær-Selfoss-Reykjanesbær",
+      "price": 444000,
       "start_date": "2026-04-26",
       "end_date": "2026-05-13",
       "seen_count": 2
     },
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
-      "line_item_name": "26 apríl -13 maí -",
-      "price": 1471000,
+      "line_item_name": "26 apríl -13 maí - Akureyri-Garðabær-Selfoss-Reykjanesbær.",
+      "price": 555000,
       "start_date": "2026-04-26",
+      "end_date": "2026-05-13",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
+      "line_item_name": "28 apríl - 13 maí - Borgartún Egilshöll",
+      "price": 11500,
+      "start_date": "2026-04-28",
+      "end_date": "2026-04-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
+      "line_item_name": "28 apríl - 13 maí - Borgartún Egilshöll",
+      "price": 161000,
+      "start_date": "2026-04-30",
+      "end_date": "2026-05-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
+      "line_item_name": "28 apríl - 13 maí - Grandi",
+      "price": 15000,
+      "start_date": "2026-04-28",
+      "end_date": "2026-04-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
+      "line_item_name": "28 apríl - 13 maí - Grandi",
+      "price": 97500,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
+      "line_item_name": "28 apríl - 13 maí - Reykjavík",
+      "price": 138600,
+      "start_date": "2026-04-28",
+      "end_date": "2026-05-13",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
+      "line_item_name": "28 apríl - 13 maí - Reykjavík.",
+      "price": 252000,
+      "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 2
     },
