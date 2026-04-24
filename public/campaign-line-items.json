@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T12:24:32.736Z",
+  "generated_at": "2026-04-24T15:29:23.334Z",
   "scope": {
     "report_start_date": "2026-04-24",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1243,
-    "unique_items": 541,
+    "items_seen": 1245,
+    "unique_items": 543,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -52,7 +52,7 @@
     {
       "campaign_name": "Afreksverk - Hafnartorg",
       "line_item_name": "Afreksverk - Hafnartorg- Júní",
-      "price": 145000,
+      "price": 217500,
       "start_date": "2026-06-01",
       "end_date": "2026-06-29",
       "seen_count": 2
@@ -60,7 +60,7 @@
     {
       "campaign_name": "Afreksverk - Hafnartorg",
       "line_item_name": "Maí",
-      "price": 145000,
+      "price": 217500,
       "start_date": "2026-05-01",
       "end_date": "2026-05-29",
       "seen_count": 2
@@ -2011,7 +2011,7 @@
     },
     {
       "campaign_name": "Framsókn á Akureyri - maí 2026",
-      "line_item_name": "Framsókn á Akureyri - 1. til 16. maí (KA heimilið)",
+      "line_item_name": "Framsókn á Akureyri - 1. til 16. maí (KA heimilið#1)",
       "price": 104000,
       "start_date": "2026-05-01",
       "end_date": "2026-05-16",
@@ -2027,10 +2027,26 @@
     },
     {
       "campaign_name": "Framsókn á Akureyri - maí 2026",
+      "line_item_name": "Framsókn á Akureyri - 1. til 9. maí (KA heimilið#2)",
+      "price": 58500,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Framsókn á Akureyri - maí 2026",
       "line_item_name": "Framsókn á Akureyri - 10. maí (Glerártorg)",
       "price": 13000,
       "start_date": "2026-05-10",
       "end_date": "2026-05-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Framsókn á Akureyri - maí 2026",
+      "line_item_name": "Framsókn á Akureyri - 10. til 16. maí (KA heimilið#2)",
+      "price": 39000,
+      "start_date": "2026-05-10",
+      "end_date": "2026-05-16",
       "seen_count": 1
     },
     {
@@ -2059,7 +2075,7 @@
     },
     {
       "campaign_name": "Framsókn á Akureyri - maí 2026",
-      "line_item_name": "Framsókn á Akureyri - 14. maí (Glerártorg)",
+      "line_item_name": "Framsókn á Akureyri - 13. maí (Glerártorg)",
       "price": 5752.5,
       "start_date": "2026-05-14",
       "end_date": "2026-05-14",
@@ -3100,7 +3116,7 @@
     {
       "campaign_name": "Media com-Myllan -april",
       "line_item_name": "Media com-Myllan -april",
-      "price": 148500,
+      "price": 90000,
       "start_date": "2026-04-10",
       "end_date": "2026-04-30",
       "seen_count": 2
@@ -3108,7 +3124,7 @@
     {
       "campaign_name": "Media com-Myllan -april",
       "line_item_name": "Media com-Myllan -april",
-      "price": 90000,
+      "price": 148500,
       "start_date": "2026-04-10",
       "end_date": "2026-04-30",
       "seen_count": 2
