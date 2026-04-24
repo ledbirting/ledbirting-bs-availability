@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T15:29:23.334Z",
+  "generated_at": "2026-04-24T18:17:26.458Z",
   "scope": {
     "report_start_date": "2026-04-24",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1245,
-    "unique_items": 543,
+    "items_seen": 1247,
+    "unique_items": 544,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -2231,6 +2231,14 @@
       "price": 68800,
       "start_date": "2026-05-01",
       "end_date": "2026-05-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Hassan Dekk ehf ‐",
+      "line_item_name": "Hassan Dekk ehf ‐",
+      "price": 140000,
+      "start_date": "2026-04-24",
+      "end_date": "2026-05-07",
       "seen_count": 2
     },
     {
