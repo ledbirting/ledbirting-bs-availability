@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-24T21:19:24.024Z",
+  "generated_at": "2026-04-25T00:33:04.349Z",
   "scope": {
-    "report_start_date": "2026-04-24",
+    "report_start_date": "2026-04-25",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1247,
-    "unique_items": 544,
+    "items_seen": 1226,
+    "unique_items": 532,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -104,14 +104,6 @@
       "start_date": "2026-05-09",
       "end_date": "2026-05-16",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Apótekarinn / HN - apríl 2026",
-      "line_item_name": "Apótekarinn / HN - 24. apríl / 4x1",
-      "price": 24000,
-      "start_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "seen_count": 2
     },
     {
       "campaign_name": "Apótekarinn / HN - apríl 2026",
@@ -1043,22 +1035,6 @@
     },
     {
       "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir Þór/KA. 24 apríl",
-      "price": 6500,
-      "start_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir Þór/KA. 25 apríl",
-      "price": 6500,
-      "start_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
       "line_item_name": "Heimaleikir Þór/KA. 28 ágúst.",
       "price": 6500,
       "start_date": "2026-08-28",
@@ -1127,14 +1103,6 @@
       "price": 104000,
       "start_date": "2026-05-06",
       "end_date": "2026-05-29",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Bónus / HN - apríl 2026",
-      "line_item_name": "Bónus 24. apríl - Fös / 9x1",
-      "price": 54500,
-      "start_date": "2026-04-24",
-      "end_date": "2026-04-24",
       "seen_count": 2
     },
     {
@@ -1507,14 +1475,6 @@
     },
     {
       "campaign_name": "Danól. Nesquik Andrés Andar leikarnir.",
-      "line_item_name": "Danól. Nesquik Andrés Andar leikarnir.24 apríl.",
-      "price": 26000,
-      "start_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Danól. Nesquik Andrés Andar leikarnir.",
       "line_item_name": "Danól. Nesquik Andrés Andar leikarnir.25 apríl.",
       "price": 26000,
       "start_date": "2026-04-25",
@@ -1535,14 +1495,6 @@
       "price": 2259600,
       "start_date": "2026-08-24",
       "end_date": "2026-08-29",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Dekkjahöllin á Akureyri / Askja - Apríl 2026",
-      "line_item_name": "Dekkjahöllin - Mán, Þri, Fös",
-      "price": 39000,
-      "start_date": "2026-04-20",
-      "end_date": "2026-04-24",
       "seen_count": 2
     },
     {
@@ -1567,14 +1519,6 @@
       "price": 60300,
       "start_date": "2026-04-27",
       "end_date": "2026-04-27",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Dominos Sumartilboð 22-24 apríl.",
-      "line_item_name": "Dominos 24 apríl. Sumartilboð",
-      "price": 74000,
-      "start_date": "2026-04-24",
-      "end_date": "2026-04-24",
       "seen_count": 2
     },
     {
@@ -2087,7 +2031,7 @@
       "price": 2998498.5,
       "start_date": "2024-09-23",
       "end_date": "2027-06-18",
-      "seen_count": 15
+      "seen_count": 14
     },
     {
       "campaign_name": "Frumherji - á Frumherja Selfossi",
@@ -2117,14 +2061,6 @@
       "campaign_name": "Gæludýr / Hvíta húsið - apríl 2026",
       "line_item_name": "Gæludýr / 1. til 30. apríl / Fim / AKU1, KAP1",
       "price": 72500,
-      "start_date": "2026-04-01",
-      "end_date": "2026-04-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Gæludýr / Hvíta húsið - apríl 2026",
-      "line_item_name": "Gæludýr / 1. til 30. apríl / Fös / AKU1, KAP2",
-      "price": 58000,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2196,7 +2132,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2204,7 +2140,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2392,14 +2328,6 @@
       "start_date": "2026-03-18",
       "end_date": "2026-04-30",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - apríl 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 24. apríl / 4x1",
-      "price": 27000,
-      "start_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "seen_count": 2
     },
     {
       "campaign_name": "IKEA / HN - apríl 2026 (500 þús pr. mánuð)",
@@ -3283,14 +3211,6 @@
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
-      "line_item_name": "Mjólka Gríska - 24. apríl / 1x1",
-      "price": 6500,
-      "start_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
       "line_item_name": "Mjólka Gríska - 25. apríl / 2x1",
       "price": 14000,
       "start_date": "2026-04-25",
@@ -3895,7 +3815,7 @@
       "price": 91000,
       "start_date": "2026-05-11",
       "end_date": "2026-05-24",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Sérefni - langtímasamningur Glerártorgi 2026",
@@ -3956,14 +3876,6 @@
     {
       "campaign_name": "Sólar apríl  Birtingahúsið.",
       "line_item_name": "Sólar apríl  Birtingahúsið.",
-      "price": 119400,
-      "start_date": "2026-04-19",
-      "end_date": "2026-04-25",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sólar apríl  Birtingahúsið.",
-      "line_item_name": "Sólar apríl  Birtingahúsið.",
       "price": 48000,
       "start_date": "2026-04-26",
       "end_date": "2026-04-30",
@@ -3991,14 +3903,6 @@
       "price": 176400,
       "start_date": "2026-05-17",
       "end_date": "2026-05-20",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Sumar kropp  - Nói Siríus / Digido - 22. til 25. apríl",
-      "line_item_name": "Sumar kropp - Nói Siríus / Digido - 24. apríl 2026",
-      "price": 138300,
-      "start_date": "2026-04-24",
-      "end_date": "2026-04-24",
       "seen_count": 2
     },
     {
@@ -4036,17 +3940,17 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 13000,
+      "price": 19500,
       "start_date": "2026-05-11",
-      "end_date": "2026-05-12",
+      "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 19500,
+      "price": 13000,
       "start_date": "2026-05-11",
-      "end_date": "2026-05-13",
+      "end_date": "2026-05-12",
       "seen_count": 1
     },
     {
