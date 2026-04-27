@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-26T21:13:48.518Z",
+  "generated_at": "2026-04-27T00:36:36.322Z",
   "scope": {
-    "report_start_date": "2026-04-26",
+    "report_start_date": "2026-04-27",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1197,
-    "unique_items": 517,
+    "items_seen": 1183,
+    "unique_items": 509,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -715,14 +715,6 @@
     },
     {
       "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir KA. 26 apríl",
-      "price": 6500,
-      "start_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
       "line_item_name": "Heimaleikir KA. 26 júlí",
       "price": 6500,
       "start_date": "2026-07-26",
@@ -1399,7 +1391,7 @@
       "price": 126000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-25",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -1407,7 +1399,7 @@
       "price": 60000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-25",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -1415,7 +1407,7 @@
       "price": 212000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-28",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -1471,7 +1463,7 @@
       "price": 2259600,
       "start_date": "2026-08-24",
       "end_date": "2026-08-29",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "Dekkjasalan-Birtingahúsið.",
@@ -1480,14 +1472,6 @@
       "start_date": "2026-04-09",
       "end_date": "2026-04-30",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Dominos 26-27 apríl.",
-      "line_item_name": "Dominos 26 apríl Netdagar",
-      "price": 62500,
-      "start_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "seen_count": 2
     },
     {
       "campaign_name": "Dominos 26-27 apríl.",
@@ -1639,7 +1623,7 @@
       "price": 60000,
       "start_date": "2026-08-24",
       "end_date": "2026-08-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Farmers Market - 2026 - Grandi",
@@ -2103,7 +2087,7 @@
       "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Halldór úrsmiður AK.",
@@ -2135,7 +2119,7 @@
       "price": 68800,
       "start_date": "2026-05-01",
       "end_date": "2026-05-31",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Hassan Dekk ehf ‐",
@@ -2295,14 +2279,6 @@
       "price": 748000,
       "start_date": "2026-03-18",
       "end_date": "2026-04-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - apríl 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 26. apríl / 4x1",
-      "price": 24500,
-      "start_date": "2026-04-26",
-      "end_date": "2026-04-26",
       "seen_count": 1
     },
     {
@@ -2876,7 +2852,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 85500,
+      "price": 142500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2884,7 +2860,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 142500,
+      "price": 85500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2936,14 +2912,6 @@
       "start_date": "2026-05-01",
       "end_date": "2026-05-16",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Media com -Boozt vika  17",
-      "line_item_name": "Media com -Boozt vika 15",
-      "price": 234500,
-      "start_date": "2026-04-20",
-      "end_date": "2026-04-26",
-      "seen_count": 2
     },
     {
       "campaign_name": "Media com -Boozt vika  19",
@@ -3163,14 +3131,6 @@
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
-      "line_item_name": "Mjólka Gríska - 26. apríl / 2x1",
-      "price": 14000,
-      "start_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
       "line_item_name": "Mjólka Gríska - 27. apríl / 2x1",
       "price": 14000,
       "start_date": "2026-04-27",
@@ -3370,14 +3330,6 @@
       "seen_count": 4
     },
     {
-      "campaign_name": "Reykjagarður Birtingahúsið.",
-      "line_item_name": "Reykjagarður Birtingahúsið.",
-      "price": 196000,
-      "start_date": "2026-04-21",
-      "end_date": "2026-04-26",
-      "seen_count": 2
-    },
-    {
       "campaign_name": "Reykjastræti - Fast í Hafnartorgi",
       "line_item_name": "Reykjastræti - Fast í Hafnartorgi",
       "price": 0,
@@ -3392,14 +3344,6 @@
       "start_date": "2026-04-01",
       "end_date": "2026-04-29",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Saffran - Akureyri - Andrés andar leikarnir",
-      "line_item_name": "Saffran - Akureyri - Andrés",
-      "price": 45500,
-      "start_date": "2026-04-20",
-      "end_date": "2026-04-26",
-      "seen_count": 2
     },
     {
       "campaign_name": "Sahara-Earth Lagoon",
@@ -3723,14 +3667,6 @@
     },
     {
       "campaign_name": "Sérefni - langtímasamningur Glerártorgi 2026",
-      "line_item_name": "Sérefni - Glerártorg 13-26. apríl",
-      "price": 91000,
-      "start_date": "2026-04-13",
-      "end_date": "2026-04-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sérefni - langtímasamningur Glerártorgi 2026",
       "line_item_name": "Sérefni - Glerártorg júlí",
       "price": 201500,
       "start_date": "2026-07-01",
@@ -3911,7 +3847,7 @@
       "price": 52000,
       "start_date": "2026-06-01",
       "end_date": "2026-06-30",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Verkfærasalan Akureyri langtima",
