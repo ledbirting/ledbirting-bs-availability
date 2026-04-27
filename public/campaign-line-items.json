@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T06:57:02.447Z",
+  "generated_at": "2026-04-27T09:48:57.867Z",
   "scope": {
     "report_start_date": "2026-04-27",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1183,
-    "unique_items": 509,
+    "items_seen": 1221,
+    "unique_items": 531,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -59,7 +59,23 @@
     },
     {
       "campaign_name": "Afreksverk - Hafnartorg",
-      "line_item_name": "Maí",
+      "line_item_name": "Ágúst",
+      "price": 187500,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-29",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Afreksverk - Hafnartorg",
+      "line_item_name": "Júlí",
+      "price": 187500,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-29",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Afreksverk - Hafnartorg",
+      "line_item_name": "maí",
       "price": 217500,
       "start_date": "2026-05-01",
       "end_date": "2026-05-29",
@@ -2202,6 +2218,94 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Hreyfing / HN - apríl til maí '26",
+      "line_item_name": "Hreyfing / 1. maí / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 19500,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-01",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Hreyfing / HN - apríl til maí '26",
+      "line_item_name": "Hreyfing / 2. maí / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 19500,
+      "start_date": "2026-05-02",
+      "end_date": "2026-05-02",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Hreyfing / HN - apríl til maí '26",
+      "line_item_name": "Hreyfing / 27. apríl / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 18000.94,
+      "start_date": "2026-04-27",
+      "end_date": "2026-04-27",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Hreyfing / HN - apríl til maí '26",
+      "line_item_name": "Hreyfing / 28. apríl / BORG, GRA, GBR Litlatún / 3x2",
+      "price": 39000,
+      "start_date": "2026-04-28",
+      "end_date": "2026-04-28",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Hreyfing / HN - apríl til maí '26",
+      "line_item_name": "Hreyfing / 29. apríl / GRA, GBR Litlatún / 2x2",
+      "price": 26000,
+      "start_date": "2026-04-29",
+      "end_date": "2026-04-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - apríl til maí '26",
+      "line_item_name": "Hreyfing / 3. maí / BORG, GBR Litlatún / 3x2",
+      "price": 39000,
+      "start_date": "2026-05-03",
+      "end_date": "2026-05-03",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Hreyfing / HN - apríl til maí '26",
+      "line_item_name": "Hreyfing / 30. apríl / BORG, GBR Litlatún / 2x1",
+      "price": 12000,
+      "start_date": "2026-04-30",
+      "end_date": "2026-04-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - apríl til maí '26",
+      "line_item_name": "Hreyfing / 4. maí / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 19500,
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-04",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Hreyfing / HN - apríl til maí '26",
+      "line_item_name": "Hreyfing / 5. maí / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 19500,
+      "start_date": "2026-05-05",
+      "end_date": "2026-05-05",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Hreyfing / HN - apríl til maí '26",
+      "line_item_name": "Hreyfing / 6. maí / BORG, GBR Litlatún / 2x1",
+      "price": 12000,
+      "start_date": "2026-05-06",
+      "end_date": "2026-05-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - apríl til maí '26",
+      "line_item_name": "Hreyfing / 7. maí / BORG, GBR Litlatún / 2x2",
+      "price": 12000,
+      "start_date": "2026-05-07",
+      "end_date": "2026-05-07",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Icelandair  / Hvíta húsið - Glerártorgi",
       "line_item_name": "Icelandair - Glerártorgi - ágúst 2026",
       "price": 201500,
@@ -2852,7 +2956,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 85500,
+      "price": 142500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2860,7 +2964,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 142500,
+      "price": 85500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -3130,6 +3234,46 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 6500,
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 19500,
+      "start_date": "2026-05-12",
+      "end_date": "2026-05-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 234000,
+      "start_date": "2026-05-17",
+      "end_date": "2026-06-30",
+      "seen_count": 3
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 468000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-09-30",
+      "seen_count": 4
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 143000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-31",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
       "line_item_name": "Mjólka Gríska - 27. apríl / 2x1",
       "price": 14000,
@@ -3188,6 +3332,22 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "price": 864000,
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-12",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "price": 110000,
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "price": 1017900,
       "start_date": "2026-05-01",
       "end_date": "2026-05-13",
@@ -3208,6 +3368,22 @@
       "start_date": "2026-05-13",
       "end_date": "2026-05-16",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "price": 1248000,
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "price": 140000,
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-10",
+      "seen_count": 1
     },
     {
       "campaign_name": "Orkan - Apríl 2026",
@@ -3772,17 +3948,17 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 13000,
+      "price": 19500,
       "start_date": "2026-05-11",
-      "end_date": "2026-05-12",
+      "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 19500,
+      "price": 13000,
       "start_date": "2026-05-11",
-      "end_date": "2026-05-13",
+      "end_date": "2026-05-12",
       "seen_count": 1
     },
     {
