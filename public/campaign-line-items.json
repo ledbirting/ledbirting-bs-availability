@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T09:48:57.867Z",
+  "generated_at": "2026-04-27T12:35:35.006Z",
   "scope": {
     "report_start_date": "2026-04-27",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1221,
-    "unique_items": 531,
+    "items_seen": 1230,
+    "unique_items": 534,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1706,7 +1706,7 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "FÍH - HN / maí 2026",
+      "campaign_name": "FÍH - Félag íslenskra hjúkrunarfræðinga - HN / maí 2026",
       "line_item_name": "FÍH - HN  / 4. maí - 5x1",
       "price": 33000,
       "start_date": "2026-05-04",
@@ -1714,7 +1714,7 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "FÍH - HN / maí 2026",
+      "campaign_name": "FÍH - Félag íslenskra hjúkrunarfræðinga - HN / maí 2026",
       "line_item_name": "FÍH - HN / 25. maí - 5x1",
       "price": 35300,
       "start_date": "2026-05-25",
@@ -1722,7 +1722,7 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "FÍH - HN / maí 2026",
+      "campaign_name": "FÍH - Félag íslenskra hjúkrunarfræðinga - HN / maí 2026",
       "line_item_name": "FÍH - HN / 26. maí - 5x1",
       "price": 34000,
       "start_date": "2026-05-26",
@@ -1730,7 +1730,7 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "FÍH - HN / maí 2026",
+      "campaign_name": "FÍH - Félag íslenskra hjúkrunarfræðinga - HN / maí 2026",
       "line_item_name": "FÍH - HN / 27. maí - 5x1",
       "price": 31000,
       "start_date": "2026-05-27",
@@ -1738,7 +1738,7 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "FÍH - HN / maí 2026",
+      "campaign_name": "FÍH - Félag íslenskra hjúkrunarfræðinga - HN / maí 2026",
       "line_item_name": "FÍH - HN / 28. maí - 5x1",
       "price": 32500,
       "start_date": "2026-05-28",
@@ -1746,7 +1746,7 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "FÍH - HN / maí 2026",
+      "campaign_name": "FÍH - Félag íslenskra hjúkrunarfræðinga - HN / maí 2026",
       "line_item_name": "FÍH - HN / 29. maí - 5x1",
       "price": 31000,
       "start_date": "2026-05-29",
@@ -1754,7 +1754,7 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "FÍH - HN / maí 2026",
+      "campaign_name": "FÍH - Félag íslenskra hjúkrunarfræðinga - HN / maí 2026",
       "line_item_name": "FÍH - HN / 5. maí - 5x1",
       "price": 35000,
       "start_date": "2026-05-05",
@@ -1762,7 +1762,7 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "FÍH - HN / maí 2026",
+      "campaign_name": "FÍH - Félag íslenskra hjúkrunarfræðinga - HN / maí 2026",
       "line_item_name": "FÍH - HN / 6. maí - 5x1",
       "price": 29500,
       "start_date": "2026-05-06",
@@ -1770,7 +1770,7 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "FÍH - HN / maí 2026",
+      "campaign_name": "FÍH - Félag íslenskra hjúkrunarfræðinga - HN / maí 2026",
       "line_item_name": "FÍH - HN / 7. maí - 5x1",
       "price": 29800,
       "start_date": "2026-05-07",
@@ -1778,7 +1778,7 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "FÍH - HN / maí 2026",
+      "campaign_name": "FÍH - Félag íslenskra hjúkrunarfræðinga - HN / maí 2026",
       "line_item_name": "FÍH - HN / 8. maí - 5x1",
       "price": 30000,
       "start_date": "2026-05-08",
@@ -1907,9 +1907,9 @@
     },
     {
       "campaign_name": "Framsókn - Reykjavík / Digido - apríl til maí 2026",
-      "line_item_name": "Framsókn / 27. til 30. apríl (Breiðholtsbraut)",
-      "price": 88000,
-      "start_date": "2026-04-27",
+      "line_item_name": "Framsókn / 29. til 30. apríl (Breiðholtsbraut)",
+      "price": 44000,
+      "start_date": "2026-04-29",
       "end_date": "2026-04-30",
       "seen_count": 1
     },
@@ -2140,10 +2140,10 @@
     {
       "campaign_name": "Hassan Dekk ehf ‐",
       "line_item_name": "Hassan Dekk ehf ‐",
-      "price": 140000,
+      "price": 175000,
       "start_date": "2026-04-24",
       "end_date": "2026-05-07",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Healing in Iceland - Hæðasmári",
@@ -2956,7 +2956,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 142500,
+      "price": 85500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2964,7 +2964,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 85500,
+      "price": 142500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -3076,7 +3076,7 @@
     {
       "campaign_name": "Media com-Myllan -april",
       "line_item_name": "Media com-Myllan -april",
-      "price": 148500,
+      "price": 90000,
       "start_date": "2026-04-10",
       "end_date": "2026-04-30",
       "seen_count": 2
@@ -3084,7 +3084,7 @@
     {
       "campaign_name": "Media com-Myllan -april",
       "line_item_name": "Media com-Myllan -april",
-      "price": 90000,
+      "price": 148500,
       "start_date": "2026-04-10",
       "end_date": "2026-04-30",
       "seen_count": 2
@@ -3983,6 +3983,30 @@
       "price": 170400,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Varmi - maí/júní/júlí",
+      "line_item_name": "Varmi - júlí",
+      "price": 182700,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-31",
+      "seen_count": 4
+    },
+    {
+      "campaign_name": "Varmi - maí/júní/júlí",
+      "line_item_name": "Varmi - júní",
+      "price": 182700,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-29",
+      "seen_count": 4
+    },
+    {
+      "campaign_name": "Varmi - maí/júní/júlí",
+      "line_item_name": "Varmi - maí",
+      "price": 162900,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-31",
       "seen_count": 2
     },
     {
