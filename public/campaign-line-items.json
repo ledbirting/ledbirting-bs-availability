@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T18:30:58.309Z",
+  "generated_at": "2026-04-27T21:25:28.661Z",
   "scope": {
     "report_start_date": "2026-04-27",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1247,
-    "unique_items": 543,
+    "items_seen": 1256,
+    "unique_items": 548,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1570,6 +1570,46 @@
       "seen_count": 11
     },
     {
+      "campaign_name": "Ennemm ÖBÍ",
+      "line_item_name": "Ennemm ÖBÍ. -HB2-VMEY-AK1-BT-FJH-HSMI-KSPLA3- GB-VLV1-SMT 2/4/9/16 maí",
+      "price": 306500,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-16",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Ennemm ÖBÍ",
+      "line_item_name": "Ennemm ÖBÍ. BH2-GLT2- H0FT-KAPLA3-GB-SFS-SMT-VLV1 5/7 maí",
+      "price": 115600,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-09",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Ennemm ÖBÍ",
+      "line_item_name": "Ennemm ÖBÍ. GRI-KAPLA1-GB-SFS1-VMEY-VLV2 12 maí",
+      "price": 41000,
+      "start_date": "2026-05-12",
+      "end_date": "2026-05-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ennemm ÖBÍ",
+      "line_item_name": "Ennemm ÖBÍ.AK-BT-EH1-GRI-HAFT.  10 maí",
+      "price": 28000,
+      "start_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Ennemm ÖBÍ",
+      "line_item_name": "Ennemm ÖBÍ.BT-BH1-KAPLA1SFS-AK2 GRI-KAPLA1 14 maí",
+      "price": 40500,
+      "start_date": "2026-05-14",
+      "end_date": "2026-05-14",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Exit Club - Mars og Apríl",
       "line_item_name": "Exit Club - Austersræti",
       "price": 322500,
@@ -2196,7 +2236,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 90000,
+      "price": 67500,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2204,7 +2244,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 67500,
+      "price": 90000,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -3004,7 +3044,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 142500,
+      "price": 85500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -3012,7 +3052,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 85500,
+      "price": 142500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -3404,18 +3444,18 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 110000,
-      "start_date": "2026-04-27",
-      "end_date": "2026-05-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "price": 864000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-12",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "price": 110000,
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-16",
+      "seen_count": 1
     },
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
