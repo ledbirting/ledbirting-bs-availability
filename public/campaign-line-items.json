@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T06:57:53.859Z",
+  "generated_at": "2026-04-28T09:49:45.431Z",
   "scope": {
     "report_start_date": "2026-04-28",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1230,
-    "unique_items": 535,
+    "items_seen": 1232,
+    "unique_items": 537,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -2834,6 +2834,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Krónan. auka júní.",
+      "line_item_name": "Krónan. auka júní.10-14 Smáratorg x 6",
+      "price": 330000,
+      "start_date": "2026-06-10",
+      "end_date": "2026-06-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Krónan. auka júní.",
+      "line_item_name": "Krónan. auka júní.12 Smáratorg, Hagasmári Yfirtaka",
+      "price": 237000,
+      "start_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "L-listinn Akureyri kosningar 2026",
       "line_item_name": "L-listinn Akureyri kosningar 2026",
       "price": 364000,
@@ -3772,7 +3788,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík.",
-      "price": 252000,
+      "price": 245700,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 2
