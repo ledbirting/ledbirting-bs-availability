@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T04:15:25.231Z",
+  "generated_at": "2026-04-29T06:52:56.956Z",
   "scope": {
     "report_start_date": "2026-04-29",
     "report_end_date": "2099-12-31",
@@ -2220,7 +2220,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -2228,7 +2228,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -3180,7 +3180,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 85500,
+      "price": 142500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -3188,7 +3188,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 142500,
+      "price": 85500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -3388,7 +3388,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 16. maí",
-      "price": 51800,
+      "price": 36300,
       "start_date": "2026-05-16",
       "end_date": "2026-05-16",
       "seen_count": 2
@@ -3396,7 +3396,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 16. maí",
-      "price": 36300,
+      "price": 51800,
       "start_date": "2026-05-16",
       "end_date": "2026-05-16",
       "seen_count": 2
@@ -3412,7 +3412,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 4. maí",
-      "price": 46800,
+      "price": 36300,
       "start_date": "2026-05-04",
       "end_date": "2026-05-04",
       "seen_count": 2
@@ -3420,7 +3420,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 4. maí",
-      "price": 36300,
+      "price": 46800,
       "start_date": "2026-05-04",
       "end_date": "2026-05-04",
       "seen_count": 2
