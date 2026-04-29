@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T12:36:09.975Z",
+  "generated_at": "2026-04-29T15:42:02.824Z",
   "scope": {
     "report_start_date": "2026-04-29",
     "report_end_date": "2099-12-31",
@@ -17,9 +17,9 @@
     "truncated": true
   },
   "stats": {
-    "api_calls": 96,
-    "items_seen": 700,
-    "unique_items": 417,
+    "api_calls": 97,
+    "items_seen": 717,
+    "unique_items": 434,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -244,7 +244,7 @@
     {
       "campaign_name": "Apótekarinn / HN - maí 2026",
       "line_item_name": "Apótekarinn / HN - 5. maí / 3x1",
-      "price": 19000,
+      "price": 18000,
       "start_date": "2026-05-05",
       "end_date": "2026-05-05",
       "seen_count": 1
@@ -252,7 +252,7 @@
     {
       "campaign_name": "Apótekarinn / HN - maí 2026",
       "line_item_name": "Apótekarinn / HN - 6. maí / 3x1",
-      "price": 21500,
+      "price": 20500,
       "start_date": "2026-05-06",
       "end_date": "2026-05-06",
       "seen_count": 1
@@ -1074,6 +1074,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "EIK_Glerartorg 1 mai 2026",
+      "line_item_name": "EIK_Glerartorg 1 mai 2026",
+      "price": 0,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-01",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "ELKO 08-18 maí.",
       "line_item_name": "ELKO 08 maí BH1-EH1-HB1-GB-KAPLA3",
       "price": 29000,
@@ -1131,10 +1139,10 @@
     },
     {
       "campaign_name": "Ennemm ÖBÍ",
-      "line_item_name": "Ennemm ÖBÍ. -HB2-VMEY-AK1-BT-FJH-HSMI-KSPLA3- GB-VLV1-SMT 2/4/9/16 maí",
-      "price": 306500,
+      "line_item_name": "Copy_of_Ennemm ÖBÍ. -HB2-VMEY-AK1-BT-FJH-HSMI-KSPLA3- GB-VLV1-SMT 2/4 maí",
+      "price": 122600,
       "start_date": "2026-05-01",
-      "end_date": "2026-05-16",
+      "end_date": "2026-05-07",
       "seen_count": 1
     },
     {
@@ -1143,30 +1151,6 @@
       "price": 115600,
       "start_date": "2026-05-01",
       "end_date": "2026-05-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ennemm ÖBÍ",
-      "line_item_name": "Ennemm ÖBÍ. GRI-KAPLA1-GB-SFS1-VMEY-VLV2 12 maí",
-      "price": 41000,
-      "start_date": "2026-05-12",
-      "end_date": "2026-05-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ennemm ÖBÍ",
-      "line_item_name": "Ennemm ÖBÍ.AK-BT-EH1-GRI-HAFT.  10 maí",
-      "price": 28000,
-      "start_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ennemm ÖBÍ",
-      "line_item_name": "Ennemm ÖBÍ.BT-BH1-KAPLA1SFS-AK2 GRI-KAPLA1 14 maí",
-      "price": 40500,
-      "start_date": "2026-05-14",
-      "end_date": "2026-05-14",
       "seen_count": 1
     },
     {
@@ -1604,7 +1588,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -1612,7 +1596,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -1716,7 +1700,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 90000,
+      "price": 67500,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -1724,7 +1708,7 @@
     {
       "campaign_name": "Híbýli apríl.",
       "line_item_name": "Híbýli apríl. Grandi",
-      "price": 67500,
+      "price": 90000,
       "start_date": "2026-04-01",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2268,7 +2252,7 @@
     {
       "campaign_name": "Lottó 65M - Getspá  / Ennemm - 1. til 2. maí",
       "line_item_name": "Lottó 65M - Getspá  / Ennemm - 1. maí",
-      "price": 97000,
+      "price": 102000,
       "start_date": "2026-05-01",
       "end_date": "2026-05-01",
       "seen_count": 1
@@ -2276,7 +2260,7 @@
     {
       "campaign_name": "Lottó 65M - Getspá  / Ennemm - 1. til 2. maí",
       "line_item_name": "Lottó 65M - Getspá  / Ennemm - 2. maí",
-      "price": 64125,
+      "price": 60000,
       "start_date": "2026-05-02",
       "end_date": "2026-05-02",
       "seen_count": 1
@@ -2340,7 +2324,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 85500,
+      "price": 142500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2348,7 +2332,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 142500,
+      "price": 85500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2428,7 +2412,7 @@
     {
       "campaign_name": "Media com-Myllan -april",
       "line_item_name": "Media com-Myllan -april",
-      "price": 90000,
+      "price": 148500,
       "start_date": "2026-04-10",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2436,7 +2420,7 @@
     {
       "campaign_name": "Media com-Myllan -april",
       "line_item_name": "Media com-Myllan -april",
-      "price": 148500,
+      "price": 90000,
       "start_date": "2026-04-10",
       "end_date": "2026-04-30",
       "seen_count": 1
@@ -2602,6 +2586,142 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
+      "line_item_name": "Mjólka Gríska - 1. maí / 2x1",
+      "price": 14000,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
+      "line_item_name": "Mjólka Gríska - 10. maí / 1x1",
+      "price": 7500,
+      "start_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
+      "line_item_name": "Mjólka Gríska - 17. maí / 2x1",
+      "price": 14000,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
+      "line_item_name": "Mjólka Gríska - 18. maí / 2x1",
+      "price": 14000,
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
+      "line_item_name": "Mjólka Gríska - 19. maí / 1x1",
+      "price": 7500,
+      "start_date": "2026-05-19",
+      "end_date": "2026-05-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
+      "line_item_name": "Mjólka Gríska - 2. maí / 2x1",
+      "price": 14000,
+      "start_date": "2026-05-02",
+      "end_date": "2026-05-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
+      "line_item_name": "Mjólka Gríska - 21. maí / 2x1",
+      "price": 14000,
+      "start_date": "2026-05-21",
+      "end_date": "2026-05-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
+      "line_item_name": "Mjólka Gríska - 22. maí / 2x1",
+      "price": 14000,
+      "start_date": "2026-05-22",
+      "end_date": "2026-05-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
+      "line_item_name": "Mjólka Gríska - 23. maí / 1x1",
+      "price": 7500,
+      "start_date": "2026-05-23",
+      "end_date": "2026-05-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
+      "line_item_name": "Mjólka Gríska - 24. maí / 1x1",
+      "price": 7500,
+      "start_date": "2026-05-24",
+      "end_date": "2026-05-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
+      "line_item_name": "Mjólka Gríska - 25. maí / 2x1",
+      "price": 14000,
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
+      "line_item_name": "Mjólka Gríska - 26. maí / 2x1",
+      "price": 14000,
+      "start_date": "2026-05-26",
+      "end_date": "2026-05-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
+      "line_item_name": "Mjólka Gríska - 28. maí / 2x1",
+      "price": 14000,
+      "start_date": "2026-05-28",
+      "end_date": "2026-05-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
+      "line_item_name": "Mjólka Gríska - 29. maí / 2x1",
+      "price": 14000,
+      "start_date": "2026-05-29",
+      "end_date": "2026-05-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
+      "line_item_name": "Mjólka Gríska - 3. maí / 1x1",
+      "price": 7500,
+      "start_date": "2026-05-03",
+      "end_date": "2026-05-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
+      "line_item_name": "Mjólka Gríska - 30. maí / 1x1",
+      "price": 7500,
+      "start_date": "2026-05-30",
+      "end_date": "2026-05-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
+      "line_item_name": "Mjólka Gríska - 4. maí / 1x1",
+      "price": 7500,
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-04",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
       "line_item_name": "Mjólka Gríska - 29. apríl / 2x1",
       "price": 14000,
@@ -2644,17 +2764,17 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 1248000,
+      "price": 140000,
       "start_date": "2026-04-27",
-      "end_date": "2026-05-16",
+      "end_date": "2026-05-10",
       "seen_count": 1
     },
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 140000,
+      "price": 1248000,
       "start_date": "2026-04-27",
-      "end_date": "2026-05-10",
+      "end_date": "2026-05-16",
       "seen_count": 1
     },
     {
@@ -3050,6 +3170,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Sky lagoon  / Datera  / maí 2026",
+      "line_item_name": "Sky lagoon  / Datera  / 5. maí 2026",
+      "price": 45500,
+      "start_date": "2026-05-05",
+      "end_date": "2026-05-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sky lagoon  / Datera  / maí 2026",
+      "line_item_name": "Sky lagoon  / Datera  / 6. maí 2026",
+      "price": 37500,
+      "start_date": "2026-05-06",
+      "end_date": "2026-05-06",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Sólar apríl  Birtingahúsið.",
       "line_item_name": "Sólar apríl  Birtingahúsið.",
       "price": 48000,
@@ -3228,25 +3364,17 @@
     {
       "campaign_name": "Vinsti grænir - Plan",
       "line_item_name": "Vinsti grænir - Plan",
-      "price": 222000,
-      "start_date": "2026-05-01",
-      "end_date": "2026-05-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Vinsti grænir - Plan",
-      "line_item_name": "Vinsti grænir - Plan",
       "price": 37500,
       "start_date": "2026-05-01",
       "end_date": "2026-05-09",
       "seen_count": 1
     },
     {
-      "campaign_name": "Vinstri grænir Akureyri",
-      "line_item_name": "Vinstri grænir Akureyri",
-      "price": 273000,
-      "start_date": "2026-05-03",
-      "end_date": "2026-05-16",
+      "campaign_name": "Vinsti grænir - Plan",
+      "line_item_name": "Vinsti grænir - Plan",
+      "price": 222000,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-15",
       "seen_count": 1
     },
     {
@@ -3255,6 +3383,14 @@
       "price": 71500,
       "start_date": "2026-05-03",
       "end_date": "2026-05-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Vinstri grænir Akureyri",
+      "line_item_name": "Vinstri grænir Akureyri",
+      "price": 273000,
+      "start_date": "2026-05-03",
+      "end_date": "2026-05-16",
       "seen_count": 1
     },
     {
