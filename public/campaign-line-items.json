@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-28T21:26:14.163Z",
+  "generated_at": "2026-04-29T00:40:42.069Z",
   "scope": {
-    "report_start_date": "2026-04-28",
+    "report_start_date": "2026-04-29",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1302,
-    "unique_items": 577,
+    "items_seen": 1274,
+    "unique_items": 564,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -120,14 +120,6 @@
       "start_date": "2026-04-20",
       "end_date": "2026-05-16",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Apótekarinn / HN - apríl 2026",
-      "line_item_name": "Apótekarinn / HN - 28. apríl / 4x1",
-      "price": 27000,
-      "start_date": "2026-04-28",
-      "end_date": "2026-04-28",
-      "seen_count": 2
     },
     {
       "campaign_name": "Apótekarinn / HN - apríl 2026",
@@ -423,14 +415,6 @@
       "price": 151600,
       "start_date": "2026-04-28",
       "end_date": "2026-04-30",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Beiersdorf. NIVEA Lumnious skin Glow.",
-      "line_item_name": "Beiersdorf. NIVEA Lumnious skin Glow.",
-      "price": 292000,
-      "start_date": "2026-04-22",
-      "end_date": "2026-04-28",
       "seen_count": 2
     },
     {
@@ -1239,7 +1223,7 @@
       "price": 26000,
       "start_date": "2026-05-20",
       "end_date": "2026-05-30",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "BY-L inneign.",
@@ -1399,7 +1383,7 @@
       "price": 126000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -1407,7 +1391,7 @@
       "price": 312000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
-      "seen_count": 4
+      "seen_count": 2
     },
     {
       "campaign_name": "Cirkus/Caravan - Frumherji",
@@ -1519,7 +1503,7 @@
       "price": 260100,
       "start_date": "2026-08-01",
       "end_date": "2026-08-31",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "ELKO árssamningur",
@@ -2055,7 +2039,7 @@
       "price": 45000,
       "start_date": "2026-05-13",
       "end_date": "2026-05-28",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Gæludýr / Hvíta húsið - maí 2026",
@@ -2063,7 +2047,7 @@
       "price": 26000,
       "start_date": "2026-05-06",
       "end_date": "2026-05-31",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Gæludýr / Hvíta húsið - maí 2026",
@@ -2236,7 +2220,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -2244,7 +2228,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -2311,7 +2295,7 @@
       "price": 13000,
       "start_date": "2026-05-28",
       "end_date": "2026-05-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Háskólinn á Hólum",
@@ -2399,7 +2383,7 @@
       "price": 26000,
       "start_date": "2026-05-01",
       "end_date": "2026-05-31",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Híbýli maí.",
@@ -2423,7 +2407,7 @@
       "price": 40000,
       "start_date": "2026-05-28",
       "end_date": "2026-06-04",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Hreyfing / HN - apríl til maí '26",
@@ -2439,14 +2423,6 @@
       "price": 19500,
       "start_date": "2026-05-02",
       "end_date": "2026-05-02",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Hreyfing / HN - apríl til maí '26",
-      "line_item_name": "Hreyfing / 28. apríl / BORG, GRA, GBR Litlatún / 3x2",
-      "price": 39000,
-      "start_date": "2026-04-28",
-      "end_date": "2026-04-28",
       "seen_count": 2
     },
     {
@@ -2584,14 +2560,6 @@
       "start_date": "2026-03-18",
       "end_date": "2026-04-30",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - apríl 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 28. apríl / 4x1",
-      "price": 26500,
-      "start_date": "2026-04-28",
-      "end_date": "2026-04-28",
-      "seen_count": 2
     },
     {
       "campaign_name": "IKEA / HN - apríl 2026 (500 þús pr. mánuð)",
@@ -3026,14 +2994,6 @@
       "seen_count": 9
     },
     {
-      "campaign_name": "Krónan Akueyri.",
-      "line_item_name": "Krónan Akueyri.21/24/28 apríl.",
-      "price": 39000,
-      "start_date": "2026-04-21",
-      "end_date": "2026-04-28",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Krónan. auka júní.",
       "line_item_name": "Krónan. auka júní.10-14 Breiðholt x 6",
       "price": 330000,
@@ -3058,20 +3018,12 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Lífland - Selfoss",
-      "line_item_name": "Lífland - Selfoss",
-      "price": 77000,
-      "start_date": "2026-04-22",
-      "end_date": "2026-04-28",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Lindex - S4S / Sahara - landsbyggðin maí 2026",
       "line_item_name": "Lindex - S4S / Sahara landsbyggðin - maí",
       "price": 228000,
       "start_date": "2026-05-08",
       "end_date": "2026-05-28",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Lindex - S4S / Sahara - maí",
@@ -3266,14 +3218,6 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Lyfjaval-April 2026",
-      "line_item_name": "Höfuðborgarsvæði",
-      "price": 544000,
-      "start_date": "2026-04-01",
-      "end_date": "2026-04-29",
-      "seen_count": 2
-    },
-    {
       "campaign_name": "MarsMedia-Rými",
       "line_item_name": "Rými Einhella apríl",
       "price": 65000,
@@ -3356,7 +3300,7 @@
     {
       "campaign_name": "Media com-Myllan -april",
       "line_item_name": "Media com-Myllan -april",
-      "price": 148500,
+      "price": 90000,
       "start_date": "2026-04-10",
       "end_date": "2026-04-30",
       "seen_count": 2
@@ -3364,7 +3308,7 @@
     {
       "campaign_name": "Media com-Myllan -april",
       "line_item_name": "Media com-Myllan -april",
-      "price": 90000,
+      "price": 148500,
       "start_date": "2026-04-10",
       "end_date": "2026-04-30",
       "seen_count": 2
@@ -3444,7 +3388,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 16. maí",
-      "price": 51800,
+      "price": 36300,
       "start_date": "2026-05-16",
       "end_date": "2026-05-16",
       "seen_count": 2
@@ -3452,7 +3396,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 16. maí",
-      "price": 36300,
+      "price": 51800,
       "start_date": "2026-05-16",
       "end_date": "2026-05-16",
       "seen_count": 2
@@ -3468,7 +3412,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 4. maí",
-      "price": 46800,
+      "price": 36300,
       "start_date": "2026-05-04",
       "end_date": "2026-05-04",
       "seen_count": 2
@@ -3476,7 +3420,7 @@
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 4. maí",
-      "price": 36300,
+      "price": 46800,
       "start_date": "2026-05-04",
       "end_date": "2026-05-04",
       "seen_count": 2
@@ -3603,14 +3547,6 @@
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
-      "line_item_name": "Mjólka Gríska - 28. apríl / 2x1",
-      "price": 14000,
-      "start_date": "2026-04-28",
-      "end_date": "2026-04-28",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Mjólka Gríska / HN - 10. til 30. apríl 2026",
       "line_item_name": "Mjólka Gríska - 29. apríl / 2x1",
       "price": 14000,
       "start_date": "2026-04-29",
@@ -3652,18 +3588,18 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 864000,
-      "start_date": "2026-04-27",
-      "end_date": "2026-05-12",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "price": 110000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-16",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "price": 864000,
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-12",
+      "seen_count": 2
     },
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
@@ -3826,22 +3762,6 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Pris april Drangasamningur",
-      "line_item_name": "Pris april Drangasamningur",
-      "price": 434000,
-      "start_date": "2026-04-01",
-      "end_date": "2026-04-28",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Pure Performance - april",
-      "line_item_name": "Pure Performance - april",
-      "price": 770000,
-      "start_date": "2026-04-01",
-      "end_date": "2026-04-29",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Ratsjá Gildi april",
       "line_item_name": "Ratsjá Gildi  24 april",
       "price": 622500,
@@ -3855,7 +3775,7 @@
       "price": 5854800,
       "start_date": "2026-07-27",
       "end_date": "2026-08-29",
-      "seen_count": 4
+      "seen_count": 6
     },
     {
       "campaign_name": "Reykjastræti - Fast í Hafnartorgi",
@@ -4068,14 +3988,6 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Borgartún Egilshöll",
-      "price": 11500,
-      "start_date": "2026-04-28",
-      "end_date": "2026-04-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
-      "line_item_name": "28 apríl - 13 maí - Borgartún Egilshöll",
       "price": 161000,
       "start_date": "2026-04-30",
       "end_date": "2026-05-13",
@@ -4100,7 +4012,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 138600,
+      "price": 245700,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 2
@@ -4108,7 +4020,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 245700,
+      "price": 138600,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 2
@@ -4234,14 +4146,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Soho veisluþjónusta - Bestun - Apríl 2026",
-      "line_item_name": "Hafnartorg #2 - Mán, Þri",
-      "price": 40000,
-      "start_date": "2026-04-01",
-      "end_date": "2026-04-30",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Sólar apríl  Birtingahúsið.",
       "line_item_name": "Sólar apríl  Birtingahúsið.",
       "price": 48000,
@@ -4300,17 +4204,17 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 19500,
+      "price": 13000,
       "start_date": "2026-05-11",
-      "end_date": "2026-05-13",
+      "end_date": "2026-05-12",
       "seen_count": 1
     },
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 13000,
+      "price": 19500,
       "start_date": "2026-05-11",
-      "end_date": "2026-05-12",
+      "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
@@ -4367,7 +4271,7 @@
       "price": 26000,
       "start_date": "2026-05-27",
       "end_date": "2026-05-28",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Verkfærasalan Akureyri langtima",
@@ -4399,7 +4303,7 @@
       "price": 52000,
       "start_date": "2026-05-01",
       "end_date": "2026-05-31",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Verkfærasalan Akureyri langtima",
@@ -4488,14 +4392,6 @@
       "start_date": "2026-05-03",
       "end_date": "2026-05-13",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "VÍS / Datera Landsbyggðin - apríl '26",
-      "line_item_name": "VÍS Akureyri 22.4 til 30.4 / Mán, Þri, Lau / AKU2, GLER1",
-      "price": 19500,
-      "start_date": "2026-04-22",
-      "end_date": "2026-04-30",
-      "seen_count": 2
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - maí '26",
