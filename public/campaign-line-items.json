@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T06:52:56.956Z",
+  "generated_at": "2026-04-29T09:44:47.256Z",
   "scope": {
     "report_start_date": "2026-04-29",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 1274,
-    "unique_items": 564,
+    "items_seen": 1275,
+    "unique_items": 565,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -2995,10 +2995,10 @@
     },
     {
       "campaign_name": "Krónan. auka júní.",
-      "line_item_name": "Krónan. auka júní.10-14 Breiðholt x 6",
-      "price": 330000,
+      "line_item_name": "Krónan. auka júní.10-12 Breiðholt x 6",
+      "price": 198000,
       "start_date": "2026-06-10",
-      "end_date": "2026-06-14",
+      "end_date": "2026-06-12",
       "seen_count": 1
     },
     {
@@ -3007,6 +3007,14 @@
       "price": 237000,
       "start_date": "2026-06-12",
       "end_date": "2026-06-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Krónan. auka júní.",
+      "line_item_name": "Krónan. auka júní.13-14 Breiðholt x 2",
+      "price": 44000,
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-14",
       "seen_count": 1
     },
     {
@@ -3387,6 +3395,14 @@
     },
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
+      "line_item_name": "Miðflokkurinn 15. maí",
+      "price": 10800,
+      "start_date": "2026-05-15",
+      "end_date": "2026-05-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Miðflokkurinn / HN - maí 2026",
       "line_item_name": "Miðflokkurinn 16. maí",
       "price": 36300,
       "start_date": "2026-05-16",
@@ -3400,14 +3416,6 @@
       "start_date": "2026-05-16",
       "end_date": "2026-05-16",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Miðflokkurinn / HN - maí 2026",
-      "line_item_name": "Miðflokkurinn 2. maí",
-      "price": 10800,
-      "start_date": "2026-05-15",
-      "end_date": "2026-05-15",
-      "seen_count": 1
     },
     {
       "campaign_name": "Miðflokkurinn / HN - maí 2026",
