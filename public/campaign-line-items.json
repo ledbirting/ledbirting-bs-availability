@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T15:37:11.775Z",
+  "generated_at": "2026-04-30T18:32:40.026Z",
   "scope": {
     "report_start_date": "2026-04-30",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 97,
-    "items_seen": 725,
-    "unique_items": 449,
+    "items_seen": 724,
+    "unique_items": 448,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -2296,14 +2296,6 @@
       "start_date": "2026-03-01",
       "end_date": "2026-12-31",
       "seen_count": 9
-    },
-    {
-      "campaign_name": "Krónan. auka júní.",
-      "line_item_name": "Krónan. auka júní.12 Smáratorg, Hagasmári Yfirtaka",
-      "price": 237000,
-      "start_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "seen_count": 1
     },
     {
       "campaign_name": "L-listinn Akureyri kosningar 2026",
