@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T15:17:15.052Z",
+  "generated_at": "2026-05-03T18:20:32.776Z",
   "scope": {
     "report_start_date": "2026-05-03",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 97,
-    "items_seen": 660,
-    "unique_items": 414,
+    "items_seen": 658,
+    "unique_items": 412,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1484,7 +1484,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -1492,7 +1492,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -1787,26 +1787,10 @@
     },
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 3. maí / 4x1",
-      "price": 27000,
-      "start_date": "2026-05-03",
-      "end_date": "2026-05-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 30. maí / 4x1",
       "price": 25500,
       "start_date": "2026-05-30",
       "end_date": "2026-05-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 4. maí / 5x1",
-      "price": 27500,
-      "start_date": "2026-05-04",
-      "end_date": "2026-05-04",
       "seen_count": 1
     },
     {
@@ -2204,7 +2188,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 142500,
+      "price": 85500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2212,7 +2196,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 85500,
+      "price": 142500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2572,14 +2556,6 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 864000,
-      "start_date": "2026-04-27",
-      "end_date": "2026-05-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "price": 1248000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-16",
@@ -2591,6 +2567,14 @@
       "price": 140000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "price": 864000,
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-12",
       "seen_count": 1
     },
     {
@@ -2852,7 +2836,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 245700,
+      "price": 138600,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 1
@@ -2860,7 +2844,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 138600,
+      "price": 245700,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 1
