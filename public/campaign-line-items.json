@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T15:42:59.997Z",
+  "generated_at": "2026-05-04T18:35:33.391Z",
   "scope": {
     "report_start_date": "2026-05-04",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 97,
-    "items_seen": 661,
-    "unique_items": 416,
+    "items_seen": 663,
+    "unique_items": 418,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1707,8 +1707,16 @@
     },
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 18. maí / 4x1",
-      "price": 26000,
+      "line_item_name": "IKEA - 17. maí / 5x1",
+      "price": 35000,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 18. maí / 6x1",
+      "price": 30000,
       "start_date": "2026-05-18",
       "end_date": "2026-05-18",
       "seen_count": 1
@@ -1723,8 +1731,8 @@
     },
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 20. maí / 4x1",
-      "price": 23000,
+      "line_item_name": "IKEA - 20. maí / 5x1",
+      "price": 30500,
       "start_date": "2026-05-20",
       "end_date": "2026-05-20",
       "seen_count": 1
@@ -1755,8 +1763,16 @@
     },
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 27. maí / 4x1",
-      "price": 25500,
+      "line_item_name": "IKEA - 26. maí / 5x1",
+      "price": 32000,
+      "start_date": "2026-05-26",
+      "end_date": "2026-05-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 27. maí / 5x1",
+      "price": 30500,
       "start_date": "2026-05-27",
       "end_date": "2026-05-27",
       "seen_count": 1
@@ -1787,32 +1803,32 @@
     },
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 4. maí / 5x1",
-      "price": 43000,
+      "line_item_name": "IKEA - 4. maí / 7x1",
+      "price": 25000,
       "start_date": "2026-05-04",
       "end_date": "2026-05-04",
       "seen_count": 1
     },
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 5. maí / 4x1",
-      "price": 26000,
+      "line_item_name": "IKEA - 5. maí / 5x1",
+      "price": 31000,
       "start_date": "2026-05-05",
       "end_date": "2026-05-05",
       "seen_count": 1
     },
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 6. maí / 4x1",
-      "price": 26000,
+      "line_item_name": "IKEA - 6. maí / 5x1",
+      "price": 31000,
       "start_date": "2026-05-06",
       "end_date": "2026-05-06",
       "seen_count": 1
     },
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 8. maí / 4x1",
-      "price": 24000,
+      "line_item_name": "IKEA - 8. maí / 5x1",
+      "price": 29000,
       "start_date": "2026-05-08",
       "end_date": "2026-05-08",
       "seen_count": 1
@@ -2572,6 +2588,14 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "price": 1248000,
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "price": 864000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-12",
@@ -2583,14 +2607,6 @@
       "price": 140000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 1248000,
-      "start_date": "2026-04-27",
-      "end_date": "2026-05-16",
       "seen_count": 1
     },
     {
@@ -2868,7 +2884,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 245700,
+      "price": 138600,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 1
@@ -2876,7 +2892,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 138600,
+      "price": 245700,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 1
@@ -3212,25 +3228,17 @@
     {
       "campaign_name": "Vinsti grænir - Plan",
       "line_item_name": "Vinsti grænir - Plan",
-      "price": 37500,
-      "start_date": "2026-05-01",
-      "end_date": "2026-05-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Vinsti grænir - Plan",
-      "line_item_name": "Vinsti grænir - Plan",
       "price": 222000,
       "start_date": "2026-05-01",
       "end_date": "2026-05-15",
       "seen_count": 1
     },
     {
-      "campaign_name": "Vinstri grænir Akureyri",
-      "line_item_name": "Vinstri grænir Akureyri",
-      "price": 71500,
-      "start_date": "2026-05-03",
-      "end_date": "2026-05-13",
+      "campaign_name": "Vinsti grænir - Plan",
+      "line_item_name": "Vinsti grænir - Plan",
+      "price": 37500,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-09",
       "seen_count": 1
     },
     {
@@ -3239,6 +3247,14 @@
       "price": 273000,
       "start_date": "2026-05-03",
       "end_date": "2026-05-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Vinstri grænir Akureyri",
+      "line_item_name": "Vinstri grænir Akureyri",
+      "price": 71500,
+      "start_date": "2026-05-03",
+      "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
