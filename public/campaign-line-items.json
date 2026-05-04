@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T12:37:34.616Z",
+  "generated_at": "2026-05-04T15:42:59.997Z",
   "scope": {
     "report_start_date": "2026-05-04",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 97,
-    "items_seen": 658,
-    "unique_items": 414,
+    "items_seen": 661,
+    "unique_items": 416,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -723,8 +723,8 @@
     },
     {
       "campaign_name": "Bónus / HN - maí 2026",
-      "line_item_name": "Bónus 11. maí - Mán / 9x1",
-      "price": 50000,
+      "line_item_name": "Bónus 11. maí - Mán / 8x1",
+      "price": 55000,
       "start_date": "2026-05-11",
       "end_date": "2026-05-11",
       "seen_count": 1
@@ -804,17 +804,9 @@
     {
       "campaign_name": "Bónus / HN - maí 2026",
       "line_item_name": "Bónus 6. maí - Mið / 9x1",
-      "price": 55500,
+      "price": 54000,
       "start_date": "2026-05-06",
       "end_date": "2026-05-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - maí 2026",
-      "line_item_name": "Bónus 8. maí - Fös / 8x1",
-      "price": 52500,
-      "start_date": "2026-05-08",
-      "end_date": "2026-05-08",
       "seen_count": 1
     },
     {
@@ -983,22 +975,6 @@
       "price": 334500,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Danól 06-10 maí",
-      "line_item_name": "Danól 06 maí Hafnat og Höfðurtor.",
-      "price": 17200,
-      "start_date": "2026-05-06",
-      "end_date": "2026-05-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Danól 06-10 maí",
-      "line_item_name": "Danól 07-12 maí Hfnat-Höfðat",
-      "price": 103200,
-      "start_date": "2026-05-07",
-      "end_date": "2026-05-12",
       "seen_count": 1
     },
     {
@@ -1511,6 +1487,14 @@
       "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Happatreyjur",
+      "line_item_name": "Mikael Maron",
+      "price": 279000,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-21",
       "seen_count": 2
     },
     {
@@ -2146,6 +2130,30 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Lottó 95M - Getraunir  / Ennemm - 7. til 9. maí",
+      "line_item_name": "Lottó 95M - Fim 7. maí",
+      "price": 65000,
+      "start_date": "2026-05-07",
+      "end_date": "2026-05-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lottó 95M - Getraunir  / Ennemm - 7. til 9. maí",
+      "line_item_name": "Lottó 95M - Fim 8. maí",
+      "price": 70000,
+      "start_date": "2026-05-08",
+      "end_date": "2026-05-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lottó 95M - Getraunir  / Ennemm - 7. til 9. maí",
+      "line_item_name": "Lottó 95M - Lau 9. maí til kl. 18",
+      "price": 75000,
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-09",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Lyfja aflsáttadagar. 27/05-02/06",
       "line_item_name": "Lyfja 01 júní",
       "price": 48000,
@@ -2204,7 +2212,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 142500,
+      "price": 85500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2212,7 +2220,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 85500,
+      "price": 142500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2394,14 +2402,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Mikael Maron",
-      "line_item_name": "Mikael Maron",
-      "price": 279000,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-21",
-      "seen_count": 2
-    },
-    {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 19500,
@@ -2580,17 +2580,17 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 1248000,
+      "price": 140000,
       "start_date": "2026-04-27",
-      "end_date": "2026-05-16",
+      "end_date": "2026-05-10",
       "seen_count": 1
     },
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 140000,
+      "price": 1248000,
       "start_date": "2026-04-27",
-      "end_date": "2026-05-10",
+      "end_date": "2026-05-16",
       "seen_count": 1
     },
     {
@@ -2659,7 +2659,39 @@
     },
     {
       "campaign_name": "Pipar LBHÍ",
-      "line_item_name": "Copy_of_Pipar LBHÍ",
+      "line_item_name": "Pipar LBHÍ 01/03 júní",
+      "price": 13000,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Pipar LBHÍ",
+      "line_item_name": "Pipar LBHÍ 02/04 júní",
+      "price": 13000,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Pipar LBHÍ",
+      "line_item_name": "Pipar LBHÍ 05 júní",
+      "price": 6500,
+      "start_date": "2026-06-05",
+      "end_date": "2026-06-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Pipar LBHÍ",
+      "line_item_name": "Pipar LBHÍ 15 maí",
+      "price": 13000,
+      "start_date": "2026-05-15",
+      "end_date": "2026-05-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Pipar LBHÍ",
+      "line_item_name": "Pipar LBHÍ 19/21/23 maí",
       "price": 39000,
       "start_date": "2026-05-19",
       "end_date": "2026-05-23",
@@ -2667,26 +2699,10 @@
     },
     {
       "campaign_name": "Pipar LBHÍ",
-      "line_item_name": "Copy_of_Pipar LBHÍ (2)",
+      "line_item_name": "Pipar LBHÍ 25/27/29 maí",
       "price": 39000,
       "start_date": "2026-05-25",
       "end_date": "2026-05-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Pipar LBHÍ",
-      "line_item_name": "Copy_of_Pipar LBHÍ (2) (2)",
-      "price": 26000,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-05",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Pipar LBHÍ",
-      "line_item_name": "Pipar LBHÍ",
-      "price": 13000,
-      "start_date": "2026-05-15",
-      "end_date": "2026-05-15",
       "seen_count": 1
     },
     {
@@ -3044,17 +3060,17 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 19500,
+      "price": 13000,
       "start_date": "2026-05-11",
-      "end_date": "2026-05-13",
+      "end_date": "2026-05-12",
       "seen_count": 1
     },
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 13000,
+      "price": 19500,
       "start_date": "2026-05-11",
-      "end_date": "2026-05-12",
+      "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
