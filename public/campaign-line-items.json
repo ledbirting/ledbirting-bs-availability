@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T18:35:33.391Z",
+  "generated_at": "2026-05-04T21:25:57.692Z",
   "scope": {
     "report_start_date": "2026-05-04",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 97,
-    "items_seen": 663,
-    "unique_items": 418,
+    "items_seen": 668,
+    "unique_items": 423,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -2228,7 +2228,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 85500,
+      "price": 142500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2236,7 +2236,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 142500,
+      "price": 85500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2436,18 +2436,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 143000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 468000,
       "start_date": "2026-07-05",
       "end_date": "2026-09-30",
       "seen_count": 3
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 143000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-31",
+      "seen_count": 1
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
@@ -2588,6 +2588,14 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "price": 140000,
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "price": 1248000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-16",
@@ -2599,14 +2607,6 @@
       "price": 864000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 140000,
-      "start_date": "2026-04-27",
-      "end_date": "2026-05-10",
       "seen_count": 1
     },
     {
@@ -2719,6 +2719,38 @@
       "price": 39000,
       "start_date": "2026-05-25",
       "end_date": "2026-05-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "pris mai",
+      "line_item_name": "pris mai",
+      "price": 20000,
+      "start_date": "2026-05-05",
+      "end_date": "2026-05-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "pris mai",
+      "line_item_name": "pris mai",
+      "price": 29000,
+      "start_date": "2026-05-05",
+      "end_date": "2026-05-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "pris mai",
+      "line_item_name": "pris mai",
+      "price": 75000,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "pris mai",
+      "line_item_name": "pris mai",
+      "price": 63000,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-31",
       "seen_count": 1
     },
     {
@@ -2986,6 +3018,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Slippfélagið bestun mai",
+      "line_item_name": "Slippfélagið bestun mai",
+      "price": 132000,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-22",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Sólar. maí",
       "line_item_name": "Sólar. maí 11 maí BH1-EH-GRI-HB1-KAPLA2",
       "price": 31000,
@@ -3228,17 +3268,17 @@
     {
       "campaign_name": "Vinsti grænir - Plan",
       "line_item_name": "Vinsti grænir - Plan",
-      "price": 222000,
+      "price": 37500,
       "start_date": "2026-05-01",
-      "end_date": "2026-05-15",
+      "end_date": "2026-05-09",
       "seen_count": 1
     },
     {
       "campaign_name": "Vinsti grænir - Plan",
       "line_item_name": "Vinsti grænir - Plan",
-      "price": 37500,
+      "price": 222000,
       "start_date": "2026-05-01",
-      "end_date": "2026-05-09",
+      "end_date": "2026-05-15",
       "seen_count": 1
     },
     {
