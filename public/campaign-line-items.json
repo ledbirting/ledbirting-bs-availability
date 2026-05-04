@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T09:48:39.830Z",
+  "generated_at": "2026-05-04T12:37:34.616Z",
   "scope": {
     "report_start_date": "2026-05-04",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 97,
-    "items_seen": 653,
-    "unique_items": 410,
+    "items_seen": 658,
+    "unique_items": 414,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -986,6 +986,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Danól 06-10 maí",
+      "line_item_name": "Danól 06 maí Hafnat og Höfðurtor.",
+      "price": 17200,
+      "start_date": "2026-05-06",
+      "end_date": "2026-05-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Danól 06-10 maí",
+      "line_item_name": "Danól 07-12 maí Hfnat-Höfðat",
+      "price": 103200,
+      "start_date": "2026-05-07",
+      "end_date": "2026-05-12",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Datera - ágúst 2026",
       "line_item_name": "Datera - 17. til 23. ágúst - einfaldar birtingar",
       "price": 1265600,
@@ -1370,6 +1386,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Framsókn á Akureyri - maí 2026",
+      "line_item_name": "Framsókn á Akureyri - 4. til 5. maí (Glerártorg)",
+      "price": 6500,
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-05",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "FS Fasteignir - Tilboð",
       "line_item_name": "Glerártorg",
       "price": 286000,
@@ -1476,7 +1500,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -1484,7 +1508,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -2036,7 +2060,7 @@
     {
       "campaign_name": "Kringlan -Mediacom",
       "line_item_name": "Kringlan -Mediacom",
-      "price": 67500,
+      "price": 29000,
       "start_date": "2026-05-06",
       "end_date": "2026-05-06",
       "seen_count": 1
@@ -2044,7 +2068,7 @@
     {
       "campaign_name": "Kringlan -Mediacom",
       "line_item_name": "Kringlan -Mediacom",
-      "price": 29000,
+      "price": 67500,
       "start_date": "2026-05-06",
       "end_date": "2026-05-06",
       "seen_count": 1
@@ -2370,6 +2394,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Mikael Maron",
+      "line_item_name": "Mikael Maron",
+      "price": 279000,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-21",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 19500,
@@ -2540,17 +2572,17 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 1248000,
+      "price": 864000,
       "start_date": "2026-04-27",
-      "end_date": "2026-05-16",
+      "end_date": "2026-05-12",
       "seen_count": 1
     },
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 864000,
+      "price": 1248000,
       "start_date": "2026-04-27",
-      "end_date": "2026-05-12",
+      "end_date": "2026-05-16",
       "seen_count": 1
     },
     {
@@ -3180,17 +3212,17 @@
     {
       "campaign_name": "Vinstri grænir Akureyri",
       "line_item_name": "Vinstri grænir Akureyri",
-      "price": 273000,
+      "price": 71500,
       "start_date": "2026-05-03",
-      "end_date": "2026-05-16",
+      "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
       "campaign_name": "Vinstri grænir Akureyri",
       "line_item_name": "Vinstri grænir Akureyri",
-      "price": 71500,
+      "price": 273000,
       "start_date": "2026-05-03",
-      "end_date": "2026-05-13",
+      "end_date": "2026-05-16",
       "seen_count": 1
     },
     {
