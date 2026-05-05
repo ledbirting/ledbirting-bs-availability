@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T09:39:30.925Z",
+  "generated_at": "2026-05-05T12:28:49.225Z",
   "scope": {
     "report_start_date": "2026-05-05",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 97,
-    "items_seen": 661,
-    "unique_items": 412,
+    "items_seen": 665,
+    "unique_items": 416,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -40,6 +40,14 @@
       "start_date": "2026-01-22",
       "end_date": "2027-01-22",
       "seen_count": 9
+    },
+    {
+      "campaign_name": "Ab - Bíladagar",
+      "line_item_name": "Ab - Bíladagar",
+      "price": 104000,
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-20",
+      "seen_count": 1
     },
     {
       "campaign_name": "Afreksverk - Hafnartorg",
@@ -1436,7 +1444,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -1444,7 +1452,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -2508,6 +2516,14 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "price": 140000,
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "price": 1248000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-16",
@@ -2519,14 +2535,6 @@
       "price": 864000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 140000,
-      "start_date": "2026-04-27",
-      "end_date": "2026-05-10",
       "seen_count": 1
     },
     {
@@ -2644,14 +2652,6 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 20000,
-      "start_date": "2026-05-05",
-      "end_date": "2026-05-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "pris mai",
-      "line_item_name": "pris mai",
       "price": 29000,
       "start_date": "2026-05-05",
       "end_date": "2026-05-16",
@@ -2660,7 +2660,15 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
+      "price": 20000,
+      "start_date": "2026-05-05",
+      "end_date": "2026-05-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "pris mai",
+      "line_item_name": "pris mai",
+      "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2668,7 +2676,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
+      "price": 63000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2775,6 +2783,30 @@
       "price": 208000,
       "start_date": "2026-04-16",
       "end_date": "2026-05-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sambíó MAndalorian.",
+      "line_item_name": "Sambíó Mandalorian.",
+      "price": 161700,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sambíó MAndalorian.",
+      "line_item_name": "Sambíó Mandalorian.",
+      "price": 182000,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sambíó MAndalorian.",
+      "line_item_name": "Sambíó Mandalorian.",
+      "price": 61500,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-19",
       "seen_count": 1
     },
     {
@@ -3180,25 +3212,17 @@
     {
       "campaign_name": "Vinsti grænir - Plan",
       "line_item_name": "Vinsti grænir - Plan",
-      "price": 37500,
-      "start_date": "2026-05-01",
-      "end_date": "2026-05-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Vinsti grænir - Plan",
-      "line_item_name": "Vinsti grænir - Plan",
       "price": 222000,
       "start_date": "2026-05-01",
       "end_date": "2026-05-15",
       "seen_count": 1
     },
     {
-      "campaign_name": "Vinstri grænir Akureyri",
-      "line_item_name": "Vinstri grænir Akureyri",
-      "price": 273000,
-      "start_date": "2026-05-03",
-      "end_date": "2026-05-16",
+      "campaign_name": "Vinsti grænir - Plan",
+      "line_item_name": "Vinsti grænir - Plan",
+      "price": 37500,
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-09",
       "seen_count": 1
     },
     {
@@ -3207,6 +3231,14 @@
       "price": 71500,
       "start_date": "2026-05-03",
       "end_date": "2026-05-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Vinstri grænir Akureyri",
+      "line_item_name": "Vinstri grænir Akureyri",
+      "price": 273000,
+      "start_date": "2026-05-03",
+      "end_date": "2026-05-16",
       "seen_count": 1
     },
     {
