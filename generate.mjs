@@ -62,6 +62,15 @@ const screens = [
 
 let sessionCookie = null;
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+/** Pace requests to reduce rate limiting (set FILLRATE_REQUEST_GAP_MS=0 to disable). */
+const REQUEST_GAP_MS = Number(process.env.FILLRATE_REQUEST_GAP_MS ?? 150);
+
+function looksLikeHtml(body) {
+  const t = body.trimStart().slice(0, 80).toLowerCase();
+  return t.startsWith("<!") || t.startsWith("<html") || t.startsWith("<head") || t.startsWith("<?xml");
+}
+
 // ---------- LOGIN ----------
 async function login() {
   const res = await fetch(`${BASE}/login`, {
@@ -78,22 +87,60 @@ async function login() {
 }
 
 // ---------- FETCH WRAPPER ----------
-async function direct(path, options = {}, retried = false) {
-  if (!sessionCookie) await login();
-  const res = await fetch(`${BASE}${path}`, {
-    ...options,
-    headers: {
-      "Content-Type": "application/json",
-      Cookie: sessionCookie,
-      ...(options.headers || {})
+async function direct(path, options = {}) {
+  let lastErr;
+  const maxAttempts = 5;
+
+  for (let attempt = 0; attempt < maxAttempts; attempt++) {
+    if (attempt > 0) {
+      const delay = Math.min(25_000, 600 * 2 ** (attempt - 1));
+      console.warn(`⏳ Retry ${attempt}/${maxAttempts - 1} for ${path} after ${delay}ms (${lastErr?.message ?? "unknown"})`);
+      await sleep(delay);
     }
-  });
-  if (res.status === 401 && !retried) {
-    sessionCookie = null;
-    await login();
-    return direct(path, options, true);
+    if (!sessionCookie) await login();
+
+    const res = await fetch(`${BASE}${path}`, {
+      ...options,
+      headers: {
+        Accept: "application/json",
+        "Content-Type": "application/json",
+        Cookie: sessionCookie,
+        ...(options.headers || {})
+      }
+    });
+    const text = await res.text();
+
+    if (res.status === 401) {
+      sessionCookie = null;
+      lastErr = new Error(`Unauthorized (HTTP ${res.status})`);
+      continue;
+    }
+
+    if (res.status === 429 || res.status === 502 || res.status === 503) {
+      lastErr = new Error(`Transient HTTP ${res.status}`);
+      continue;
+    }
+
+    if (looksLikeHtml(text)) {
+      sessionCookie = null;
+      lastErr = new Error("HTML response (login redirect, error page, or WAF)");
+      continue;
+    }
+
+    if (!res.ok) {
+      throw new Error(`HTTP ${res.status}: ${text.slice(0, 400).replace(/\s+/g, " ")}`);
+    }
+
+    try {
+      return JSON.parse(text);
+    } catch (e) {
+      lastErr = e;
+      sessionCookie = null;
+      continue;
+    }
   }
-  return res.json();
+
+  throw lastErr ?? new Error(`Too many retries for ${path}`);
 }
 
 // ---------- HELPERS ----------
@@ -147,6 +194,7 @@ async function main() {
         rows.push({ id: s.id, du_name: s.name, fill_rate: 0, error: e.message });
         console.warn(`❌ ${s.name}: ${e.message}`);
       }
+      if (REQUEST_GAP_MS > 0) await sleep(REQUEST_GAP_MS);
     }
     result.push({ date, count: rows.length, rows });
   }
