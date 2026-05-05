@@ -12,6 +12,10 @@ permissions:
 jobs:
   archive:
     runs-on: ubuntu-latest
+    env:
+      # Must match the file written by generate.mjs and deployed by fillrate.yml (public/).
+      # If you changed the name in generate.mjs, update the default or set repo variable ARCHIVE_FILLRATE_JSON_FILE.
+      FILLRATE_JSON_BASENAME: ${{ vars.ARCHIVE_FILLRATE_JSON_FILE != '' && vars.ARCHIVE_FILLRATE_JSON_FILE || 'fillrate-next30.json' }}
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -24,10 +28,10 @@ jobs:
       - name: Run archival script
         run: node scripts/archive-fillrate.js
         env:
-          # Resolve from the repo running the workflow (avoids hard-coded owner/name typos).
-          SOURCE_URL_PRIMARY: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/fillrate-next30.json
-          SOURCE_URL_FALLBACK_1: https://cdn.jsdelivr.net/gh/${{ github.repository }}@${{ github.event.repository.default_branch }}/fillrate-next30.json
-          SOURCE_URL_FALLBACK_2: https://raw.githubusercontent.com/${{ github.repository }}/refs/heads/${{ github.event.repository.default_branch }}/fillrate-next30.json
+          # Same basename for all mirrors (Pages is authoritative; raw/jsDelivr only work if the file is committed).
+          SOURCE_URL_PRIMARY: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/${{ env.FILLRATE_JSON_BASENAME }}
+          SOURCE_URL_FALLBACK_1: https://cdn.jsdelivr.net/gh/${{ github.repository }}@${{ github.event.repository.default_branch }}/${{ env.FILLRATE_JSON_BASENAME }}
+          SOURCE_URL_FALLBACK_2: https://raw.githubusercontent.com/${{ github.repository }}/refs/heads/${{ github.event.repository.default_branch }}/${{ env.FILLRATE_JSON_BASENAME }}
 
       - name: Commit changes
         run: |
