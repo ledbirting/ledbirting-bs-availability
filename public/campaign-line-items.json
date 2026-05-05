@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T12:28:49.225Z",
+  "generated_at": "2026-05-05T15:37:31.602Z",
   "scope": {
     "report_start_date": "2026-05-05",
     "report_end_date": "2099-12-31",
@@ -1530,30 +1530,6 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "HHÍ flokkahappdrætti  / HN - maí 2026",
-      "line_item_name": "HHÍ flokkahappdrætti / HN / 10. til 11. maí",
-      "price": 15000,
-      "start_date": "2026-05-10",
-      "end_date": "2026-05-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "HHÍ flokkahappdrætti  / HN - maí 2026",
-      "line_item_name": "HHÍ flokkahappdrætti / HN / 12. maí til kl. 16",
-      "price": 10000,
-      "start_date": "2026-05-12",
-      "end_date": "2026-05-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "HHÍ flokkahappdrætti  / HN - maí 2026",
-      "line_item_name": "HHÍ flokkahappdrætti / HN / 4. til 11. maí",
-      "price": 59400,
-      "start_date": "2026-05-06",
-      "end_date": "2026-05-11",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Híbýli maí.",
       "line_item_name": "Híbýli maí. HB og BH.",
       "price": 84000,
@@ -1639,6 +1615,14 @@
       "price": 201500,
       "start_date": "2026-05-01",
       "end_date": "2026-05-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 10. maí / 4x1",
+      "price": 26000,
+      "start_date": "2026-05-10",
+      "end_date": "2026-05-10",
       "seen_count": 1
     },
     {
@@ -1779,6 +1763,14 @@
     },
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 7. maí / 5x1",
+      "price": 33500,
+      "start_date": "2026-05-07",
+      "end_date": "2026-05-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 8. maí / 5x1",
       "price": 29000,
       "start_date": "2026-05-08",
@@ -1795,16 +1787,16 @@
     },
     {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Fim 14. maí / 4x1",
-      "price": 21500,
+      "line_item_name": "Íslandsbanki - Fim 14. maí / 5x1",
+      "price": 28000,
       "start_date": "2026-05-14",
       "end_date": "2026-05-14",
       "seen_count": 1
     },
     {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Fim 7. maí / 4x1",
-      "price": 13000,
+      "line_item_name": "Íslandsbanki - Fim 7. maí / 5x1",
+      "price": 21500,
       "start_date": "2026-05-07",
       "end_date": "2026-05-07",
       "seen_count": 1
@@ -1812,39 +1804,39 @@
     {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - maí 2026",
       "line_item_name": "Íslandsbanki - Fös 15. maí / 4x1",
-      "price": 27500,
+      "price": 28000,
       "start_date": "2026-05-15",
       "end_date": "2026-05-15",
       "seen_count": 1
     },
     {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Lau 16. maí / 4x1",
-      "price": 27000,
-      "start_date": "2026-05-16",
-      "end_date": "2026-05-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Lau 9. maí / 4x1",
-      "price": 24000,
+      "line_item_name": "Íslandsbanki - Lau 9. maí / 5x1",
+      "price": 26000,
       "start_date": "2026-05-09",
       "end_date": "2026-05-09",
       "seen_count": 1
     },
     {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Mið 13. maí / 4x1",
-      "price": 28500,
+      "line_item_name": "Íslandsbanki - Mið 13. maí / 5x1",
+      "price": 33500,
       "start_date": "2026-05-13",
       "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Þri 12. maí / 4x1",
-      "price": 28500,
+      "line_item_name": "Íslandsbanki - Mið 6. maí / 4x1",
+      "price": 23000,
+      "start_date": "2026-05-06",
+      "end_date": "2026-05-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandsbanki - Maraþon / Datera - maí 2026",
+      "line_item_name": "Íslandsbanki - Þri 12. maí / 5x1",
+      "price": 34500,
       "start_date": "2026-05-12",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2090,15 +2082,15 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Lottó 95M - Getraunir  / Ennemm - 7. til 9. maí",
+      "campaign_name": "Lottó 95M - Getraunir  / Ennemm - 7. til 9. maí 2026",
       "line_item_name": "Lottó 95M - Fim 7. maí",
-      "price": 65000,
+      "price": 68000,
       "start_date": "2026-05-07",
       "end_date": "2026-05-07",
       "seen_count": 1
     },
     {
-      "campaign_name": "Lottó 95M - Getraunir  / Ennemm - 7. til 9. maí",
+      "campaign_name": "Lottó 95M - Getraunir  / Ennemm - 7. til 9. maí 2026",
       "line_item_name": "Lottó 95M - Fim 8. maí",
       "price": 70000,
       "start_date": "2026-05-08",
@@ -2106,9 +2098,9 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Lottó 95M - Getraunir  / Ennemm - 7. til 9. maí",
+      "campaign_name": "Lottó 95M - Getraunir  / Ennemm - 7. til 9. maí 2026",
       "line_item_name": "Lottó 95M - Lau 9. maí til kl. 18",
-      "price": 75000,
+      "price": 70000,
       "start_date": "2026-05-09",
       "end_date": "2026-05-09",
       "seen_count": 1
@@ -2172,7 +2164,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 85500,
+      "price": 142500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2180,7 +2172,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 142500,
+      "price": 85500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2372,18 +2364,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 468000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-09-30",
-      "seen_count": 3
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 143000,
       "start_date": "2026-07-05",
       "end_date": "2026-07-31",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 468000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-09-30",
+      "seen_count": 3
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
@@ -2516,17 +2508,17 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 140000,
+      "price": 1248000,
       "start_date": "2026-04-27",
-      "end_date": "2026-05-10",
+      "end_date": "2026-05-16",
       "seen_count": 1
     },
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 1248000,
+      "price": 140000,
       "start_date": "2026-04-27",
-      "end_date": "2026-05-16",
+      "end_date": "2026-05-10",
       "seen_count": 1
     },
     {
@@ -2788,7 +2780,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 161700,
+      "price": 182000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2796,7 +2788,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
+      "price": 161700,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2843,6 +2835,14 @@
     },
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
+      "line_item_name": "08 maí Hagasmári .",
+      "price": 5800,
+      "start_date": "2026-05-08",
+      "end_date": "2026-05-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "26 apríl - 13 maí - Akueryri-Garðabær-Selfoss-Reykjanesbær",
       "price": 444000,
       "start_date": "2026-04-26",
@@ -2868,7 +2868,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 138600,
+      "price": 245700,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 1
@@ -2876,7 +2876,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 245700,
+      "price": 138600,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 1
@@ -3060,17 +3060,17 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 19500,
+      "price": 13000,
       "start_date": "2026-05-11",
-      "end_date": "2026-05-13",
+      "end_date": "2026-05-12",
       "seen_count": 1
     },
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 13000,
+      "price": 19500,
       "start_date": "2026-05-11",
-      "end_date": "2026-05-12",
+      "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
