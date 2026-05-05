@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T06:49:02.566Z",
+  "generated_at": "2026-05-05T09:39:30.925Z",
   "scope": {
     "report_start_date": "2026-05-05",
     "report_end_date": "2099-12-31",
@@ -1996,7 +1996,7 @@
     {
       "campaign_name": "Kringlan -Mediacom",
       "line_item_name": "Kringlan -Mediacom",
-      "price": 29000,
+      "price": 67500,
       "start_date": "2026-05-06",
       "end_date": "2026-05-06",
       "seen_count": 1
@@ -2004,7 +2004,7 @@
     {
       "campaign_name": "Kringlan -Mediacom",
       "line_item_name": "Kringlan -Mediacom",
-      "price": 67500,
+      "price": 29000,
       "start_date": "2026-05-06",
       "end_date": "2026-05-06",
       "seen_count": 1
@@ -2364,18 +2364,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 143000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 468000,
       "start_date": "2026-07-05",
       "end_date": "2026-09-30",
       "seen_count": 3
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 143000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-31",
+      "seen_count": 1
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
@@ -2836,7 +2836,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 245700,
+      "price": 138600,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 1
@@ -2844,7 +2844,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 138600,
+      "price": 245700,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 1
