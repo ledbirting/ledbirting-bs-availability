@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T06:58:03.717Z",
+  "generated_at": "2026-05-06T09:50:35.792Z",
   "scope": {
     "report_start_date": "2026-05-06",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 97,
-    "items_seen": 668,
-    "unique_items": 418,
+    "items_seen": 669,
+    "unique_items": 419,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1527,6 +1527,14 @@
       "price": 68800,
       "start_date": "2026-05-01",
       "end_date": "2026-05-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Happdrætti DAS / Datera - Sjómannadagurinn 2026",
+      "line_item_name": "DAS / Datera / Sjómannadagurinn",
+      "price": 112500,
+      "start_date": "2026-06-05",
+      "end_date": "2026-06-07",
       "seen_count": 1
     },
     {
