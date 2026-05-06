@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T09:50:35.792Z",
+  "generated_at": "2026-05-06T12:40:32.965Z",
   "scope": {
     "report_start_date": "2026-05-06",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 97,
-    "items_seen": 669,
-    "unique_items": 419,
+    "items_seen": 672,
+    "unique_items": 422,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -701,8 +701,8 @@
       "campaign_name": "BM Vallá / Datera - maí 2026",
       "line_item_name": "BM Vallá / Datera / Mán, Fim / Höfðabakki og Vesturlandsvegur",
       "price": 75000,
-      "start_date": "2026-05-06",
-      "end_date": "2026-05-27",
+      "start_date": "2026-05-07",
+      "end_date": "2026-05-28",
       "seen_count": 1
     },
     {
@@ -951,102 +951,6 @@
       "price": 334500,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Copy_of_Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Fim 13. ágúst / 6x1",
-      "price": 39500,
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Copy_of_Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Fim 6. ágúst / 4x1",
-      "price": 24500,
-      "start_date": "2026-08-06",
-      "end_date": "2026-08-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Copy_of_Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Fös 14. ágúst / 6x1",
-      "price": 41000,
-      "start_date": "2026-08-14",
-      "end_date": "2026-08-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Copy_of_Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Fös 7. ágúst / 6x1",
-      "price": 40000,
-      "start_date": "2026-08-07",
-      "end_date": "2026-08-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Copy_of_Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Lau 15. ágúst / 5x1",
-      "price": 33500,
-      "start_date": "2026-08-15",
-      "end_date": "2026-08-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Copy_of_Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Lau 8. ágúst / 5x1",
-      "price": 31000,
-      "start_date": "2026-08-08",
-      "end_date": "2026-08-08",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Copy_of_Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Mán 10. ágúst / 5x1",
-      "price": 23500,
-      "start_date": "2026-08-10",
-      "end_date": "2026-08-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Copy_of_Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Mán 17. ágúst / 4x1",
-      "price": 28000,
-      "start_date": "2026-08-17",
-      "end_date": "2026-08-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Copy_of_Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Mið 12. ágúst/ 6x1",
-      "price": 36500,
-      "start_date": "2026-08-12",
-      "end_date": "2026-08-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Copy_of_Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Sun 16. ágúst / 5x1",
-      "price": 28000,
-      "start_date": "2026-08-16",
-      "end_date": "2026-08-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Copy_of_Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Sun 9. ágúst / 5x1",
-      "price": 21500,
-      "start_date": "2026-08-09",
-      "end_date": "2026-08-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Copy_of_Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Þri 11. ágúst / 5x1",
-      "price": 26000,
-      "start_date": "2026-08-11",
-      "end_date": "2026-08-11",
       "seen_count": 1
     },
     {
@@ -1532,6 +1436,14 @@
     {
       "campaign_name": "Happdrætti DAS / Datera - Sjómannadagurinn 2026",
       "line_item_name": "DAS / Datera / Sjómannadagurinn",
+      "price": 60000,
+      "start_date": "2026-06-05",
+      "end_date": "2026-06-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Happdrætti DAS / Datera - Sjómannadagurinn 2026",
+      "line_item_name": "DAS / Datera / Sjómannadagurinn",
       "price": 112500,
       "start_date": "2026-06-05",
       "end_date": "2026-06-07",
@@ -1834,6 +1746,102 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
+      "line_item_name": "Íslandsbanki - Fim 13. ágúst / 6x1",
+      "price": 39500,
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
+      "line_item_name": "Íslandsbanki - Fim 6. ágúst / 4x1",
+      "price": 24500,
+      "start_date": "2026-08-06",
+      "end_date": "2026-08-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
+      "line_item_name": "Íslandsbanki - Fös 14. ágúst / 6x1",
+      "price": 41000,
+      "start_date": "2026-08-14",
+      "end_date": "2026-08-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
+      "line_item_name": "Íslandsbanki - Fös 7. ágúst / 6x1",
+      "price": 40000,
+      "start_date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
+      "line_item_name": "Íslandsbanki - Lau 15. ágúst / 5x1",
+      "price": 33500,
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
+      "line_item_name": "Íslandsbanki - Lau 8. ágúst / 5x1",
+      "price": 31000,
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
+      "line_item_name": "Íslandsbanki - Mán 10. ágúst / 5x1",
+      "price": 23500,
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
+      "line_item_name": "Íslandsbanki - Mán 17. ágúst / 4x1",
+      "price": 28000,
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
+      "line_item_name": "Íslandsbanki - Mið 12. ágúst/ 6x1",
+      "price": 36500,
+      "start_date": "2026-08-12",
+      "end_date": "2026-08-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
+      "line_item_name": "Íslandsbanki - Sun 16. ágúst / 5x1",
+      "price": 28000,
+      "start_date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
+      "line_item_name": "Íslandsbanki - Sun 9. ágúst / 5x1",
+      "price": 21500,
+      "start_date": "2026-08-09",
+      "end_date": "2026-08-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
+      "line_item_name": "Íslandsbanki - Þri 11. ágúst / 5x1",
+      "price": 26000,
+      "start_date": "2026-08-11",
+      "end_date": "2026-08-11",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - maí 2026",
       "line_item_name": "Íslandsbanki - Fim 14. maí / 5x1",
       "price": 28000,
@@ -2044,7 +2052,7 @@
     {
       "campaign_name": "Kringlan -Mediacom",
       "line_item_name": "Kringlan -Mediacom",
-      "price": 29000,
+      "price": 67500,
       "start_date": "2026-05-06",
       "end_date": "2026-05-06",
       "seen_count": 1
@@ -2052,7 +2060,7 @@
     {
       "campaign_name": "Kringlan -Mediacom",
       "line_item_name": "Kringlan -Mediacom",
-      "price": 67500,
+      "price": 29000,
       "start_date": "2026-05-06",
       "end_date": "2026-05-06",
       "seen_count": 1
@@ -2548,14 +2556,6 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 864000,
-      "start_date": "2026-04-27",
-      "end_date": "2026-05-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "price": 1248000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-16",
@@ -2567,6 +2567,14 @@
       "price": 140000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "price": 864000,
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-12",
       "seen_count": 1
     },
     {
@@ -2684,14 +2692,6 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 20000,
-      "start_date": "2026-05-05",
-      "end_date": "2026-05-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "pris mai",
-      "line_item_name": "pris mai",
       "price": 29000,
       "start_date": "2026-05-05",
       "end_date": "2026-05-16",
@@ -2700,7 +2700,15 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
+      "price": 20000,
+      "start_date": "2026-05-05",
+      "end_date": "2026-05-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "pris mai",
+      "line_item_name": "pris mai",
+      "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2708,7 +2716,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
+      "price": 63000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2820,9 +2828,9 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
+      "price": 61500,
       "start_date": "2026-05-17",
-      "end_date": "2026-05-23",
+      "end_date": "2026-05-19",
       "seen_count": 1
     },
     {
@@ -2836,9 +2844,25 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 61500,
+      "price": 182000,
       "start_date": "2026-05-17",
-      "end_date": "2026-05-19",
+      "end_date": "2026-05-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "SAmfylking Kópavogur",
+      "line_item_name": "Samfylking Kópavogur 07-13 maí Hagamsári.",
+      "price": 40600,
+      "start_date": "2026-05-07",
+      "end_date": "2026-05-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "SAmfylking Kópavogur",
+      "line_item_name": "Samfylking Kópavogur Hæðasmári og Hæðasmári standur.",
+      "price": 66500,
+      "start_date": "2026-05-07",
+      "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
@@ -3244,17 +3268,17 @@
     {
       "campaign_name": "Vinsti grænir - Plan",
       "line_item_name": "Vinsti grænir - Plan",
-      "price": 222000,
+      "price": 37500,
       "start_date": "2026-05-01",
-      "end_date": "2026-05-15",
+      "end_date": "2026-05-09",
       "seen_count": 1
     },
     {
       "campaign_name": "Vinsti grænir - Plan",
       "line_item_name": "Vinsti grænir - Plan",
-      "price": 37500,
+      "price": 222000,
       "start_date": "2026-05-01",
-      "end_date": "2026-05-09",
+      "end_date": "2026-05-15",
       "seen_count": 1
     },
     {
