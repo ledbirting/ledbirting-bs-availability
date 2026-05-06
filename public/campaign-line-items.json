@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T15:47:37.236Z",
+  "generated_at": "2026-05-06T18:36:37.965Z",
   "scope": {
     "report_start_date": "2026-05-06",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 97,
-    "items_seen": 672,
-    "unique_items": 422,
+    "items_seen": 673,
+    "unique_items": 423,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1019,18 +1019,26 @@
     },
     {
       "campaign_name": "ELKO 08-18 maí.",
-      "line_item_name": "ELKO 18 maí. BT-GRI-HB2-VLV2",
-      "price": 26500,
-      "start_date": "2026-05-18",
-      "end_date": "2026-05-18",
+      "line_item_name": "ELKO 15 maí. KAPLA3-GB-GRI-HB2",
+      "price": 26000,
+      "start_date": "2026-05-15",
+      "end_date": "2026-05-15",
       "seen_count": 1
     },
     {
       "campaign_name": "ELKO 08-18 maí.",
-      "line_item_name": "ELKO 18 maí. HAFT:",
-      "price": 17500,
+      "line_item_name": "ELKO 17 maí. HAFT:",
+      "price": 7500,
       "start_date": "2026-05-08",
-      "end_date": "2026-05-31",
+      "end_date": "2026-05-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "ELKO 08-18 maí.",
+      "line_item_name": "ELKO 17 maí. KAPLA1-EH1-BH2-VLV1",
+      "price": 66000,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-17",
       "seen_count": 1
     },
     {
@@ -1404,7 +1412,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -1412,7 +1420,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -2556,6 +2564,14 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "price": 864000,
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "price": 1248000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-16",
@@ -2567,14 +2583,6 @@
       "price": 140000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 864000,
-      "start_date": "2026-04-27",
-      "end_date": "2026-05-12",
       "seen_count": 1
     },
     {
@@ -2692,14 +2700,6 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 29000,
-      "start_date": "2026-05-05",
-      "end_date": "2026-05-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "pris mai",
-      "line_item_name": "pris mai",
       "price": 20000,
       "start_date": "2026-05-05",
       "end_date": "2026-05-14",
@@ -2708,7 +2708,15 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
+      "price": 29000,
+      "start_date": "2026-05-05",
+      "end_date": "2026-05-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "pris mai",
+      "line_item_name": "pris mai",
+      "price": 63000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2716,7 +2724,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
+      "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2828,14 +2836,6 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 61500,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sambíó MAndalorian.",
-      "line_item_name": "Sambíó Mandalorian.",
       "price": 161700,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
@@ -2847,6 +2847,14 @@
       "price": 182000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sambíó MAndalorian.",
+      "line_item_name": "Sambíó Mandalorian.",
+      "price": 61500,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-19",
       "seen_count": 1
     },
     {
