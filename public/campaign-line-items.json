@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T09:53:19.956Z",
+  "generated_at": "2026-05-07T12:40:58.475Z",
   "scope": {
     "report_start_date": "2026-05-07",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 660,
-    "unique_items": 409,
+    "items_seen": 659,
+    "unique_items": 408,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -40,14 +40,6 @@
       "start_date": "2026-01-22",
       "end_date": "2027-01-22",
       "seen_count": 9
-    },
-    {
-      "campaign_name": "Ab - Bíladagar",
-      "line_item_name": "Ab - Bíladagar",
-      "price": 104000,
-      "start_date": "2026-06-17",
-      "end_date": "2026-06-20",
-      "seen_count": 1
     },
     {
       "campaign_name": "Afreksverk - Hafnartorg",
@@ -2076,7 +2068,7 @@
     {
       "campaign_name": "Lottó 95M - Getraunir  / Ennemm - 7. til 9. maí 2026",
       "line_item_name": "Lottó 95M - Fim 7. maí",
-      "price": 68000,
+      "price": 84300,
       "start_date": "2026-05-07",
       "end_date": "2026-05-07",
       "seen_count": 1
