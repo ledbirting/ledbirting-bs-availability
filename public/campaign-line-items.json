@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T15:51:12.397Z",
+  "generated_at": "2026-05-07T18:37:08.971Z",
   "scope": {
     "report_start_date": "2026-05-07",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 659,
-    "unique_items": 408,
+    "items_seen": 664,
+    "unique_items": 413,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1018,6 +1018,38 @@
       "seen_count": 10
     },
     {
+      "campaign_name": "Ennemm - Akureyri 1. til 4. júlí",
+      "line_item_name": "Ennemm - Akureyri 1. júlí - GLER2 (3 hólf á einni hlið)",
+      "price": 19500,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ennemm - Akureyri 1. til 4. júlí",
+      "line_item_name": "Ennemm - Akureyri 2. júlí - GLER1, GLER2 (2 hólf á hvorri hlið)",
+      "price": 26000,
+      "start_date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ennemm - Akureyri 1. til 4. júlí",
+      "line_item_name": "Ennemm - Akureyri 3. júlí - GLER2 (3 hólf á einni hlið)",
+      "price": 19500,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ennemm - Akureyri 1. til 4. júlí",
+      "line_item_name": "Ennemm - Akureyri 4. júlí - GLER1, GLER2 (2 hólf á hvorri hlið)",
+      "price": 26000,
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Ennemm ÖBÍ",
       "line_item_name": "Ennemm ÖBÍ. BH2-GLT2- H0FT-KAPLA3-GB-SFS-SMT-VLV1 5/7 maí",
       "price": 115600,
@@ -1831,6 +1863,14 @@
       "price": 33500,
       "start_date": "2026-05-13",
       "end_date": "2026-05-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandsbanki - Maraþon / Datera - maí 2026",
+      "line_item_name": "Íslandsbanki - Sun 10. maí / 5x1",
+      "price": 35000,
+      "start_date": "2026-05-10",
+      "end_date": "2026-05-10",
       "seen_count": 1
     },
     {
