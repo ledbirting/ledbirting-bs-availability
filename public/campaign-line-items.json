@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T12:40:58.475Z",
+  "generated_at": "2026-05-07T15:51:12.397Z",
   "scope": {
     "report_start_date": "2026-05-07",
     "report_end_date": "2099-12-31",
@@ -1395,7 +1395,7 @@
     },
     {
       "campaign_name": "Happdrætti DAS / Datera - Sjómannadagurinn 2026",
-      "line_item_name": "DAS / Datera / Sjómannadagurinn",
+      "line_item_name": "DAS / Datera / Sjómannadagurinn (3 hólf á dag - Hafnartorg 4 fletir)",
       "price": 60000,
       "start_date": "2026-06-05",
       "end_date": "2026-06-07",
@@ -1403,7 +1403,7 @@
     },
     {
       "campaign_name": "Happdrætti DAS / Datera - Sjómannadagurinn 2026",
-      "line_item_name": "DAS / Datera / Sjómannadagurinn",
+      "line_item_name": "DAS / Datera / Sjómannadagurinn (5 hólf á dag - Grandi)",
       "price": 112500,
       "start_date": "2026-06-05",
       "end_date": "2026-06-07",
@@ -2068,7 +2068,7 @@
     {
       "campaign_name": "Lottó 95M - Getraunir  / Ennemm - 7. til 9. maí 2026",
       "line_item_name": "Lottó 95M - Fim 7. maí",
-      "price": 84300,
+      "price": 91600,
       "start_date": "2026-05-07",
       "end_date": "2026-05-07",
       "seen_count": 1
