@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T12:31:56.163Z",
+  "generated_at": "2026-05-08T15:35:08.641Z",
   "scope": {
     "report_start_date": "2026-05-08",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 648,
-    "unique_items": 398,
+    "items_seen": 660,
+    "unique_items": 410,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -207,6 +207,14 @@
       "price": 18000,
       "start_date": "2026-05-09",
       "end_date": "2026-05-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Artasan - Hæðasmári - Femarelle - Heiða",
+      "line_item_name": "Artasan - Hæðasmári - Femarelle - Heiða",
+      "price": 165000,
+      "start_date": "2026-05-08",
+      "end_date": "2026-06-06",
       "seen_count": 1
     },
     {
@@ -914,6 +922,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Dominos 27-28 maí Netdagar.",
+      "line_item_name": "Dominos 27 maí Netdagar.",
+      "price": 77300,
+      "start_date": "2026-05-27",
+      "end_date": "2026-05-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Dominos 27-28 maí Netdagar.",
+      "line_item_name": "Dominos 28 maí Netdagar",
+      "price": 77800,
+      "start_date": "2026-05-28",
+      "end_date": "2026-05-28",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Duty Free - Heinemann  / Datera -  ágúst 2026",
       "line_item_name": "Duty Free - Heinemann / GLER2 (fös)",
       "price": 26000,
@@ -1324,7 +1348,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -1332,7 +1356,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -2428,6 +2452,14 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "price": 864000,
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "price": 140000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-10",
@@ -2439,14 +2471,6 @@
       "price": 1248000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 864000,
-      "start_date": "2026-04-27",
-      "end_date": "2026-05-12",
       "seen_count": 1
     },
     {
@@ -2564,14 +2588,6 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 29000,
-      "start_date": "2026-05-05",
-      "end_date": "2026-05-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "pris mai",
-      "line_item_name": "pris mai",
       "price": 20000,
       "start_date": "2026-05-05",
       "end_date": "2026-05-14",
@@ -2580,9 +2596,9 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-31",
+      "price": 29000,
+      "start_date": "2026-05-05",
+      "end_date": "2026-05-16",
       "seen_count": 1
     },
     {
@@ -2594,12 +2610,92 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "pris mai",
+      "line_item_name": "pris mai",
+      "price": 63000,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-31",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 5854800,
       "start_date": "2026-07-27",
       "end_date": "2026-08-29",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Reykjagarður maí",
+      "line_item_name": "Reykjagarður 09 maí",
+      "price": 28300,
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Reykjagarður maí",
+      "line_item_name": "Reykjagarður 10 maí",
+      "price": 65300,
+      "start_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Reykjagarður maí",
+      "line_item_name": "Reykjagarður 11  maí",
+      "price": 46800,
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Reykjagarður maí",
+      "line_item_name": "Reykjagarður 12  maí",
+      "price": 51800,
+      "start_date": "2026-05-12",
+      "end_date": "2026-05-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Reykjagarður maí",
+      "line_item_name": "Reykjagarður 13  maí",
+      "price": 39300,
+      "start_date": "2026-05-13",
+      "end_date": "2026-05-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Reykjagarður maí",
+      "line_item_name": "Reykjagarður 14  maí",
+      "price": 35300,
+      "start_date": "2026-05-14",
+      "end_date": "2026-05-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Reykjagarður maí",
+      "line_item_name": "Reykjagarður 18/20/22  maí",
+      "price": 192900,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Reykjagarður maí",
+      "line_item_name": "Reykjagarður 24/26/28/30  maí",
+      "price": 202000,
+      "start_date": "2026-05-24",
+      "end_date": "2026-05-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Reykjagarður maí",
+      "line_item_name": "Reykjagarður maí",
+      "price": 51000,
+      "start_date": "2026-05-08",
+      "end_date": "2026-05-08",
+      "seen_count": 1
     },
     {
       "campaign_name": "Reykjastræti - Fast í Hafnartorgi",
@@ -2692,14 +2788,6 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sambíó MAndalorian.",
-      "line_item_name": "Sambíó Mandalorian.",
       "price": 61500,
       "start_date": "2026-05-17",
       "end_date": "2026-05-19",
@@ -2709,6 +2797,14 @@
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
       "price": 161700,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sambíó MAndalorian.",
+      "line_item_name": "Sambíó Mandalorian.",
+      "price": 182000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
