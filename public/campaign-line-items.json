@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T09:35:29.854Z",
+  "generated_at": "2026-05-08T12:31:56.163Z",
   "scope": {
     "report_start_date": "2026-05-08",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 651,
-    "unique_items": 401,
+    "items_seen": 648,
+    "unique_items": 398,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -994,38 +994,6 @@
       "seen_count": 10
     },
     {
-      "campaign_name": "Ennemm - Akureyri 1. til 4. júlí",
-      "line_item_name": "Ennemm - Akureyri 1. júlí - GLER2 (3 hólf á einni hlið)",
-      "price": 19500,
-      "start_date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ennemm - Akureyri 1. til 4. júlí",
-      "line_item_name": "Ennemm - Akureyri 2. júlí - GLER1, GLER2 (2 hólf á hvorri hlið)",
-      "price": 26000,
-      "start_date": "2026-07-02",
-      "end_date": "2026-07-02",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ennemm - Akureyri 1. til 4. júlí",
-      "line_item_name": "Ennemm - Akureyri 3. júlí - GLER2 (3 hólf á einni hlið)",
-      "price": 19500,
-      "start_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ennemm - Akureyri 1. til 4. júlí",
-      "line_item_name": "Ennemm - Akureyri 4. júlí - GLER1, GLER2 (2 hólf á hvorri hlið)",
-      "price": 26000,
-      "start_date": "2026-07-04",
-      "end_date": "2026-07-04",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Eyesland (samningur) - mars '26 til feb '27",
       "line_item_name": "Eyesland - Grandi / GRA / Fim, Fös / (aukahólf)",
       "price": 780000,
@@ -1356,7 +1324,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -1364,7 +1332,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -2108,7 +2076,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 85500,
+      "price": 142500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2116,7 +2084,7 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 142500,
+      "price": 85500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
       "seen_count": 1
@@ -2402,6 +2370,38 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "MS / Ennemm - Akureyri - 1. til 4. júlí 2026",
+      "line_item_name": "MS / Ennemm - Akureyri 1. júlí - GLER2 (3 hólf á einni hlið)",
+      "price": 19500,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "MS / Ennemm - Akureyri - 1. til 4. júlí 2026",
+      "line_item_name": "MS / Ennemm - Akureyri 2. júlí - GLER1, GLER2 (2 hólf á hvorri hlið)",
+      "price": 26000,
+      "start_date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "MS / Ennemm - Akureyri - 1. til 4. júlí 2026",
+      "line_item_name": "MS / Ennemm - Akureyri 3. júlí - GLER2 (3 hólf á einni hlið)",
+      "price": 19500,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "MS / Ennemm - Akureyri - 1. til 4. júlí 2026",
+      "line_item_name": "MS / Ennemm - Akureyri 4. júlí - GLER1, GLER2 (2 hólf á hvorri hlið)",
+      "price": 26000,
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "N1 árssamingur Glerártorg.",
       "line_item_name": "N1 árssamingur Glerártorg.",
       "price": 2372500,
@@ -2428,6 +2428,14 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "price": 140000,
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "price": 1248000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-16",
@@ -2439,14 +2447,6 @@
       "price": 864000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 140000,
-      "start_date": "2026-04-27",
-      "end_date": "2026-05-10",
       "seen_count": 1
     },
     {
@@ -2564,14 +2564,6 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 20000,
-      "start_date": "2026-05-05",
-      "end_date": "2026-05-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "pris mai",
-      "line_item_name": "pris mai",
       "price": 29000,
       "start_date": "2026-05-05",
       "end_date": "2026-05-16",
@@ -2580,9 +2572,9 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-31",
+      "price": 20000,
+      "start_date": "2026-05-05",
+      "end_date": "2026-05-14",
       "seen_count": 1
     },
     {
@@ -2594,11 +2586,11 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Ratsjá Gildi april",
-      "line_item_name": "Ratsjá Gildi  24 april",
-      "price": 622500,
-      "start_date": "2026-04-24",
-      "end_date": "2026-05-08",
+      "campaign_name": "pris mai",
+      "line_item_name": "pris mai",
+      "price": 75000,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-31",
       "seen_count": 1
     },
     {
@@ -2700,14 +2692,6 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 61500,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sambíó MAndalorian.",
-      "line_item_name": "Sambíó Mandalorian.",
       "price": 182000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
@@ -2716,25 +2700,17 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
+      "price": 61500,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sambíó MAndalorian.",
+      "line_item_name": "Sambíó Mandalorian.",
       "price": 161700,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "SAmfylking Kópavogur",
-      "line_item_name": "Samfylking Kópavogur 07-13 maí Hagamsári.",
-      "price": 40600,
-      "start_date": "2026-05-07",
-      "end_date": "2026-05-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "SAmfylking Kópavogur",
-      "line_item_name": "Samfylking Kópavogur Hæðasmári og Hæðasmári standur.",
-      "price": 66500,
-      "start_date": "2026-05-07",
-      "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
@@ -2804,7 +2780,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 245700,
+      "price": 138600,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 1
@@ -2812,7 +2788,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 138600,
+      "price": 245700,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 1
@@ -2964,17 +2940,17 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 13000,
+      "price": 19500,
       "start_date": "2026-05-11",
-      "end_date": "2026-05-12",
+      "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 19500,
+      "price": 13000,
       "start_date": "2026-05-11",
-      "end_date": "2026-05-13",
+      "end_date": "2026-05-12",
       "seen_count": 1
     },
     {
@@ -2988,18 +2964,18 @@
     {
       "campaign_name": "Toppbilar Bestun",
       "line_item_name": "Bestun 7-9 mai",
-      "price": 5000,
-      "start_date": "2026-05-08",
-      "end_date": "2026-05-09",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Toppbilar Bestun",
-      "line_item_name": "Bestun 7-9 mai",
       "price": 20000,
       "start_date": "2026-05-08",
       "end_date": "2026-05-08",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Toppbilar Bestun",
+      "line_item_name": "Bestun 7-9 mai",
+      "price": 5000,
+      "start_date": "2026-05-08",
+      "end_date": "2026-05-09",
+      "seen_count": 2
     },
     {
       "campaign_name": "Toppbilar Bestun",
