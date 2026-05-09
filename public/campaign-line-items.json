@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T18:21:40.935Z",
+  "generated_at": "2026-05-09T21:17:35.184Z",
   "scope": {
     "report_start_date": "2026-05-09",
     "report_end_date": "2099-12-31",
@@ -1308,7 +1308,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -1316,7 +1316,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -2388,6 +2388,14 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "price": 140000,
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
+      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "price": 864000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-12",
@@ -2399,14 +2407,6 @@
       "price": 1248000,
       "start_date": "2026-04-27",
       "end_date": "2026-05-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 140000,
-      "start_date": "2026-04-27",
-      "end_date": "2026-05-10",
       "seen_count": 1
     },
     {
@@ -2540,7 +2540,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
+      "price": 63000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2548,7 +2548,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
+      "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2708,7 +2708,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 161700,
+      "price": 182000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2724,7 +2724,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
+      "price": 161700,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2804,7 +2804,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 245700,
+      "price": 138600,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 1
@@ -2812,7 +2812,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 138600,
+      "price": 245700,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 1
@@ -2988,7 +2988,7 @@
     {
       "campaign_name": "Toppbilar Bestun",
       "line_item_name": "Bestun 7-9 mai",
-      "price": 5000,
+      "price": 10000,
       "start_date": "2026-05-09",
       "end_date": "2026-05-09",
       "seen_count": 1
@@ -2996,7 +2996,7 @@
     {
       "campaign_name": "Toppbilar Bestun",
       "line_item_name": "Bestun 7-9 mai",
-      "price": 10000,
+      "price": 5000,
       "start_date": "2026-05-09",
       "end_date": "2026-05-09",
       "seen_count": 1
@@ -3108,17 +3108,17 @@
     {
       "campaign_name": "Vinsti grænir - Plan",
       "line_item_name": "Vinsti grænir - Plan",
-      "price": 37500,
+      "price": 222000,
       "start_date": "2026-05-01",
-      "end_date": "2026-05-09",
+      "end_date": "2026-05-15",
       "seen_count": 1
     },
     {
       "campaign_name": "Vinsti grænir - Plan",
       "line_item_name": "Vinsti grænir - Plan",
-      "price": 222000,
+      "price": 37500,
       "start_date": "2026-05-01",
-      "end_date": "2026-05-15",
+      "end_date": "2026-05-09",
       "seen_count": 1
     },
     {
