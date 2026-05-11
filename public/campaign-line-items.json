@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T10:17:24.236Z",
+  "generated_at": "2026-05-11T13:02:34.611Z",
   "scope": {
     "report_start_date": "2026-05-11",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 625,
-    "unique_items": 372,
+    "items_seen": 627,
+    "unique_items": 374,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -327,6 +327,22 @@
       "price": 65000,
       "start_date": "2026-07-01",
       "end_date": "2026-07-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bestun-langisjór",
+      "line_item_name": "Bestun-langisjór",
+      "price": 173700,
+      "start_date": "2026-05-20",
+      "end_date": "2026-05-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bestun-langisjór",
+      "line_item_name": "Bestun-langisjór",
+      "price": 37500,
+      "start_date": "2026-05-22",
+      "end_date": "2026-05-26",
       "seen_count": 1
     },
     {
@@ -1866,6 +1882,30 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Lottó 130M - Getraunir  / Ennemm - 14. til 16. maí",
+      "line_item_name": "Lottó 120M - Fim 14. maí",
+      "price": 99600,
+      "start_date": "2026-05-14",
+      "end_date": "2026-05-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lottó 130M - Getraunir  / Ennemm - 14. til 16. maí",
+      "line_item_name": "Lottó 120M - Fös 15. maí",
+      "price": 71800,
+      "start_date": "2026-05-15",
+      "end_date": "2026-05-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lottó 130M - Getraunir  / Ennemm - 14. til 16. maí",
+      "line_item_name": "Lottó 120M - Lau 16. maí til kl. 18",
+      "price": 94725,
+      "start_date": "2026-05-16",
+      "end_date": "2026-05-16",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Lyfja aflsáttadagar. 27/05-02/06",
       "line_item_name": "Lyfja 01 júní",
       "price": 48000,
@@ -2212,17 +2252,17 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 1248000,
+      "price": 864000,
       "start_date": "2026-04-27",
-      "end_date": "2026-05-16",
+      "end_date": "2026-05-12",
       "seen_count": 1
     },
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 864000,
+      "price": 1248000,
       "start_date": "2026-04-27",
-      "end_date": "2026-05-12",
+      "end_date": "2026-05-16",
       "seen_count": 1
     },
     {
@@ -2530,30 +2570,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Sambíó MAndalorian.",
-      "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sambíó MAndalorian.",
-      "line_item_name": "Sambíó Mandalorian.",
-      "price": 161700,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sambíó MAndalorian.",
-      "line_item_name": "Sambíó Mandalorian.",
-      "price": 61500,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-19",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Samfylking auka kópavorug.",
       "line_item_name": "Samfylking auka kópavogur.",
       "price": 79000,
@@ -2628,7 +2644,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 138600,
+      "price": 245700,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 1
@@ -2636,7 +2652,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 245700,
+      "price": 138600,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 1
