@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-10T21:18:51.509Z",
+  "generated_at": "2026-05-11T00:42:34.144Z",
   "scope": {
-    "report_start_date": "2026-05-10",
+    "report_start_date": "2026-05-11",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 634,
-    "unique_items": 382,
+    "items_seen": 622,
+    "unique_items": 369,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -274,14 +274,6 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Bauhaus. sumar.",
-      "line_item_name": "Bauhaus. 10 maí HSMI-KAPLA2-GB-SMT-VLV2",
-      "price": 39300,
-      "start_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "bestun",
       "line_item_name": "bestun",
       "price": 65000,
@@ -343,7 +335,7 @@
       "price": 52000,
       "start_date": "2026-08-01",
       "end_date": "2026-08-08",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Bestun-vogue-des-Glerártorg",
@@ -891,14 +883,6 @@
     },
     {
       "campaign_name": "ELKO 08-18 maí.",
-      "line_item_name": "ELKO 10 maí. GRI-KAPLA2-VLV2",
-      "price": 23000,
-      "start_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "ELKO 08-18 maí.",
       "line_item_name": "ELKO 11 maí. GRI-BT-BH2",
       "price": 19500,
       "start_date": "2026-05-11",
@@ -1139,14 +1123,6 @@
     },
     {
       "campaign_name": "Framsókn á Akureyri - maí 2026",
-      "line_item_name": "Framsókn á Akureyri - 10. maí (Glerártorg)",
-      "price": 13000,
-      "start_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Framsókn á Akureyri - maí 2026",
       "line_item_name": "Framsókn á Akureyri - 11. maí (Glerártorg)",
       "price": 6500,
       "start_date": "2026-05-11",
@@ -1223,7 +1199,7 @@
       "price": 120000,
       "start_date": "2026-06-07",
       "end_date": "2026-06-13",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Góa Pipar 18 maí - 16 júní.",
@@ -1431,14 +1407,6 @@
       "price": 201500,
       "start_date": "2026-05-01",
       "end_date": "2026-05-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 10. maí / 4x1",
-      "price": 26000,
-      "start_date": "2026-05-10",
-      "end_date": "2026-05-10",
       "seen_count": 1
     },
     {
@@ -1683,14 +1651,6 @@
     },
     {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - maí 2026",
-      "line_item_name": "Íslandsbanki - Sun 10. maí / 5x1",
-      "price": 35000,
-      "start_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Íslandsbanki - Maraþon / Datera - maí 2026",
       "line_item_name": "Íslandsbanki - Þri 12. maí / 5x1",
       "price": 34500,
       "start_date": "2026-05-12",
@@ -1839,7 +1799,7 @@
       "price": 39000,
       "start_date": "2026-08-06",
       "end_date": "2026-08-08",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Krónan 2 x faldar birtingar Grandi út árið 2025",
@@ -2002,22 +1962,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Media com -Boozt vika  19",
-      "line_item_name": "Media com -Boozt vika 15",
-      "price": 234500,
-      "start_date": "2026-05-04",
-      "end_date": "2026-05-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Media com -Sigurjón-1april-14 mai",
-      "line_item_name": "Media com -cox -11april-14 mai",
-      "price": 266000,
-      "start_date": "2026-04-11",
-      "end_date": "2026-05-10",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Media com -Sigurjón-1april-14 mai",
       "line_item_name": "Media com -Cox-11april-14 mai",
       "price": 710000,
@@ -2031,14 +1975,6 @@
       "price": 208000,
       "start_date": "2026-05-09",
       "end_date": "2026-05-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Miðflokkurinn / HN - maí 2026",
-      "line_item_name": "Miðflokkurinn 10. maí",
-      "price": 41000,
-      "start_date": "2026-05-10",
-      "end_date": "2026-05-10",
       "seen_count": 1
     },
     {
@@ -2111,7 +2047,7 @@
       "price": 468000,
       "start_date": "2026-07-05",
       "end_date": "2026-09-30",
-      "seen_count": 3
+      "seen_count": 4
     },
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
@@ -2119,15 +2055,7 @@
       "price": 143000,
       "start_date": "2026-07-05",
       "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
-      "line_item_name": "Mjólka Gríska - 10. maí / 1x1",
-      "price": 7500,
-      "start_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
@@ -2300,14 +2228,6 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 140000,
-      "start_date": "2026-04-27",
-      "end_date": "2026-05-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "price": 1017900,
       "start_date": "2026-05-01",
       "end_date": "2026-05-13",
@@ -2420,14 +2340,6 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 29000,
-      "start_date": "2026-05-05",
-      "end_date": "2026-05-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "pris mai",
-      "line_item_name": "pris mai",
       "price": 20000,
       "start_date": "2026-05-05",
       "end_date": "2026-05-14",
@@ -2436,9 +2348,9 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-31",
+      "price": 29000,
+      "start_date": "2026-05-05",
+      "end_date": "2026-05-16",
       "seen_count": 1
     },
     {
@@ -2450,20 +2362,20 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "pris mai",
+      "line_item_name": "pris mai",
+      "price": 63000,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-31",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 5854800,
       "start_date": "2026-07-27",
       "end_date": "2026-08-29",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Reykjagarður maí",
-      "line_item_name": "Reykjagarður 10 maí",
-      "price": 65300,
-      "start_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "seen_count": 1
     },
     {
       "campaign_name": "Reykjagarður maí",
@@ -2596,7 +2508,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 161700,
+      "price": 182000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2612,7 +2524,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
+      "price": 161700,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2836,17 +2748,9 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 331500,
-      "start_date": "2026-04-24",
-      "end_date": "2026-05-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Svens",
-      "line_item_name": "Svens",
-      "price": 104000,
-      "start_date": "2026-04-25",
-      "end_date": "2026-05-10",
+      "price": 19500,
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
@@ -2855,14 +2759,6 @@
       "price": 13000,
       "start_date": "2026-05-11",
       "end_date": "2026-05-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Svens",
-      "line_item_name": "Svens",
-      "price": 19500,
-      "start_date": "2026-05-11",
-      "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
