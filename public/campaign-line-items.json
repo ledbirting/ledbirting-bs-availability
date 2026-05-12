@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T07:01:44.511Z",
+  "generated_at": "2026-05-12T09:56:00.790Z",
   "scope": {
     "report_start_date": "2026-05-12",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 623,
-    "unique_items": 370,
+    "items_seen": 621,
+    "unique_items": 368,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -823,22 +823,6 @@
       "price": 334500,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "cox auka -15-19 mai",
-      "line_item_name": "cox auka -15-16  mai",
-      "price": 140000,
-      "start_date": "2026-05-15",
-      "end_date": "2026-05-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "cox auka -15-19 mai",
-      "line_item_name": "cox auka -15-19 mai",
-      "price": 157500,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-19",
       "seen_count": 1
     },
     {
@@ -2756,17 +2740,17 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 13000,
+      "price": 19500,
       "start_date": "2026-05-11",
-      "end_date": "2026-05-12",
+      "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 19500,
+      "price": 13000,
       "start_date": "2026-05-11",
-      "end_date": "2026-05-13",
+      "end_date": "2026-05-12",
       "seen_count": 1
     },
     {
