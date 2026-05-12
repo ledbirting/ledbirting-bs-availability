@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-11T21:31:14.906Z",
+  "generated_at": "2026-05-12T00:39:20.108Z",
   "scope": {
-    "report_start_date": "2026-05-11",
+    "report_start_date": "2026-05-12",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 630,
-    "unique_items": 377,
+    "items_seen": 623,
+    "unique_items": 370,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -359,7 +359,7 @@
       "price": 97500,
       "start_date": "2026-12-07",
       "end_date": "2026-12-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun-vogue-Glerártorg júni",
@@ -643,14 +643,6 @@
     },
     {
       "campaign_name": "Bónus / HN - maí 2026",
-      "line_item_name": "Bónus 11. maí - Mán / 8x1",
-      "price": 55000,
-      "start_date": "2026-05-11",
-      "end_date": "2026-05-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - maí 2026",
       "line_item_name": "Bónus 13. maí - Mið / 9x1",
       "price": 53000,
       "start_date": "2026-05-13",
@@ -899,14 +891,6 @@
     },
     {
       "campaign_name": "ELKO 08-18 maí.",
-      "line_item_name": "ELKO 11 maí. GRI-BT-BH2",
-      "price": 19500,
-      "start_date": "2026-05-11",
-      "end_date": "2026-05-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "ELKO 08-18 maí.",
       "line_item_name": "ELKO 15 maí. KAPLA3-GB-GRI-HB2",
       "price": 26000,
       "start_date": "2026-05-15",
@@ -1136,14 +1120,6 @@
       "start_date": "2026-07-01",
       "end_date": "2026-09-30",
       "seen_count": 4
-    },
-    {
-      "campaign_name": "Framsókn á Akureyri - maí 2026",
-      "line_item_name": "Framsókn á Akureyri - 11. maí (Glerártorg)",
-      "price": 6500,
-      "start_date": "2026-05-11",
-      "end_date": "2026-05-11",
-      "seen_count": 1
     },
     {
       "campaign_name": "Framsókn á Akureyri - maí 2026",
@@ -1791,7 +1767,7 @@
       "price": 39000,
       "start_date": "2026-11-05",
       "end_date": "2026-11-07",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1964,14 +1940,6 @@
     {
       "campaign_name": "Lyfja maí",
       "line_item_name": "Lyfja 05-12 maí",
-      "price": 85500,
-      "start_date": "2026-05-05",
-      "end_date": "2026-05-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lyfja maí",
-      "line_item_name": "Lyfja 05-12 maí",
       "price": 142500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-12",
@@ -2015,14 +1983,6 @@
       "price": 208000,
       "start_date": "2026-05-09",
       "end_date": "2026-05-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Miðflokkurinn / HN - maí 2026",
-      "line_item_name": "Miðflokkurinn 11. maí",
-      "price": 41000,
-      "start_date": "2026-05-11",
-      "end_date": "2026-05-11",
       "seen_count": 1
     },
     {
@@ -2419,14 +2379,6 @@
     },
     {
       "campaign_name": "Reykjagarður maí",
-      "line_item_name": "Reykjagarður 11  maí",
-      "price": 46800,
-      "start_date": "2026-05-11",
-      "end_date": "2026-05-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Reykjagarður maí",
       "line_item_name": "Reykjagarður 12  maí",
       "price": 51800,
       "start_date": "2026-05-12",
@@ -2668,7 +2620,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 138600,
+      "price": 245700,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 1
@@ -2676,7 +2628,7 @@
     {
       "campaign_name": "Samfylkingin. 24 apríl - 13 maí .",
       "line_item_name": "28 apríl - 13 maí - Reykjavík",
-      "price": 245700,
+      "price": 138600,
       "start_date": "2026-04-28",
       "end_date": "2026-05-13",
       "seen_count": 1
@@ -2763,14 +2715,6 @@
     },
     {
       "campaign_name": "Sólar. maí",
-      "line_item_name": "Sólar. maí 11 maí BH1-EH-GRI-HB1-KAPLA2",
-      "price": 31000,
-      "start_date": "2026-05-11",
-      "end_date": "2026-05-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sólar. maí",
       "line_item_name": "Sólar. maí 13 maí EH1-GB-SBS-SMT-VLV2",
       "price": 28000,
       "start_date": "2026-05-13",
@@ -2812,17 +2756,17 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 19500,
+      "price": 13000,
       "start_date": "2026-05-11",
-      "end_date": "2026-05-13",
+      "end_date": "2026-05-12",
       "seen_count": 1
     },
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 13000,
+      "price": 19500,
       "start_date": "2026-05-11",
-      "end_date": "2026-05-12",
+      "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
