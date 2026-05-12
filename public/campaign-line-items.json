@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T12:44:07.895Z",
+  "generated_at": "2026-05-12T15:52:03.746Z",
   "scope": {
     "report_start_date": "2026-05-12",
     "report_end_date": "2099-12-31",
@@ -2036,18 +2036,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 143000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-31",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 468000,
       "start_date": "2026-07-05",
       "end_date": "2026-09-30",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 143000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-31",
+      "seen_count": 2
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
@@ -2204,17 +2204,17 @@
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 1248000,
+      "price": 864000,
       "start_date": "2026-04-27",
-      "end_date": "2026-05-16",
+      "end_date": "2026-05-12",
       "seen_count": 1
     },
     {
       "campaign_name": "Optima-sjálfstæðisflokkurinn-kosningar",
       "line_item_name": "Optima-sjálfstæðisflokkurinn-kosningar",
-      "price": 864000,
+      "price": 1248000,
       "start_date": "2026-04-27",
-      "end_date": "2026-05-12",
+      "end_date": "2026-05-16",
       "seen_count": 1
     },
     {
@@ -2332,14 +2332,6 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 29000,
-      "start_date": "2026-05-05",
-      "end_date": "2026-05-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "pris mai",
-      "line_item_name": "pris mai",
       "price": 20000,
       "start_date": "2026-05-05",
       "end_date": "2026-05-14",
@@ -2348,7 +2340,15 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
+      "price": 29000,
+      "start_date": "2026-05-05",
+      "end_date": "2026-05-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "pris mai",
+      "line_item_name": "pris mai",
+      "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2356,7 +2356,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
+      "price": 63000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2516,9 +2516,9 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 61500,
+      "price": 182000,
       "start_date": "2026-05-17",
-      "end_date": "2026-05-19",
+      "end_date": "2026-05-23",
       "seen_count": 1
     },
     {
@@ -2532,9 +2532,9 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
+      "price": 61500,
       "start_date": "2026-05-17",
-      "end_date": "2026-05-23",
+      "end_date": "2026-05-19",
       "seen_count": 1
     },
     {
