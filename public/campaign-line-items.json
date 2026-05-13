@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T15:54:10.154Z",
+  "generated_at": "2026-05-13T18:41:09.653Z",
   "scope": {
     "report_start_date": "2026-05-13",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 614,
-    "unique_items": 360,
+    "items_seen": 613,
+    "unique_items": 359,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1204,7 +1204,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -1212,7 +1212,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -1231,22 +1231,6 @@
       "price": 68800,
       "start_date": "2026-05-01",
       "end_date": "2026-05-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Happdrætti DAS / Datera - Sjómannadagurinn 2026",
-      "line_item_name": "DAS / Datera / Sjómannadagurinn (3 hólf á dag - Hafnartorg 4 fletir)",
-      "price": 60000,
-      "start_date": "2026-06-05",
-      "end_date": "2026-06-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Happdrætti DAS / Datera - Sjómannadagurinn 2026",
-      "line_item_name": "DAS / Datera / Sjómannadagurinn (5 hólf á dag - Grandi)",
-      "price": 112500,
-      "start_date": "2026-06-05",
-      "end_date": "2026-06-07",
       "seen_count": 1
     },
     {
@@ -1791,6 +1775,14 @@
       "price": 326400,
       "start_date": "2026-05-09",
       "end_date": "2026-05-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lindex - S4S / Sahara - v. opnunar Lindex í maí",
+      "line_item_name": "Lindex - S4S / Sahara - 15. maí",
+      "price": 39000,
+      "start_date": "2026-05-15",
+      "end_date": "2026-05-15",
       "seen_count": 1
     },
     {
@@ -2812,17 +2804,17 @@
     {
       "campaign_name": "Vinstri grænir Akureyri",
       "line_item_name": "Vinstri grænir Akureyri",
-      "price": 71500,
+      "price": 273000,
       "start_date": "2026-05-03",
-      "end_date": "2026-05-13",
+      "end_date": "2026-05-16",
       "seen_count": 1
     },
     {
       "campaign_name": "Vinstri grænir Akureyri",
       "line_item_name": "Vinstri grænir Akureyri",
-      "price": 273000,
+      "price": 71500,
       "start_date": "2026-05-03",
-      "end_date": "2026-05-16",
+      "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
