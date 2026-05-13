@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T09:56:14.128Z",
+  "generated_at": "2026-05-13T12:46:55.063Z",
   "scope": {
     "report_start_date": "2026-05-13",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 614,
-    "unique_items": 360,
+    "items_seen": 617,
+    "unique_items": 363,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1610,6 +1610,30 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Ívar Birtingahsúið  14-16 maí",
+      "line_item_name": "Ívar Birtignahsúið 14 maí",
+      "price": 140000,
+      "start_date": "2026-05-14",
+      "end_date": "2026-05-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ívar Birtingahsúið  14-16 maí",
+      "line_item_name": "Ívar Birtingahúsið 15 maí",
+      "price": 112500,
+      "start_date": "2026-05-15",
+      "end_date": "2026-05-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ívar Birtingahsúið  14-16 maí",
+      "line_item_name": "Ívar Birtingahúsið 16 maí",
+      "price": 151500,
+      "start_date": "2026-05-16",
+      "end_date": "2026-05-16",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Jb úr og skart - Tilboð - 29 dagar",
       "line_item_name": "Jb úr og skart - Tilboð - 29 dagar (alla mið-laug)",
       "price": 104000,
@@ -2284,7 +2308,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
+      "price": 63000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2292,7 +2316,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
+      "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2444,7 +2468,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
+      "price": 161700,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2452,7 +2476,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 161700,
+      "price": 182000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2788,7 +2812,7 @@
     {
       "campaign_name": "Viðreisn - Sveitastjórnarkosningar / Datera",
       "line_item_name": "Viðreisn - Datera - 5. til 13. maí - GLER2",
-      "price": 58500,
+      "price": 53500,
       "start_date": "2026-05-05",
       "end_date": "2026-05-13",
       "seen_count": 1
@@ -2812,17 +2836,17 @@
     {
       "campaign_name": "Vinstri grænir Akureyri",
       "line_item_name": "Vinstri grænir Akureyri",
-      "price": 71500,
+      "price": 273000,
       "start_date": "2026-05-03",
-      "end_date": "2026-05-13",
+      "end_date": "2026-05-16",
       "seen_count": 1
     },
     {
       "campaign_name": "Vinstri grænir Akureyri",
       "line_item_name": "Vinstri grænir Akureyri",
-      "price": 273000,
+      "price": 71500,
       "start_date": "2026-05-03",
-      "end_date": "2026-05-16",
+      "end_date": "2026-05-13",
       "seen_count": 1
     },
     {
