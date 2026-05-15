@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T07:10:15.885Z",
+  "generated_at": "2026-05-15T09:55:48.429Z",
   "scope": {
     "report_start_date": "2026-05-15",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 580,
-    "unique_items": 328,
+    "items_seen": 581,
+    "unique_items": 329,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -794,14 +794,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "cox auka -15-19 mai",
-      "line_item_name": "cox auka -15-19 mai",
-      "price": 106500,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-19",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Datera - ágúst 2026",
       "line_item_name": "Datera - 17. til 23. ágúst - einfaldar birtingar",
       "price": 1265600,
@@ -1423,6 +1415,22 @@
       "price": 25500,
       "start_date": "2026-05-30",
       "end_date": "2026-05-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "ILVA Akureyri",
+      "line_item_name": "ILVA Akureyri",
+      "price": 156000,
+      "start_date": "2026-05-16",
+      "end_date": "2026-05-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "ILVA Akureyri",
+      "line_item_name": "ILVA Akureyri",
+      "price": 45500,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-23",
       "seen_count": 1
     },
     {
@@ -2300,17 +2308,17 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 61500,
+      "price": 161700,
       "start_date": "2026-05-17",
-      "end_date": "2026-05-19",
+      "end_date": "2026-05-23",
       "seen_count": 1
     },
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 161700,
+      "price": 61500,
       "start_date": "2026-05-17",
-      "end_date": "2026-05-23",
+      "end_date": "2026-05-19",
       "seen_count": 1
     },
     {
