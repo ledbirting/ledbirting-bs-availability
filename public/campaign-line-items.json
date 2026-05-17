@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T15:24:38.408Z",
+  "generated_at": "2026-05-17T18:24:29.468Z",
   "scope": {
     "report_start_date": "2026-05-17",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 590,
-    "unique_items": 335,
+    "items_seen": 594,
+    "unique_items": 337,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1204,7 +1204,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -1212,7 +1212,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -2052,18 +2052,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 143000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-31",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 468000,
       "start_date": "2026-07-05",
       "end_date": "2026-09-30",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 143000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-31",
+      "seen_count": 2
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
@@ -2452,6 +2452,14 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
+      "price": 182000,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sambíó MAndalorian.",
+      "line_item_name": "Sambíó Mandalorian.",
       "price": 161700,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
@@ -2463,14 +2471,6 @@
       "price": 61500,
       "start_date": "2026-05-17",
       "end_date": "2026-05-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sambíó MAndalorian.",
-      "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-23",
       "seen_count": 1
     },
     {
@@ -2576,6 +2576,22 @@
       "start_date": "2026-05-17",
       "end_date": "2026-05-20",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Svens",
+      "line_item_name": "Svens",
+      "price": 130000,
+      "start_date": "2026-05-20",
+      "end_date": "2026-06-17",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Svens",
+      "line_item_name": "Svens",
+      "price": 78000,
+      "start_date": "2026-05-20",
+      "end_date": "2026-06-17",
+      "seen_count": 2
     },
     {
       "campaign_name": "Tónhylur Long term",
