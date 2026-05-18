@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T10:31:44.277Z",
+  "generated_at": "2026-05-18T13:17:08.237Z",
   "scope": {
     "report_start_date": "2026-05-18",
     "report_end_date": "2099-12-31",
@@ -1564,7 +1564,7 @@
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 19. maí / 5x1",
-      "price": 32000,
+      "price": 30500,
       "start_date": "2026-05-19",
       "end_date": "2026-05-19",
       "seen_count": 1
@@ -1596,7 +1596,7 @@
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 24. mai / 4x1",
-      "price": 27000,
+      "price": 28500,
       "start_date": "2026-05-24",
       "end_date": "2026-05-24",
       "seen_count": 1
@@ -1604,7 +1604,7 @@
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 26. maí / 5x1",
-      "price": 32000,
+      "price": 31000,
       "start_date": "2026-05-26",
       "end_date": "2026-05-26",
       "seen_count": 1
@@ -1635,8 +1635,8 @@
     },
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 30. maí / 4x1",
-      "price": 25500,
+      "line_item_name": "IKEA - 30. maí / 5x1",
+      "price": 33500,
       "start_date": "2026-05-30",
       "end_date": "2026-05-30",
       "seen_count": 1
