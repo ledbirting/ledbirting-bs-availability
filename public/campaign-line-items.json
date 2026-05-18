@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-17T21:19:58.159Z",
+  "generated_at": "2026-05-18T00:44:20.610Z",
   "scope": {
-    "report_start_date": "2026-05-17",
+    "report_start_date": "2026-05-18",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 594,
-    "unique_items": 337,
+    "items_seen": 586,
+    "unique_items": 331,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -475,14 +475,6 @@
     },
     {
       "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir Þór  17 maí",
-      "price": 6500,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
       "line_item_name": "Heimaleikir Þór 01 júlí",
       "price": 6500,
       "start_date": "2026-07-01",
@@ -930,14 +922,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "ELKO 08-18 maí.",
-      "line_item_name": "ELKO 17 maí. KAPLA1-EH1-BH2-VLV1",
-      "price": 66000,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "ELKO árssamningur",
       "line_item_name": "ELKO árssamningur 01 mars 2026 - 28 feb. 2027",
       "price": 3198000,
@@ -1204,7 +1188,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
@@ -1212,10 +1196,10 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Happatreyjur",
@@ -1571,14 +1555,6 @@
     },
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 17. maí / 5x1",
-      "price": 35000,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 18. maí / 6x1",
       "price": 30000,
       "start_date": "2026-05-18",
@@ -1786,14 +1762,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "KA 16 mai 16h",
-      "line_item_name": "KA 16 mai 16h",
-      "price": 0,
-      "start_date": "2026-05-16",
-      "end_date": "2026-05-17",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
       "line_item_name": "Kavita - Samningur - EGH/KAP og AK/GLER - 1-3.okt",
       "price": 39000,
@@ -1823,7 +1791,7 @@
       "price": 26000,
       "start_date": "2026-12-13",
       "end_date": "2026-12-14",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1831,7 +1799,7 @@
       "price": 26000,
       "start_date": "2026-09-13",
       "end_date": "2026-09-14",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2067,14 +2035,6 @@
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
-      "line_item_name": "Mjólka Gríska - 17. maí / 2x1",
-      "price": 14000,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
       "line_item_name": "Mjólka Gríska - 18. maí / 2x1",
       "price": 14000,
       "start_date": "2026-05-18",
@@ -2212,7 +2172,7 @@
     {
       "campaign_name": "N1 vegabréf",
       "line_item_name": "N1 vegabréf",
-      "price": 261500,
+      "price": 22500,
       "start_date": "2026-05-24",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2220,7 +2180,7 @@
     {
       "campaign_name": "N1 vegabréf",
       "line_item_name": "N1 vegabréf",
-      "price": 22500,
+      "price": 261500,
       "start_date": "2026-05-24",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2347,14 +2307,6 @@
     },
     {
       "campaign_name": "Reykjagarður maí",
-      "line_item_name": "Reykjagarður 17 maí",
-      "price": 51000,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Reykjagarður maí",
       "line_item_name": "Reykjagarður 18/20/22  maí",
       "price": 192900,
       "start_date": "2026-05-17",
@@ -2460,17 +2412,17 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 161700,
+      "price": 61500,
       "start_date": "2026-05-17",
-      "end_date": "2026-05-23",
+      "end_date": "2026-05-19",
       "seen_count": 1
     },
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 61500,
+      "price": 161700,
       "start_date": "2026-05-17",
-      "end_date": "2026-05-19",
+      "end_date": "2026-05-23",
       "seen_count": 1
     },
     {
@@ -2591,7 +2543,7 @@
       "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Tónhylur Long term",
