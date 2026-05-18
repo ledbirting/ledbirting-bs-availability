@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T16:10:22.486Z",
+  "generated_at": "2026-05-18T18:39:06.791Z",
   "scope": {
     "report_start_date": "2026-05-18",
     "report_end_date": "2099-12-31",
@@ -1188,18 +1188,18 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
-      "start_date": "2026-05-26",
-      "end_date": "2026-06-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Halldór úrsmiður AK.",
-      "line_item_name": "Halldór úrsmiður Glerártorg.",
       "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Halldór úrsmiður AK.",
+      "line_item_name": "Halldór úrsmiður Glerártorg.",
+      "price": 84500,
+      "start_date": "2026-05-26",
+      "end_date": "2026-06-17",
+      "seen_count": 1
     },
     {
       "campaign_name": "Happatreyjur",
@@ -2245,8 +2245,8 @@
       "campaign_name": "Orkan - Maí 2026",
       "line_item_name": "V22",
       "price": 220000,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-23",
+      "start_date": "2026-05-24",
+      "end_date": "2026-05-31",
       "seen_count": 1
     },
     {
@@ -2308,7 +2308,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
+      "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2316,7 +2316,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
+      "price": 63000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2436,7 +2436,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
+      "price": 161700,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2444,7 +2444,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 161700,
+      "price": 182000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2556,18 +2556,18 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
-      "start_date": "2026-05-20",
-      "end_date": "2026-06-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Svens",
-      "line_item_name": "Svens",
       "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Svens",
+      "line_item_name": "Svens",
+      "price": 78000,
+      "start_date": "2026-05-20",
+      "end_date": "2026-06-17",
+      "seen_count": 1
     },
     {
       "campaign_name": "Tónhylur Long term",
