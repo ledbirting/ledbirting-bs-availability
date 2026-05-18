@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T13:17:08.237Z",
+  "generated_at": "2026-05-18T16:10:22.486Z",
   "scope": {
     "report_start_date": "2026-05-18",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 586,
-    "unique_items": 331,
+    "items_seen": 589,
+    "unique_items": 334,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1188,18 +1188,18 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
-      "start_date": "2026-05-26",
-      "end_date": "2026-06-17",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Halldór úrsmiður AK.",
-      "line_item_name": "Halldór úrsmiður Glerártorg.",
       "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Halldór úrsmiður AK.",
+      "line_item_name": "Halldór úrsmiður Glerártorg.",
+      "price": 65000,
+      "start_date": "2026-05-26",
+      "end_date": "2026-06-17",
+      "seen_count": 2
     },
     {
       "campaign_name": "Happatreyjur",
@@ -1380,9 +1380,17 @@
     {
       "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 12. júní / 5x1",
-      "price": 29500,
+      "price": 31000,
       "start_date": "2026-06-12",
       "end_date": "2026-06-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 13. júní / 4x1",
+      "price": 26000,
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-13",
       "seen_count": 1
     },
     {
@@ -1407,6 +1415,14 @@
       "price": 37500,
       "start_date": "2026-06-16",
       "end_date": "2026-06-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 17. júní / 5x1",
+      "price": 35000,
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-17",
       "seen_count": 1
     },
     {
@@ -1467,6 +1483,14 @@
     },
     {
       "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 25. júní / 4x1",
+      "price": 23000,
+      "start_date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 26. júní / 4x1",
       "price": 25500,
       "start_date": "2026-06-26",
@@ -1500,7 +1524,7 @@
     {
       "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 3. júní / 4x1",
-      "price": 28000,
+      "price": 27000,
       "start_date": "2026-06-03",
       "end_date": "2026-06-03",
       "seen_count": 1
@@ -1516,7 +1540,7 @@
     {
       "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 4. júní / 5x1",
-      "price": 29000,
+      "price": 30500,
       "start_date": "2026-06-04",
       "end_date": "2026-06-04",
       "seen_count": 1
@@ -2164,7 +2188,7 @@
     {
       "campaign_name": "N1 vegabréf",
       "line_item_name": "N1 vegabréf",
-      "price": 264000,
+      "price": 274000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2234,7 +2258,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Payday.",
+      "campaign_name": "Payday. júní",
       "line_item_name": "Payday.föstudaga og laugardaga 01 júni - 31 ágúst.",
       "price": 169000,
       "start_date": "2026-06-01",
@@ -2284,7 +2308,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
+      "price": 63000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2292,7 +2316,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
+      "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2404,17 +2428,17 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
+      "price": 61500,
       "start_date": "2026-05-17",
-      "end_date": "2026-05-23",
+      "end_date": "2026-05-19",
       "seen_count": 1
     },
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 61500,
+      "price": 182000,
       "start_date": "2026-05-17",
-      "end_date": "2026-05-19",
+      "end_date": "2026-05-23",
       "seen_count": 1
     },
     {
@@ -2532,18 +2556,18 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
-      "start_date": "2026-05-20",
-      "end_date": "2026-06-17",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Svens",
-      "line_item_name": "Svens",
       "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Svens",
+      "line_item_name": "Svens",
+      "price": 130000,
+      "start_date": "2026-05-20",
+      "end_date": "2026-06-17",
+      "seen_count": 2
     },
     {
       "campaign_name": "Tónhylur Long term",
