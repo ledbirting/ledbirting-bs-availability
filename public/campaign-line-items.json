@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T07:16:44.817Z",
+  "generated_at": "2026-05-19T10:19:04.546Z",
   "scope": {
     "report_start_date": "2026-05-19",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 579,
-    "unique_items": 326,
+    "items_seen": 580,
+    "unique_items": 327,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1890,6 +1890,14 @@
       "seen_count": 8
     },
     {
+      "campaign_name": "Leitarhundar",
+      "line_item_name": "Leitarhundar",
+      "price": 63500,
+      "start_date": "2026-05-19",
+      "end_date": "2026-05-19",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Lindex - S4S / Sahara - landsbyggðin maí 2026",
       "line_item_name": "Lindex - S4S / Sahara landsbyggðin - maí",
       "price": 228000,
@@ -2252,7 +2260,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
+      "price": 63000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2260,7 +2268,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
+      "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2372,7 +2380,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 161700,
+      "price": 182000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2380,7 +2388,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
+      "price": 161700,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2612,7 +2620,7 @@
     {
       "campaign_name": "Wolt. 05-24 maí.",
       "line_item_name": "Wolt. 05-24 maí.",
-      "price": 236400,
+      "price": 279900,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
