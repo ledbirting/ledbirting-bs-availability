@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T13:09:08.339Z",
+  "generated_at": "2026-05-19T16:08:30.515Z",
   "scope": {
     "report_start_date": "2026-05-19",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 580,
-    "unique_items": 327,
+    "items_seen": 586,
+    "unique_items": 330,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -40,6 +40,14 @@
       "start_date": "2026-01-22",
       "end_date": "2027-01-22",
       "seen_count": 9
+    },
+    {
+      "campaign_name": "Ab - Bíladagar",
+      "line_item_name": "Ab - Bíladagar",
+      "price": 182000,
+      "start_date": "2026-06-14",
+      "end_date": "2026-06-20",
+      "seen_count": 2
     },
     {
       "campaign_name": "Advania / Datera - Haustráðstefna 2026",
@@ -858,6 +866,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Copy_of_Media com -Boozt vika  22",
+      "line_item_name": "Media com -Boozt vika 22",
+      "price": 268000,
+      "start_date": "2026-05-25",
+      "end_date": "2026-06-01",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Datera - ágúst 2026",
       "line_item_name": "Datera - 17. til 23. ágúst - einfaldar birtingar",
       "price": 1265600,
@@ -1042,6 +1058,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Fit Food - Júní 2026",
+      "line_item_name": "Fit Food - Júní",
+      "price": 480000,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-29",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Flugger tillaga að plani",
       "line_item_name": "Flugger mán-miðv-föstud. 01 maí - 31 ágúst. Selfoss-Reykjanesbær-Glerártorg.",
       "price": 980500,
@@ -1115,14 +1139,6 @@
     },
     {
       "campaign_name": "Góa Pipar 18 maí - 16 júní.",
-      "line_item_name": "Góa 20 maí GRI-GLT-KAPLA-GB.",
-      "price": 27500,
-      "start_date": "2026-05-20",
-      "end_date": "2026-05-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Góa Pipar 18 maí - 16 júní.",
       "line_item_name": "Góa Pipar  09/11/13 júní AK-GLT-FJH-GRI-SFS-VLV.",
       "price": 120000,
       "start_date": "2026-06-07",
@@ -1143,14 +1159,6 @@
       "price": 97500,
       "start_date": "2026-06-01",
       "end_date": "2026-06-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Góa Pipar 18 maí - 16 júní.",
-      "line_item_name": "Góa Pipar 22 maí VLV-GLT-SFS-SMT.",
-      "price": 25500,
-      "start_date": "2026-05-22",
-      "end_date": "2026-05-22",
       "seen_count": 1
     },
     {
@@ -1994,6 +2002,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Mediacom-Myllan sumarpakki",
+      "line_item_name": "Mediacom-Myllan sumarpakki",
+      "price": 558000,
+      "start_date": "2026-05-20",
+      "end_date": "2026-05-31",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 234000,
@@ -2004,18 +2020,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 143000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-31",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 468000,
       "start_date": "2026-07-05",
       "end_date": "2026-09-30",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 143000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-31",
+      "seen_count": 2
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
@@ -2148,7 +2164,7 @@
     {
       "campaign_name": "N1 vegabréf",
       "line_item_name": "N1 vegabréf",
-      "price": 22500,
+      "price": 264000,
       "start_date": "2026-05-24",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2156,7 +2172,7 @@
     {
       "campaign_name": "N1 vegabréf",
       "line_item_name": "N1 vegabréf",
-      "price": 264000,
+      "price": 22500,
       "start_date": "2026-05-24",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2216,6 +2232,14 @@
       "start_date": "2026-06-01",
       "end_date": "2026-08-31",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Performance - Júní",
+      "line_item_name": "Pure Performance - Júní",
+      "price": 532100,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-30",
+      "seen_count": 2
     },
     {
       "campaign_name": "Pipar LBHÍ",
@@ -2380,9 +2404,9 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
+      "price": 61500,
       "start_date": "2026-05-17",
-      "end_date": "2026-05-23",
+      "end_date": "2026-05-19",
       "seen_count": 1
     },
     {
@@ -2396,9 +2420,9 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 61500,
+      "price": 182000,
       "start_date": "2026-05-17",
-      "end_date": "2026-05-19",
+      "end_date": "2026-05-23",
       "seen_count": 1
     },
     {
