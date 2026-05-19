@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-18T21:28:59.906Z",
+  "generated_at": "2026-05-19T00:45:51.351Z",
   "scope": {
-    "report_start_date": "2026-05-18",
+    "report_start_date": "2026-05-19",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 589,
-    "unique_items": 334,
+    "items_seen": 579,
+    "unique_items": 326,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -96,14 +96,6 @@
       "start_date": "2026-01-05",
       "end_date": "2026-12-31",
       "seen_count": 8
-    },
-    {
-      "campaign_name": "Apótekarinn / HN - maí 2026",
-      "line_item_name": "Apótekarinn / HN - 18. maí / 3x1",
-      "price": 19500,
-      "start_date": "2026-05-18",
-      "end_date": "2026-05-18",
-      "seen_count": 1
     },
     {
       "campaign_name": "Apótekarinn / HN - maí 2026",
@@ -731,14 +723,6 @@
     },
     {
       "campaign_name": "Bónus / HN - maí 2026",
-      "line_item_name": "Bónus 18. maí - Mán / 10x1",
-      "price": 58500,
-      "start_date": "2026-05-18",
-      "end_date": "2026-05-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - maí 2026",
       "line_item_name": "Bónus 20. maí - Mið / 10x1",
       "price": 63000,
       "start_date": "2026-05-20",
@@ -1131,14 +1115,6 @@
     },
     {
       "campaign_name": "Góa Pipar 18 maí - 16 júní.",
-      "line_item_name": "Góa 18 maí GLT-FJH-GRI-KAPLA",
-      "price": 27500,
-      "start_date": "2026-05-18",
-      "end_date": "2026-05-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Góa Pipar 18 maí - 16 júní.",
       "line_item_name": "Góa 20 maí GRI-GLT-KAPLA-GB.",
       "price": 27500,
       "start_date": "2026-05-20",
@@ -1191,7 +1167,7 @@
       "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Halldór úrsmiður AK.",
@@ -1579,14 +1555,6 @@
     },
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 18. maí / 6x1",
-      "price": 30000,
-      "start_date": "2026-05-18",
-      "end_date": "2026-05-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 19. maí / 5x1",
       "price": 30500,
       "start_date": "2026-05-19",
@@ -1815,7 +1783,7 @@
       "price": 26000,
       "start_date": "2026-12-13",
       "end_date": "2026-12-14",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1847,7 +1815,7 @@
       "price": 26000,
       "start_date": "2026-08-16",
       "end_date": "2026-08-17",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1855,14 +1823,6 @@
       "price": 26000,
       "start_date": "2027-01-17",
       "end_date": "2027-01-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
-      "line_item_name": "Kavita - Samningur - EGH/KAP og AK/GLER - 17-18.maí",
-      "price": 26000,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-18",
       "seen_count": 1
     },
     {
@@ -2018,14 +1978,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Lyfja maí",
-      "line_item_name": "Lyfja 17-18 maí",
-      "price": 57000,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-18",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Lyfjaval- Mai- 2026",
       "line_item_name": "Höfuðborgarsvæði",
       "price": 510000,
@@ -2044,26 +1996,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 468000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-09-30",
-      "seen_count": 4
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 143000,
       "start_date": "2026-07-05",
       "end_date": "2026-07-31",
       "seen_count": 2
     },
     {
-      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
-      "line_item_name": "Mjólka Gríska - 18. maí / 2x1",
-      "price": 14000,
-      "start_date": "2026-05-18",
-      "end_date": "2026-05-18",
-      "seen_count": 1
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 468000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-09-30",
+      "seen_count": 4
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
@@ -2428,14 +2372,6 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 61500,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sambíó MAndalorian.",
-      "line_item_name": "Sambíó Mandalorian.",
       "price": 161700,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
@@ -2447,6 +2383,14 @@
       "price": 182000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sambíó MAndalorian.",
+      "line_item_name": "Sambíó Mandalorian.",
+      "price": 61500,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-19",
       "seen_count": 1
     },
     {
@@ -2523,14 +2467,6 @@
     },
     {
       "campaign_name": "Sólar. maí",
-      "line_item_name": "Sólar. maí 18 maí BT-BH2-HB2-KAPLA1",
-      "price": 25000,
-      "start_date": "2026-05-18",
-      "end_date": "2026-05-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sólar. maí",
       "line_item_name": "Sólar. maí 20 maí GRI-HB-SB-VLV-BH2",
       "price": 41500,
       "start_date": "2026-05-20",
@@ -2559,7 +2495,7 @@
       "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Svens",
