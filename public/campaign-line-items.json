@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T10:09:40.188Z",
+  "generated_at": "2026-05-20T12:55:39.147Z",
   "scope": {
     "report_start_date": "2026-05-20",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 585,
-    "unique_items": 328,
+    "items_seen": 587,
+    "unique_items": 330,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -2290,6 +2290,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Prósjoppan - Tilboð",
+      "line_item_name": "Prósjoppan - 21-23 maí",
+      "price": 54900,
+      "start_date": "2026-05-21",
+      "end_date": "2026-05-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Prósjoppan - Tilboð",
+      "line_item_name": "Prósjoppan - 29 maí - 2 júní",
+      "price": 103200,
+      "start_date": "2026-05-29",
+      "end_date": "2026-06-02",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 5854800,
@@ -2388,7 +2404,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 161700,
+      "price": 182000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2396,7 +2412,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
+      "price": 161700,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2500,7 +2516,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2508,7 +2524,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
