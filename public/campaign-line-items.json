@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T12:55:39.147Z",
+  "generated_at": "2026-05-20T16:12:39.486Z",
   "scope": {
     "report_start_date": "2026-05-20",
     "report_end_date": "2099-12-31",
@@ -1154,14 +1154,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Góa Pipar 18 maí - 16 júní.",
-      "line_item_name": "Pipar 19/21/23 maí. AK-GLT-FJH-GRI-SFS-SMT-VLV.-KAPLA1",
-      "price": 133500,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-23",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
       "price": 84500,
@@ -2156,7 +2148,7 @@
     {
       "campaign_name": "N1 vegabréf",
       "line_item_name": "N1 vegabréf",
-      "price": 22500,
+      "price": 264000,
       "start_date": "2026-05-24",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2164,7 +2156,7 @@
     {
       "campaign_name": "N1 vegabréf",
       "line_item_name": "N1 vegabréf",
-      "price": 264000,
+      "price": 22500,
       "start_date": "2026-05-24",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2276,7 +2268,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
+      "price": 63000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2284,7 +2276,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
+      "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2312,6 +2304,14 @@
       "start_date": "2026-07-27",
       "end_date": "2026-08-29",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Redbull - Sumar ( 21-24 maí)",
+      "line_item_name": "Redbull - Sumar ( 21-24 maí)",
+      "price": 154000,
+      "start_date": "2026-05-21",
+      "end_date": "2026-05-24",
+      "seen_count": 1
     },
     {
       "campaign_name": "Reykjagarður maí",
@@ -2404,7 +2404,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
+      "price": 161700,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2412,7 +2412,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 161700,
+      "price": 182000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2516,7 +2516,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2524,7 +2524,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
