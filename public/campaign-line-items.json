@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T07:16:58.632Z",
+  "generated_at": "2026-05-20T10:09:40.188Z",
   "scope": {
     "report_start_date": "2026-05-20",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 578,
-    "unique_items": 321,
+    "items_seen": 585,
+    "unique_items": 328,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -48,6 +48,22 @@
       "start_date": "2026-06-14",
       "end_date": "2026-06-20",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
+      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x1 alla daga",
+      "price": 142200,
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
+      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x2",
+      "price": 47400,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-10",
+      "seen_count": 1
     },
     {
       "campaign_name": "Afreksverk - Hafnartorg",
@@ -263,6 +279,14 @@
       "price": 52000,
       "start_date": "2026-05-15",
       "end_date": "2026-05-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bestun- iceland eclipse",
+      "line_item_name": "Bestun- iceland eclipse",
+      "price": 22500,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-15",
       "seen_count": 1
     },
     {
@@ -1618,6 +1642,30 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Indó 21 maí - 04 júní.",
+      "line_item_name": "Indó 21 maí - 04 júní. GRI-VLV1-BH1-HSMI",
+      "price": 157800,
+      "start_date": "2026-05-21",
+      "end_date": "2026-05-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Indó 21 maí - 04 júní.",
+      "line_item_name": "Indó 21 maí - 04 júní.BH2-EH1-HB2-KAPLA3-GB.",
+      "price": 203000,
+      "start_date": "2026-05-21",
+      "end_date": "2026-05-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Indó 21 maí - 04 júní.",
+      "line_item_name": "Indó 21 maí - 04 júní.BT-HB1-KAPLA1",
+      "price": 97500,
+      "start_date": "2026-05-21",
+      "end_date": "2026-05-31",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
       "line_item_name": "Íslandsbanki - Fim 13. ágúst / 6x1",
       "price": 39500,
@@ -2180,7 +2228,7 @@
     {
       "campaign_name": "Performance - Júní",
       "line_item_name": "Pure Performance - Júní",
-      "price": 532100,
+      "price": 676600,
       "start_date": "2026-06-01",
       "end_date": "2026-06-30",
       "seen_count": 2
@@ -2340,7 +2388,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
+      "price": 161700,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2348,7 +2396,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 161700,
+      "price": 182000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2463,6 +2511,14 @@
       "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "TM 07 júní.",
+      "line_item_name": "TM 07 júní. 6x birtingar.",
+      "price": 45000,
+      "start_date": "2026-06-07",
+      "end_date": "2026-06-07",
       "seen_count": 1
     },
     {
