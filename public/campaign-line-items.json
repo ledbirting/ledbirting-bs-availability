@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-20T21:36:04.193Z",
+  "generated_at": "2026-05-21T00:47:28.769Z",
   "scope": {
-    "report_start_date": "2026-05-20",
+    "report_start_date": "2026-05-21",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 586,
-    "unique_items": 329,
+    "items_seen": 580,
+    "unique_items": 324,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -104,14 +104,6 @@
       "start_date": "2026-01-05",
       "end_date": "2026-12-31",
       "seen_count": 8
-    },
-    {
-      "campaign_name": "Apótekarinn / HN - maí 2026",
-      "line_item_name": "Apótekarinn / HN - 20. maí / 3x1",
-      "price": 19500,
-      "start_date": "2026-05-20",
-      "end_date": "2026-05-20",
-      "seen_count": 1
     },
     {
       "campaign_name": "Apótekarinn / HN - maí 2026",
@@ -719,14 +711,6 @@
       "price": 63500,
       "start_date": "2026-06-08",
       "end_date": "2026-06-08",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - maí 2026",
-      "line_item_name": "Bónus 20. maí - Mið / 10x1",
-      "price": 63000,
-      "start_date": "2026-05-20",
-      "end_date": "2026-05-20",
       "seen_count": 1
     },
     {
@@ -1547,14 +1531,6 @@
     },
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 20. maí / 5x1",
-      "price": 30500,
-      "start_date": "2026-05-20",
-      "end_date": "2026-05-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 21. maí / 5x1",
       "price": 31000,
       "start_date": "2026-05-21",
@@ -1815,7 +1791,7 @@
       "price": 26000,
       "start_date": "2026-11-15",
       "end_date": "2026-11-16",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2483,26 +2459,10 @@
     },
     {
       "campaign_name": "Sólar. maí",
-      "line_item_name": "Sólar. maí 20 maí GRI-HB-SB-VLV-BH2",
-      "price": 41500,
-      "start_date": "2026-05-20",
-      "end_date": "2026-05-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sólar. maí",
       "line_item_name": "Sólar. maí 27 maíBT-BH1-EH1-EINH-HB2-HÖFT-KAPLA2-SBS.",
       "price": 42300,
       "start_date": "2026-05-27",
       "end_date": "2026-05-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "SS maí Birtingahúsið.",
-      "line_item_name": "SS maí Birtingahúsið.",
-      "price": 176400,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-20",
       "seen_count": 1
     },
     {
