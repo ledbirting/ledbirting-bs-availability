@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T07:20:39.018Z",
+  "generated_at": "2026-05-21T10:17:51.616Z",
   "scope": {
     "report_start_date": "2026-05-21",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 580,
-    "unique_items": 324,
+    "items_seen": 582,
+    "unique_items": 326,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -906,6 +906,22 @@
       "seen_count": 10
     },
     {
+      "campaign_name": "Ellingsen útilegudagar - S4S / Sahara - maí til júní",
+      "line_item_name": "Ellingsen útilegudagar - S4S / Sahara - Sun, Mán, Þri, Fös, Lau",
+      "price": 140000,
+      "start_date": "2026-05-22",
+      "end_date": "2026-06-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Emmessís - Tilboð",
+      "line_item_name": "Emmessís 22-14 maí",
+      "price": 61500,
+      "start_date": "2026-05-22",
+      "end_date": "2026-05-24",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Eyesland (samningur) - mars '26 til feb '27",
       "line_item_name": "Eyesland - Grandi / GRA / Fim, Fös / (aukahólf)",
       "price": 780000,
@@ -1140,7 +1156,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1148,7 +1164,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1575,14 +1591,6 @@
       "price": 26500,
       "start_date": "2026-05-28",
       "end_date": "2026-05-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 29. maí / 5x1",
-      "price": 32000,
-      "start_date": "2026-05-29",
-      "end_date": "2026-05-29",
       "seen_count": 1
     },
     {
@@ -2244,6 +2252,14 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
+      "price": 63000,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "pris mai",
+      "line_item_name": "pris mai",
       "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
@@ -2372,7 +2388,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
+      "price": 161700,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2380,7 +2396,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 161700,
+      "price": 182000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2468,7 +2484,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2476,7 +2492,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
