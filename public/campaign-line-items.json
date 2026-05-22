@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T12:52:03.603Z",
+  "generated_at": "2026-05-22T15:55:21.551Z",
   "scope": {
     "report_start_date": "2026-05-22",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 568,
-    "unique_items": 315,
+    "items_seen": 572,
+    "unique_items": 319,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -874,14 +874,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Emmessís - Tilboð",
-      "line_item_name": "Emmessís 22-14 maí",
-      "price": 61500,
-      "start_date": "2026-05-22",
-      "end_date": "2026-05-24",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Eyesland (samningur) - mars '26 til feb '27",
       "line_item_name": "Eyesland - Grandi / GRA / Fim, Fös / (aukahólf)",
       "price": 780000,
@@ -1539,6 +1531,14 @@
     },
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 29. maí / 5x1",
+      "price": 28500,
+      "start_date": "2026-05-29",
+      "end_date": "2026-05-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 30. maí / 5x1",
       "price": 33500,
       "start_date": "2026-05-30",
@@ -1996,7 +1996,7 @@
     {
       "campaign_name": "N1 vegabréf",
       "line_item_name": "N1 vegabréf",
-      "price": 264000,
+      "price": 22500,
       "start_date": "2026-05-24",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2004,7 +2004,7 @@
     {
       "campaign_name": "N1 vegabréf",
       "line_item_name": "N1 vegabréf",
-      "price": 22500,
+      "price": 264000,
       "start_date": "2026-05-24",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2252,7 +2252,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
+      "price": 161700,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2260,7 +2260,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 161700,
+      "price": 182000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2372,7 +2372,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2380,7 +2380,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2464,6 +2464,38 @@
       "start_date": "2026-08-01",
       "end_date": "2026-12-31",
       "seen_count": 6
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - júní'26",
+      "line_item_name": "VÍS Akureyri 1.6 til 7.6 / Sun, Þri, Fim, Fös /  AKU1, GLER2",
+      "price": 26000,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - júní'26",
+      "line_item_name": "VÍS Akureyri 15.6 til 21.6 / Þri, Fim, Lau / AKU1, GLER2",
+      "price": 19500,
+      "start_date": "2026-06-15",
+      "end_date": "2026-06-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - júní'26",
+      "line_item_name": "VÍS Akureyri 22.6 til 30.6 / Mán, Þri, Lau / AKU2, GLER1",
+      "price": 32500,
+      "start_date": "2026-06-22",
+      "end_date": "2026-06-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - júní'26",
+      "line_item_name": "VÍS Akureyri 8.6 til 14.6 / Mán, Mið, Lau / AKU2, GLER1",
+      "price": 19500,
+      "start_date": "2026-06-08",
+      "end_date": "2026-06-14",
+      "seen_count": 1
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - maí '26",
