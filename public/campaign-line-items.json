@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-21T21:33:21.354Z",
+  "generated_at": "2026-05-22T00:45:30.857Z",
   "scope": {
-    "report_start_date": "2026-05-21",
+    "report_start_date": "2026-05-22",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 576,
-    "unique_items": 320,
+    "items_seen": 567,
+    "unique_items": 313,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -47,7 +47,7 @@
       "price": 182000,
       "start_date": "2026-06-14",
       "end_date": "2026-06-20",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Advania / Datera - Haustráðstefna 2026",
@@ -104,14 +104,6 @@
       "start_date": "2026-01-05",
       "end_date": "2026-12-31",
       "seen_count": 8
-    },
-    {
-      "campaign_name": "Apótekarinn / HN - maí 2026",
-      "line_item_name": "Apótekarinn / HN - 21. maí / 4x1",
-      "price": 24500,
-      "start_date": "2026-05-21",
-      "end_date": "2026-05-21",
-      "seen_count": 1
     },
     {
       "campaign_name": "Apótekarinn / HN - maí 2026",
@@ -423,14 +415,6 @@
       "price": 6500,
       "start_date": "2026-06-14",
       "end_date": "2026-06-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir KA. 21 maí",
-      "price": 6500,
-      "start_date": "2026-05-21",
-      "end_date": "2026-05-21",
       "seen_count": 1
     },
     {
@@ -1175,7 +1159,7 @@
       "price": 279000,
       "start_date": "2026-06-01",
       "end_date": "2026-06-21",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Happdrætti DAS / Datera - maí 2026",
@@ -1547,14 +1531,6 @@
     },
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 21. maí / 5x1",
-      "price": 31000,
-      "start_date": "2026-05-21",
-      "end_date": "2026-05-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 23. maí / 5x1",
       "price": 33500,
       "start_date": "2026-05-23",
@@ -1890,22 +1866,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Lindex - S4S / Sahara - maí",
-      "line_item_name": "S4S / Sahara - 17. til 22. maí (Sun, Þri, Fim og Lau)",
-      "price": 129900,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Löður - Maí 2026",
-      "line_item_name": "V21",
-      "price": 90000,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-23",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Löður - Maí 2026",
       "line_item_name": "V22",
       "price": 90000,
@@ -1952,14 +1912,6 @@
       "start_date": "2026-07-05",
       "end_date": "2026-09-30",
       "seen_count": 4
-    },
-    {
-      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
-      "line_item_name": "Mjólka Gríska - 21. maí / 2x1",
-      "price": 14000,
-      "start_date": "2026-05-21",
-      "end_date": "2026-05-21",
-      "seen_count": 1
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
@@ -2428,7 +2380,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2436,7 +2388,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2520,14 +2472,6 @@
       "start_date": "2026-08-01",
       "end_date": "2026-12-31",
       "seen_count": 6
-    },
-    {
-      "campaign_name": "VÍS / Datera Landsbyggðin - maí '26",
-      "line_item_name": "VÍS Akureyri 15.5 til 21.5 / Þri, Fim, Lau / AKU1, GLER2",
-      "price": 19500,
-      "start_date": "2026-05-15",
-      "end_date": "2026-05-21",
-      "seen_count": 1
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - maí '26",
