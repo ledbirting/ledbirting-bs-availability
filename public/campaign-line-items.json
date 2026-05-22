@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T07:17:01.398Z",
+  "generated_at": "2026-05-22T10:07:14.150Z",
   "scope": {
     "report_start_date": "2026-05-22",
     "report_end_date": "2099-12-31",
@@ -18,7 +18,7 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 567,
+    "items_seen": 568,
     "unique_items": 313,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
@@ -47,22 +47,6 @@
       "price": 182000,
       "start_date": "2026-06-14",
       "end_date": "2026-06-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
-      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x1 alla daga",
-      "price": 142200,
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
-      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x2",
-      "price": 47400,
-      "start_date": "2026-09-10",
-      "end_date": "2026-09-10",
       "seen_count": 1
     },
     {
@@ -263,14 +247,6 @@
       "price": 52000,
       "start_date": "2026-05-15",
       "end_date": "2026-05-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bestun- iceland eclipse",
-      "line_item_name": "Bestun- iceland eclipse",
-      "price": 22500,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-15",
       "seen_count": 1
     },
     {
@@ -2148,7 +2124,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
+      "price": 63000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2156,7 +2132,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
+      "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2284,7 +2260,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 161700,
+      "price": 182000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2292,7 +2268,7 @@
     {
       "campaign_name": "Sambíó MAndalorian.",
       "line_item_name": "Sambíó Mandalorian.",
-      "price": 182000,
+      "price": 161700,
       "start_date": "2026-05-17",
       "end_date": "2026-05-23",
       "seen_count": 1
@@ -2320,6 +2296,30 @@
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
       "seen_count": 8
+    },
+    {
+      "campaign_name": "samkaup-krambúðin samningur +auka",
+      "line_item_name": "samkaup-krambúðin samningur +auka",
+      "price": 241200,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "samkaup-krambúðin samningur +auka",
+      "line_item_name": "samkaup-krambúðin samningur +auka",
+      "price": 130800,
+      "start_date": "2026-06-11",
+      "end_date": "2026-06-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "samkaup-krambúðin samningur +auka",
+      "line_item_name": "samkaup-krambúðin samningur +auka",
+      "price": 190800,
+      "start_date": "2026-06-18",
+      "end_date": "2026-06-23",
+      "seen_count": 2
     },
     {
       "campaign_name": "Sep-12 Kaldalón Hæðasmári",
@@ -2380,7 +2380,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2388,7 +2388,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
