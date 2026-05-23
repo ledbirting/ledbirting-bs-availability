@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-22T21:27:27.025Z",
+  "generated_at": "2026-05-23T00:44:26.503Z",
   "scope": {
-    "report_start_date": "2026-05-22",
+    "report_start_date": "2026-05-23",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 572,
-    "unique_items": 319,
+    "items_seen": 565,
+    "unique_items": 311,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -88,14 +88,6 @@
       "start_date": "2026-01-05",
       "end_date": "2026-12-31",
       "seen_count": 8
-    },
-    {
-      "campaign_name": "Apótekarinn / HN - maí 2026",
-      "line_item_name": "Apótekarinn / HN - 22. maí / 4x1",
-      "price": 27000,
-      "start_date": "2026-05-22",
-      "end_date": "2026-05-22",
-      "seen_count": 1
     },
     {
       "campaign_name": "Apótekarinn / HN - maí 2026",
@@ -240,14 +232,6 @@
       "start_date": "2026-03-01",
       "end_date": "2027-12-31",
       "seen_count": 18
-    },
-    {
-      "campaign_name": "Bestun Vogue-Glerártorg vika",
-      "line_item_name": "Bestun Vogue-Glerártorg vika",
-      "price": 52000,
-      "start_date": "2026-05-15",
-      "end_date": "2026-05-22",
-      "seen_count": 1
     },
     {
       "campaign_name": "Bestun-22 ágúst",
@@ -671,14 +655,6 @@
       "price": 63500,
       "start_date": "2026-06-08",
       "end_date": "2026-06-08",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - maí 2026",
-      "line_item_name": "Bónus 22. maí - Fös / 9x1",
-      "price": 62500,
-      "start_date": "2026-05-22",
-      "end_date": "2026-05-22",
       "seen_count": 1
     },
     {
@@ -1759,7 +1735,7 @@
       "price": 26000,
       "start_date": "2027-01-17",
       "end_date": "2027-01-18",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1880,14 +1856,6 @@
       "start_date": "2026-07-05",
       "end_date": "2026-07-31",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
-      "line_item_name": "Mjólka Gríska - 22. maí / 2x1",
-      "price": 14000,
-      "start_date": "2026-05-22",
-      "end_date": "2026-05-22",
-      "seen_count": 1
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
@@ -2163,14 +2131,6 @@
     },
     {
       "campaign_name": "Reykjagarður maí",
-      "line_item_name": "Reykjagarður 18/20/22  maí",
-      "price": 192900,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Reykjagarður maí",
       "line_item_name": "Reykjagarður 24/26/28/30  maí",
       "price": 202000,
       "start_date": "2026-05-24",
@@ -2248,14 +2208,6 @@
       "start_date": "2026-09-03",
       "end_date": "2026-09-30",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Sambíó MAndalorian.",
-      "line_item_name": "Sambíó Mandalorian.",
-      "price": 161700,
-      "start_date": "2026-05-17",
-      "end_date": "2026-05-23",
-      "seen_count": 1
     },
     {
       "campaign_name": "Sambíó MAndalorian.",
@@ -2372,7 +2324,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2380,7 +2332,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2519,22 +2471,6 @@
       "price": 520000,
       "start_date": "2027-06-30",
       "end_date": "2027-07-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Vörður / Arion - Frjósemisvernd / Digido - 21. maí til 3. júní",
-      "line_item_name": "Vörður / Arion - Frjósemisvernd / Digido / 22. maí frá kl. 11",
-      "price": 30000,
-      "start_date": "2026-05-22",
-      "end_date": "2026-05-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Vörður / Arion - Frjósemisvernd / Digido - 21. maí til 3. júní",
-      "line_item_name": "Vörður / Arion - Frjósemisvernd / Digido / 22. maí frá kl. 11 (2 x aukahólf)",
-      "price": 40950,
-      "start_date": "2026-05-22",
-      "end_date": "2026-05-22",
       "seen_count": 1
     },
     {
