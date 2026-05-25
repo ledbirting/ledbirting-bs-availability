@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-24T21:20:53.756Z",
+  "generated_at": "2026-05-25T00:46:46.115Z",
   "scope": {
-    "report_start_date": "2026-05-24",
+    "report_start_date": "2026-05-25",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 550,
-    "unique_items": 297,
+    "items_seen": 544,
+    "unique_items": 292,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1068,7 +1068,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1076,7 +1076,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1451,14 +1451,6 @@
     },
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 24. mai / 4x1",
-      "price": 28500,
-      "start_date": "2026-05-24",
-      "end_date": "2026-05-24",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 26. maí / 5x1",
       "price": 31000,
       "start_date": "2026-05-26",
@@ -1796,26 +1788,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 143000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-31",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 468000,
       "start_date": "2026-07-05",
       "end_date": "2026-09-30",
       "seen_count": 4
     },
     {
-      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
-      "line_item_name": "Mjólka Gríska - 24. maí / 1x1",
-      "price": 7500,
-      "start_date": "2026-05-24",
-      "end_date": "2026-05-24",
-      "seen_count": 1
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 143000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-31",
+      "seen_count": 2
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
@@ -1900,7 +1884,7 @@
     {
       "campaign_name": "N1 vegabréf",
       "line_item_name": "N1 vegabréf",
-      "price": 22500,
+      "price": 264000,
       "start_date": "2026-05-24",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -1908,7 +1892,7 @@
     {
       "campaign_name": "N1 vegabréf",
       "line_item_name": "N1 vegabréf",
-      "price": 264000,
+      "price": 22500,
       "start_date": "2026-05-24",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2024,14 +2008,6 @@
       "start_date": "2026-07-27",
       "end_date": "2026-08-29",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Redbull - Sumar ( 21-24 maí)",
-      "line_item_name": "Redbull - Sumar ( 21-24 maí)",
-      "price": 154000,
-      "start_date": "2026-05-21",
-      "end_date": "2026-05-24",
-      "seen_count": 1
     },
     {
       "campaign_name": "Reykjagarður maí",
@@ -2159,7 +2135,7 @@
       "price": 190800,
       "start_date": "2026-06-18",
       "end_date": "2026-06-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Sep-12 Kaldalón Hæðasmári",
@@ -2176,14 +2152,6 @@
       "start_date": "2026-08-10",
       "end_date": "2026-08-23",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Sérefni - langtímasamningur Glerártorgi 2026",
-      "line_item_name": "Sérefni - Glerártorg 11-24. maí",
-      "price": 91000,
-      "start_date": "2026-05-11",
-      "end_date": "2026-05-24",
-      "seen_count": 1
     },
     {
       "campaign_name": "Sérefni - langtímasamningur Glerártorgi 2026",
@@ -2383,14 +2351,6 @@
       "price": 75000,
       "start_date": "2026-05-21",
       "end_date": "2026-06-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Wolt. 05-24 maí.",
-      "line_item_name": "Wolt. 05-24 maí.",
-      "price": 62800,
-      "start_date": "2026-05-24",
-      "end_date": "2026-05-24",
       "seen_count": 1
     },
     {
