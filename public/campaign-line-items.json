@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T07:15:51.760Z",
+  "generated_at": "2026-05-26T10:25:46.789Z",
   "scope": {
     "report_start_date": "2026-05-26",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 534,
-    "unique_items": 287,
+    "items_seen": 544,
+    "unique_items": 297,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -954,6 +954,94 @@
       "seen_count": 4
     },
     {
+      "campaign_name": "Flugrútan sumar.",
+      "line_item_name": "_BT-KAPLA2-GRI-GB.15-21-júlí",
+      "price": 55000,
+      "start_date": "2026-07-15",
+      "end_date": "2026-07-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Flugrútan sumar.",
+      "line_item_name": "BT-KAPL2 3-GRI-GB. 01- 07 -júlí",
+      "price": 82500,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Flugrútan sumar.",
+      "line_item_name": "BT-KAPL2 3-GRI-GB. 25 - 30 júní",
+      "price": 55000,
+      "start_date": "2026-06-25",
+      "end_date": "2026-06-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Flugrútan sumar.",
+      "line_item_name": "BT-KAPLA 3-GRI-GB. 18 - 24 júní",
+      "price": 82500,
+      "start_date": "2026-06-18",
+      "end_date": "2026-06-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Flugrútan sumar.",
+      "line_item_name": "BT-KAPLA1-GRI-GB. 11 - 17 júní",
+      "price": 82500,
+      "start_date": "2026-06-11",
+      "end_date": "2026-06-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Flugrútan sumar.",
+      "line_item_name": "BT-KAPLA1-GRI-GB.08-14-júlí",
+      "price": 82500,
+      "start_date": "2026-07-08",
+      "end_date": "2026-07-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Flugrútan sumar.",
+      "line_item_name": "BT-KAPLA1-GRI-GB.22-28-júlí",
+      "price": 82500,
+      "start_date": "2026-07-29",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Flugrútan sumar.",
+      "line_item_name": "BT-KAPLA3-GRI-GB.22-28-júlí",
+      "price": 55000,
+      "start_date": "2026-07-22",
+      "end_date": "2026-07-28",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Flugrútan sumar.",
+      "line_item_name": "Flugrútan Grandi.06-10 júní",
+      "price": 30000,
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Flugrútan sumar.",
+      "line_item_name": "Flugrútan Grandi.28 maí",
+      "price": 7500,
+      "start_date": "2026-05-28",
+      "end_date": "2026-05-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Flugrútan sumar.",
+      "line_item_name": "Flugrútan Grandi.28 maí -04 júní",
+      "price": 37500,
+      "start_date": "2026-05-30",
+      "end_date": "2026-06-04",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Forest Lagoon / Skógarböðin - Austurstræti",
       "line_item_name": "maí",
       "price": 232500,
@@ -1112,14 +1200,6 @@
       "start_date": "2026-05-28",
       "end_date": "2026-05-30",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "healinng Iceland",
-      "line_item_name": "healinng Iceland",
-      "price": 2023000,
-      "start_date": "2026-03-04",
-      "end_date": "2026-06-30",
-      "seen_count": 2
     },
     {
       "campaign_name": "Híbýli maí.",
@@ -1452,7 +1532,7 @@
     {
       "campaign_name": "IKEA / HN - maí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 29. maí / 5x1",
-      "price": 28500,
+      "price": 31000,
       "start_date": "2026-05-29",
       "end_date": "2026-05-29",
       "seen_count": 1
@@ -1948,7 +2028,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
+      "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -1956,7 +2036,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
+      "price": 63000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
