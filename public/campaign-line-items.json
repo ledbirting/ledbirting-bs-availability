@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-25T21:27:53.267Z",
+  "generated_at": "2026-05-26T00:45:17.263Z",
   "scope": {
-    "report_start_date": "2026-05-25",
+    "report_start_date": "2026-05-26",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 544,
-    "unique_items": 292,
+    "items_seen": 534,
+    "unique_items": 287,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -88,14 +88,6 @@
       "start_date": "2026-01-05",
       "end_date": "2026-12-31",
       "seen_count": 8
-    },
-    {
-      "campaign_name": "Apótekarinn / HN - maí 2026",
-      "line_item_name": "Apótekarinn / HN - 25. maí / 4x1",
-      "price": 24500,
-      "start_date": "2026-05-25",
-      "end_date": "2026-05-25",
-      "seen_count": 1
     },
     {
       "campaign_name": "Apótekarinn / HN - maí 2026",
@@ -287,7 +279,7 @@
       "price": 97500,
       "start_date": "2026-12-07",
       "end_date": "2026-12-21",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Bestun-vogue-Glerártorg júni",
@@ -651,14 +643,6 @@
     },
     {
       "campaign_name": "Bónus / HN - maí 2026",
-      "line_item_name": "Bónus 25. maí - Mið / 10x1",
-      "price": 61000,
-      "start_date": "2026-05-25",
-      "end_date": "2026-05-25",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - maí 2026",
       "line_item_name": "Bónus 27. maí - Mið / 9x1",
       "price": 54500,
       "start_date": "2026-05-27",
@@ -719,7 +703,7 @@
       "price": 272000,
       "start_date": "2026-07-01",
       "end_date": "2026-07-27",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -775,7 +759,7 @@
       "price": 1265600,
       "start_date": "2026-08-17",
       "end_date": "2026-08-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Datera - ágúst 2026",
@@ -920,14 +904,6 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "FÍH - Félag íslenskra hjúkrunarfræðinga - HN / maí 2026",
-      "line_item_name": "FÍH - HN / 25. maí - 5x1",
-      "price": 35300,
-      "start_date": "2026-05-25",
-      "end_date": "2026-05-25",
-      "seen_count": 1
     },
     {
       "campaign_name": "FÍH - Félag íslenskra hjúkrunarfræðinga - HN / maí 2026",
@@ -1788,26 +1764,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 468000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-09-30",
-      "seen_count": 4
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 143000,
       "start_date": "2026-07-05",
       "end_date": "2026-07-31",
       "seen_count": 2
     },
     {
-      "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
-      "line_item_name": "Mjólka Gríska - 25. maí / 2x1",
-      "price": 14000,
-      "start_date": "2026-05-25",
-      "end_date": "2026-05-25",
-      "seen_count": 1
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 468000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-09-30",
+      "seen_count": 4
     },
     {
       "campaign_name": "Mjólka Gríska / HN - 1. til 31. maí 2026",
@@ -1879,12 +1847,12 @@
       "price": 2372500,
       "start_date": "2026-01-21",
       "end_date": "2027-01-20",
-      "seen_count": 9
+      "seen_count": 8
     },
     {
       "campaign_name": "N1 vegabréf",
       "line_item_name": "N1 vegabréf",
-      "price": 264000,
+      "price": 22500,
       "start_date": "2026-05-24",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -1892,7 +1860,7 @@
     {
       "campaign_name": "N1 vegabréf",
       "line_item_name": "N1 vegabréf",
-      "price": 22500,
+      "price": 264000,
       "start_date": "2026-05-24",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -1980,7 +1948,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
+      "price": 63000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -1988,7 +1956,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
+      "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2151,7 +2119,7 @@
       "price": 91000,
       "start_date": "2026-08-10",
       "end_date": "2026-08-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Sérefni - langtímasamningur Glerártorgi 2026",
@@ -2188,7 +2156,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2196,7 +2164,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2335,14 +2303,6 @@
       "price": 520000,
       "start_date": "2027-06-30",
       "end_date": "2027-07-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Vörður / Arion - Frjósemisvernd / Digido - 21. maí til 3. júní",
-      "line_item_name": "Vörður / Arion - Frjósemisvernd / Digido / 23. til 25. maí",
-      "price": 290000,
-      "start_date": "2026-05-23",
-      "end_date": "2026-05-25",
       "seen_count": 1
     },
     {
