@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T10:26:02.912Z",
+  "generated_at": "2026-05-27T13:12:41.865Z",
   "scope": {
     "report_start_date": "2026-05-27",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 561,
-    "unique_items": 309,
+    "items_seen": 564,
+    "unique_items": 312,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -208,6 +208,14 @@
       "start_date": "2026-03-01",
       "end_date": "2027-12-31",
       "seen_count": 18
+    },
+    {
+      "campaign_name": "Bestun- iceland eclipse",
+      "line_item_name": "Bestun- iceland eclipse",
+      "price": 22500,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-15",
+      "seen_count": 1
     },
     {
       "campaign_name": "Bestun-22 ágúst",
@@ -788,7 +796,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 238000,
+      "price": 124800,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -796,7 +804,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 124800,
+      "price": 238000,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -1199,6 +1207,22 @@
       "price": 259000,
       "start_date": "2026-05-27",
       "end_date": "2026-06-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskóli Íslands - umsóknir - maí 2026",
+      "line_item_name": "Háskóli Íslands - umsóknir - maí 2026",
+      "price": 135000,
+      "start_date": "2026-05-28",
+      "end_date": "2026-06-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskóli Íslands - umsóknir - maí 2026",
+      "line_item_name": "Háskóli Íslands - umsóknir - maí 2026",
+      "price": 155200,
+      "start_date": "2026-05-29",
+      "end_date": "2026-06-06",
       "seen_count": 1
     },
     {
@@ -1820,7 +1844,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 320000,
+      "price": 229800,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
       "seen_count": 2
@@ -1828,7 +1852,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 229800,
+      "price": 320000,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
       "seen_count": 2
@@ -2084,7 +2108,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
+      "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2092,7 +2116,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
+      "price": 63000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
