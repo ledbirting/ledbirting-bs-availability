@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T13:12:41.865Z",
+  "generated_at": "2026-05-27T16:20:36.694Z",
   "scope": {
     "report_start_date": "2026-05-27",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 564,
-    "unique_items": 312,
+    "items_seen": 569,
+    "unique_items": 317,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1834,6 +1834,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Kraftur Glerártorg 17-21 júní",
+      "line_item_name": "Kraftur Glerártorg 17-21 júní",
+      "price": 65000,
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-21",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Krónan 2 x faldar birtingar Grandi út árið 2025",
       "line_item_name": "Krónan 2 x faldar birtingar Grandi út árið 2025",
       "price": 2610000,
@@ -1980,7 +1988,7 @@
     {
       "campaign_name": "N1 vegabréf",
       "line_item_name": "N1 vegabréf",
-      "price": 22500,
+      "price": 264000,
       "start_date": "2026-05-24",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -1988,17 +1996,9 @@
     {
       "campaign_name": "N1 vegabréf",
       "line_item_name": "N1 vegabréf",
-      "price": 264000,
+      "price": 22500,
       "start_date": "2026-05-24",
       "end_date": "2026-05-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "N1 Vegabréf júní.",
-      "line_item_name": "N1 Vegabréf  BH-HB.",
-      "price": 42000,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-30",
       "seen_count": 1
     },
     {
@@ -2008,6 +2008,14 @@
       "start_date": "2026-06-01",
       "end_date": "2026-06-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "N1 Vegabréf júní.",
+      "line_item_name": "N1 Vegabréf  BH-HB.",
+      "price": 42000,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-30",
+      "seen_count": 1
     },
     {
       "campaign_name": "N1 Vegabréf júní.",
@@ -2108,7 +2116,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
+      "price": 63000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2116,7 +2124,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
+      "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2343,6 +2351,38 @@
       "price": 308000,
       "start_date": "2026-05-18",
       "end_date": "2026-05-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sólar",
+      "line_item_name": "Sólar júní",
+      "price": 104400,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sólar",
+      "line_item_name": "Sólar júní",
+      "price": 101400,
+      "start_date": "2026-06-07",
+      "end_date": "2026-06-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sólar",
+      "line_item_name": "Sólar júní",
+      "price": 93000,
+      "start_date": "2026-06-14",
+      "end_date": "2026-06-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sólar",
+      "line_item_name": "Sólar júní",
+      "price": 46000,
+      "start_date": "2026-06-28",
+      "end_date": "2026-06-30",
       "seen_count": 1
     },
     {
