@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T16:20:36.694Z",
+  "generated_at": "2026-05-27T18:49:16.886Z",
   "scope": {
     "report_start_date": "2026-05-27",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 569,
-    "unique_items": 317,
+    "items_seen": 572,
+    "unique_items": 319,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -2143,6 +2143,22 @@
       "price": 130000,
       "start_date": "2026-05-27",
       "end_date": "2026-06-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá PEI",
+      "line_item_name": "Ratsjá PEI",
+      "price": 962000,
+      "start_date": "2026-07-27",
+      "end_date": "2026-08-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Ratsjá PEI",
+      "line_item_name": "Ratsjá PEI JÚLI",
+      "price": 610000,
+      "start_date": "2026-06-28",
+      "end_date": "2026-07-26",
       "seen_count": 1
     },
     {
