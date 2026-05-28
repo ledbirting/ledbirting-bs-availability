@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T10:29:02.898Z",
+  "generated_at": "2026-05-28T13:17:18.644Z",
   "scope": {
     "report_start_date": "2026-05-28",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 560,
-    "unique_items": 311,
+    "items_seen": 567,
+    "unique_items": 315,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -47,6 +47,22 @@
       "price": 182000,
       "start_date": "2026-06-14",
       "end_date": "2026-06-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
+      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x1 alla daga",
+      "price": 142200,
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
+      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x2",
+      "price": 47400,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-10",
       "seen_count": 1
     },
     {
@@ -772,7 +788,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 238000,
+      "price": 124800,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -780,7 +796,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 124800,
+      "price": 238000,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -1099,14 +1115,6 @@
     },
     {
       "campaign_name": "Góa Pipar 18 maí - 16 júní.",
-      "line_item_name": "Góa Pipar  25/27/29 maí.. AK-GLT-FJH-KAPLA2-GRI-SMT.",
-      "price": 117000,
-      "start_date": "2026-05-24",
-      "end_date": "2026-05-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Góa Pipar 18 maí - 16 júní.",
       "line_item_name": "Góa Pipar . 01/03/05 júní..AK-GLT-KEV-SFS-VLV1",
       "price": 97500,
       "start_date": "2026-06-01",
@@ -1132,7 +1140,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1140,7 +1148,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1296,6 +1304,30 @@
       "start_date": "2026-05-01",
       "end_date": "2026-05-31",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Icepharma - apóteks samningur / Digido  - langtíma  2026",
+      "line_item_name": "Icepharma / Digido  - ágúst",
+      "price": 527000,
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Icepharma - apóteks samningur / Digido  - langtíma  2026",
+      "line_item_name": "Icepharma / Digido  - júlí",
+      "price": 527000,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Icepharma - apóteks samningur / Digido  - langtíma  2026",
+      "line_item_name": "Icepharma / Digido  - júní",
+      "price": 510000,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-30",
+      "seen_count": 2
     },
     {
       "campaign_name": "Icepharma / Digido  - maí  2026",
@@ -1804,7 +1836,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 320000,
+      "price": 229800,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
       "seen_count": 2
@@ -1812,7 +1844,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 229800,
+      "price": 320000,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
       "seen_count": 2
@@ -1948,18 +1980,18 @@
     {
       "campaign_name": "N1 Vegabréf júní.",
       "line_item_name": "N1 Vegabréf  BH-HB.",
-      "price": 42000,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "N1 Vegabréf júní.",
-      "line_item_name": "N1 Vegabréf  BH-HB.",
       "price": 52500,
       "start_date": "2026-06-01",
       "end_date": "2026-06-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "N1 Vegabréf júní.",
+      "line_item_name": "N1 Vegabréf  BH-HB.",
+      "price": 42000,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-30",
+      "seen_count": 1
     },
     {
       "campaign_name": "N1 Vegabréf júní.",
@@ -2060,7 +2092,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
+      "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2068,7 +2100,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
+      "price": 63000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2348,7 +2380,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2356,7 +2388,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
