@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T10:22:17.507Z",
+  "generated_at": "2026-05-29T13:08:12.609Z",
   "scope": {
     "report_start_date": "2026-05-29",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 577,
-    "unique_items": 321,
+    "items_seen": 578,
+    "unique_items": 322,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -836,7 +836,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 124800,
+      "price": 238000,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -844,7 +844,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 238000,
+      "price": 124800,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -1212,17 +1212,17 @@
     {
       "campaign_name": "Háskóli Íslands - umsóknir - maí 2026",
       "line_item_name": "Háskóli Íslands - umsóknir - maí 2026",
-      "price": 155200,
+      "price": 350000,
       "start_date": "2026-05-29",
-      "end_date": "2026-06-06",
+      "end_date": "2026-06-05",
       "seen_count": 1
     },
     {
       "campaign_name": "Háskóli Íslands - umsóknir - maí 2026",
       "line_item_name": "Háskóli Íslands - umsóknir - maí 2026",
-      "price": 350000,
+      "price": 155200,
       "start_date": "2026-05-29",
-      "end_date": "2026-06-05",
+      "end_date": "2026-06-06",
       "seen_count": 1
     },
     {
@@ -1884,7 +1884,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 229800,
+      "price": 320000,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
       "seen_count": 2
@@ -1892,7 +1892,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 320000,
+      "price": 229800,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
       "seen_count": 2
@@ -2004,18 +2004,18 @@
     {
       "campaign_name": "N1 Vegabréf júní.",
       "line_item_name": "N1 Vegabréf  BH-HB.",
-      "price": 42000,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "N1 Vegabréf júní.",
-      "line_item_name": "N1 Vegabréf  BH-HB.",
       "price": 52500,
       "start_date": "2026-06-01",
       "end_date": "2026-06-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "N1 Vegabréf júní.",
+      "line_item_name": "N1 Vegabréf  BH-HB.",
+      "price": 42000,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-30",
+      "seen_count": 1
     },
     {
       "campaign_name": "N1 Vegabréf júní.",
@@ -2074,6 +2074,14 @@
       "seen_count": 4
     },
     {
+      "campaign_name": "Pepsi Max  júní",
+      "line_item_name": "Pepsi Max  08/10/12 júní",
+      "price": 75900,
+      "start_date": "2026-06-07",
+      "end_date": "2026-06-13",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Performance - Júní",
       "line_item_name": "Pure Performance - Júní",
       "price": 676600,
@@ -2116,7 +2124,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 63000,
+      "price": 75000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2124,7 +2132,7 @@
     {
       "campaign_name": "pris mai",
       "line_item_name": "pris mai",
-      "price": 75000,
+      "price": 63000,
       "start_date": "2026-05-17",
       "end_date": "2026-05-31",
       "seen_count": 1
@@ -2444,7 +2452,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2452,7 +2460,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
