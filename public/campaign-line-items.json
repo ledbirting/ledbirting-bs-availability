@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T07:49:41.271Z",
+  "generated_at": "2026-06-01T10:46:56.150Z",
   "scope": {
     "report_start_date": "2026-06-01",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 530,
-    "unique_items": 303,
+    "items_seen": 535,
+    "unique_items": 308,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1810,6 +1810,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Mediacom -Kringlukast",
+      "line_item_name": "Mediacom -Kringlukast",
+      "price": 280000,
+      "start_date": "2026-06-04",
+      "end_date": "2026-06-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mediacom -Kringlukast",
+      "line_item_name": "Mediacom -Kringlukast",
+      "price": 49500,
+      "start_date": "2026-06-08",
+      "end_date": "2026-06-08",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 234000,
@@ -2138,6 +2154,30 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "SAmbíó Toy story 5",
+      "line_item_name": "Sambíó Toy story 5",
+      "price": 182000,
+      "start_date": "2026-06-11",
+      "end_date": "2026-06-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "SAmbíó Toy story 5",
+      "line_item_name": "Sambíó Toy story 5",
+      "price": 178200,
+      "start_date": "2026-06-11",
+      "end_date": "2026-06-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "SAmbíó Toy story 5",
+      "line_item_name": "Sambíó Toy Story 5",
+      "price": 61500,
+      "start_date": "2026-06-14",
+      "end_date": "2026-06-16",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Samkaup / Nettó - jan 2026",
       "line_item_name": "Samkaup - Nettó - samningur - Glerártorg",
       "price": 1235325,
@@ -2316,7 +2356,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2324,7 +2364,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
