@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T14:04:12.050Z",
+  "generated_at": "2026-06-01T16:54:13.400Z",
   "scope": {
     "report_start_date": "2026-06-01",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 544,
-    "unique_items": 317,
+    "items_seen": 555,
+    "unique_items": 328,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -144,6 +144,94 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Atlantsolía / HN - júní 2026",
+      "line_item_name": "Atlantsolía / 10. júní / 4x1",
+      "price": 24500,
+      "start_date": "2026-06-10",
+      "end_date": "2026-06-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Atlantsolía / HN - júní 2026",
+      "line_item_name": "Atlantsolía / 12. júní / 4x1",
+      "price": 27000,
+      "start_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Atlantsolía / HN - júní 2026",
+      "line_item_name": "Atlantsolía / 15. júní / 4x1",
+      "price": 27000,
+      "start_date": "2026-06-15",
+      "end_date": "2026-06-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Atlantsolía / HN - júní 2026",
+      "line_item_name": "Atlantsolía / 16. júní / 4x1",
+      "price": 24500,
+      "start_date": "2026-06-16",
+      "end_date": "2026-06-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Atlantsolía / HN - júní 2026",
+      "line_item_name": "Atlantsolía / 17. júní / 4x1",
+      "price": 24500,
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Atlantsolía / HN - júní 2026",
+      "line_item_name": "Atlantsolía / 18. júní / 5x1",
+      "price": 32000,
+      "start_date": "2026-06-18",
+      "end_date": "2026-06-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Atlantsolía / HN - júní 2026",
+      "line_item_name": "Atlantsolía / 19. júní / 4x1",
+      "price": 24000,
+      "start_date": "2026-06-19",
+      "end_date": "2026-06-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Atlantsolía / HN - júní 2026",
+      "line_item_name": "Atlantsolía / 3. júní / 6x1",
+      "price": 41500,
+      "start_date": "2026-06-03",
+      "end_date": "2026-06-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Atlantsolía / HN - júní 2026",
+      "line_item_name": "Atlantsolía / 4. júní / 6x1",
+      "price": 41500,
+      "start_date": "2026-06-04",
+      "end_date": "2026-06-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Atlantsolía / HN - júní 2026",
+      "line_item_name": "Atlantsolía / 8. júní / 5x1",
+      "price": 35000,
+      "start_date": "2026-06-08",
+      "end_date": "2026-06-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Atlantsolía / HN - júní 2026",
+      "line_item_name": "Atlantsolía / 9. júní / 4x1",
+      "price": 27000,
+      "start_date": "2026-06-09",
+      "end_date": "2026-06-09",
+      "seen_count": 1
     },
     {
       "campaign_name": "bestun",
@@ -764,7 +852,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 238000,
+      "price": 124800,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -772,7 +860,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 124800,
+      "price": 238000,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -1164,17 +1252,17 @@
     {
       "campaign_name": "Háskóli Íslands - umsóknir - maí 2026",
       "line_item_name": "Háskóli Íslands - umsóknir - maí 2026",
-      "price": 350000,
+      "price": 155200,
       "start_date": "2026-05-29",
-      "end_date": "2026-06-05",
+      "end_date": "2026-06-06",
       "seen_count": 1
     },
     {
       "campaign_name": "Háskóli Íslands - umsóknir - maí 2026",
       "line_item_name": "Háskóli Íslands - umsóknir - maí 2026",
-      "price": 155200,
+      "price": 350000,
       "start_date": "2026-05-29",
-      "end_date": "2026-06-06",
+      "end_date": "2026-06-05",
       "seen_count": 1
     },
     {
@@ -1492,7 +1580,7 @@
     {
       "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 4. júní / 5x1",
-      "price": 30500,
+      "price": 30000,
       "start_date": "2026-06-04",
       "end_date": "2026-06-04",
       "seen_count": 1
@@ -2060,14 +2148,6 @@
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
-      "price": 30000,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "pris júni",
-      "line_item_name": "pris júni",
       "price": 23200,
       "start_date": "2026-06-01",
       "end_date": "2026-06-12",
@@ -2079,6 +2159,14 @@
       "price": 25000,
       "start_date": "2026-06-01",
       "end_date": "2026-06-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "pris júni",
+      "line_item_name": "pris júni",
+      "price": 30000,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-15",
       "seen_count": 1
     },
     {
@@ -2196,7 +2284,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 178200,
+      "price": 182000,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2204,7 +2292,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 182000,
+      "price": 178200,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2243,6 +2331,14 @@
     },
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
+      "line_item_name": "#SPAR",
+      "price": 241200,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "samkaup-krambúðin samningur +auka",
       "price": 130800,
       "start_date": "2026-06-11",
@@ -2255,14 +2351,6 @@
       "price": 190800,
       "start_date": "2026-06-18",
       "end_date": "2026-06-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "samkaup-krambúðin samningur +auka",
-      "line_item_name": "SPAR",
-      "price": 241200,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-09",
       "seen_count": 1
     },
     {
@@ -2428,7 +2516,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2436,7 +2524,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
