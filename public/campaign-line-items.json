@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T10:35:02.203Z",
+  "generated_at": "2026-06-02T13:19:26.003Z",
   "scope": {
     "report_start_date": "2026-06-02",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 558,
-    "unique_items": 332,
+    "items_seen": 561,
+    "unique_items": 335,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -876,7 +876,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 238000,
+      "price": 124800,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -884,7 +884,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 124800,
+      "price": 238000,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -1220,7 +1220,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1228,7 +1228,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2130,6 +2130,30 @@
       "seen_count": 3
     },
     {
+      "campaign_name": "Peel opnun í Lindum. 11-15 júní",
+      "line_item_name": "Peel opnun í Lindum. 11-12 júní Breiðholt-Smártorg. Hagasmári. Hæðasmári..",
+      "price": 64600,
+      "start_date": "2026-06-11",
+      "end_date": "2026-06-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Peel opnun í Lindum. 11-15 júní",
+      "line_item_name": "Peel opnun í Lindum. 13 júní  Hagasmári. Hæðasmári..",
+      "price": 11300,
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Peel opnun í Lindum. 11-15 júní",
+      "line_item_name": "Peel opnun í Lindum. 14-15 júní Breiðholt-Smártorg. Hagasmári. Hæðasmári..",
+      "price": 64600,
+      "start_date": "2026-06-14",
+      "end_date": "2026-06-15",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Pepsi Max  júní",
       "line_item_name": "Pepsi Max  08/10/12 júní",
       "price": 75900,
@@ -2188,17 +2212,17 @@
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
-      "price": 25000,
+      "price": 23200,
       "start_date": "2026-06-01",
-      "end_date": "2026-06-10",
+      "end_date": "2026-06-12",
       "seen_count": 1
     },
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
-      "price": 23200,
+      "price": 25000,
       "start_date": "2026-06-01",
-      "end_date": "2026-06-12",
+      "end_date": "2026-06-10",
       "seen_count": 1
     },
     {
@@ -2316,7 +2340,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 182000,
+      "price": 178200,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2324,7 +2348,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 178200,
+      "price": 182000,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2548,7 +2572,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2556,7 +2580,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
