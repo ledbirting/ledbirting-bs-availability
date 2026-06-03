@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T07:45:24.239Z",
+  "generated_at": "2026-06-03T10:35:55.827Z",
   "scope": {
     "report_start_date": "2026-06-03",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 545,
-    "unique_items": 325,
+    "items_seen": 554,
+    "unique_items": 333,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1146,6 +1146,70 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Góa sumar",
+      "line_item_name": "Góa sumar  júni 19/22/24 júní.. KAPLA-AK-GLT-GRI.",
+      "price": 85500,
+      "start_date": "2026-06-18",
+      "end_date": "2026-06-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Góa sumar",
+      "line_item_name": "Góa sumar 01-03 júlí.. KAPLA-SRS-VLV-GRI",
+      "price": 59000,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-03",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Góa sumar",
+      "line_item_name": "Góa sumar 09-10 júlí.. KAPLA-SFS-GLT-VLV-AK-GRI",
+      "price": 85000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Góa sumar",
+      "line_item_name": "Góa sumar 11/13/16 júni. KAPLA-AK-GLT-GRI.",
+      "price": 85500,
+      "start_date": "2026-06-11",
+      "end_date": "2026-06-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Góa sumar",
+      "line_item_name": "Góa sumar 25/27 júní.. KAPLA-AK-GLT-GRI.",
+      "price": 85500,
+      "start_date": "2026-06-25",
+      "end_date": "2026-06-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Góa sumar",
+      "line_item_name": "Góa sumar 30-31  júlí.. KAPLA-SFS-GLT-VLV-AK-GRI",
+      "price": 70000,
+      "start_date": "2026-07-30",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Góa sumar",
+      "line_item_name": "Góa sumar 4 júlí.. KAPLA-SFS-GLTVLV",
+      "price": 28500,
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Góa sumar",
+      "line_item_name": "Góa sumar.05/08/10 júní  KAPLA-AK-GLT.",
+      "price": 63000,
+      "start_date": "2026-06-04",
+      "end_date": "2026-06-10",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
       "price": 65000,
@@ -1204,17 +1268,17 @@
     {
       "campaign_name": "Háskóli Íslands - umsóknir - maí 2026",
       "line_item_name": "Háskóli Íslands - umsóknir - maí 2026",
-      "price": 155200,
+      "price": 350000,
       "start_date": "2026-05-29",
-      "end_date": "2026-06-06",
+      "end_date": "2026-06-05",
       "seen_count": 1
     },
     {
       "campaign_name": "Háskóli Íslands - umsóknir - maí 2026",
       "line_item_name": "Háskóli Íslands - umsóknir - maí 2026",
-      "price": 350000,
+      "price": 155200,
       "start_date": "2026-05-29",
-      "end_date": "2026-06-05",
+      "end_date": "2026-06-06",
       "seen_count": 1
     },
     {
@@ -1980,7 +2044,7 @@
     {
       "campaign_name": "N1 Vegabréf júní.",
       "line_item_name": "N1 Vegabréf  BH-HB.",
-      "price": 42000,
+      "price": 52500,
       "start_date": "2026-06-01",
       "end_date": "2026-06-30",
       "seen_count": 1
@@ -1988,7 +2052,7 @@
     {
       "campaign_name": "N1 Vegabréf júní.",
       "line_item_name": "N1 Vegabréf  BH-HB.",
-      "price": 52500,
+      "price": 42000,
       "start_date": "2026-06-01",
       "end_date": "2026-06-30",
       "seen_count": 1
@@ -2148,17 +2212,17 @@
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
-      "price": 30000,
+      "price": 25000,
       "start_date": "2026-06-01",
-      "end_date": "2026-06-15",
+      "end_date": "2026-06-10",
       "seen_count": 1
     },
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
-      "price": 25000,
+      "price": 30000,
       "start_date": "2026-06-01",
-      "end_date": "2026-06-10",
+      "end_date": "2026-06-15",
       "seen_count": 1
     },
     {
@@ -2276,7 +2340,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 178200,
+      "price": 182000,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2284,7 +2348,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 182000,
+      "price": 178200,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
