@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T10:35:55.827Z",
+  "generated_at": "2026-06-03T13:41:49.448Z",
   "scope": {
     "report_start_date": "2026-06-03",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 554,
-    "unique_items": 333,
+    "items_seen": 547,
+    "unique_items": 327,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -43,7 +43,7 @@
     },
     {
       "campaign_name": "Advania / Datera - Haustráðstefna 2026",
-      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x1 alla daga",
+      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x1 (alla daga)",
       "price": 142200,
       "start_date": "2026-09-04",
       "end_date": "2026-09-09",
@@ -51,7 +51,7 @@
     },
     {
       "campaign_name": "Advania / Datera - Haustráðstefna 2026",
-      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x2",
+      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x2 (síðasta daginn)",
       "price": 47400,
       "start_date": "2026-09-10",
       "end_date": "2026-09-10",
@@ -876,7 +876,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 238000,
+      "price": 124800,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -884,7 +884,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 124800,
+      "price": 238000,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -1138,81 +1138,41 @@
       "seen_count": 3
     },
     {
-      "campaign_name": "Góa Pipar 18 maí - 16 júní.",
-      "line_item_name": "Góa Pipar  09/11/13 júní AK-GLT-FJH-GRI-SFS-VLV.",
-      "price": 120000,
-      "start_date": "2026-06-07",
-      "end_date": "2026-06-13",
+      "campaign_name": "Góa Omnom",
+      "line_item_name": "Góa Omnom 17/19/21/22/24 júní KA/AK-GLT-FJH-GRI-KAPLA-GB-SFS-SMT-VLV",
+      "price": 292500,
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-24",
       "seen_count": 1
     },
     {
-      "campaign_name": "Góa sumar",
-      "line_item_name": "Góa sumar  júni 19/22/24 júní.. KAPLA-AK-GLT-GRI.",
-      "price": 85500,
+      "campaign_name": "Góa Omnom",
+      "line_item_name": "Góa Omnom 18/20/23 júníKA/AK-FJH-FLT-KAPLA-GB-SFS-SMT-VLV",
+      "price": 153000,
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Góa Omnom",
+      "line_item_name": "Góa Omnom 18/24 júní BH-BT-HB-KEV.",
+      "price": 66000,
       "start_date": "2026-06-18",
       "end_date": "2026-06-24",
       "seen_count": 1
     },
     {
-      "campaign_name": "Góa sumar",
-      "line_item_name": "Góa sumar 01-03 júlí.. KAPLA-SRS-VLV-GRI",
-      "price": 59000,
-      "start_date": "2026-07-01",
-      "end_date": "2026-07-03",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Góa sumar",
-      "line_item_name": "Góa sumar 09-10 júlí.. KAPLA-SFS-GLT-VLV-AK-GRI",
-      "price": 85000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Góa sumar",
-      "line_item_name": "Góa sumar 11/13/16 júni. KAPLA-AK-GLT-GRI.",
-      "price": 85500,
-      "start_date": "2026-06-11",
-      "end_date": "2026-06-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Góa sumar",
-      "line_item_name": "Góa sumar 25/27 júní.. KAPLA-AK-GLT-GRI.",
-      "price": 85500,
-      "start_date": "2026-06-25",
-      "end_date": "2026-06-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Góa sumar",
-      "line_item_name": "Góa sumar 30-31  júlí.. KAPLA-SFS-GLT-VLV-AK-GRI",
-      "price": 70000,
-      "start_date": "2026-07-30",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Góa sumar",
-      "line_item_name": "Góa sumar 4 júlí.. KAPLA-SFS-GLTVLV",
-      "price": 28500,
-      "start_date": "2026-07-04",
-      "end_date": "2026-07-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Góa sumar",
-      "line_item_name": "Góa sumar.05/08/10 júní  KAPLA-AK-GLT.",
-      "price": 63000,
-      "start_date": "2026-06-04",
-      "end_date": "2026-06-10",
+      "campaign_name": "Góa Omnom",
+      "line_item_name": "Góa Omnom 22/23 júní BH-BT-HB-KEV.",
+      "price": 56000,
+      "start_date": "2026-06-22",
+      "end_date": "2026-06-23",
       "seen_count": 1
     },
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1220,7 +1180,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2018,30 +1978,6 @@
       "seen_count": 8
     },
     {
-      "campaign_name": "N1 Jón Lárus",
-      "line_item_name": "GLT. 1 og 2  05 júlí",
-      "price": 13000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-05",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "N1 Jón Lárus",
-      "line_item_name": "GLT. 1 og 2 07-09 ágúst.",
-      "price": 117000,
-      "start_date": "2026-08-07",
-      "end_date": "2026-08-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "N1 Jón Lárus",
-      "line_item_name": "GLT. 2  01 júlí",
-      "price": 6500,
-      "start_date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "N1 Vegabréf júní.",
       "line_item_name": "N1 Vegabréf  BH-HB.",
       "price": 52500,
@@ -2340,7 +2276,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 182000,
+      "price": 178200,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2348,7 +2284,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 178200,
+      "price": 182000,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2359,6 +2295,22 @@
       "price": 61500,
       "start_date": "2026-06-14",
       "end_date": "2026-06-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Samherji 7 júní sjómanndagurinn.",
+      "line_item_name": "Samherji 7 júní sjómanndagurinn.",
+      "price": 10000,
+      "start_date": "2026-06-07",
+      "end_date": "2026-06-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Samherji 7 júní sjómanndagurinn.",
+      "line_item_name": "Samherji 7 júní sjómanndagurinn.",
+      "price": 62000,
+      "start_date": "2026-06-07",
+      "end_date": "2026-06-07",
       "seen_count": 1
     },
     {
