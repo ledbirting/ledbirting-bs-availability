@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T13:41:49.448Z",
+  "generated_at": "2026-06-03T16:35:05.418Z",
   "scope": {
     "report_start_date": "2026-06-03",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 547,
-    "unique_items": 327,
+    "items_seen": 574,
+    "unique_items": 354,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -143,6 +143,14 @@
       "price": 159500,
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Askja - Mercedes Benz / 9. til 12. júní 2026",
+      "line_item_name": "Askja - Mercedes Benz / 9. til 12. júní",
+      "price": 52000,
+      "start_date": "2026-06-09",
+      "end_date": "2026-06-12",
       "seen_count": 1
     },
     {
@@ -1554,6 +1562,198 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 12. júlí / 5x1",
+      "price": 29500,
+      "start_date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 14. júlí / 4x1",
+      "price": 26000,
+      "start_date": "2026-07-14",
+      "end_date": "2026-07-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 15. júlí / 4x1",
+      "price": 25500,
+      "start_date": "2026-06-15",
+      "end_date": "2026-06-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 16. júlí / 4x1",
+      "price": 26500,
+      "start_date": "2026-07-16",
+      "end_date": "2026-07-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 17. júlí / 5x1",
+      "price": 35000,
+      "start_date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 18. júlí / 5x1",
+      "price": 32000,
+      "start_date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 19. júlí / 5x1",
+      "price": 31000,
+      "start_date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 2. júlí / 4x1",
+      "price": 26000,
+      "start_date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 20. júlí / 4x1",
+      "price": 26000,
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 21. júlí / 4x1",
+      "price": 28500,
+      "start_date": "2026-07-21",
+      "end_date": "2026-07-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 23. júlí / 4x1",
+      "price": 28500,
+      "start_date": "2026-07-23",
+      "end_date": "2026-07-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 24. júlí / 4x1",
+      "price": 25500,
+      "start_date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 27. júlí / 4x1",
+      "price": 25500,
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 28. júlí / 4x1",
+      "price": 26500,
+      "start_date": "2026-07-28",
+      "end_date": "2026-07-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 29. júlí / 5x1",
+      "price": 32000,
+      "start_date": "2026-07-29",
+      "end_date": "2026-07-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 3. júlí / 4x1",
+      "price": 28000,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 30. júlí / 4x1",
+      "price": 27000,
+      "start_date": "2026-07-30",
+      "end_date": "2026-07-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 31. júlí / 5x1",
+      "price": 31000,
+      "start_date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 4. júlí / 4x1",
+      "price": 23500,
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 5. júlí / 4x1",
+      "price": 24000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 6. júlí / 4x1",
+      "price": 25500,
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 7. júlí / 5x1",
+      "price": 35000,
+      "start_date": "2026-07-07",
+      "end_date": "2026-07-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 8. júlí / 4x1",
+      "price": 27500,
+      "start_date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - mars 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 9. júlí / 4x1",
+      "price": 25500,
+      "start_date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
       "line_item_name": "Íslandsbanki - Fim 13. ágúst / 6x1",
       "price": 39500,
@@ -1980,7 +2180,7 @@
     {
       "campaign_name": "N1 Vegabréf júní.",
       "line_item_name": "N1 Vegabréf  BH-HB.",
-      "price": 52500,
+      "price": 42000,
       "start_date": "2026-06-01",
       "end_date": "2026-06-30",
       "seen_count": 1
@@ -1988,7 +2188,7 @@
     {
       "campaign_name": "N1 Vegabréf júní.",
       "line_item_name": "N1 Vegabréf  BH-HB.",
-      "price": 42000,
+      "price": 52500,
       "start_date": "2026-06-01",
       "end_date": "2026-06-30",
       "seen_count": 1
@@ -2148,6 +2348,14 @@
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
+      "price": 23200,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "pris júni",
+      "line_item_name": "pris júni",
       "price": 25000,
       "start_date": "2026-06-01",
       "end_date": "2026-06-10",
@@ -2159,14 +2367,6 @@
       "price": 30000,
       "start_date": "2026-06-01",
       "end_date": "2026-06-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "pris júni",
-      "line_item_name": "pris júni",
-      "price": 23200,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-12",
       "seen_count": 1
     },
     {
@@ -2216,6 +2416,22 @@
       "start_date": "2026-06-01",
       "end_date": "2026-08-31",
       "seen_count": 3
+    },
+    {
+      "campaign_name": "Sahara - HR Grunnnám (viðbót)",
+      "line_item_name": "HR Grunnnám - 3. júní - Seinni parturinn",
+      "price": 59352.19,
+      "start_date": "2026-06-03",
+      "end_date": "2026-06-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sahara - HR Grunnnám (viðbót)",
+      "line_item_name": "HR Grunnnám - 4-5. júní",
+      "price": 107040,
+      "start_date": "2026-06-04",
+      "end_date": "2026-06-05",
+      "seen_count": 1
     },
     {
       "campaign_name": "Sahara-Earth Lagoon",
@@ -2276,7 +2492,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 178200,
+      "price": 182000,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2284,7 +2500,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 182000,
+      "price": 178200,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2300,7 +2516,7 @@
     {
       "campaign_name": "Samherji 7 júní sjómanndagurinn.",
       "line_item_name": "Samherji 7 júní sjómanndagurinn.",
-      "price": 10000,
+      "price": 62000,
       "start_date": "2026-06-07",
       "end_date": "2026-06-07",
       "seen_count": 1
@@ -2308,7 +2524,7 @@
     {
       "campaign_name": "Samherji 7 júní sjómanndagurinn.",
       "line_item_name": "Samherji 7 júní sjómanndagurinn.",
-      "price": 62000,
+      "price": 10000,
       "start_date": "2026-06-07",
       "end_date": "2026-06-07",
       "seen_count": 1
@@ -2516,7 +2732,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2524,7 +2740,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
