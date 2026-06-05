@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T13:04:21.046Z",
+  "generated_at": "2026-06-05T16:01:43.023Z",
   "scope": {
     "report_start_date": "2026-06-05",
     "report_end_date": "2099-12-31",
@@ -19,12 +19,20 @@
   "stats": {
     "api_calls": 96,
     "items_seen": 580,
-    "unique_items": 355,
+    "unique_items": 354,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
   },
   "items": [
+    {
+      "campaign_name": "_Áltak - Akureyri - Mediacom júni",
+      "line_item_name": "Áltak - Akureyri - Mediacom",
+      "price": 78000,
+      "start_date": "2026-06-08",
+      "end_date": "2026-06-13",
+      "seen_count": 2
+    },
     {
       "campaign_name": "_Mediacom-Myllan sumarpakki júli",
       "line_item_name": "Mediacom-Myllan sumarpakki",
@@ -203,10 +211,10 @@
     },
     {
       "campaign_name": "Askja - Mercedes Benz / 9. til 12. júní 2026",
-      "line_item_name": "Askja - Mercedes Benz / 9. til 12. júní",
+      "line_item_name": "Askja - Mercedes Benz / 8. til 11. júní",
       "price": 52000,
-      "start_date": "2026-06-09",
-      "end_date": "2026-06-12",
+      "start_date": "2026-06-08",
+      "end_date": "2026-06-11",
       "seen_count": 1
     },
     {
@@ -328,6 +336,14 @@
       "start_date": "2026-07-01",
       "end_date": "2026-07-05",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Bestun -Freyja -Sumarpakki",
+      "line_item_name": "Bestun -Freyja -Sumarpakki",
+      "price": 45000,
+      "start_date": "2026-06-09",
+      "end_date": "2026-06-17",
+      "seen_count": 1
     },
     {
       "campaign_name": "Bestun Kjarnafæði -mars-31 des 2026",
@@ -1204,7 +1220,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1212,7 +1228,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1252,17 +1268,17 @@
     {
       "campaign_name": "Háskóli Íslands - umsóknir - maí 2026",
       "line_item_name": "Háskóli Íslands - umsóknir - maí 2026",
-      "price": 155200,
+      "price": 350000,
       "start_date": "2026-05-29",
-      "end_date": "2026-06-06",
+      "end_date": "2026-06-05",
       "seen_count": 1
     },
     {
       "campaign_name": "Háskóli Íslands - umsóknir - maí 2026",
       "line_item_name": "Háskóli Íslands - umsóknir - maí 2026",
-      "price": 350000,
+      "price": 155200,
       "start_date": "2026-05-29",
-      "end_date": "2026-06-05",
+      "end_date": "2026-06-06",
       "seen_count": 1
     },
     {
@@ -2028,7 +2044,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 320000,
+      "price": 229800,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
       "seen_count": 1
@@ -2036,7 +2052,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 229800,
+      "price": 320000,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
       "seen_count": 1
@@ -2202,38 +2218,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "N1 Vegabréf júní.",
-      "line_item_name": "N1 Vegabréf  BH-HB.",
-      "price": 52500,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "N1 Vegabréf júní.",
-      "line_item_name": "N1 Vegabréf  BH-HB.",
-      "price": 42000,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "N1 Vegabréf júní.",
-      "line_item_name": "N1 Vegabréf  Grandi",
-      "price": 60000,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "N1 Vegabréf júní.",
-      "line_item_name": "N1 Vegabréf Hagasmári.",
-      "price": 52200,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-30",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Nova. Glerártorg árssamningu.",
       "line_item_name": "Nova. Glerártorg árssamningu.",
       "price": 2340000,
@@ -2290,19 +2274,27 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Óskaskrín - 6-20 júní",
-      "line_item_name": "Óskaskrín - Glerártorg",
-      "price": 45500,
+      "campaign_name": "Óskaskrín 6-20 júní",
+      "line_item_name": "Óskaskrín 6-20 júní",
+      "price": 41300,
       "start_date": "2026-06-06",
-      "end_date": "2026-06-20",
+      "end_date": "2026-06-06",
       "seen_count": 1
     },
     {
-      "campaign_name": "Óskaskrín - 6-20 júní",
-      "line_item_name": "Óskaskrín - Hagasmári",
-      "price": 46400,
-      "start_date": "2026-06-05",
-      "end_date": "2026-06-12",
+      "campaign_name": "Óskaskrín 6-20 júní",
+      "line_item_name": "Óskaskrín 6-20 júní",
+      "price": 124000,
+      "start_date": "2026-06-10",
+      "end_date": "2026-06-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Óskaskrín 6-20 júní",
+      "line_item_name": "Óskaskrín 6-20 júní",
+      "price": 105200,
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-20",
       "seen_count": 1
     },
     {
@@ -2348,6 +2340,14 @@
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
+      "price": 23200,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "pris júni",
+      "line_item_name": "pris júni",
       "price": 25000,
       "start_date": "2026-06-01",
       "end_date": "2026-06-10",
@@ -2359,14 +2359,6 @@
       "price": 30000,
       "start_date": "2026-06-01",
       "end_date": "2026-06-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "pris júni",
-      "line_item_name": "pris júni",
-      "price": 23200,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-12",
       "seen_count": 1
     },
     {
@@ -2484,7 +2476,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 182000,
+      "price": 178200,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2492,7 +2484,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 178200,
+      "price": 182000,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2716,7 +2708,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2724,7 +2716,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
