@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T10:23:19.794Z",
+  "generated_at": "2026-06-05T13:04:21.046Z",
   "scope": {
     "report_start_date": "2026-06-05",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 578,
-    "unique_items": 353,
+    "items_seen": 580,
+    "unique_items": 355,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -916,7 +916,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 238000,
+      "price": 124800,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -924,7 +924,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 124800,
+      "price": 238000,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -1204,7 +1204,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1212,7 +1212,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1252,17 +1252,17 @@
     {
       "campaign_name": "Háskóli Íslands - umsóknir - maí 2026",
       "line_item_name": "Háskóli Íslands - umsóknir - maí 2026",
-      "price": 350000,
+      "price": 155200,
       "start_date": "2026-05-29",
-      "end_date": "2026-06-05",
+      "end_date": "2026-06-06",
       "seen_count": 1
     },
     {
       "campaign_name": "Háskóli Íslands - umsóknir - maí 2026",
       "line_item_name": "Háskóli Íslands - umsóknir - maí 2026",
-      "price": 155200,
+      "price": 350000,
       "start_date": "2026-05-29",
-      "end_date": "2026-06-06",
+      "end_date": "2026-06-05",
       "seen_count": 1
     },
     {
@@ -2287,6 +2287,22 @@
       "price": 170000,
       "start_date": "2026-06-28",
       "end_date": "2026-06-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Óskaskrín - 6-20 júní",
+      "line_item_name": "Óskaskrín - Glerártorg",
+      "price": 45500,
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Óskaskrín - 6-20 júní",
+      "line_item_name": "Óskaskrín - Hagasmári",
+      "price": 46400,
+      "start_date": "2026-06-05",
+      "end_date": "2026-06-12",
       "seen_count": 1
     },
     {
