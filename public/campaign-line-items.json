@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T16:01:43.023Z",
+  "generated_at": "2026-06-05T18:41:39.591Z",
   "scope": {
     "report_start_date": "2026-06-05",
     "report_end_date": "2099-12-31",
@@ -1187,9 +1187,9 @@
     },
     {
       "campaign_name": "Góa Omnom",
-      "line_item_name": "Góa Omnom 17/19/21/22/24 júní KA/AK-GLT-FJH-GRI-KAPLA-GB-SFS-SMT-VLV",
+      "line_item_name": "Góa Omnom 15/17/19/22/24 júní KA/AK-GLT-FJH-GRI-KAPLA-GB-SFS-SMT-VLV",
       "price": 292500,
-      "start_date": "2026-06-17",
+      "start_date": "2026-06-15",
       "end_date": "2026-06-24",
       "seen_count": 1
     },
@@ -2476,7 +2476,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 178200,
+      "price": 182000,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2484,7 +2484,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 182000,
+      "price": 178200,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
