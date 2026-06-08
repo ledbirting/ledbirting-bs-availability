@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T13:30:35.241Z",
+  "generated_at": "2026-06-08T16:24:52.251Z",
   "scope": {
     "report_start_date": "2026-06-08",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 559,
-    "unique_items": 324,
+    "items_seen": 560,
+    "unique_items": 325,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -127,6 +127,14 @@
       "price": 65300,
       "start_date": "2026-06-09",
       "end_date": "2026-06-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Arion banki / Digido - hátíðir sumarið 2026",
+      "line_item_name": "Arion - Bíladagar / Digido - 17. til 20. júní",
+      "price": 104000,
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-20",
       "seen_count": 1
     },
     {
@@ -868,7 +876,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 124800,
+      "price": 238000,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -876,7 +884,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 238000,
+      "price": 124800,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -1156,7 +1164,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1164,7 +1172,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1899,7 +1907,7 @@
     },
     {
       "campaign_name": "Lindex - S4S - v. opnunar í Smáralind / Sahara - júní 2026",
-      "line_item_name": "Lindex S4S / Sahara / lau",
+      "line_item_name": "13 juni",
       "price": 40800,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
@@ -1907,7 +1915,7 @@
     },
     {
       "campaign_name": "Lindex - S4S - v. opnunar í Smáralind / Sahara - júní 2026",
-      "line_item_name": "Lindex S4S / Sahara / mán, mið",
+      "line_item_name": "8-10 juni",
       "price": 76600,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
@@ -2172,6 +2180,14 @@
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
+      "price": 30000,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "pris júni",
+      "line_item_name": "pris júni",
       "price": 23200,
       "start_date": "2026-06-01",
       "end_date": "2026-06-12",
@@ -2183,14 +2199,6 @@
       "price": 25000,
       "start_date": "2026-06-01",
       "end_date": "2026-06-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "pris júni",
-      "line_item_name": "pris júni",
-      "price": 30000,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-15",
       "seen_count": 1
     },
     {
@@ -2292,7 +2300,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 178200,
+      "price": 182000,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2300,7 +2308,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 182000,
+      "price": 178200,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2348,17 +2356,17 @@
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "samkaup-krambúðin samningur +auka",
-      "price": 130800,
-      "start_date": "2026-06-11",
-      "end_date": "2026-06-16",
+      "price": 190800,
+      "start_date": "2026-06-18",
+      "end_date": "2026-06-23",
       "seen_count": 1
     },
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
-      "line_item_name": "samkaup-krambúðin samningur +auka",
-      "price": 190800,
-      "start_date": "2026-06-18",
-      "end_date": "2026-06-23",
+      "line_item_name": "SPAR",
+      "price": 130800,
+      "start_date": "2026-06-11",
+      "end_date": "2026-06-16",
       "seen_count": 1
     },
     {
