@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-08T21:35:28.638Z",
+  "generated_at": "2026-06-09T00:45:33.559Z",
   "scope": {
-    "report_start_date": "2026-06-08",
+    "report_start_date": "2026-06-09",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 568,
-    "unique_items": 330,
+    "items_seen": 565,
+    "unique_items": 326,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -111,14 +111,6 @@
       "price": 64300,
       "start_date": "2026-06-10",
       "end_date": "2026-06-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Apótekarinn / HN - júní  2026",
-      "line_item_name": "Apótekarinn / HN - 8. júní / 10x1",
-      "price": 64300,
-      "start_date": "2026-06-08",
-      "end_date": "2026-06-08",
       "seen_count": 1
     },
     {
@@ -287,14 +279,6 @@
       "price": 15000,
       "start_date": "2026-06-30",
       "end_date": "2026-06-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Atlantsolía / HN - júní 2026",
-      "line_item_name": "Atlantsolía / 8. júní / 3x1",
-      "price": 20500,
-      "start_date": "2026-06-08",
-      "end_date": "2026-06-08",
       "seen_count": 1
     },
     {
@@ -738,20 +722,12 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Bónus / HN - júní 2026",
-      "line_item_name": "Bónus 8. júní - Mán / 10x1",
-      "price": 63500,
-      "start_date": "2026-06-08",
-      "end_date": "2026-06-08",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Byko - Samningur - 2026",
       "line_item_name": "Byko - Ágúst - Fim,Fös - AK/GLE,SELF,KEF",
       "price": 37000,
       "start_date": "2026-08-01",
       "end_date": "2026-08-08",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -783,7 +759,7 @@
       "price": 272000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -916,7 +892,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 238000,
+      "price": 124800,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -924,7 +900,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 124800,
+      "price": 238000,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -935,7 +911,7 @@
       "price": 26000,
       "start_date": "2026-08-01",
       "end_date": "2026-08-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Duty Free - Heinemann  / Datera - okt 2026",
@@ -1871,7 +1847,7 @@
       "price": 39000,
       "start_date": "2026-12-03",
       "end_date": "2026-12-05",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1887,7 +1863,7 @@
       "price": 39000,
       "start_date": "2026-11-05",
       "end_date": "2026-11-07",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2018,14 +1994,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Mediacom -Kringlukast",
-      "line_item_name": "Mediacom -Kringlukast",
-      "price": 49500,
-      "start_date": "2026-06-08",
-      "end_date": "2026-06-08",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Mediacom-Myllan sumarpakki júni",
       "line_item_name": "Mediacom-Myllan sumarpakki",
       "price": 504000,
@@ -2044,18 +2012,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 143000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 468000,
       "start_date": "2026-07-05",
       "end_date": "2026-09-30",
       "seen_count": 3
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 143000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-31",
+      "seen_count": 1
     },
     {
       "campaign_name": "MS / Ennemm - Akureyri - 1. til 4. júlí 2026",
@@ -2111,7 +2079,7 @@
       "price": 117000,
       "start_date": "2026-08-07",
       "end_date": "2026-08-09",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "N1 mótin Glerártorg.",
@@ -2220,17 +2188,17 @@
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
-      "price": 25000,
+      "price": 30000,
       "start_date": "2026-06-01",
-      "end_date": "2026-06-10",
+      "end_date": "2026-06-15",
       "seen_count": 1
     },
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
-      "price": 30000,
+      "price": 25000,
       "start_date": "2026-06-01",
-      "end_date": "2026-06-15",
+      "end_date": "2026-06-10",
       "seen_count": 1
     },
     {
@@ -2340,7 +2308,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 182000,
+      "price": 178200,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2348,7 +2316,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 178200,
+      "price": 182000,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2532,7 +2500,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2540,7 +2508,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2631,7 +2599,7 @@
       "price": 520000,
       "start_date": "2027-06-30",
       "end_date": "2027-07-03",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Zipline Akureyri",
