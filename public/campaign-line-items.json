@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T13:03:04.646Z",
+  "generated_at": "2026-06-09T16:01:38.978Z",
   "scope": {
     "report_start_date": "2026-06-09",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 563,
-    "unique_items": 325,
+    "items_seen": 597,
+    "unique_items": 350,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -55,6 +55,22 @@
       "price": 182000,
       "start_date": "2026-06-14",
       "end_date": "2026-06-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
+      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x1 (alla daga)",
+      "price": 142200,
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-09",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
+      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x2 (síðasta daginn)",
+      "price": 47400,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-10",
       "seen_count": 1
     },
     {
@@ -818,6 +834,54 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "CCEP HM Sumar.",
+      "line_item_name": "CCEP HM Sumar.",
+      "price": 165000,
+      "start_date": "2026-06-10",
+      "end_date": "2026-06-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "CCEP HM Sumar.",
+      "line_item_name": "CCEP HM Sumar.",
+      "price": 207200,
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "CCEP HM Sumar.",
+      "line_item_name": "CCEP HM Sumar.",
+      "price": 164400,
+      "start_date": "2026-06-24",
+      "end_date": "2026-06-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "CCEP HM Sumar.",
+      "line_item_name": "CCEP HM Sumar.",
+      "price": 199200,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "CCEP HM Sumar.",
+      "line_item_name": "CCEP HM Sumar.",
+      "price": 189000,
+      "start_date": "2026-07-08",
+      "end_date": "2026-07-14",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "CCEP HM Sumar.",
+      "line_item_name": "CCEP HM Sumar.",
+      "price": 97500,
+      "start_date": "2026-07-15",
+      "end_date": "2026-07-19",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Colas",
       "line_item_name": "Colas",
       "price": 46000,
@@ -836,18 +900,18 @@
     {
       "campaign_name": "Colas",
       "line_item_name": "Colas",
-      "price": 138000,
-      "start_date": "2026-06-12",
-      "end_date": "2026-06-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Colas",
-      "line_item_name": "Colas",
       "price": 92000,
       "start_date": "2026-06-12",
       "end_date": "2026-07-14",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Colas",
+      "line_item_name": "Colas",
+      "price": 138000,
+      "start_date": "2026-06-12",
+      "end_date": "2026-06-26",
+      "seen_count": 1
     },
     {
       "campaign_name": "Colas",
@@ -1164,7 +1228,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1172,7 +1236,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1658,6 +1722,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Ilva GLE 1-5 juli",
+      "line_item_name": "Ilva GLE 1-5 juli",
+      "price": 0,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ilva lang tima AKU 1-GLE 2",
+      "line_item_name": "Ilva lang tima AKU 1-GLE 2",
+      "price": 0,
+      "start_date": "2026-06-12",
+      "end_date": "2026-12-31",
+      "seen_count": 7
+    },
+    {
       "campaign_name": "ISAVIA - Keflavíkurflugvöllur / Datera - júní 2026",
       "line_item_name": "Keflavíkurflugvöllur / 12. júní",
       "price": 25500,
@@ -1940,7 +2020,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 320000,
+      "price": 229800,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
       "seen_count": 1
@@ -1948,9 +2028,105 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 229800,
+      "price": 320000,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
+      "line_item_name": "LIVE / Fim 2. júlí / 6x1",
+      "price": 38000,
+      "start_date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
+      "line_item_name": "LIVE / Fös 19. júní / 6x1",
+      "price": 39500,
+      "start_date": "2026-06-19",
+      "end_date": "2026-06-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
+      "line_item_name": "LIVE / Fös 26. júní / 6x1",
+      "price": 38000,
+      "start_date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
+      "line_item_name": "LIVE / Fös 3. júlí / 6x1",
+      "price": 39000,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
+      "line_item_name": "LIVE / Lau 4. júlí / 3x1",
+      "price": 19000,
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
+      "line_item_name": "LIVE / Mán 22. júní / 6x1",
+      "price": 36000,
+      "start_date": "2026-06-22",
+      "end_date": "2026-06-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
+      "line_item_name": "LIVE / Mán 29. júní / 6x1",
+      "price": 37000,
+      "start_date": "2026-06-29",
+      "end_date": "2026-06-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
+      "line_item_name": "LIVE / Mið 24. júní / 5x1",
+      "price": 31000,
+      "start_date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
+      "line_item_name": "LIVE / Sun 21. júní / 3x1",
+      "price": 20500,
+      "start_date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
+      "line_item_name": "LIVE / Sun 28. júní / 3x1",
+      "price": 21500,
+      "start_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
+      "line_item_name": "LIVE / Þri 16. júní / 5x1",
+      "price": 32500,
+      "start_date": "2026-06-16",
+      "end_date": "2026-06-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
+      "line_item_name": "LIVE / Þri 23. júní / 6x1",
+      "price": 40500,
+      "start_date": "2026-06-23",
+      "end_date": "2026-06-23",
       "seen_count": 1
     },
     {
@@ -2180,17 +2356,17 @@
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
-      "price": 23200,
+      "price": 25000,
       "start_date": "2026-06-01",
-      "end_date": "2026-06-12",
+      "end_date": "2026-06-10",
       "seen_count": 1
     },
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
-      "price": 25000,
+      "price": 23200,
       "start_date": "2026-06-01",
-      "end_date": "2026-06-10",
+      "end_date": "2026-06-12",
       "seen_count": 1
     },
     {
@@ -2200,6 +2376,30 @@
       "start_date": "2026-06-01",
       "end_date": "2026-06-15",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá -Bændasamtökin",
+      "line_item_name": "Ratsjá -Bændasamtökin",
+      "price": 690000,
+      "start_date": "2026-07-16",
+      "end_date": "2026-07-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá -Bændasamtökin",
+      "line_item_name": "Ratsjá -Bændasamtökin",
+      "price": 166000,
+      "start_date": "2026-07-31",
+      "end_date": "2026-08-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá -Gildi",
+      "line_item_name": "Ratsjá -Gildi",
+      "price": 1332800,
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-30",
+      "seen_count": 2
     },
     {
       "campaign_name": "Ratsjá PEI",
@@ -2300,7 +2500,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 182000,
+      "price": 178200,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2308,7 +2508,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 178200,
+      "price": 182000,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
