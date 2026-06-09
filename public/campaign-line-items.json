@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T10:16:25.341Z",
+  "generated_at": "2026-06-09T13:03:04.646Z",
   "scope": {
     "report_start_date": "2026-06-09",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 565,
-    "unique_items": 326,
+    "items_seen": 563,
+    "unique_items": 325,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -55,22 +55,6 @@
       "price": 182000,
       "start_date": "2026-06-14",
       "end_date": "2026-06-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
-      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x1 (alla daga)",
-      "price": 142200,
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-09",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
-      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x2 (síðasta daginn)",
-      "price": 47400,
-      "start_date": "2026-09-10",
-      "end_date": "2026-09-10",
       "seen_count": 1
     },
     {
@@ -1674,6 +1658,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "ISAVIA - Keflavíkurflugvöllur / Datera - júní 2026",
+      "line_item_name": "Keflavíkurflugvöllur / 12. júní",
+      "price": 25500,
+      "start_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
       "line_item_name": "Íslandsbanki - Fim 13. ágúst / 6x1",
       "price": 39500,
@@ -1948,7 +1940,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 229800,
+      "price": 320000,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
       "seen_count": 1
@@ -1956,7 +1948,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 320000,
+      "price": 229800,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
       "seen_count": 1
@@ -2188,9 +2180,9 @@
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
-      "price": 30000,
+      "price": 23200,
       "start_date": "2026-06-01",
-      "end_date": "2026-06-15",
+      "end_date": "2026-06-12",
       "seen_count": 1
     },
     {
@@ -2204,9 +2196,9 @@
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
-      "price": 23200,
+      "price": 30000,
       "start_date": "2026-06-01",
-      "end_date": "2026-06-12",
+      "end_date": "2026-06-15",
       "seen_count": 1
     },
     {
@@ -2308,7 +2300,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 178200,
+      "price": 182000,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2316,7 +2308,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 182000,
+      "price": 178200,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2500,7 +2492,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2508,7 +2500,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
