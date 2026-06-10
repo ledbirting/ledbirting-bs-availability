@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ledbirting Broadsign Availability</title>
   <link rel="icon" href="data:,">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
   <style>
     :root {
   --cw:1248px;
@@ -25,12 +28,11 @@ html, body {
   height: var(--ch);
   overflow: hidden;
   color: var(--fg);
-  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
 
-  /* Full background image */
   background:
-    linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)),
-    url("https://ledbirting.is/wp-content/uploads/2025/11/BG-Availability.jpg") center/cover no-repeat;
+    linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)),
+    url("https://media.zapp.is/storage/v1/object/public/zapp-web-assets/Fillrate-BG.jpg") center/cover no-repeat;
   background-attachment: fixed;
 }
 
@@ -96,6 +98,7 @@ html, body {
 }
 #labels .label {
   font-size: 13px;
+  font-weight: 700;
   display: flex;
   align-items: center;
   white-space: nowrap;
@@ -125,14 +128,25 @@ html, body {
   margin: 3px;
   border: none;
   border-radius: 5px;
+  box-shadow: 1px 1px 0 #ffffff;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
   position: relative;
   z-index: 1;
-  opacity: 0.85;
+  opacity: 0.9;
 }
 .cell:hover {
   transform: scale(1.05);
-  box-shadow: 0 0 6px rgba(255,255,255,0.25);
+  box-shadow: 1px 1px 0 #ffffff, 0 0 8px rgba(255,255,255,0.35);
+}
+.cell.cell-blink {
+  animation: cell-low-fill-pulse 3.5s ease-in-out infinite;
+}
+@keyframes cell-low-fill-pulse {
+  0%, 100% { opacity: 0.65; }
+  50% { opacity: 1; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .cell.cell-blink { animation: none; opacity: 0.9; }
 }
 
 /* Remove weekend margin hacks (we use real spacer columns in JS) */
@@ -160,6 +174,8 @@ html, body {
 const CW = 1248, CH = 936, PAD = 8, LABEL_W = 260, HEADER_H = 64;
 const REFRESH_INTERVAL = 21 * 60 * 1000; // 21 minutes
 const WEEK_GAP = 6; // px gap after Saturday
+/** Fill rates 0–13.2% (0–0.132) get a slow pulse — data is 0..1 */
+const BLINK_FILL_MAX = 0.132;
 
 // Co-deployed with this page by fillrate.yml (public/fillrate-next30.json).
 const DATA_URL = new URL("fillrate-next30.json", location.href).href;
@@ -344,6 +360,7 @@ async function buildFromJSON(){
         if(typeof v==="number"){
           const val=Math.max(0,Math.min(1,v));
           cell.style.backgroundColor=colorFor(val);
+          if (val <= BLINK_FILL_MAX) cell.classList.add("cell-blink");
         }
         grid.appendChild(cell);
         if(d.getDay()===6){
