@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T13:13:17.060Z",
+  "generated_at": "2026-06-10T16:18:22.994Z",
   "scope": {
     "report_start_date": "2026-06-10",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 629,
-    "unique_items": 372,
+    "items_seen": 634,
+    "unique_items": 375,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -884,18 +884,18 @@
     {
       "campaign_name": "Colas",
       "line_item_name": "Colas",
-      "price": 92000,
-      "start_date": "2026-06-12",
-      "end_date": "2026-07-14",
-      "seen_count": 4
-    },
-    {
-      "campaign_name": "Colas",
-      "line_item_name": "Colas",
       "price": 138000,
       "start_date": "2026-06-12",
       "end_date": "2026-06-26",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Colas",
+      "line_item_name": "Colas",
+      "price": 92000,
+      "start_date": "2026-06-12",
+      "end_date": "2026-07-14",
+      "seen_count": 4
     },
     {
       "campaign_name": "Colas",
@@ -924,7 +924,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 238000,
+      "price": 124800,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -932,7 +932,7 @@
     {
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
-      "price": 124800,
+      "price": 238000,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -1200,6 +1200,30 @@
       "start_date": "2026-04-01",
       "end_date": "2026-08-31",
       "seen_count": 3
+    },
+    {
+      "campaign_name": "Gæludýr / Hvíta húsið - júlí 2026",
+      "line_item_name": "Gæludýr / 1. til 31. júlí / Mið / GRA, KAP1",
+      "price": 77500,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Gæludýr / Hvíta húsið - júlí 2026",
+      "line_item_name": "Gæludýr / 5. til 31. júlí / Fös / AKU1, GRA",
+      "price": 48000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Gæludýr / Hvíta húsið - júlí 2026",
+      "line_item_name": "Gæludýr á Glerártorgi / 5. til 31. júlí / Mán, Þri, Fim, Lau / GLER1",
+      "price": 97500,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-30",
+      "seen_count": 2
     },
     {
       "campaign_name": "Gæludýr / Hvíta húsið - júní 2026",
@@ -2100,7 +2124,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 320000,
+      "price": 229800,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
       "seen_count": 1
@@ -2108,7 +2132,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 229800,
+      "price": 320000,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
       "seen_count": 1
@@ -2645,8 +2669,8 @@
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
       "price": 182000,
-      "start_date": "2026-06-11",
-      "end_date": "2026-06-17",
+      "start_date": "2026-06-12",
+      "end_date": "2026-06-18",
       "seen_count": 1
     },
     {
