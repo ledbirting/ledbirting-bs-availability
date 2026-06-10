@@ -164,6 +164,13 @@ const WEEK_GAP = 6; // px gap after Saturday
 // Co-deployed with this page by fillrate.yml (public/fillrate-next30.json).
 const DATA_URL = new URL("fillrate-next30.json", location.href).href;
 
+// Screens hidden from the display grid (still present in source JSON).
+const HIDDEN_SCREENS = new Set([
+  "Vatnsendahvarf #1",
+  "Sæbraut - Sundaborg",
+  "Austurstræti",
+]);
+
 // ====== COLOR GRADIENT ======
 const STOPS = [
   { stop: 0.0, color: "#00c853" }, // green start
@@ -248,6 +255,12 @@ function normalizeData(raw){
 }
 
 // ====== LAYOUT ======
+function rowHeights(count, availH){
+  const base = Math.floor(availH / count);
+  const extra = availH - base * count;
+  return Array.from({ length: count }, (_, i) => base + (i < extra ? 1 : 0));
+}
+
 function buildColumnTemplate(cellW, daysOfWeek){
   const parts=[];
   for(let i=0;i<daysOfWeek.length;i++){
@@ -260,10 +273,12 @@ function applyLayout(COLS, ROWS, daysOfWeek){
   const availW = CW - PAD*2 - LABEL_W;
   const availH = CH - PAD*2 - HEADER_H;
   const cellW = Math.floor(availW / COLS);
-  const cellH = Math.floor(availH / ROWS);
+  const heights = rowHeights(ROWS, availH);
+  const cellH = heights[0];
   const satCount = daysOfWeek.filter(d=>d===6).length;
   const totalGridW = cellW*COLS + WEEK_GAP*satCount;
-  const gridH = cellH * ROWS;
+  const gridH = availH;
+  const rowTemplate = heights.map(h => `${h}px`).join(" ");
   const SHIFT_COLS = 1;
   const SHIFT_PX = cellW * SHIFT_COLS;
   const colTemplate = buildColumnTemplate(cellW, daysOfWeek);
@@ -273,13 +288,15 @@ function applyLayout(COLS, ROWS, daysOfWeek){
   dateRow.style.width = `${totalGridW}px`;
   dateRow.style.transform = `translateX(-${SHIFT_PX}px)`;
   body.style.gridTemplateColumns = `${LABEL_W}px ${totalGridW + SHIFT_PX}px`;
+  body.style.height = `${availH}px`;
   grid.style.gridTemplateColumns = colTemplate;
-  grid.style.gridTemplateRows = `repeat(${ROWS}, ${cellH}px)`;
+  grid.style.gridTemplateRows = rowTemplate;
   grid.style.width = `${totalGridW}px`;
   grid.style.height = `${gridH}px`;
   grid.style.transform = `translateX(-${SHIFT_PX}px)`;
-  labels.style.gridTemplateRows = `repeat(${ROWS}, ${cellH}px)`;
+  labels.style.gridTemplateRows = rowTemplate;
   labels.style.width = `${LABEL_W}px`;
+  labels.style.height = `${availH}px`;
   return {cellW,cellH,totalGridW,gridH};
 }
 
@@ -303,15 +320,9 @@ async function buildFromJSON(){
   try{
     const raw=await getJSON(DATA_URL);
     const normalized=normalizeData(raw);
-    const screens=normalized.screens;
+    const visibleScreens=normalized.screens.filter(name => !HIDDEN_SCREENS.has(name));
     const dates=normalized.dates.slice(0,30);
     const daysOfWeek=dates.map(d=>new Date(d).getDay());
-
-    // calculate max visible rows
-    const availH=CH - PAD*2 - HEADER_H;
-    const cellH=Math.floor(availH / screens.length);
-    const maxRows=Math.floor(availH / cellH);
-    const visibleScreens=screens.slice(0,maxRows);
 
     applyLayout(dates.length, visibleScreens.length, daysOfWeek);
 
