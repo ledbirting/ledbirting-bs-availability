@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T07:32:25.090Z",
+  "generated_at": "2026-06-10T10:27:37.604Z",
   "scope": {
     "report_start_date": "2026-06-10",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 593,
-    "unique_items": 345,
+    "items_seen": 602,
+    "unique_items": 351,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1170,6 +1170,30 @@
       "seen_count": 4
     },
     {
+      "campaign_name": "Forlagið / HN - 15. júní til 31. ágúst",
+      "line_item_name": "Forlagið - 15. til 16. júní",
+      "price": 15000,
+      "start_date": "2026-06-15",
+      "end_date": "2026-06-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Forlagið / HN - 15. júní til 31. ágúst",
+      "line_item_name": "Forlagið - 19. júní til 21. ágúst  / Mán, Þri, Fim, Lau",
+      "price": 270000,
+      "start_date": "2026-06-19",
+      "end_date": "2026-08-21",
+      "seen_count": 3
+    },
+    {
+      "campaign_name": "Forlagið / HN - 15. júní til 31. ágúst",
+      "line_item_name": "Forlagið - Grandi - 23. til 31. ágúst / Mán, Þri, Mið, Fim, Fös, Lau",
+      "price": 52500,
+      "start_date": "2026-08-23",
+      "end_date": "2026-08-31",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "FS Fasteignir - Tilboð",
       "line_item_name": "Glerártorg",
       "price": 286000,
@@ -1207,6 +1231,30 @@
       "price": 56000,
       "start_date": "2026-06-22",
       "end_date": "2026-06-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Grandi mathöll",
+      "line_item_name": "Grandi mathöll 1-31 júlí",
+      "price": 165000,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Grandi mathöll",
+      "line_item_name": "Grandi mathöll 15-16 júní",
+      "price": 15000,
+      "start_date": "2026-06-15",
+      "end_date": "2026-06-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Grandi mathöll",
+      "line_item_name": "Grandi mathöll 19-30 júní",
+      "price": 90000,
+      "start_date": "2026-06-19",
+      "end_date": "2026-06-30",
       "seen_count": 1
     },
     {
@@ -1996,7 +2044,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 320000,
+      "price": 229800,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
       "seen_count": 1
@@ -2004,7 +2052,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 229800,
+      "price": 320000,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
       "seen_count": 1
@@ -2332,17 +2380,17 @@
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
-      "price": 23200,
+      "price": 30000,
       "start_date": "2026-06-01",
-      "end_date": "2026-06-12",
+      "end_date": "2026-06-15",
       "seen_count": 1
     },
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
-      "price": 30000,
+      "price": 23200,
       "start_date": "2026-06-01",
-      "end_date": "2026-06-15",
+      "end_date": "2026-06-12",
       "seen_count": 1
     },
     {
@@ -2468,7 +2516,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 182000,
+      "price": 178200,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2476,7 +2524,7 @@
     {
       "campaign_name": "SAmbíó Toy story 5",
       "line_item_name": "Sambíó Toy story 5",
-      "price": 178200,
+      "price": 182000,
       "start_date": "2026-06-11",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2652,7 +2700,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2660,7 +2708,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
