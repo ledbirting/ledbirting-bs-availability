@@ -130,22 +130,19 @@ html, body {
   box-sizing: border-box;
   margin: 3px;
   border: none;
-  border-radius: 5px;
-  box-shadow: 1px 1px 0 #ffffff;
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  transition: transform 0.15s ease;
   position: relative;
   z-index: 1;
   opacity: 0.9;
 }
 .cell:hover {
   transform: scale(1.05);
-  box-shadow: 1px 1px 0 #ffffff, 0 0 8px rgba(255,255,255,0.35);
 }
 .cell.cell-blink {
   animation: cell-low-fill-pulse 3.5s ease-in-out infinite;
 }
 @keyframes cell-low-fill-pulse {
-  0%, 100% { opacity: 0.65; }
+  0%, 100% { opacity: 0; }
   50% { opacity: 1; }
 }
 @media (prefers-reduced-motion: reduce) {
@@ -177,8 +174,8 @@ html, body {
 const CW = 1248, CH = 936, PAD = 8, LABEL_W = 260, HEADER_H = 64;
 const REFRESH_INTERVAL = 21 * 60 * 1000; // 21 minutes
 const WEEK_GAP = 6; // px gap after Saturday
-/** Fill rates 0–13.2% (0–0.132) get a slow pulse — data is 0..1 */
-const BLINK_FILL_MAX = 0.132;
+/** Fill rates 0–60% (0–0.6) get a slow pulse — data is 0..1 */
+const BLINK_FILL_MAX = 0.6;
 
 // Co-deployed with this page by fillrate.yml (public/fillrate-next30.json).
 const DATA_URL = new URL("fillrate-next30.json", location.href).href;
