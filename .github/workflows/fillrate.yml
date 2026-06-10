@@ -8,8 +8,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: publish-availability-site
@@ -53,18 +51,5 @@ jobs:
           else
             echo "No changes to public/fillrate-next30.json."
           fi
-
-      - name: Upload artifact for Pages
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: public
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      # Pages is published from the main branch (Settings → Pages → /public).
+      # A push above triggers GitHub's pages-build-deployment workflow.
