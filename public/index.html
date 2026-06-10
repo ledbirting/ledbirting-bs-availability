@@ -1,11 +1,10 @@
 <!DOCTYPE html>
-<html>
-
-<html>
+<html lang="is">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ledbirting Broadsign Availability</title>
+  <link rel="icon" href="data:,">
 
   <style>
     :root {
@@ -163,11 +162,8 @@ const CW = 1248, CH = 936, PAD = 8, LABEL_W = 260, HEADER_H = 64;
 const REFRESH_INTERVAL = 21 * 60 * 1000; // 21 minutes
 const WEEK_GAP = 6; // px gap after Saturday
 
-const DATA_URLS = [
-  "https://ledbirting.github.io/ledbirting-bs-availability/fillrate-next30.json",
-  "https://cdn.jsdelivr.net/gh/ledbirting/ledbirting-bs-availability/fillrate-next30.json",
-  "https://raw.githubusercontent.com/ledbirting/ledbirting-bs-availability/refs/heads/main/fillrate-next30.json"
-];
+// Co-deployed with this page by fillrate.yml (public/fillrate-next30.json).
+const DATA_URL = new URL("fillrate-next30.json", location.href).href;
 
 // ====== COLOR GRADIENT ======
 const STOPS = [
@@ -229,17 +225,10 @@ const toISO = s => {
   return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
 };
 
-async function getJSON(urls){
-  const errs=[];
-  for(const u of urls){
-    const url=`${u}?_=${Date.now()}`;
-    try{
-      const resp=await fetch(url,{cache:"no-cache",mode:"cors"});
-      if(!resp.ok) throw new Error(`HTTP ${resp.status}`);
-      return await resp.json();
-    }catch(e){ errs.push(`${u} -> ${e.message}`);}
-  }
-  throw new Error("All sources failed:\n"+errs.join("\n"));
+async function getJSON(url){
+  const resp = await fetch(`${url}?_=${Date.now()}`, { cache: "no-store" });
+  if (!resp.ok) throw new Error(`HTTP ${resp.status} for ${url}`);
+  return await resp.json();
 }
 
 // ====== NORMALIZE ======
@@ -313,7 +302,7 @@ function buildDatesHeader(dates){
 async function buildFromJSON(){
   labels.innerHTML=""; grid.innerHTML="";
   try{
-    const raw=await getJSON(DATA_URLS);
+    const raw=await getJSON(DATA_URL);
     const normalized=normalizeData(raw);
     const screens=normalized.screens;
     const dates=normalized.dates.slice(0,30);

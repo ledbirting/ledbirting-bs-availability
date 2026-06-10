@@ -1,4 +1,4 @@
-name: Build & publish fillrate JSON
+name: Build & publish availability site
 
 on:
   schedule:
@@ -31,6 +31,12 @@ jobs:
           BROADSIGN_EMAIL: ${{ secrets.BROADSIGN_EMAIL }}
           BROADSIGN_PASSWORD: ${{ secrets.BROADSIGN_PASSWORD }}
         run: node generate.mjs
+
+      - name: Verify Pages bundle
+        run: |
+          test -f public/index.html || (echo "Missing public/index.html" && exit 1)
+          test -f public/fillrate-next30.json || (echo "Missing public/fillrate-next30.json" && exit 1)
+          ls -la public/
 
       - name: Upload artifact for Pages
         uses: actions/upload-pages-artifact@v3
