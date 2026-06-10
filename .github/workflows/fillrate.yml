@@ -7,9 +7,13 @@ on:
   workflow_dispatch: {}
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
+
+concurrency:
+  group: publish-availability-site
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -37,6 +41,18 @@ jobs:
           test -f public/index.html || (echo "Missing public/index.html" && exit 1)
           test -f public/fillrate-next30.json || (echo "Missing public/fillrate-next30.json" && exit 1)
           ls -la public/
+
+      - name: Commit fill-rate snapshot to public/
+        run: |
+          if [ -n "$(git status --porcelain public/fillrate-next30.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add public/fillrate-next30.json
+            git commit -m "Update fill-rate snapshot"
+            git push
+          else
+            echo "No changes to public/fillrate-next30.json."
+          fi
 
       - name: Upload artifact for Pages
         uses: actions/upload-pages-artifact@v3
