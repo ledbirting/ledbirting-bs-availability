@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html>
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ledbirting Broadsign Availability</title>
+
+  <style>
+    :root {
+  --cw:1248px;
+  --ch:936px;
+  --pad:8px;
+  --label-w:260px;
+  --header-h:64px;
+
+  --bg:#000;
+  --fg:#fff;
+  --muted:#cfcfcf;
+  --grid-bg:#000;
+}
+
+html, body {
+  margin: 0;
+  width: var(--cw);
+  height: var(--ch);
+  overflow: hidden;
+  color: var(--fg);
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial;
+
+  /* Full background image */
+  background:
+    linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)),
+    url("https://ledbirting.is/wp-content/uploads/2025/11/BG-Availability.jpg") center/cover no-repeat;
+  background-attachment: fixed;
+}
+
+/* canvas */
+#canvas {
+  position: relative;
+  width: var(--cw);
+  height: var(--ch);
+  padding: var(--pad);
+  box-sizing: border-box;
+}
+
+/* HEADER */
+#header {
+  position: absolute;
+  left: var(--pad);
+  top: var(--pad);
+  height: var(--header-h);
+  display: grid;
+  align-items: end;
+  background: transparent;
+}
+#header .label-col { height: 100%; }
+#date-row {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  height: 100%;
+}
+#date-row .date {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--muted);
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+}
+#date-row .date span {
+  transform: rotate(-90deg);
+  transform-origin: center center;
+  white-space: nowrap;
+  line-height: 1;
+}
+
+/* BODY */
+#body {
+  position: absolute;
+  left: var(--pad);
+  top: calc(var(--pad) + var(--header-h));
+  display: grid;
+  height: calc(100% - var(--pad)*2 - var(--header-h));
+  overflow: hidden;
+}
+
+#labels {
+  display: grid;
+  align-content: start;
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  overflow: hidden;
+}
+#labels .label {
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* GRID */
+#grid {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  will-change: transform;
+  background: transparent;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Spacer columns (inserted via JS) */
+.col-gap {
+  pointer-events: none;
+}
+
+/* CELLS */
+.cell {
+  box-sizing: border-box;
+  margin: 3px;
+  border: none;
+  border-radius: 5px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  position: relative;
+  z-index: 1;
+  opacity: 0.85;
+}
+.cell:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 6px rgba(255,255,255,0.25);
+}
+
+/* Remove weekend margin hacks (we use real spacer columns in JS) */
+
+  </style>
+
+  
+</head>
+<body>
+  <div id="canvas">
+  <div id="header">
+    <div class="label-col"></div>
+    <div id="date-row"></div>
+  </div>
+
+  <div id="body">
+    <div id="labels"></div>
+    <div id="grid"></div>
+  </div>
+</div>
+
+
+  <script>
+    // ====== CONFIG ======
+const CW = 1248, CH = 936, PAD = 8, LABEL_W = 260, HEADER_H = 64;
+const REFRESH_INTERVAL = 21 * 60 * 1000; // 21 minutes
+const WEEK_GAP = 6; // px gap after Saturday
+
+const DATA_URLS = [
+  "https://ledbirting.github.io/ledbirting-bs-availability/fillrate-next30.json",
+  "https://cdn.jsdelivr.net/gh/ledbirting/ledbirting-bs-availability/fillrate-next30.json",
+  "https://raw.githubusercontent.com/ledbirting/ledbirting-bs-availability/refs/heads/main/fillrate-next30.json"
+];
+
+// ====== COLOR GRADIENT ======
+const STOPS = [
+  { stop: 0.0, color: "#00c853" }, // green start
+  { stop: 0.1, color: "#00c853" }, // flat green until ~0.2
+  { stop: 0.3, color: "#ffff00" }, // yellow mid
+  { stop: 0.75, color: "#d50000" }, // red by ~0.8
+  { stop: 1.0, color: "#d50000" }  // stay red until sold-out cutoff
+];
+
+function hexToRgb(h){ const n=parseInt(h.slice(1),16); return [n>>16 & 255, n>>8 & 255, n & 255]; }
+function rgbToHex([r,g,b]){ const n=(r<<16)|(g<<8)|b; return `#${n.toString(16).padStart(6,'0')}`; }
+function lerp(a,b,t){ return a + (b-a)*t; }
+
+function gradientFromStops(stops, steps){
+  const out = [];
+  for(let i=0;i<steps;i++){
+    const t = i/(steps-1);
+    let prev = stops[0], next = stops[stops.length-1];
+    for(let j=0;j<stops.length-1;j++){
+      if(t>=stops[j].stop && t<=stops[j+1].stop){ prev=stops[j]; next=stops[j+1]; break; }
+    }
+    const span = next.stop - prev.stop || 1;
+    const localT = (t - prev.stop)/span;
+    const a=hexToRgb(prev.color), b=hexToRgb(next.color);
+    out.push(rgbToHex([
+      Math.round(lerp(a[0],b[0],localT)),
+      Math.round(lerp(a[1],b[1],localT)),
+      Math.round(lerp(a[2],b[2],localT))
+    ]));
+  }
+  return out;
+}
+
+const COLORS = gradientFromStops(STOPS, 50);
+
+/*
+   If value >= 0.98 → pure black (sold out)
+   Otherwise → gradient color
+*/
+function colorFor(p){
+  if (p == null || Number.isNaN(p)) return "";
+  if (p >= 0.934) return "#000000"; // sold out threshold
+  const idx = Math.min(COLORS.length - 1, Math.round(p * (COLORS.length - 1)));
+  return COLORS[idx];
+}
+
+// ====== DOM HOOKS ======
+const header = document.getElementById("header");
+const dateRow = document.getElementById("date-row");
+const body = document.getElementById("body");
+const grid = document.getElementById("grid");
+const labels = document.getElementById("labels");
+
+// ====== HELPERS ======
+const toISO = s => {
+  const d = new Date(s);
+  if (isNaN(d)) return null;
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
+};
+
+async function getJSON(urls){
+  const errs=[];
+  for(const u of urls){
+    const url=`${u}?_=${Date.now()}`;
+    try{
+      const resp=await fetch(url,{cache:"no-cache",mode:"cors"});
+      if(!resp.ok) throw new Error(`HTTP ${resp.status}`);
+      return await resp.json();
+    }catch(e){ errs.push(`${u} -> ${e.message}`);}
+  }
+  throw new Error("All sources failed:\n"+errs.join("\n"));
+}
+
+// ====== NORMALIZE ======
+function normalizeData(raw){
+  if(raw && Array.isArray(raw.result)){
+    const dates=[], screens=[], map={}, seen=new Set();
+    for(const d of raw.result){
+      const iso=toISO(d.date); if(!iso) continue; dates.push(iso);
+      for(const r of d.rows||[]){
+        const name=r.du_name?.trim(); if(!name) continue;
+        if(!seen.has(name)){seen.add(name); screens.push(name);}
+        map[name]??={}; map[name][iso]=+r.fill_rate;
+      }
+    }
+    return {dates,screens,map};
+  }
+  throw new Error("Unsupported JSON shape");
+}
+
+// ====== LAYOUT ======
+function buildColumnTemplate(cellW, daysOfWeek){
+  const parts=[];
+  for(let i=0;i<daysOfWeek.length;i++){
+    parts.push(`${cellW}px`);
+    if(daysOfWeek[i]===6) parts.push(`${WEEK_GAP}px`);
+  }
+  return parts.join(" ");
+}
+function applyLayout(COLS, ROWS, daysOfWeek){
+  const availW = CW - PAD*2 - LABEL_W;
+  const availH = CH - PAD*2 - HEADER_H;
+  const cellW = Math.floor(availW / COLS);
+  const cellH = Math.floor(availH / ROWS);
+  const satCount = daysOfWeek.filter(d=>d===6).length;
+  const totalGridW = cellW*COLS + WEEK_GAP*satCount;
+  const gridH = cellH * ROWS;
+  const SHIFT_COLS = 1;
+  const SHIFT_PX = cellW * SHIFT_COLS;
+  const colTemplate = buildColumnTemplate(cellW, daysOfWeek);
+
+  header.style.gridTemplateColumns = `${LABEL_W}px ${totalGridW + SHIFT_PX}px`;
+  dateRow.style.gridTemplateColumns = colTemplate;
+  dateRow.style.width = `${totalGridW}px`;
+  dateRow.style.transform = `translateX(-${SHIFT_PX}px)`;
+  body.style.gridTemplateColumns = `${LABEL_W}px ${totalGridW + SHIFT_PX}px`;
+  grid.style.gridTemplateColumns = colTemplate;
+  grid.style.gridTemplateRows = `repeat(${ROWS}, ${cellH}px)`;
+  grid.style.width = `${totalGridW}px`;
+  grid.style.height = `${gridH}px`;
+  grid.style.transform = `translateX(-${SHIFT_PX}px)`;
+  labels.style.gridTemplateRows = `repeat(${ROWS}, ${cellH}px)`;
+  labels.style.width = `${LABEL_W}px`;
+  return {cellW,cellH,totalGridW,gridH};
+}
+
+// ====== BUILD ======
+function buildDatesHeader(dates){
+  dateRow.innerHTML="";
+  for(const iso of dates){
+    const d=new Date(iso);
+    const el=document.createElement("div");
+    el.className="date";
+    const span=document.createElement("span");
+    span.textContent=`${String(d.getDate()).padStart(2,"0")}/${String(d.getMonth()+1).padStart(2,"0")}`;
+    el.appendChild(span);
+    dateRow.appendChild(el);
+    if(d.getDay()===6){ const gap=document.createElement("div"); gap.className="col-gap"; dateRow.appendChild(gap);}
+  }
+}
+
+async function buildFromJSON(){
+  labels.innerHTML=""; grid.innerHTML="";
+  try{
+    const raw=await getJSON(DATA_URLS);
+    const normalized=normalizeData(raw);
+    const screens=normalized.screens;
+    const dates=normalized.dates.slice(0,30);
+    const daysOfWeek=dates.map(d=>new Date(d).getDay());
+
+    // calculate max visible rows
+    const availH=CH - PAD*2 - HEADER_H;
+    const cellH=Math.floor(availH / screens.length);
+    const maxRows=Math.floor(availH / cellH);
+    const visibleScreens=screens.slice(0,maxRows);
+
+    applyLayout(dates.length, visibleScreens.length, daysOfWeek);
+
+    for(const name of visibleScreens){
+      const el=document.createElement("div");
+      el.className="label";
+      el.textContent=name;
+      labels.appendChild(el);
+    }
+
+    buildDatesHeader(dates);
+
+    for(const screen of visibleScreens){
+      for(const iso of dates){
+        const d=new Date(iso);
+        const cell=document.createElement("div");
+        cell.className="cell";
+        const v=normalized.map?.[screen]?.[iso];
+        if(typeof v==="number"){
+          const val=Math.max(0,Math.min(1,v));
+          cell.style.backgroundColor=colorFor(val);
+        }
+        grid.appendChild(cell);
+        if(d.getDay()===6){
+          const gap=document.createElement("div");
+          gap.className="col-gap";
+          grid.appendChild(gap);
+        }
+      }
+    }
+  }catch(e){
+    console.error("Build failed:",e.message);
+  }
+}
+
+buildFromJSON();
+setInterval(buildFromJSON, REFRESH_INTERVAL);
+
+  </script>
+</body>
+</html>
