@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T13:21:24.896Z",
+  "generated_at": "2026-06-11T16:26:54.552Z",
   "scope": {
     "report_start_date": "2026-06-11",
     "report_end_date": "2099-12-31",
@@ -18,7 +18,7 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 641,
+    "items_seen": 642,
     "unique_items": 379,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
@@ -852,18 +852,18 @@
     {
       "campaign_name": "Colas",
       "line_item_name": "Colas",
-      "price": 138000,
-      "start_date": "2026-06-12",
-      "end_date": "2026-06-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Colas",
-      "line_item_name": "Colas",
       "price": 92000,
       "start_date": "2026-06-12",
       "end_date": "2026-07-14",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Colas",
+      "line_item_name": "Colas",
+      "price": 138000,
+      "start_date": "2026-06-12",
+      "end_date": "2026-06-26",
+      "seen_count": 1
     },
     {
       "campaign_name": "Colas",
@@ -1139,6 +1139,14 @@
     },
     {
       "campaign_name": "Forlagið / HN - 15. júní til 31. ágúst",
+      "line_item_name": "Forlagið - Grandi - 17. júní til 21.ágúst - mið og fös - víkjandi",
+      "price": 150000,
+      "start_date": "2026-06-17",
+      "end_date": "2026-08-21",
+      "seen_count": 3
+    },
+    {
+      "campaign_name": "Forlagið / HN - 15. júní til 31. ágúst",
       "line_item_name": "Forlagið - Grandi - 19. júní til 21. ágúst  / Mán, Þri, Fim, Lau",
       "price": 270000,
       "start_date": "2026-06-19",
@@ -1247,30 +1255,6 @@
       "price": 56000,
       "start_date": "2026-06-22",
       "end_date": "2026-06-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Grandi mathöll",
-      "line_item_name": "Grandi mathöll 1-31 júlí",
-      "price": 165000,
-      "start_date": "2026-07-01",
-      "end_date": "2026-07-31",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Grandi mathöll",
-      "line_item_name": "Grandi mathöll 15-16 júní",
-      "price": 15000,
-      "start_date": "2026-06-15",
-      "end_date": "2026-06-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Grandi mathöll",
-      "line_item_name": "Grandi mathöll 19-30 júní",
-      "price": 90000,
-      "start_date": "2026-06-19",
-      "end_date": "2026-06-30",
       "seen_count": 1
     },
     {
@@ -2092,7 +2076,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 320000,
+      "price": 184800,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
       "seen_count": 1
@@ -2100,7 +2084,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 229800,
+      "price": 320000,
       "start_date": "2026-06-17",
       "end_date": "2026-06-30",
       "seen_count": 1
@@ -2362,6 +2346,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Nói Siríus / Digido - 19. til 20. júní",
+      "line_item_name": "Nói Siríus / Digido - 19. júní",
+      "price": 72000,
+      "start_date": "2026-06-19",
+      "end_date": "2026-06-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nói Siríus / Digido - 19. til 20. júní",
+      "line_item_name": "Nói Siríus / Digido - 20. júní",
+      "price": 48000,
+      "start_date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Nova. Glerártorg árssamningu.",
       "line_item_name": "Nova. Glerártorg árssamningu.",
       "price": 2340000,
@@ -2371,7 +2371,7 @@
     },
     {
       "campaign_name": "Optical - Hæðasmári",
-      "line_item_name": "Optical - Hæðasmári - 11 júní - 11 júlí",
+      "line_item_name": "11 júní - 11 júlí",
       "price": 294500,
       "start_date": "2026-06-11",
       "end_date": "2026-07-11",
@@ -2379,7 +2379,7 @@
     },
     {
       "campaign_name": "Optical - Hæðasmári",
-      "line_item_name": "Optical - Hæðasmári - 12 ágúst - 11 sept",
+      "line_item_name": "12 ágúst - 11 sept",
       "price": 294500,
       "start_date": "2026-08-12",
       "end_date": "2026-09-11",
@@ -2387,7 +2387,7 @@
     },
     {
       "campaign_name": "Optical - Hæðasmári",
-      "line_item_name": "Optical - Hæðasmári - 12-30 sept",
+      "line_item_name": "12-30 sept",
       "price": 180500,
       "start_date": "2026-09-12",
       "end_date": "2026-09-30",
