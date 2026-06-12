@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-11T21:46:27.533Z",
+  "generated_at": "2026-06-12T00:54:12.087Z",
   "scope": {
-    "report_start_date": "2026-06-11",
+    "report_start_date": "2026-06-12",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 642,
-    "unique_items": 379,
+    "items_seen": 636,
+    "unique_items": 376,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -63,7 +63,7 @@
       "price": 142200,
       "start_date": "2026-09-04",
       "end_date": "2026-09-09",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Advania / Datera - Haustráðstefna 2026",
@@ -160,14 +160,6 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Askja - Mercedes Benz / 9. til 12. júní 2026",
-      "line_item_name": "Askja - Mercedes Benz / 8. til 11. júní",
-      "price": 52000,
-      "start_date": "2026-06-08",
-      "end_date": "2026-06-11",
-      "seen_count": 1
     },
     {
       "campaign_name": "Atlantsolía / HN - júní 2026",
@@ -747,14 +739,6 @@
     },
     {
       "campaign_name": "Byl-L inneign.",
-      "line_item_name": "Byl-L inneign.09-11  júní",
-      "price": 141900,
-      "start_date": "2026-06-09",
-      "end_date": "2026-06-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Byl-L inneign.",
       "line_item_name": "Byl-L inneign.12-13  júní",
       "price": 10000,
       "start_date": "2026-06-12",
@@ -844,14 +828,6 @@
     {
       "campaign_name": "Colas",
       "line_item_name": "Colas",
-      "price": 39000,
-      "start_date": "2026-06-11",
-      "end_date": "2026-06-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Colas",
-      "line_item_name": "Colas",
       "price": 92000,
       "start_date": "2026-06-12",
       "end_date": "2026-07-14",
@@ -919,7 +895,7 @@
       "price": 13000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-15",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "ELKO árssamningur",
@@ -1791,7 +1767,7 @@
       "price": 39000,
       "start_date": "2026-07-06",
       "end_date": "2026-07-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Ísbíllinn - Júlí",
@@ -1807,7 +1783,7 @@
       "price": 17400,
       "start_date": "2026-07-09",
       "end_date": "2026-07-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
@@ -2007,7 +1983,7 @@
       "price": 39000,
       "start_date": "2027-01-07",
       "end_date": "2027-01-09",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2268,18 +2244,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 468000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-09-30",
-      "seen_count": 4
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 143000,
       "start_date": "2026-07-05",
       "end_date": "2026-07-31",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 468000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-09-30",
+      "seen_count": 4
     },
     {
       "campaign_name": "MS / Ennemm - Akureyri - 1. til 4. júlí 2026",
@@ -2375,7 +2351,7 @@
       "price": 294500,
       "start_date": "2026-06-11",
       "end_date": "2026-07-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Optical - Hæðasmári",
@@ -2767,7 +2743,7 @@
       "price": 91000,
       "start_date": "2026-08-10",
       "end_date": "2026-08-23",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Sérefni - langtímasamningur Glerártorgi 2026",
