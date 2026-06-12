@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T12:48:18.438Z",
+  "generated_at": "2026-06-12T14:12:14.280Z",
   "result": [
     {
       "date": "2026-06-12",
@@ -62,8 +62,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 5
         },
         {
           "id": 321889,
@@ -158,14 +158,14 @@
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.9999999999999999,
-          "rows_seen": 10
+          "fill_rate": 0.9333333333333332,
+          "rows_seen": 9
         },
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.6294444666666666,
-          "rows_seen": 11
+          "fill_rate": 0.7627778,
+          "rows_seen": 13
         },
         {
           "id": 408992,
@@ -320,8 +320,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 4
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 5
         },
         {
           "id": 321889,
@@ -422,14 +422,14 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.6683333333333333,
-          "rows_seen": 11
+          "fill_rate": 0.9349999999999999,
+          "rows_seen": 15
         },
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.8666666666666666,
-          "rows_seen": 13
+          "fill_rate": 0.9333333333333332,
+          "rows_seen": 14
         },
         {
           "id": 480851,
@@ -506,14 +506,14 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.835,
-          "rows_seen": 13
+          "fill_rate": 0.9016666666666666,
+          "rows_seen": 14
         },
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.835,
-          "rows_seen": 12
+          "fill_rate": 0.9016666666666666,
+          "rows_seen": 13
         }
       ]
     },
@@ -572,14 +572,14 @@
         {
           "id": 441742,
           "du_name": "Einhella",
-          "fill_rate": 0.16833333333333333,
-          "rows_seen": 3
+          "fill_rate": 0.23500000000000001,
+          "rows_seen": 4
         },
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.2,
+          "rows_seen": 3
         },
         {
           "id": 321889,
@@ -674,14 +674,14 @@
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.6666666666666666,
-          "rows_seen": 5
+          "fill_rate": 0.6,
+          "rows_seen": 4
         },
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.5349999999999999,
-          "rows_seen": 9
+          "fill_rate": 0.6016666666666667,
+          "rows_seen": 10
         },
         {
           "id": 408992,
@@ -932,14 +932,14 @@
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.9333333333333332,
-          "rows_seen": 9
+          "fill_rate": 0.8666666666666666,
+          "rows_seen": 8
         },
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.6683333333333333,
-          "rows_seen": 11
+          "fill_rate": 0.735,
+          "rows_seen": 12
         },
         {
           "id": 408992,
@@ -1094,8 +1094,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 4
         },
         {
           "id": 321889,
@@ -1184,20 +1184,20 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.7405555555555555,
-          "rows_seen": 13
+          "fill_rate": 0.8072222222222222,
+          "rows_seen": 14
         },
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.8666666666666666,
-          "rows_seen": 8
+          "fill_rate": 0.7333333333333333,
+          "rows_seen": 6
         },
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.5349999999999999,
-          "rows_seen": 9
+          "fill_rate": 0.6016666666666667,
+          "rows_seen": 10
         },
         {
           "id": 408992,
@@ -1442,20 +1442,20 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.835,
-          "rows_seen": 14
+          "fill_rate": 0.7683333333333333,
+          "rows_seen": 13
         },
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.8666666666666666,
-          "rows_seen": 8
+          "fill_rate": 0.7999999999999999,
+          "rows_seen": 7
         },
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.8016666666666666,
-          "rows_seen": 12
+          "fill_rate": 0.8683333333333333,
+          "rows_seen": 13
         },
         {
           "id": 408992,
@@ -1706,14 +1706,14 @@
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.8666666666666666,
-          "rows_seen": 8
+          "fill_rate": 0.7999999999999999,
+          "rows_seen": 7
         },
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.6683333333333333,
-          "rows_seen": 10
+          "fill_rate": 0.735,
+          "rows_seen": 11
         },
         {
           "id": 408992,
@@ -1964,14 +1964,14 @@
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.7333333333333333,
-          "rows_seen": 6
+          "fill_rate": 0.6666666666666666,
+          "rows_seen": 5
         },
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.6683333333333333,
-          "rows_seen": 10
+          "fill_rate": 0.735,
+          "rows_seen": 11
         },
         {
           "id": 408992,
@@ -2222,14 +2222,14 @@
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.9333333333333332,
-          "rows_seen": 9
+          "fill_rate": 0.8666666666666666,
+          "rows_seen": 8
         },
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.735,
-          "rows_seen": 11
+          "fill_rate": 0.8016666666666666,
+          "rows_seen": 12
         },
         {
           "id": 408992,
