@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T10:32:30.317Z",
+  "generated_at": "2026-06-12T13:12:07.651Z",
   "scope": {
     "report_start_date": "2026-06-12",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 637,
-    "unique_items": 377,
+    "items_seen": 644,
+    "unique_items": 381,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -111,6 +111,22 @@
       "price": 104000,
       "start_date": "2026-06-17",
       "end_date": "2026-06-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Artasan - Otrivin - Hæðasmári - Gunnar",
+      "line_item_name": "Artasan - Otrivin - Hæðasmári - Gunnar",
+      "price": 165000,
+      "start_date": "2026-06-13",
+      "end_date": "2026-08-11",
+      "seen_count": 4
+    },
+    {
+      "campaign_name": "Artasan - Otrivin - Hæðasmári - Gunnar",
+      "line_item_name": "Artasan - Otrivin - Hæðasmári - Gunnar",
+      "price": 110000,
+      "start_date": "2026-08-12",
+      "end_date": "2026-08-31",
       "seen_count": 1
     },
     {
@@ -836,18 +852,18 @@
     {
       "campaign_name": "Colas",
       "line_item_name": "Colas",
-      "price": 138000,
-      "start_date": "2026-06-12",
-      "end_date": "2026-06-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Colas",
-      "line_item_name": "Colas",
       "price": 92000,
       "start_date": "2026-06-12",
       "end_date": "2026-07-14",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Colas",
+      "line_item_name": "Colas",
+      "price": 138000,
+      "start_date": "2026-06-12",
+      "end_date": "2026-06-26",
+      "seen_count": 1
     },
     {
       "campaign_name": "Colas",
@@ -1244,7 +1260,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1252,7 +1268,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2043,7 +2059,7 @@
     },
     {
       "campaign_name": "Lindex - S4S - v. opnunar í Smáralind / Sahara - júní 2026",
-      "line_item_name": "13 juni",
+      "line_item_name": "Lindex S4S - 13 juni",
       "price": 40800,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
@@ -2059,17 +2075,33 @@
     },
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
-      "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
+      "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
       "price": 320000,
-      "start_date": "2026-06-17",
-      "end_date": "2026-06-30",
+      "start_date": "2026-06-15",
+      "end_date": "2026-06-28",
       "seen_count": 1
     },
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
-      "line_item_name": "Lindex S4S / Sahara - 17. til 30. júní",
-      "price": 184800,
-      "start_date": "2026-06-17",
+      "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
+      "price": 214800,
+      "start_date": "2026-06-15",
+      "end_date": "2026-06-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lindex - S4S / Sahara - landsbyggðin júní 2026",
+      "line_item_name": "Lindex.is - S4S / Sahara landsbyggðin - júní - GLER2, VESTM",
+      "price": 37500,
+      "start_date": "2026-06-12",
+      "end_date": "2026-06-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lindex - S4S / Sahara - landsbyggðin júní 2026",
+      "line_item_name": "Lindex.is - S4S / Sahara landsbyggðin - júní - GLER2, VESTM",
+      "price": 62500,
+      "start_date": "2026-06-21",
       "end_date": "2026-06-30",
       "seen_count": 1
     },
@@ -2540,17 +2572,17 @@
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
-      "price": 30000,
+      "price": 23200,
       "start_date": "2026-06-01",
-      "end_date": "2026-06-15",
+      "end_date": "2026-06-12",
       "seen_count": 1
     },
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
-      "price": 23200,
+      "price": 30000,
       "start_date": "2026-06-01",
-      "end_date": "2026-06-12",
+      "end_date": "2026-06-15",
       "seen_count": 1
     },
     {
