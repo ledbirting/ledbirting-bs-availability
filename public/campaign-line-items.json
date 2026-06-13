@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-12T21:35:24.519Z",
+  "generated_at": "2026-06-13T00:52:58.208Z",
   "scope": {
-    "report_start_date": "2026-06-12",
+    "report_start_date": "2026-06-13",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 644,
-    "unique_items": 381,
+    "items_seen": 633,
+    "unique_items": 371,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -119,7 +119,7 @@
       "price": 165000,
       "start_date": "2026-06-13",
       "end_date": "2026-08-11",
-      "seen_count": 4
+      "seen_count": 2
     },
     {
       "campaign_name": "Artasan - Otrivin - Hæðasmári - Gunnar",
@@ -635,14 +635,6 @@
     },
     {
       "campaign_name": "Bónus / HN - júní 2026",
-      "line_item_name": "Bónus 12. júní - Fös / 10x1",
-      "price": 62500,
-      "start_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - júní 2026",
       "line_item_name": "Bónus 15. júní - Mán / 10x1",
       "price": 62500,
       "start_date": "2026-06-15",
@@ -752,14 +744,6 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Byl-L inneign.",
-      "line_item_name": "Byl-L inneign 12  júní",
-      "price": 39800,
-      "start_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "seen_count": 1
     },
     {
       "campaign_name": "Byl-L inneign.",
@@ -893,14 +877,6 @@
       "campaign_name": "Dominos júní",
       "line_item_name": "Dominos júní Megavika.",
       "price": 238000,
-      "start_date": "2026-06-08",
-      "end_date": "2026-06-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Dominos júní",
-      "line_item_name": "Dominos júní Megavika.",
-      "price": 124800,
       "start_date": "2026-06-08",
       "end_date": "2026-06-14",
       "seen_count": 1
@@ -1260,7 +1236,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1268,7 +1244,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1303,14 +1279,6 @@
       "price": 30000,
       "start_date": "2026-06-01",
       "end_date": "2026-06-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "ICEBOX - 2026",
-      "line_item_name": "ICEBOX - 2026",
-      "price": 348000,
-      "start_date": "2026-06-02",
-      "end_date": "2026-06-12",
       "seen_count": 1
     },
     {
@@ -1619,14 +1587,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 12. júní / 5x1",
-      "price": 30000,
-      "start_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 13. júní / 4x1",
       "price": 26000,
       "start_date": "2026-06-13",
@@ -1778,14 +1738,6 @@
       "seen_count": 7
     },
     {
-      "campaign_name": "ISAVIA - Keflavíkurflugvöllur / Datera - júní 2026",
-      "line_item_name": "Keflavíkurflugvöllur / 12. júní",
-      "price": 25500,
-      "start_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Ísbíllinn - Júlí",
       "line_item_name": "Glerártorg/Akureyri",
       "price": 39000,
@@ -1927,7 +1879,7 @@
       "price": 26000,
       "start_date": "2026-07-12",
       "end_date": "2026-07-13",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2203,14 +2155,6 @@
     },
     {
       "campaign_name": "Löður - Júní 2026",
-      "line_item_name": "V24",
-      "price": 40000,
-      "start_date": "2026-06-07",
-      "end_date": "2026-06-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Löður - Júní 2026",
       "line_item_name": "V25",
       "price": 52000,
       "start_date": "2026-06-14",
@@ -2284,18 +2228,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 143000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-31",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 468000,
       "start_date": "2026-07-05",
       "end_date": "2026-09-30",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 143000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-31",
+      "seen_count": 2
     },
     {
       "campaign_name": "MS / Ennemm - Akureyri - 1. til 4. júlí 2026",
@@ -2572,14 +2516,6 @@
     {
       "campaign_name": "pris júni",
       "line_item_name": "pris júni",
-      "price": 23200,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "pris júni",
-      "line_item_name": "pris júni",
       "price": 30000,
       "start_date": "2026-06-01",
       "end_date": "2026-06-15",
@@ -2843,14 +2779,6 @@
     },
     {
       "campaign_name": "Skanva vika 24 og 25",
-      "line_item_name": "Skanva vika 08/110/12 júní. BT-BH-EH-GRI-HÖFT.-SFS.",
-      "price": 114900,
-      "start_date": "2026-06-07",
-      "end_date": "2026-06-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Skanva vika 24 og 25",
       "line_item_name": "Skanva vika 14/16/18/20 júní. AK-HÖFT-HSMI-KAPLA-GB-KEV-VLV",
       "price": 165200,
       "start_date": "2026-06-14",
@@ -2863,14 +2791,6 @@
       "price": 114900,
       "start_date": "2026-06-14",
       "end_date": "2026-06-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sólar",
-      "line_item_name": "Sólar júní",
-      "price": 101400,
-      "start_date": "2026-06-07",
-      "end_date": "2026-06-13",
       "seen_count": 1
     },
     {
@@ -2892,7 +2812,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2900,7 +2820,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
