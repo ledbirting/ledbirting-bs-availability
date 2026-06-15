@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T13:46:09.910Z",
+  "generated_at": "2026-06-15T16:10:01.481Z",
   "result": [
     {
       "date": "2026-06-15",
@@ -92,8 +92,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.9053703999999999,
-          "rows_seen": 15
+          "fill_rate": 0.8387037333333333,
+          "rows_seen": 14
         },
         {
           "id": 237892,
@@ -350,8 +350,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.9349999999999999,
-          "rows_seen": 15
+          "fill_rate": 0.8683333333333333,
+          "rows_seen": 14
         },
         {
           "id": 237892,
@@ -608,8 +608,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 1,
-          "rows_seen": 15
+          "fill_rate": 0.9350603999999999,
+          "rows_seen": 14
         },
         {
           "id": 237892,
@@ -1040,8 +1040,8 @@
         {
           "id": 237870,
           "du_name": "Akureyri #1",
-          "fill_rate": 0.9016666666666666,
-          "rows_seen": 15
+          "fill_rate": 0.835,
+          "rows_seen": 14
         },
         {
           "id": 338148,
@@ -1058,8 +1058,8 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.735,
-          "rows_seen": 12
+          "fill_rate": 0.6683333333333333,
+          "rows_seen": 11
         },
         {
           "id": 237865,
@@ -1076,8 +1076,8 @@
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.8999999999999999,
-          "rows_seen": 14
+          "fill_rate": 0.8333333333333333,
+          "rows_seen": 13
         },
         {
           "id": 237866,
@@ -1094,8 +1094,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 4
+          "fill_rate": 0.2,
+          "rows_seen": 3
         },
         {
           "id": 321889,
@@ -1124,8 +1124,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.9349999999999999,
-          "rows_seen": 14
+          "fill_rate": 0.8016666666666666,
+          "rows_seen": 12
         },
         {
           "id": 237892,
@@ -1184,8 +1184,8 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.7016666666666667,
-          "rows_seen": 12
+          "fill_rate": 0.635,
+          "rows_seen": 11
         },
         {
           "id": 237864,
@@ -1202,8 +1202,8 @@
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.6666666666666666,
-          "rows_seen": 10
+          "fill_rate": 0.6,
+          "rows_seen": 9
         },
         {
           "id": 480851,
@@ -1250,8 +1250,8 @@
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.8016666666666666,
-          "rows_seen": 13
+          "fill_rate": 0.735,
+          "rows_seen": 12
         },
         {
           "id": 445022,
@@ -1274,20 +1274,20 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.3333333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 4
         },
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.9683333333333333,
-          "rows_seen": 14
+          "fill_rate": 0.9016666666666666,
+          "rows_seen": 13
         },
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.8016666666666666,
-          "rows_seen": 13
+          "fill_rate": 0.735,
+          "rows_seen": 12
         }
       ]
     },
@@ -1298,8 +1298,8 @@
         {
           "id": 237870,
           "du_name": "Akureyri #1",
-          "fill_rate": 0.789,
-          "rows_seen": 14
+          "fill_rate": 0.735,
+          "rows_seen": 13
         },
         {
           "id": 338148,
@@ -1316,8 +1316,8 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.6260370666666666,
-          "rows_seen": 11
+          "fill_rate": 0.5720370666666666,
+          "rows_seen": 10
         },
         {
           "id": 237865,
@@ -1334,8 +1334,8 @@
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.5539999999999999,
-          "rows_seen": 9
+          "fill_rate": 0.49999999999999994,
+          "rows_seen": 8
         },
         {
           "id": 237866,
@@ -1352,8 +1352,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.32066666666666666,
-          "rows_seen": 5
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 4
         },
         {
           "id": 321889,
@@ -1382,8 +1382,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.9593704,
-          "rows_seen": 15
+          "fill_rate": 0.8387037333333333,
+          "rows_seen": 13
         },
         {
           "id": 237892,
@@ -1442,8 +1442,8 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.5260370666666666,
-          "rows_seen": 10
+          "fill_rate": 0.47203706666666667,
+          "rows_seen": 9
         },
         {
           "id": 237864,
@@ -1460,8 +1460,8 @@
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.7873333333333333,
-          "rows_seen": 12
+          "fill_rate": 0.7333333333333333,
+          "rows_seen": 11
         },
         {
           "id": 480851,
@@ -1502,8 +1502,8 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.789,
-          "rows_seen": 13
+          "fill_rate": 0.735,
+          "rows_seen": 12
         },
         {
           "id": 237869,
@@ -1532,14 +1532,14 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.5206666666666666,
-          "rows_seen": 8
+          "fill_rate": 0.4666666666666666,
+          "rows_seen": 7
         },
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.9260370666666667,
-          "rows_seen": 15
+          "fill_rate": 0.8720370666666667,
+          "rows_seen": 14
         },
         {
           "id": 237863,
@@ -1898,8 +1898,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.6127778,
-          "rows_seen": 10
+          "fill_rate": 0.5461111333333333,
+          "rows_seen": 9
         },
         {
           "id": 237892,
@@ -2156,8 +2156,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.9164815333333333,
-          "rows_seen": 15
+          "fill_rate": 0.8498148666666666,
+          "rows_seen": 14
         },
         {
           "id": 237892,
@@ -2414,8 +2414,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.9461111333333333,
-          "rows_seen": 14
+          "fill_rate": 0.8794444666666666,
+          "rows_seen": 13
         },
         {
           "id": 237892,
@@ -2672,8 +2672,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.9164815333333333,
-          "rows_seen": 14
+          "fill_rate": 0.8498148666666666,
+          "rows_seen": 13
         },
         {
           "id": 237892,
@@ -2930,8 +2930,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.9461111333333333,
-          "rows_seen": 14
+          "fill_rate": 0.8794444666666666,
+          "rows_seen": 13
         },
         {
           "id": 237892,
@@ -3188,8 +3188,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.7164815333333333,
-          "rows_seen": 11
+          "fill_rate": 0.6498148666666667,
+          "rows_seen": 10
         },
         {
           "id": 237892,
@@ -3704,8 +3704,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.9016666666666666,
-          "rows_seen": 14
+          "fill_rate": 0.835,
+          "rows_seen": 13
         },
         {
           "id": 237892,
@@ -3962,8 +3962,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.6196154,
-          "rows_seen": 10
+          "fill_rate": 0.5529487333333333,
+          "rows_seen": 9
         },
         {
           "id": 237892,
@@ -4220,8 +4220,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.7016666666666667,
-          "rows_seen": 10
+          "fill_rate": 0.635,
+          "rows_seen": 9
         },
         {
           "id": 237892,
@@ -4478,8 +4478,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.7683333333333333,
-          "rows_seen": 11
+          "fill_rate": 0.7016666666666667,
+          "rows_seen": 10
         },
         {
           "id": 237892,
@@ -4736,8 +4736,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.9683333333333333,
-          "rows_seen": 14
+          "fill_rate": 0.9016666666666666,
+          "rows_seen": 13
         },
         {
           "id": 237892,
@@ -4994,8 +4994,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.635,
-          "rows_seen": 9
+          "fill_rate": 0.5683333333333334,
+          "rows_seen": 8
         },
         {
           "id": 237892,
@@ -5510,8 +5510,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.43499999999999994,
-          "rows_seen": 7
+          "fill_rate": 0.3683333333333333,
+          "rows_seen": 6
         },
         {
           "id": 237892,
@@ -5768,8 +5768,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.5683333333333334,
-          "rows_seen": 9
+          "fill_rate": 0.5016666666666666,
+          "rows_seen": 8
         },
         {
           "id": 237892,
@@ -6026,8 +6026,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.5016666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.43499999999999994,
+          "rows_seen": 6
         },
         {
           "id": 237892,
@@ -6284,8 +6284,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.9016666666666666,
-          "rows_seen": 13
+          "fill_rate": 0.835,
+          "rows_seen": 12
         },
         {
           "id": 237892,
@@ -6542,8 +6542,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.7016666666666667,
-          "rows_seen": 10
+          "fill_rate": 0.635,
+          "rows_seen": 9
         },
         {
           "id": 237892,
@@ -6800,8 +6800,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.635,
-          "rows_seen": 9
+          "fill_rate": 0.5683333333333334,
+          "rows_seen": 8
         },
         {
           "id": 237892,
@@ -7316,8 +7316,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.30166666666666664,
-          "rows_seen": 5
+          "fill_rate": 0.23500000000000001,
+          "rows_seen": 4
         },
         {
           "id": 237892,
@@ -7574,8 +7574,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.635,
-          "rows_seen": 10
+          "fill_rate": 0.5683333333333334,
+          "rows_seen": 9
         },
         {
           "id": 237892,
