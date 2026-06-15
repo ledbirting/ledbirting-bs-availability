@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-14T21:30:13.554Z",
+  "generated_at": "2026-06-15T00:54:28.322Z",
   "scope": {
-    "report_start_date": "2026-06-14",
+    "report_start_date": "2026-06-15",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 618,
-    "unique_items": 358,
+    "items_seen": 611,
+    "unique_items": 353,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -443,14 +443,6 @@
     },
     {
       "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir KA. 14 júní",
-      "price": 6500,
-      "start_date": "2026-06-14",
-      "end_date": "2026-06-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
       "line_item_name": "Heimaleikir KA. 22 ágúst",
       "price": 6500,
       "start_date": "2026-08-22",
@@ -527,14 +519,6 @@
       "price": 6500,
       "start_date": "2026-07-18",
       "end_date": "2026-07-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir Þór 28 júní",
-      "price": 6500,
-      "start_date": "2026-06-14",
-      "end_date": "2026-06-14",
       "seen_count": 1
     },
     {
@@ -815,7 +799,7 @@
       "price": 92000,
       "start_date": "2026-06-12",
       "end_date": "2026-07-14",
-      "seen_count": 4
+      "seen_count": 3
     },
     {
       "campaign_name": "Colas",
@@ -847,14 +831,6 @@
       "price": 2169600,
       "start_date": "2026-08-24",
       "end_date": "2026-08-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Dominos júní",
-      "line_item_name": "Dominos júní Megavika.",
-      "price": 238000,
-      "start_date": "2026-06-08",
-      "end_date": "2026-06-14",
       "seen_count": 1
     },
     {
@@ -1031,7 +1007,7 @@
       "price": 82500,
       "start_date": "2026-07-08",
       "end_date": "2026-07-14",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Flugrútan sumar.",
@@ -1547,14 +1523,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 14. júní / 4x1",
-      "price": 26000,
-      "start_date": "2026-06-14",
-      "end_date": "2026-06-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 15. júní / 4x1",
       "price": 25500,
       "start_date": "2026-06-15",
@@ -1823,7 +1791,7 @@
       "price": 26000,
       "start_date": "2026-10-11",
       "end_date": "2026-10-12",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1959,14 +1927,6 @@
       "price": 372000,
       "start_date": "2026-06-06",
       "end_date": "2026-06-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lindex - S4S - v. opnunar í Smáralind / Sahara - júní 2026",
-      "line_item_name": "Lindex S4S / Sahara / sun, þri, fim, fös",
-      "price": 137200,
-      "start_date": "2026-06-08",
-      "end_date": "2026-06-14",
       "seen_count": 1
     },
     {
@@ -2295,7 +2255,7 @@
       "price": 180500,
       "start_date": "2026-09-12",
       "end_date": "2026-09-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Optical - Hæðasmári",
