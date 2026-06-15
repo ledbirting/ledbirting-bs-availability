@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T08:03:07.066Z",
+  "generated_at": "2026-06-15T11:05:48.646Z",
   "scope": {
     "report_start_date": "2026-06-15",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 611,
-    "unique_items": 353,
+    "items_seen": 615,
+    "unique_items": 355,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1188,7 +1188,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1196,7 +1196,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1898,6 +1898,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "KFC júlí",
+      "line_item_name": "KFC júlí BH1-EH-GRI-HSMI-HB2-KAPLA1-GB-SFS1-VLV1",
+      "price": 281500,
+      "start_date": "2026-07-08",
+      "end_date": "2026-07-17",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "KFC júlí",
+      "line_item_name": "KFC júlí BT-BH2-HFT-HSMI-HB1-KAPLA2KEF-SMT-VLV",
+      "price": 285500,
+      "start_date": "2026-07-08",
+      "end_date": "2026-07-17",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Kraftur Glerártorg 17-21 júní",
       "line_item_name": "Kraftur Glerártorg 17-21 júní",
       "price": 65000,
@@ -1932,7 +1948,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 320000,
+      "price": 214800,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
@@ -1940,7 +1956,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 214800,
+      "price": 320000,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
