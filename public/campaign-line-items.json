@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-15T21:52:43.589Z",
+  "generated_at": "2026-06-16T00:59:28.728Z",
   "scope": {
-    "report_start_date": "2026-06-15",
+    "report_start_date": "2026-06-16",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 609,
-    "unique_items": 351,
+    "items_seen": 600,
+    "unique_items": 342,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -171,14 +171,6 @@
     },
     {
       "campaign_name": "Atlantsolía / HN - júní 2026",
-      "line_item_name": "Atlantsolía / 15. júní / 3x1",
-      "price": 21500,
-      "start_date": "2026-06-15",
-      "end_date": "2026-06-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Atlantsolía / HN - júní 2026",
       "line_item_name": "Atlantsolía / 16. júní / 2x1",
       "price": 14000,
       "start_date": "2026-06-16",
@@ -280,14 +272,6 @@
       "start_date": "2026-03-01",
       "end_date": "2027-12-31",
       "seen_count": 18
-    },
-    {
-      "campaign_name": "Bestun- iceland eclipse",
-      "line_item_name": "Bestun- iceland eclipse",
-      "price": 22500,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-15",
-      "seen_count": 1
     },
     {
       "campaign_name": "Bestun-22 ágúst",
@@ -611,14 +595,6 @@
     },
     {
       "campaign_name": "Bónus / HN - júní 2026",
-      "line_item_name": "Bónus 15. júní - Mán / 10x1",
-      "price": 62500,
-      "start_date": "2026-06-15",
-      "end_date": "2026-06-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - júní 2026",
       "line_item_name": "Bónus 17. júní - Mið / 10x1",
       "price": 58500,
       "start_date": "2026-06-17",
@@ -748,14 +724,6 @@
     {
       "campaign_name": "CCEP HM Sumar.",
       "line_item_name": "CCEP HM Sumar.",
-      "price": 165000,
-      "start_date": "2026-06-10",
-      "end_date": "2026-06-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "CCEP HM Sumar.",
-      "line_item_name": "CCEP HM Sumar.",
       "price": 207200,
       "start_date": "2026-06-17",
       "end_date": "2026-06-23",
@@ -791,15 +759,7 @@
       "price": 97500,
       "start_date": "2026-07-15",
       "end_date": "2026-07-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Colas",
-      "line_item_name": "Colas",
-      "price": 138000,
-      "start_date": "2026-06-12",
-      "end_date": "2026-06-26",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Colas",
@@ -808,6 +768,14 @@
       "start_date": "2026-06-12",
       "end_date": "2026-07-14",
       "seen_count": 3
+    },
+    {
+      "campaign_name": "Colas",
+      "line_item_name": "Colas",
+      "price": 138000,
+      "start_date": "2026-06-12",
+      "end_date": "2026-06-26",
+      "seen_count": 1
     },
     {
       "campaign_name": "Colas",
@@ -967,7 +935,7 @@
       "price": 55000,
       "start_date": "2026-07-15",
       "end_date": "2026-07-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Flugrútan sumar.",
@@ -1099,14 +1067,6 @@
     },
     {
       "campaign_name": "Gæludýr / Hvíta húsið - júní 2026",
-      "line_item_name": "Gæludýr / 11. til 15. júní / Mán, Fim, Lau / GRA",
-      "price": 22500,
-      "start_date": "2026-06-11",
-      "end_date": "2026-06-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Gæludýr / Hvíta húsið - júní 2026",
       "line_item_name": "Gæludýr / 19. til 30. júní / Þri, Fim, Lau / GRA",
       "price": 37500,
       "start_date": "2026-06-19",
@@ -1164,7 +1124,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 65000,
+      "price": 84500,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1172,7 +1132,7 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
+      "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -1499,14 +1459,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 15. júní / 4x1",
-      "price": 25500,
-      "start_date": "2026-06-15",
-      "end_date": "2026-06-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 16. júní / 4x1",
       "price": 37500,
       "start_date": "2026-06-16",
@@ -1791,15 +1743,7 @@
       "price": 26000,
       "start_date": "2026-09-13",
       "end_date": "2026-09-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
-      "line_item_name": "Kavita - Samningur - EGH/KAP og AK/GLER - 14-15.júní",
-      "price": 26000,
-      "start_date": "2026-06-14",
-      "end_date": "2026-06-15",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2116,18 +2060,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 143000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-31",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 468000,
       "start_date": "2026-07-05",
       "end_date": "2026-09-30",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 143000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-31",
+      "seen_count": 2
     },
     {
       "campaign_name": "MS / Ennemm - Akureyri - 1. til 4. júlí 2026",
@@ -2315,14 +2259,6 @@
     },
     {
       "campaign_name": "Pipar Orkusalan 15-30 júní",
-      "line_item_name": "Pipar Orkusalan 15 júní",
-      "price": 49800,
-      "start_date": "2026-06-15",
-      "end_date": "2026-06-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Pipar Orkusalan 15-30 júní",
       "line_item_name": "Pipar Orkusalan 16 júní",
       "price": 42300,
       "start_date": "2026-06-16",
@@ -2367,14 +2303,6 @@
       "price": 84600,
       "start_date": "2026-06-29",
       "end_date": "2026-06-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "pris júni",
-      "line_item_name": "pris juni",
-      "price": 75000,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-15",
       "seen_count": 1
     },
     {
@@ -2679,7 +2607,7 @@
       "price": 84500,
       "start_date": "2026-07-17",
       "end_date": "2026-08-14",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Svens 17 júlí-14 ágúst",
@@ -2687,7 +2615,7 @@
       "price": 130000,
       "start_date": "2026-07-17",
       "end_date": "2026-08-14",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Svens 18 júní-16 júlí",
@@ -2719,7 +2647,7 @@
       "price": 120000,
       "start_date": "2026-06-18",
       "end_date": "2026-07-16",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Tónhylur Long term",
