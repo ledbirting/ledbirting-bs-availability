@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T10:38:05.568Z",
+  "generated_at": "2026-06-16T13:49:12.446Z",
   "scope": {
     "report_start_date": "2026-06-16",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 612,
-    "unique_items": 352,
+    "items_seen": 608,
+    "unique_items": 349,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -763,35 +763,11 @@
     },
     {
       "campaign_name": "CCEP HM Sumar.",
-      "line_item_name": "CCEP HM Sumar.",
+      "line_item_name": "Copy_of_CCEP HM Sumar.",
       "price": 164400,
       "start_date": "2026-06-24",
       "end_date": "2026-06-30",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "CCEP HM Sumar.",
-      "line_item_name": "CCEP HM Sumar.",
-      "price": 199200,
-      "start_date": "2026-07-01",
-      "end_date": "2026-07-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "CCEP HM Sumar.",
-      "line_item_name": "CCEP HM Sumar.",
-      "price": 189000,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "CCEP HM Sumar.",
-      "line_item_name": "CCEP HM Sumar.",
-      "price": 97500,
-      "start_date": "2026-07-15",
-      "end_date": "2026-07-19",
-      "seen_count": 2
     },
     {
       "campaign_name": "Colas",
@@ -2052,17 +2028,17 @@
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 45300,
+      "price": 43500,
       "start_date": "2026-06-19",
-      "end_date": "2026-06-30",
+      "end_date": "2026-07-01",
       "seen_count": 2
     },
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 43500,
+      "price": 45300,
       "start_date": "2026-06-19",
-      "end_date": "2026-07-01",
+      "end_date": "2026-06-30",
       "seen_count": 2
     },
     {
@@ -2124,18 +2100,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 143000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-31",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 468000,
       "start_date": "2026-07-05",
       "end_date": "2026-09-30",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 143000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-31",
+      "seen_count": 2
     },
     {
       "campaign_name": "MS / Ennemm - Akureyri - 1. til 4. júlí 2026",
@@ -2202,7 +2178,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Nói Siríus / Digido - 19. til 20. júní",
+      "campaign_name": "Nói Siríus / Digido - 19. til 20. júní 2026",
       "line_item_name": "Nói Siríus / Digido - 19. júní",
       "price": 72000,
       "start_date": "2026-06-19",
@@ -2210,7 +2186,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Nói Siríus / Digido - 19. til 20. júní",
+      "campaign_name": "Nói Siríus / Digido - 19. til 20. júní 2026",
       "line_item_name": "Nói Siríus / Digido - 20. júní",
       "price": 48000,
       "start_date": "2026-06-20",
