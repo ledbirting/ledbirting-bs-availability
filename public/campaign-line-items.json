@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T08:00:44.001Z",
+  "generated_at": "2026-06-16T10:38:05.568Z",
   "scope": {
     "report_start_date": "2026-06-16",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 600,
-    "unique_items": 342,
+    "items_seen": 612,
+    "unique_items": 352,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -168,6 +168,38 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Askja - Akureyri / 17. til 20. júní 2026",
+      "line_item_name": "Askja - Akureyri / 17. júní - 1,5 hólf (GLER2)",
+      "price": 9652.5,
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Askja - Akureyri / 17. til 20. júní 2026",
+      "line_item_name": "Askja - Akureyri / 19. júní - 1 hólf (GLER1)",
+      "price": 6337.5,
+      "start_date": "2026-06-19",
+      "end_date": "2026-06-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Askja - Akureyri / 17. til 20. júní 2026",
+      "line_item_name": "Askja - Akureyri / 20. júní - 0,5 hólf (GLER2)",
+      "price": 3246.75,
+      "start_date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Askja - Akureyri / 17. til 20. júní 2026",
+      "line_item_name": "Askja - Akureyri / 20. júní - 1 hólf (GLER1)",
+      "price": 6337.5,
+      "start_date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "seen_count": 1
     },
     {
       "campaign_name": "Atlantsolía / HN - júní 2026",
@@ -2018,6 +2050,38 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Lova Iceland",
+      "line_item_name": "Lova Iceland",
+      "price": 45300,
+      "start_date": "2026-06-19",
+      "end_date": "2026-06-30",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Lova Iceland",
+      "line_item_name": "Lova Iceland",
+      "price": 43500,
+      "start_date": "2026-06-19",
+      "end_date": "2026-07-01",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Lova Iceland",
+      "line_item_name": "Lova Iceland",
+      "price": 97000,
+      "start_date": "2026-06-25",
+      "end_date": "2026-06-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lova Iceland",
+      "line_item_name": "Lova Iceland",
+      "price": 41800,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Lyfja Akureyri",
       "line_item_name": "Lyfja Akureyri GLT 1 KA 1. 23/25 júní",
       "price": 26000,
@@ -2060,18 +2124,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 468000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-09-30",
-      "seen_count": 4
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 143000,
       "start_date": "2026-07-05",
       "end_date": "2026-07-31",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 468000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-09-30",
+      "seen_count": 4
     },
     {
       "campaign_name": "MS / Ennemm - Akureyri - 1. til 4. júlí 2026",
@@ -2424,6 +2488,22 @@
       "start_date": "2026-09-03",
       "end_date": "2026-09-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Saman-hópurinn",
+      "line_item_name": "Saman-hópurinn 29 júlí - 3 ágúst",
+      "price": 153000,
+      "start_date": "2026-07-29",
+      "end_date": "2026-08-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Saman-hópurinn",
+      "line_item_name": "Saman-hópurinn 6-14 júlí",
+      "price": 229500,
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-14",
+      "seen_count": 1
     },
     {
       "campaign_name": "SAmbíó Toy story 5",
