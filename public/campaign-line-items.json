@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T13:49:12.446Z",
+  "generated_at": "2026-06-16T16:33:28.746Z",
   "scope": {
     "report_start_date": "2026-06-16",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 608,
-    "unique_items": 349,
+    "items_seen": 616,
+    "unique_items": 354,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -756,7 +756,7 @@
     {
       "campaign_name": "CCEP HM Sumar.",
       "line_item_name": "CCEP HM Sumar.",
-      "price": 207200,
+      "price": 184000,
       "start_date": "2026-06-17",
       "end_date": "2026-06-23",
       "seen_count": 1
@@ -2028,17 +2028,17 @@
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 43500,
+      "price": 45300,
       "start_date": "2026-06-19",
-      "end_date": "2026-07-01",
+      "end_date": "2026-06-30",
       "seen_count": 2
     },
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 45300,
+      "price": 43500,
       "start_date": "2026-06-19",
-      "end_date": "2026-06-30",
+      "end_date": "2026-07-01",
       "seen_count": 2
     },
     {
@@ -2080,6 +2080,22 @@
       "start_date": "2026-06-20",
       "end_date": "2026-06-20",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Lyst Akeyri",
+      "line_item_name": "Lyst Akueyri",
+      "price": 52000,
+      "start_date": "2026-07-10",
+      "end_date": "2026-07-17",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Lyst Akeyri",
+      "line_item_name": "Lyst Akureyri",
+      "price": 65000,
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-18",
+      "seen_count": 2
     },
     {
       "campaign_name": "Mediacom-Myllan sumarpakki júni",
@@ -2394,6 +2410,22 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Reykjagarður.",
+      "line_item_name": "Reykjagarður.",
+      "price": 134400,
+      "start_date": "2026-06-19",
+      "end_date": "2026-06-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Reykjagarður.",
+      "line_item_name": "Reykjagarður.",
+      "price": 185200,
+      "start_date": "2026-06-26",
+      "end_date": "2026-07-02",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Reykjastræti - Fast í Hafnartorgi",
       "line_item_name": "Reykjastræti - Fast í Hafnartorgi",
       "price": 0,
@@ -2644,7 +2676,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 130000,
+      "price": 78000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2652,7 +2684,7 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
+      "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
       "seen_count": 1
@@ -2712,6 +2744,14 @@
       "start_date": "2026-03-05",
       "end_date": "2028-04-05",
       "seen_count": 18
+    },
+    {
+      "campaign_name": "Útileigukortið",
+      "line_item_name": "Útileigukortið",
+      "price": 286000,
+      "start_date": "2026-06-23",
+      "end_date": "2026-07-23",
+      "seen_count": 2
     },
     {
       "campaign_name": "Varmi - maí/júní/júlí",
