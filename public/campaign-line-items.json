@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-16T21:51:03.331Z",
+  "generated_at": "2026-06-17T00:53:53.294Z",
   "scope": {
-    "report_start_date": "2026-06-16",
+    "report_start_date": "2026-06-17",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 616,
-    "unique_items": 354,
+    "items_seen": 607,
+    "unique_items": 347,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -199,14 +199,6 @@
       "price": 6337.5,
       "start_date": "2026-06-20",
       "end_date": "2026-06-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Atlantsolía / HN - júní 2026",
-      "line_item_name": "Atlantsolía / 16. júní / 2x1",
-      "price": 14000,
-      "start_date": "2026-06-16",
-      "end_date": "2026-06-16",
       "seen_count": 1
     },
     {
@@ -772,18 +764,18 @@
     {
       "campaign_name": "Colas",
       "line_item_name": "Colas",
-      "price": 92000,
-      "start_date": "2026-06-12",
-      "end_date": "2026-07-14",
-      "seen_count": 3
-    },
-    {
-      "campaign_name": "Colas",
-      "line_item_name": "Colas",
       "price": 138000,
       "start_date": "2026-06-12",
       "end_date": "2026-06-26",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Colas",
+      "line_item_name": "Colas",
+      "price": 92000,
+      "start_date": "2026-06-12",
+      "end_date": "2026-07-14",
+      "seen_count": 3
     },
     {
       "campaign_name": "Colas",
@@ -1132,14 +1124,6 @@
     {
       "campaign_name": "Halldór úrsmiður AK.",
       "line_item_name": "Halldór úrsmiður Glerártorg.",
-      "price": 84500,
-      "start_date": "2026-05-26",
-      "end_date": "2026-06-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Halldór úrsmiður AK.",
-      "line_item_name": "Halldór úrsmiður Glerártorg.",
       "price": 65000,
       "start_date": "2026-05-26",
       "end_date": "2026-06-17",
@@ -1467,14 +1451,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 16. júní / 4x1",
-      "price": 37500,
-      "start_date": "2026-06-16",
-      "end_date": "2026-06-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 17. júní / 5x1",
       "price": 32000,
       "start_date": "2026-06-17",
@@ -1743,7 +1719,7 @@
       "price": 26000,
       "start_date": "2026-12-13",
       "end_date": "2026-12-14",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1751,7 +1727,7 @@
       "price": 26000,
       "start_date": "2026-09-13",
       "end_date": "2026-09-14",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1831,7 +1807,7 @@
       "price": 281500,
       "start_date": "2026-07-08",
       "end_date": "2026-07-17",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "KFC júlí",
@@ -1876,7 +1852,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 320000,
+      "price": 214800,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
@@ -1884,7 +1860,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 214800,
+      "price": 320000,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
@@ -1983,14 +1959,6 @@
       "price": 21500,
       "start_date": "2026-06-28",
       "end_date": "2026-06-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
-      "line_item_name": "LIVE / Þri 16. júní / 5x1",
-      "price": 32500,
-      "start_date": "2026-06-16",
-      "end_date": "2026-06-16",
       "seen_count": 1
     },
     {
@@ -2116,18 +2084,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 468000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-09-30",
-      "seen_count": 4
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 143000,
       "start_date": "2026-07-05",
       "end_date": "2026-07-31",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 468000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-09-30",
+      "seen_count": 4
     },
     {
       "campaign_name": "MS / Ennemm - Akureyri - 1. til 4. júlí 2026",
@@ -2315,14 +2283,6 @@
     },
     {
       "campaign_name": "Pipar Orkusalan 15-30 júní",
-      "line_item_name": "Pipar Orkusalan 16 júní",
-      "price": 42300,
-      "start_date": "2026-06-16",
-      "end_date": "2026-06-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Pipar Orkusalan 15-30 júní",
       "line_item_name": "Pipar Orkusalan 19/21 júní",
       "price": 15000,
       "start_date": "2026-06-19",
@@ -2367,7 +2327,7 @@
       "price": 690000,
       "start_date": "2026-07-16",
       "end_date": "2026-07-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Ratsjá -Bændasamtökin",
@@ -2530,14 +2490,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "SAmbíó Toy story 5",
-      "line_item_name": "Sambíó Toy Story 5",
-      "price": 61500,
-      "start_date": "2026-06-14",
-      "end_date": "2026-06-16",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Samkaup / Nettó - jan 2026",
       "line_item_name": "Samkaup - Nettó - samningur - Glerártorg",
       "price": 1235325,
@@ -2676,14 +2628,6 @@
     {
       "campaign_name": "Svens",
       "line_item_name": "Svens",
-      "price": 78000,
-      "start_date": "2026-05-20",
-      "end_date": "2026-06-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Svens",
-      "line_item_name": "Svens",
       "price": 130000,
       "start_date": "2026-05-20",
       "end_date": "2026-06-17",
@@ -2727,7 +2671,7 @@
       "price": 52000,
       "start_date": "2026-07-06",
       "end_date": "2026-07-16",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Svens 18 júní-16 júlí",
@@ -2847,7 +2791,7 @@
       "price": 71500,
       "start_date": "2026-08-01",
       "end_date": "2026-08-15",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "ÞG Verk - Thorraholtid",
