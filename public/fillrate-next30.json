@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T10:14:17.849Z",
+  "generated_at": "2026-06-18T11:45:48.383Z",
   "result": [
     {
       "date": "2026-06-18",
@@ -470,14 +470,14 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.9016666666666666,
-          "rows_seen": 15
+          "fill_rate": 0.835,
+          "rows_seen": 14
         },
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.8683333333333333,
-          "rows_seen": 14
+          "fill_rate": 0.8016666666666666,
+          "rows_seen": 13
         },
         {
           "id": 445022,
@@ -728,14 +728,14 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.789,
-          "rows_seen": 13
+          "fill_rate": 0.7223333333333334,
+          "rows_seen": 12
         },
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.5016666666666666,
-          "rows_seen": 8
+          "fill_rate": 0.43499999999999994,
+          "rows_seen": 7
         },
         {
           "id": 445022,
@@ -770,8 +770,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.8683333333333333,
-          "rows_seen": 11
+          "fill_rate": 0.6016666666666667,
+          "rows_seen": 10
         }
       ]
     },
@@ -986,14 +986,14 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.6461111333333334,
-          "rows_seen": 11
+          "fill_rate": 0.5794444666666666,
+          "rows_seen": 10
         },
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.6016666666666667,
-          "rows_seen": 10
+          "fill_rate": 0.5349999999999999,
+          "rows_seen": 9
         },
         {
           "id": 445022,
@@ -5888,7 +5888,7 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.9999666589814813,
+          "fill_rate": 0.9999666502777776,
           "rows_seen": 15
         },
         {
@@ -6008,7 +6008,7 @@
         {
           "id": 321888,
           "du_name": "Frumherji - Selfoss",
-          "fill_rate": 0.8982999999999999,
+          "fill_rate": 0,
           "rows_seen": 12
         },
         {
@@ -6152,7 +6152,7 @@
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.46663333333333323,
+          "fill_rate": 0.46663336620370366,
           "rows_seen": 6
         },
         {
