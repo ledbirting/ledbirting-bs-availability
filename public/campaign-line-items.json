@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T13:12:47.894Z",
+  "generated_at": "2026-06-18T16:11:13.047Z",
   "scope": {
     "report_start_date": "2026-06-18",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 588,
-    "unique_items": 330,
+    "items_seen": 584,
+    "unique_items": 327,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -47,22 +47,6 @@
       "price": 182000,
       "start_date": "2026-06-14",
       "end_date": "2026-06-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
-      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x1 (alla daga)",
-      "price": 142200,
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
-      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x2 (síðasta daginn)",
-      "price": 47400,
-      "start_date": "2026-09-10",
-      "end_date": "2026-09-10",
       "seen_count": 1
     },
     {
@@ -106,19 +90,19 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Artasan - Otrivin - Hæðasmári - Gunnar",
-      "line_item_name": "Artasan - Otrivin - Hæðasmári - Gunnar",
-      "price": 165000,
-      "start_date": "2026-06-13",
-      "end_date": "2026-08-11",
-      "seen_count": 3
+      "campaign_name": "Artasan - Hæðasmári - Otrivin - Gunnar",
+      "line_item_name": "Ágúst",
+      "price": 170500,
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-31",
+      "seen_count": 2
     },
     {
-      "campaign_name": "Artasan - Otrivin - Hæðasmári - Gunnar",
-      "line_item_name": "Artasan - Otrivin - Hæðasmári - Gunnar",
-      "price": 110000,
-      "start_date": "2026-08-12",
-      "end_date": "2026-08-31",
+      "campaign_name": "Artasan - Hæðasmári - Otrivin - Gunnar",
+      "line_item_name": "Júlí",
+      "price": 170500,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-31",
       "seen_count": 2
     },
     {
@@ -986,14 +970,6 @@
       "seen_count": 4
     },
     {
-      "campaign_name": "Forlagið / HN - 19. júní til 31. ágúst",
-      "line_item_name": "Forlagið - Grandi - 19. júní til 31. ágúst  / Mán, Mið, Fim, Fös",
-      "price": 315000,
-      "start_date": "2026-06-19",
-      "end_date": "2026-08-31",
-      "seen_count": 3
-    },
-    {
       "campaign_name": "FS Fasteignir - Tilboð",
       "line_item_name": "Glerártorg",
       "price": 286000,
@@ -1788,7 +1764,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 214800,
+      "price": 320000,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
@@ -1796,7 +1772,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 320000,
+      "price": 214800,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
@@ -2266,20 +2242,28 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Reykjagarður.",
-      "line_item_name": "Reykjagarður.",
-      "price": 134400,
-      "start_date": "2026-06-19",
-      "end_date": "2026-06-25",
-      "seen_count": 1
+      "campaign_name": "Reykjagarður. júní til ágúst 2026",
+      "line_item_name": "Reykjagarður. 18. juni til 3. agust 2026",
+      "price": 1425600,
+      "start_date": "2026-06-18",
+      "end_date": "2026-08-03",
+      "seen_count": 2
     },
     {
-      "campaign_name": "Reykjagarður.",
-      "line_item_name": "Reykjagarður.",
-      "price": 185200,
-      "start_date": "2026-06-26",
-      "end_date": "2026-07-02",
-      "seen_count": 1
+      "campaign_name": "Reykjagarður. júní til ágúst 2026",
+      "line_item_name": "Reykjagarður. 19. juni til 3.agust 2026",
+      "price": 896000,
+      "start_date": "2026-06-19",
+      "end_date": "2026-08-03",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Reykjagarður. júní til ágúst 2026",
+      "line_item_name": "Reykjagarður. 20. juni til 3.agust 2026 - GRA",
+      "price": 195000,
+      "start_date": "2026-06-20",
+      "end_date": "2026-08-03",
+      "seen_count": 2
     },
     {
       "campaign_name": "Reykjastræti - Fast í Hafnartorgi",
@@ -2552,14 +2536,6 @@
       "start_date": "2026-03-05",
       "end_date": "2028-04-05",
       "seen_count": 18
-    },
-    {
-      "campaign_name": "Útileigukortið",
-      "line_item_name": "Útileigukortið",
-      "price": 286000,
-      "start_date": "2026-06-23",
-      "end_date": "2026-07-23",
-      "seen_count": 2
     },
     {
       "campaign_name": "Varmi - maí/júní/júlí",
