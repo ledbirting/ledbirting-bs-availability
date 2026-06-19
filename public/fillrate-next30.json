@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T13:40:51.157Z",
+  "generated_at": "2026-06-19T14:42:49.267Z",
   "result": [
     {
       "date": "2026-06-19",
@@ -668,8 +668,8 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.37944446666666665,
-          "rows_seen": 7
+          "fill_rate": 0.4461111333333333,
+          "rows_seen": 8
         },
         {
           "id": 237864,
@@ -716,8 +716,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0,
+          "rows_seen": 0
         },
         {
           "id": 405768,
