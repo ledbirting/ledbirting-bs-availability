@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-18T21:43:23.102Z",
+  "generated_at": "2026-06-19T00:58:34.204Z",
   "scope": {
-    "report_start_date": "2026-06-18",
+    "report_start_date": "2026-06-19",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 584,
-    "unique_items": 327,
+    "items_seen": 579,
+    "unique_items": 322,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -175,14 +175,6 @@
       "price": 6337.5,
       "start_date": "2026-06-20",
       "end_date": "2026-06-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Atlantsolía / HN - júní 2026",
-      "line_item_name": "Atlantsolía / 18. júní / 3x1",
-      "price": 20500,
-      "start_date": "2026-06-18",
-      "end_date": "2026-06-18",
       "seen_count": 1
     },
     {
@@ -675,14 +667,6 @@
     },
     {
       "campaign_name": "Byl-L inneign.",
-      "line_item_name": "Byl-L inneign.16-18 júní",
-      "price": 141900,
-      "start_date": "2026-06-16",
-      "end_date": "2026-06-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Byl-L inneign.",
       "line_item_name": "Byl-L inneign.16-19 júní",
       "price": 39800,
       "start_date": "2026-06-19",
@@ -743,7 +727,7 @@
       "price": 1265600,
       "start_date": "2026-08-17",
       "end_date": "2026-08-23",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Datera - ágúst 2026",
@@ -1379,14 +1363,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 18. júní / 5x1",
-      "price": 30000,
-      "start_date": "2026-06-18",
-      "end_date": "2026-06-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 19. júní / 4x1",
       "price": 23000,
       "start_date": "2026-06-19",
@@ -1655,7 +1631,7 @@
       "price": 26000,
       "start_date": "2026-11-15",
       "end_date": "2026-11-16",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1663,7 +1639,7 @@
       "price": 26000,
       "start_date": "2026-08-16",
       "end_date": "2026-08-17",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1754,17 +1730,9 @@
       "seen_count": 7
     },
     {
-      "campaign_name": "Landbankinn - júní",
-      "line_item_name": "Landbankinn - júní",
-      "price": 259200,
-      "start_date": "2026-06-05",
-      "end_date": "2026-06-18",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 320000,
+      "price": 214800,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
@@ -1772,7 +1740,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 214800,
+      "price": 320000,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
@@ -1935,7 +1903,7 @@
       "price": 65000,
       "start_date": "2026-07-11",
       "end_date": "2026-07-18",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Mediacom-Myllan sumarpakki júni",
@@ -2336,14 +2304,6 @@
       "start_date": "2026-09-03",
       "end_date": "2026-09-30",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "SAmbíó Toy story 5",
-      "line_item_name": "Sambíó Toy story 5",
-      "price": 182000,
-      "start_date": "2026-06-12",
-      "end_date": "2026-06-18",
-      "seen_count": 1
     },
     {
       "campaign_name": "Samkaup / Nettó - jan 2026",
