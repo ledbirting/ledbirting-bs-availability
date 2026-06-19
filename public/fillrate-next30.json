@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T15:54:22.188Z",
+  "generated_at": "2026-06-19T17:00:08.488Z",
   "result": [
     {
       "date": "2026-06-19",
@@ -470,8 +470,8 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.789,
-          "rows_seen": 13
+          "fill_rate": 0.7223333333333334,
+          "rows_seen": 12
         },
         {
           "id": 237869,
@@ -500,8 +500,8 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.5206666666666666,
-          "rows_seen": 8
+          "fill_rate": 0.5873333333333334,
+          "rows_seen": 9
         },
         {
           "id": 235462,
@@ -1244,8 +1244,8 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.5461111333333333,
-          "rows_seen": 9
+          "fill_rate": 0.4794444666666666,
+          "rows_seen": 8
         },
         {
           "id": 237869,
@@ -1274,8 +1274,8 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 4
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 5
         },
         {
           "id": 235462,
@@ -2276,8 +2276,8 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.7461111333333333,
-          "rows_seen": 12
+          "fill_rate": 0.6794444666666667,
+          "rows_seen": 11
         },
         {
           "id": 237869,
@@ -2306,8 +2306,8 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.4666666666666666,
-          "rows_seen": 6
+          "fill_rate": 0.5333333333333333,
+          "rows_seen": 7
         },
         {
           "id": 235462,
