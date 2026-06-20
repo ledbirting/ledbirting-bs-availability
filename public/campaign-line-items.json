@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-19T21:27:10.201Z",
+  "generated_at": "2026-06-20T00:48:59.191Z",
   "scope": {
-    "report_start_date": "2026-06-19",
+    "report_start_date": "2026-06-20",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 585,
-    "unique_items": 326,
+    "items_seen": 574,
+    "unique_items": 316,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -171,14 +171,6 @@
     },
     {
       "campaign_name": "Askja - Akureyri / 17. til 20. júní 2026",
-      "line_item_name": "Askja - Akureyri / 19. júní - 1 hólf (GLER1)",
-      "price": 6337.5,
-      "start_date": "2026-06-19",
-      "end_date": "2026-06-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Askja - Akureyri / 17. til 20. júní 2026",
       "line_item_name": "Askja - Akureyri / 20. júní - 0,5 hólf (GLER2)",
       "price": 3246.75,
       "start_date": "2026-06-20",
@@ -191,14 +183,6 @@
       "price": 6337.5,
       "start_date": "2026-06-20",
       "end_date": "2026-06-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Atlantsolía / HN - júní 2026",
-      "line_item_name": "Atlantsolía / 19. júní / 2x1",
-      "price": 12500,
-      "start_date": "2026-06-19",
-      "end_date": "2026-06-19",
       "seen_count": 1
     },
     {
@@ -587,14 +571,6 @@
     },
     {
       "campaign_name": "Bónus / HN - júní 2026",
-      "line_item_name": "Bónus 19. júní - Fös / 10x1",
-      "price": 63000,
-      "start_date": "2026-06-19",
-      "end_date": "2026-06-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - júní 2026",
       "line_item_name": "Bónus 22. júní - Mán / 10x1",
       "price": 62500,
       "start_date": "2026-06-22",
@@ -680,22 +656,6 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Byl-L inneign.",
-      "line_item_name": "Byl-L inneign.16-19 júní",
-      "price": 39800,
-      "start_date": "2026-06-19",
-      "end_date": "2026-06-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Byl-L inneign.",
-      "line_item_name": "Byl-L inneign.19  júní",
-      "price": 5000,
-      "start_date": "2026-06-19",
-      "end_date": "2026-06-19",
-      "seen_count": 1
     },
     {
       "campaign_name": "CCEP HM Sumar.",
@@ -1387,14 +1347,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 19. júní / 4x1",
-      "price": 23000,
-      "start_date": "2026-06-19",
-      "end_date": "2026-06-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 20. júní / 5x1",
       "price": 31000,
       "start_date": "2026-06-20",
@@ -1655,7 +1607,7 @@
       "price": 26000,
       "start_date": "2026-11-15",
       "end_date": "2026-11-16",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1756,7 +1708,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 214800,
+      "price": 320000,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
@@ -1764,7 +1716,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 320000,
+      "price": 214800,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
@@ -1783,14 +1735,6 @@
       "price": 38000,
       "start_date": "2026-07-02",
       "end_date": "2026-07-02",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
-      "line_item_name": "LIVE / Fös 19. júní / 6x1",
-      "price": 39500,
-      "start_date": "2026-06-19",
-      "end_date": "2026-06-19",
       "seen_count": 1
     },
     {
@@ -2023,14 +1967,6 @@
       "price": 6500,
       "start_date": "2026-07-01",
       "end_date": "2026-07-01",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Nói Siríus / Digido - 19. til 20. júní 2026",
-      "line_item_name": "Nói Siríus / Digido - 19. júní",
-      "price": 72000,
-      "start_date": "2026-06-19",
-      "end_date": "2026-06-19",
       "seen_count": 1
     },
     {
@@ -2364,17 +2300,17 @@
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 145800,
+      "price": 109000,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-07",
+      "end_date": "2026-07-06",
       "seen_count": 1
     },
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 109000,
+      "price": 145800,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-06",
+      "end_date": "2026-07-07",
       "seen_count": 1
     },
     {
@@ -2445,22 +2381,6 @@
       "campaign_name": "Skanva vika 24 og 25",
       "line_item_name": "Skanva vika 14/16/18/20 júní. AK-HÖFT-HSMI-KAPLA-GB-KEV-VLV",
       "price": 165200,
-      "start_date": "2026-06-14",
-      "end_date": "2026-06-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Skanva vika 24 og 25",
-      "line_item_name": "Skanva vika 15/17/19 júní. BT-BH-EH-GRI-HÖFT.SFS",
-      "price": 114900,
-      "start_date": "2026-06-14",
-      "end_date": "2026-06-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sólar",
-      "line_item_name": "Sólar júní",
-      "price": 93000,
       "start_date": "2026-06-14",
       "end_date": "2026-06-20",
       "seen_count": 1
