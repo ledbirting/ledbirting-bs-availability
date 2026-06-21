@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-20T21:30:33.829Z",
+  "generated_at": "2026-06-21T00:54:10.054Z",
   "scope": {
-    "report_start_date": "2026-06-20",
+    "report_start_date": "2026-06-21",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 574,
-    "unique_items": 316,
+    "items_seen": 557,
+    "unique_items": 300,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -40,14 +40,6 @@
       "start_date": "2026-01-22",
       "end_date": "2027-01-22",
       "seen_count": 8
-    },
-    {
-      "campaign_name": "Ab - Bíladagar",
-      "line_item_name": "Ab - Bíladagar",
-      "price": 182000,
-      "start_date": "2026-06-14",
-      "end_date": "2026-06-20",
-      "seen_count": 1
     },
     {
       "campaign_name": "Advania / Datera - Haustráðstefna 2026",
@@ -96,14 +88,6 @@
       "start_date": "2026-01-05",
       "end_date": "2026-12-31",
       "seen_count": 7
-    },
-    {
-      "campaign_name": "Arion banki / Digido - hátíðir sumarið 2026",
-      "line_item_name": "Arion - Bíladagar / Digido - 17. til 20. júní",
-      "price": 104000,
-      "start_date": "2026-06-17",
-      "end_date": "2026-06-20",
-      "seen_count": 1
     },
     {
       "campaign_name": "Artasan - Hæðasmári - Otrivin - Gunnar",
@@ -168,22 +152,6 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Askja - Akureyri / 17. til 20. júní 2026",
-      "line_item_name": "Askja - Akureyri / 20. júní - 0,5 hólf (GLER2)",
-      "price": 3246.75,
-      "start_date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Askja - Akureyri / 17. til 20. júní 2026",
-      "line_item_name": "Askja - Akureyri / 20. júní - 1 hólf (GLER1)",
-      "price": 6337.5,
-      "start_date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "seen_count": 1
     },
     {
       "campaign_name": "Atlantsolía / HN - júní 2026",
@@ -847,7 +815,7 @@
       "price": 55000,
       "start_date": "2026-07-15",
       "end_date": "2026-07-21",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Flugrútan sumar.",
@@ -1023,14 +991,6 @@
       "price": 56000,
       "start_date": "2026-06-22",
       "end_date": "2026-06-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Happatreyjur",
-      "line_item_name": "Mikael Maron",
-      "price": 279000,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-21",
       "seen_count": 1
     },
     {
@@ -1343,14 +1303,6 @@
       "price": 25500,
       "start_date": "2026-07-09",
       "end_date": "2026-07-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 20. júní / 5x1",
-      "price": 31000,
-      "start_date": "2026-06-20",
-      "end_date": "2026-06-20",
       "seen_count": 1
     },
     {
@@ -1708,7 +1660,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 320000,
+      "price": 214800,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
@@ -1716,7 +1668,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 214800,
+      "price": 320000,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
@@ -1811,14 +1763,6 @@
     },
     {
       "campaign_name": "Löður - Júní 2026",
-      "line_item_name": "V25",
-      "price": 52000,
-      "start_date": "2026-06-14",
-      "end_date": "2026-06-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Löður - Júní 2026",
       "line_item_name": "V26",
       "price": 52000,
       "start_date": "2026-06-21",
@@ -1847,14 +1791,6 @@
       "price": 52000,
       "start_date": "2026-06-24",
       "end_date": "2026-06-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lyfja Akureyri",
-      "line_item_name": "Lyfja Akureyri GLT 1-2.AK/KA 1 og 2  20 júní",
-      "price": 26000,
-      "start_date": "2026-06-20",
-      "end_date": "2026-06-20",
       "seen_count": 1
     },
     {
@@ -1970,14 +1906,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Nói Siríus / Digido - 19. til 20. júní 2026",
-      "line_item_name": "Nói Siríus / Digido - 20. júní",
-      "price": 48000,
-      "start_date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Nova. Glerártorg árssamningu.",
       "line_item_name": "Nova. Glerártorg árssamningu.",
       "price": 2340000,
@@ -2035,14 +1963,6 @@
     },
     {
       "campaign_name": "Orkan - Júní 2026",
-      "line_item_name": "V25",
-      "price": 200000,
-      "start_date": "2026-06-14",
-      "end_date": "2026-06-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Orkan - Júní 2026",
       "line_item_name": "V26",
       "price": 270000,
       "start_date": "2026-06-21",
@@ -2055,14 +1975,6 @@
       "price": 170000,
       "start_date": "2026-06-28",
       "end_date": "2026-06-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Óskaskrín 6-20 júní",
-      "line_item_name": "Óskaskrín 6-20 júní",
-      "price": 105200,
-      "start_date": "2026-06-17",
-      "end_date": "2026-06-20",
       "seen_count": 1
     },
     {
@@ -2079,14 +1991,6 @@
       "price": 676600,
       "start_date": "2026-06-01",
       "end_date": "2026-06-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Pipar Orkusalan 15-30 júní",
-      "line_item_name": "Orkusalan 17-19/20 júní",
-      "price": 126900,
-      "start_date": "2026-06-17",
-      "end_date": "2026-06-20",
       "seen_count": 1
     },
     {
@@ -2355,14 +2259,6 @@
     },
     {
       "campaign_name": "Sjóvá skjáhætta",
-      "line_item_name": "Sjóvá skjáhætta 16-18-20 júní KAPLA-GRI-VLV-GLT.",
-      "price": 88500,
-      "start_date": "2026-06-14",
-      "end_date": "2026-06-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá skjáhætta",
       "line_item_name": "Sjóvá skjáhætta 22-24-26 júní KAPLA-GRI-AK-VLV",
       "price": 88500,
       "start_date": "2026-06-21",
@@ -2375,14 +2271,6 @@
       "price": 88500,
       "start_date": "2026-06-28",
       "end_date": "2026-07-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Skanva vika 24 og 25",
-      "line_item_name": "Skanva vika 14/16/18/20 júní. AK-HÖFT-HSMI-KAPLA-GB-KEV-VLV",
-      "price": 165200,
-      "start_date": "2026-06-14",
-      "end_date": "2026-06-20",
       "seen_count": 1
     },
     {
@@ -2408,14 +2296,6 @@
       "start_date": "2026-07-17",
       "end_date": "2026-08-14",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Svens 18 júní-16 júlí",
-      "line_item_name": "Svens Glerártorg 18-20 júní",
-      "price": 19500,
-      "start_date": "2026-06-18",
-      "end_date": "2026-06-20",
-      "seen_count": 1
     },
     {
       "campaign_name": "Svens 18 júní-16 júlí",
@@ -2488,14 +2368,6 @@
       "start_date": "2026-08-01",
       "end_date": "2026-12-31",
       "seen_count": 6
-    },
-    {
-      "campaign_name": "VÍS / Datera Landsbyggðin - júní'26",
-      "line_item_name": "VÍS Akureyri 15.6 til 21.6 / Þri, Fim, Lau / AKU1, GLER2",
-      "price": 19500,
-      "start_date": "2026-06-15",
-      "end_date": "2026-06-21",
-      "seen_count": 1
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - júní'26",
