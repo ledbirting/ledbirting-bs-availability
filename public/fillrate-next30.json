@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T13:21:38.744Z",
+  "generated_at": "2026-06-22T15:15:30.539Z",
   "result": [
     {
       "date": "2026-06-22",
@@ -32,8 +32,8 @@
         {
           "id": 237865,
           "du_name": "Breiðholt #1",
-          "fill_rate": 0.5016666666666666,
-          "rows_seen": 8
+          "fill_rate": 0.5683333333333334,
+          "rows_seen": 9
         },
         {
           "id": 237046,
@@ -44,8 +44,8 @@
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.3777778,
-          "rows_seen": 6
+          "fill_rate": 0.44444446666666665,
+          "rows_seen": 7
         },
         {
           "id": 237866,
@@ -80,8 +80,8 @@
         {
           "id": 569050,
           "du_name": "Glerártorg #1",
-          "fill_rate": 0.7016666666666665,
-          "rows_seen": 14
+          "fill_rate": 0.7683333333333333,
+          "rows_seen": 15
         },
         {
           "id": 569051,
@@ -146,8 +146,8 @@
         {
           "id": 235465,
           "du_name": "Höfðabakki #2",
-          "fill_rate": 0.3777778,
-          "rows_seen": 6
+          "fill_rate": 0.44444446666666665,
+          "rows_seen": 7
         },
         {
           "id": 235463,
@@ -212,8 +212,8 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.37944446666666665,
-          "rows_seen": 7
+          "fill_rate": 0.4461111333333333,
+          "rows_seen": 8
         },
         {
           "id": 237869,
@@ -224,8 +224,8 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.36666666666666664,
-          "rows_seen": 6
+          "fill_rate": 0.4333333333333333,
+          "rows_seen": 7
         },
         {
           "id": 445023,
@@ -248,8 +248,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.4127778,
-          "rows_seen": 7
+          "fill_rate": 0.4794444666666666,
+          "rows_seen": 8
         },
         {
           "id": 237863,
@@ -1838,8 +1838,8 @@
         {
           "id": 237865,
           "du_name": "Breiðholt #1",
-          "fill_rate": 0.5683333333333334,
-          "rows_seen": 8
+          "fill_rate": 0.5016666666666666,
+          "rows_seen": 7
         },
         {
           "id": 237046,
@@ -1850,8 +1850,8 @@
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 5
         },
         {
           "id": 237866,
@@ -1886,8 +1886,8 @@
         {
           "id": 569050,
           "du_name": "Glerártorg #1",
-          "fill_rate": 0.6349999999999999,
-          "rows_seen": 13
+          "fill_rate": 0.5683333333333332,
+          "rows_seen": 12
         },
         {
           "id": 569051,
@@ -1952,8 +1952,8 @@
         {
           "id": 235465,
           "du_name": "Höfðabakki #2",
-          "fill_rate": 0.4666666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.39999999999999997,
+          "rows_seen": 6
         },
         {
           "id": 235463,
@@ -2018,8 +2018,8 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.6016666666666667,
-          "rows_seen": 10
+          "fill_rate": 0.5349999999999999,
+          "rows_seen": 9
         },
         {
           "id": 237869,
@@ -2030,8 +2030,8 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.49999999999999994,
-          "rows_seen": 8
+          "fill_rate": 0.4333333333333333,
+          "rows_seen": 7
         },
         {
           "id": 445023,
@@ -2054,8 +2054,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.7683333333333333,
-          "rows_seen": 12
+          "fill_rate": 0.7016666666666667,
+          "rows_seen": 11
         },
         {
           "id": 237863,
