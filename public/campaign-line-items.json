@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T08:05:19.126Z",
+  "generated_at": "2026-06-22T10:56:41.755Z",
   "scope": {
     "report_start_date": "2026-06-22",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 553,
-    "unique_items": 295,
+    "items_seen": 555,
+    "unique_items": 296,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -2288,6 +2288,14 @@
       "start_date": "2026-03-05",
       "end_date": "2028-04-05",
       "seen_count": 18
+    },
+    {
+      "campaign_name": "Útileigukortið",
+      "line_item_name": "Útileigukortið",
+      "price": 286000,
+      "start_date": "2026-06-23",
+      "end_date": "2026-07-23",
+      "seen_count": 2
     },
     {
       "campaign_name": "Varmi - maí/júní/júlí",
