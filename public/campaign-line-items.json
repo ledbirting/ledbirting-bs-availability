@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T13:55:38.616Z",
+  "generated_at": "2026-06-22T16:35:09.815Z",
   "scope": {
     "report_start_date": "2026-06-22",
     "report_end_date": "2099-12-31",
@@ -18,13 +18,21 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 564,
-    "unique_items": 304,
+    "items_seen": 565,
+    "unique_items": 305,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
   },
   "items": [
+    {
+      "campaign_name": "_Media com -Boozt 3 ágúst -16 ágúst",
+      "line_item_name": "Media com -Boozt  3 ágúst -16 ágúst",
+      "price": 268000,
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-16",
+      "seen_count": 1
+    },
     {
       "campaign_name": "_Mediacom-Myllan sumarpakki júli",
       "line_item_name": "Mediacom-Myllan sumarpakki",
@@ -1772,18 +1780,18 @@
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 43500,
-      "start_date": "2026-06-23",
-      "end_date": "2026-07-01",
-      "seen_count": 2
+      "price": 42800,
+      "start_date": "2026-06-22",
+      "end_date": "2026-06-28",
+      "seen_count": 1
     },
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 42800,
+      "price": 43500,
       "start_date": "2026-06-23",
-      "end_date": "2026-06-29",
-      "seen_count": 1
+      "end_date": "2026-07-01",
+      "seen_count": 2
     },
     {
       "campaign_name": "Lova Iceland",
