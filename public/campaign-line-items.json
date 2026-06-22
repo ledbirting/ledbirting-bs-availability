@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21T21:31:00.492Z",
+  "generated_at": "2026-06-22T00:53:23.563Z",
   "scope": {
-    "report_start_date": "2026-06-21",
+    "report_start_date": "2026-06-22",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 557,
-    "unique_items": 300,
+    "items_seen": 553,
+    "unique_items": 295,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -491,14 +491,6 @@
     },
     {
       "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir Þór/KA. 21 júní",
-      "price": 6500,
-      "start_date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
       "line_item_name": "Heimaleikir Þór/KA. 28 ágúst.",
       "price": 6500,
       "start_date": "2026-08-28",
@@ -644,18 +636,18 @@
     {
       "campaign_name": "Colas",
       "line_item_name": "Colas",
-      "price": 138000,
-      "start_date": "2026-06-12",
-      "end_date": "2026-06-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Colas",
-      "line_item_name": "Colas",
       "price": 92000,
       "start_date": "2026-06-12",
       "end_date": "2026-07-14",
       "seen_count": 3
+    },
+    {
+      "campaign_name": "Colas",
+      "line_item_name": "Colas",
+      "price": 138000,
+      "start_date": "2026-06-12",
+      "end_date": "2026-06-26",
+      "seen_count": 1
     },
     {
       "campaign_name": "Colas",
@@ -1575,7 +1567,7 @@
       "price": 26000,
       "start_date": "2027-01-17",
       "end_date": "2027-01-18",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1639,14 +1631,6 @@
       "price": 285500,
       "start_date": "2026-07-08",
       "end_date": "2026-07-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kraftur Glerártorg 17-21 júní",
-      "line_item_name": "Kraftur Glerártorg 17-21 júní",
-      "price": 65000,
-      "start_date": "2026-06-17",
-      "end_date": "2026-06-21",
       "seen_count": 1
     },
     {
@@ -1739,14 +1723,6 @@
     },
     {
       "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
-      "line_item_name": "LIVE / Sun 21. júní / 3x1",
-      "price": 20500,
-      "start_date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
       "line_item_name": "LIVE / Sun 28. júní / 3x1",
       "price": 21500,
       "start_date": "2026-06-28",
@@ -1807,14 +1783,6 @@
       "price": 65000,
       "start_date": "2026-07-11",
       "end_date": "2026-07-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Mediacom-Myllan sumarpakki júni",
-      "line_item_name": "Mediacom-Myllan sumarpakki",
-      "price": 504000,
-      "start_date": "2026-06-08",
-      "end_date": "2026-06-21",
       "seen_count": 1
     },
     {
@@ -1991,14 +1959,6 @@
       "price": 676600,
       "start_date": "2026-06-01",
       "end_date": "2026-06-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Pipar Orkusalan 15-30 júní",
-      "line_item_name": "Pipar Orkusalan 19/21 júní",
-      "price": 15000,
-      "start_date": "2026-06-19",
-      "end_date": "2026-06-21",
       "seen_count": 1
     },
     {
@@ -2204,17 +2164,17 @@
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 109000,
+      "price": 145800,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-06",
+      "end_date": "2026-07-07",
       "seen_count": 1
     },
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 145800,
+      "price": 109000,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-07",
+      "end_date": "2026-07-06",
       "seen_count": 1
     },
     {
