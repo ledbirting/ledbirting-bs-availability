@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T13:00:34.959Z",
+  "generated_at": "2026-06-23T16:00:31.046Z",
   "scope": {
     "report_start_date": "2026-06-23",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 559,
-    "unique_items": 302,
+    "items_seen": 565,
+    "unique_items": 308,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -48,6 +48,22 @@
       "start_date": "2026-01-22",
       "end_date": "2027-01-22",
       "seen_count": 8
+    },
+    {
+      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
+      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x1 (alla daga)",
+      "price": 142200,
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
+      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x2 (síðasta daginn)",
+      "price": 47400,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-10",
+      "seen_count": 1
     },
     {
       "campaign_name": "Afreksverk - Hafnartorg",
@@ -612,18 +628,18 @@
     {
       "campaign_name": "Colas",
       "line_item_name": "Colas",
-      "price": 92000,
-      "start_date": "2026-06-12",
-      "end_date": "2026-07-14",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Colas",
-      "line_item_name": "Colas",
       "price": 138000,
       "start_date": "2026-06-12",
       "end_date": "2026-06-26",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Colas",
+      "line_item_name": "Colas",
+      "price": 92000,
+      "start_date": "2026-06-12",
+      "end_date": "2026-07-14",
+      "seen_count": 2
     },
     {
       "campaign_name": "Colas",
@@ -1628,7 +1644,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 214800,
+      "price": 320000,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
@@ -1636,7 +1652,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 320000,
+      "price": 214800,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
@@ -2148,6 +2164,14 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
+      "price": 39000,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sam-Film. Vaiana",
+      "line_item_name": "Vaiana",
       "price": 153200,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
@@ -2157,14 +2181,6 @@
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
       "price": 107600,
-      "start_date": "2026-07-03",
-      "end_date": "2026-07-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sam-Film. Vaiana",
-      "line_item_name": "Vaiana",
-      "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2384,6 +2400,38 @@
       "start_date": "2026-08-01",
       "end_date": "2026-12-31",
       "seen_count": 6
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - júlí '26",
+      "line_item_name": "VÍS Akureyri 1.7 til 7.7 / Sun, Mán, Þri /  AKU1, GLER2",
+      "price": 19500,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - júlí '26",
+      "line_item_name": "VÍS Akureyri 15.7 til 21.7 / Þri, Fim, Lau / AKU1, GLER2",
+      "price": 19500,
+      "start_date": "2026-07-15",
+      "end_date": "2026-07-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - júlí '26",
+      "line_item_name": "VÍS Akureyri 22.7 til 31.7 / Mán, Þri, Lau / AKU2, GLER1",
+      "price": 19500,
+      "start_date": "2026-07-22",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - júlí '26",
+      "line_item_name": "VÍS Akureyri 8.7 til 14.7 / Mán, Mið, Lau / AKU2, GLER1",
+      "price": 19500,
+      "start_date": "2026-07-08",
+      "end_date": "2026-07-14",
+      "seen_count": 1
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - júní'26",
