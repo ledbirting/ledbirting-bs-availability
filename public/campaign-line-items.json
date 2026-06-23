@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-22T21:43:35.498Z",
+  "generated_at": "2026-06-23T00:46:59.389Z",
   "scope": {
-    "report_start_date": "2026-06-22",
+    "report_start_date": "2026-06-23",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 565,
-    "unique_items": 305,
+    "items_seen": 557,
+    "unique_items": 300,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -160,14 +160,6 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Atlantsolía / HN - júní 2026",
-      "line_item_name": "Atlantsolía / 22. júní / 3x1",
-      "price": 18000,
-      "start_date": "2026-06-22",
-      "end_date": "2026-06-22",
-      "seen_count": 1
     },
     {
       "campaign_name": "Atlantsolía / HN - júní 2026",
@@ -539,14 +531,6 @@
     },
     {
       "campaign_name": "Bónus / HN - júní 2026",
-      "line_item_name": "Bónus 22. júní - Mán / 10x1",
-      "price": 62500,
-      "start_date": "2026-06-22",
-      "end_date": "2026-06-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - júní 2026",
       "line_item_name": "Bónus 24. júní - Mið / 10x1",
       "price": 61000,
       "start_date": "2026-06-24",
@@ -647,7 +631,7 @@
       "price": 92000,
       "start_date": "2026-06-12",
       "end_date": "2026-07-14",
-      "seen_count": 3
+      "seen_count": 2
     },
     {
       "campaign_name": "Colas",
@@ -735,7 +719,7 @@
       "price": 157500,
       "start_date": "2026-08-01",
       "end_date": "2026-08-21",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Farmers Market - 2026 - Grandi",
@@ -1307,14 +1291,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 22. júní / 5x1",
-      "price": 33500,
-      "start_date": "2026-06-22",
-      "end_date": "2026-06-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 23. júní / 4x1",
       "price": 27000,
       "start_date": "2026-06-23",
@@ -1575,7 +1551,7 @@
       "price": 26000,
       "start_date": "2027-01-17",
       "end_date": "2027-01-18",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1723,14 +1699,6 @@
     },
     {
       "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
-      "line_item_name": "LIVE / Mán 22. júní / 6x1",
-      "price": 36000,
-      "start_date": "2026-06-22",
-      "end_date": "2026-06-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
       "line_item_name": "LIVE / Mán 29. júní / 6x1",
       "price": 37000,
       "start_date": "2026-06-29",
@@ -1780,14 +1748,6 @@
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 42800,
-      "start_date": "2026-06-22",
-      "end_date": "2026-06-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lova Iceland",
-      "line_item_name": "Lova Iceland",
       "price": 43500,
       "start_date": "2026-06-23",
       "end_date": "2026-07-01",
@@ -1796,7 +1756,7 @@
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 45300,
+      "price": 99000,
       "start_date": "2026-06-30",
       "end_date": "2026-07-06",
       "seen_count": 1
@@ -1804,7 +1764,7 @@
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 99000,
+      "price": 45300,
       "start_date": "2026-06-30",
       "end_date": "2026-07-06",
       "seen_count": 1
