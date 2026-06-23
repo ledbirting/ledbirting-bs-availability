@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T10:16:43.269Z",
+  "generated_at": "2026-06-23T13:00:34.959Z",
   "scope": {
     "report_start_date": "2026-06-23",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 557,
-    "unique_items": 300,
+    "items_seen": 559,
+    "unique_items": 302,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -48,22 +48,6 @@
       "start_date": "2026-01-22",
       "end_date": "2027-01-22",
       "seen_count": 8
-    },
-    {
-      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
-      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x1 (alla daga)",
-      "price": 142200,
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
-      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x2 (síðasta daginn)",
-      "price": 47400,
-      "start_date": "2026-09-10",
-      "end_date": "2026-09-10",
-      "seen_count": 1
     },
     {
       "campaign_name": "Afreksverk - Hafnartorg",
@@ -1820,18 +1804,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 143000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-31",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 468000,
       "start_date": "2026-07-05",
       "end_date": "2026-09-30",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 143000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-31",
+      "seen_count": 2
     },
     {
       "campaign_name": "MS / Ennemm - Akureyri - 1. til 4. júlí 2026",
@@ -2162,6 +2146,38 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Sam-Film. Vaiana",
+      "line_item_name": "Vaiana",
+      "price": 153200,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sam-Film. Vaiana",
+      "line_item_name": "Vaiana",
+      "price": 107600,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sam-Film. Vaiana",
+      "line_item_name": "Vaiana",
+      "price": 39000,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sam-Film. Vaiana",
+      "line_item_name": "Vaiana (2)",
+      "price": 25000,
+      "start_date": "2026-07-07",
+      "end_date": "2026-07-08",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Saman-hópurinn",
       "line_item_name": "Saman-hópurinn 1-6 ágúst",
       "price": 198000,
@@ -2196,17 +2212,17 @@
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 145800,
+      "price": 109000,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-07",
+      "end_date": "2026-07-06",
       "seen_count": 1
     },
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 109000,
+      "price": 145800,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-06",
+      "end_date": "2026-07-07",
       "seen_count": 1
     },
     {
