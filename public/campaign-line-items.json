@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-23T21:34:39.223Z",
+  "generated_at": "2026-06-24T00:43:12.018Z",
   "scope": {
-    "report_start_date": "2026-06-23",
+    "report_start_date": "2026-06-24",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 565,
-    "unique_items": 308,
+    "items_seen": 559,
+    "unique_items": 302,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -611,14 +611,6 @@
     },
     {
       "campaign_name": "CCEP HM Sumar.",
-      "line_item_name": "CCEP HM Sumar.",
-      "price": 184000,
-      "start_date": "2026-06-17",
-      "end_date": "2026-06-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "CCEP HM Sumar.",
       "line_item_name": "Copy_of_CCEP HM Sumar.",
       "price": 164400,
       "start_date": "2026-06-24",
@@ -628,18 +620,18 @@
     {
       "campaign_name": "Colas",
       "line_item_name": "Colas",
-      "price": 138000,
-      "start_date": "2026-06-12",
-      "end_date": "2026-06-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Colas",
-      "line_item_name": "Colas",
       "price": 92000,
       "start_date": "2026-06-12",
       "end_date": "2026-07-14",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Colas",
+      "line_item_name": "Colas",
+      "price": 138000,
+      "start_date": "2026-06-12",
+      "end_date": "2026-06-26",
+      "seen_count": 1
     },
     {
       "campaign_name": "Colas",
@@ -819,14 +811,6 @@
     },
     {
       "campaign_name": "Flugrútan sumar.",
-      "line_item_name": "BT-KAPLA 3-GRI-GB. 18 - 24 júní",
-      "price": 82500,
-      "start_date": "2026-06-18",
-      "end_date": "2026-06-24",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Flugrútan sumar.",
       "line_item_name": "BT-KAPLA1-GRI-GB.08-14-júlí",
       "price": 82500,
       "start_date": "2026-07-08",
@@ -847,7 +831,7 @@
       "price": 55000,
       "start_date": "2026-07-22",
       "end_date": "2026-07-28",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Forest Lagoon / Skógarböðin - langtíma samningur 6mán",
@@ -955,26 +939,10 @@
     },
     {
       "campaign_name": "Góa Omnom",
-      "line_item_name": "Góa Omnom 18/20/23 júníKA/AK-FJH-FLT-KAPLA-GB-SFS-SMT-VLV",
-      "price": 153000,
-      "start_date": "2026-06-17",
-      "end_date": "2026-06-24",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Góa Omnom",
       "line_item_name": "Góa Omnom 18/24 júní BH-BT-HB-KEV.",
       "price": 66000,
       "start_date": "2026-06-18",
       "end_date": "2026-06-24",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Góa Omnom",
-      "line_item_name": "Góa Omnom 22/23 júní BH-BT-HB-KEV.",
-      "price": 56000,
-      "start_date": "2026-06-22",
-      "end_date": "2026-06-23",
       "seen_count": 1
     },
     {
@@ -1287,14 +1255,6 @@
       "price": 25500,
       "start_date": "2026-07-09",
       "end_date": "2026-07-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 23. júní / 4x1",
-      "price": 27000,
-      "start_date": "2026-06-23",
-      "end_date": "2026-06-23",
       "seen_count": 1
     },
     {
@@ -1722,14 +1682,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
-      "line_item_name": "LIVE / Þri 23. júní / 6x1",
-      "price": 40500,
-      "start_date": "2026-06-23",
-      "end_date": "2026-06-23",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Löður - Júní 2026",
       "line_item_name": "V26",
       "price": 52000,
@@ -1756,7 +1708,7 @@
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 99000,
+      "price": 45300,
       "start_date": "2026-06-30",
       "end_date": "2026-07-06",
       "seen_count": 1
@@ -1764,7 +1716,7 @@
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 45300,
+      "price": 99000,
       "start_date": "2026-06-30",
       "end_date": "2026-07-06",
       "seen_count": 1
@@ -2164,7 +2116,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 39000,
+      "price": 107600,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2180,7 +2132,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 107600,
+      "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2228,17 +2180,17 @@
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 109000,
+      "price": 145800,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-06",
+      "end_date": "2026-07-07",
       "seen_count": 1
     },
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 145800,
+      "price": 109000,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-07",
+      "end_date": "2026-07-06",
       "seen_count": 1
     },
     {
@@ -2359,7 +2311,7 @@
       "price": 286000,
       "start_date": "2026-06-23",
       "end_date": "2026-07-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Varmi - maí/júní/júlí",
