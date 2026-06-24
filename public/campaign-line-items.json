@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T12:47:45.114Z",
+  "generated_at": "2026-06-24T15:47:23.350Z",
   "scope": {
     "report_start_date": "2026-06-24",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 572,
-    "unique_items": 315,
+    "items_seen": 574,
+    "unique_items": 317,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -978,6 +978,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Gluggahöllin sprengi tilboð",
+      "line_item_name": "Borgartún-Breiðholt1-Höfðabakki1-Kaplakriki3-Garðabær-Vesturlandsvegur2.",
+      "price": 114000,
+      "start_date": "2026-06-26",
+      "end_date": "2026-07-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Gluggahöllin sprengi tilboð",
+      "line_item_name": "Egilshöll1-Grandi-Hagasmári-Kaplakrika1-SMáratorg.",
+      "price": 93900,
+      "start_date": "2026-06-26",
+      "end_date": "2026-07-02",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Góa Omnom",
       "line_item_name": "Góa Omnom 16/17/19/22/24 júní KA/AK-GLT-FJH-GRI-KAPLA-GB-SFS-SMT-VLV",
       "price": 292500,
@@ -1658,22 +1674,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "kringlan útsala",
-      "line_item_name": "kringlan útsala",
-      "price": 117000,
-      "start_date": "2026-07-10",
-      "end_date": "2026-07-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "kringlan útsala",
-      "line_item_name": "kringlan útsala",
-      "price": 108000,
-      "start_date": "2026-07-27",
-      "end_date": "2026-08-01",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Krónan 2 x faldar birtingar Grandi út árið 2025",
       "line_item_name": "Krónan 2 x faldar birtingar Grandi út árið 2025",
       "price": 2610000,
@@ -1788,7 +1788,7 @@
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 45300,
+      "price": 99000,
       "start_date": "2026-06-30",
       "end_date": "2026-07-06",
       "seen_count": 1
@@ -1796,7 +1796,7 @@
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 99000,
+      "price": 45300,
       "start_date": "2026-06-30",
       "end_date": "2026-07-06",
       "seen_count": 1
@@ -2196,7 +2196,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 107600,
+      "price": 104000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2220,7 +2220,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana (2)",
-      "price": 25000,
+      "price": 54000,
       "start_date": "2026-07-07",
       "end_date": "2026-07-08",
       "seen_count": 1
@@ -2274,11 +2274,19 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Sauna - Tilboð",
-      "line_item_name": "Sauna - Tilboð",
-      "price": 39000,
-      "start_date": "2026-06-25",
-      "end_date": "2026-06-30",
+      "campaign_name": "Santa Cruz Bikes.",
+      "line_item_name": "Santa Cruz Bikes. BT-EH1-HB1-KAPLA1-GB-VLV1",
+      "price": 187500,
+      "start_date": "2026-06-26",
+      "end_date": "2026-07-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Santa Cruz Bikes.",
+      "line_item_name": "Santa Cruz Bikes. EH2-HB2-KAPLA3-SMT-VLV2",
+      "price": 217800,
+      "start_date": "2026-06-26",
+      "end_date": "2026-07-09",
       "seen_count": 1
     },
     {
@@ -2287,6 +2295,14 @@
       "price": 338100,
       "start_date": "2026-06-25",
       "end_date": "2026-07-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sauna - Tilboð",
+      "line_item_name": "Sauna - Tilboð",
+      "price": 39000,
+      "start_date": "2026-06-25",
+      "end_date": "2026-06-30",
       "seen_count": 1
     },
     {
@@ -2391,6 +2407,14 @@
       "price": 120000,
       "start_date": "2026-06-18",
       "end_date": "2026-07-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Teya - Kjötborg / Digido  - júní til júlí 2025",
+      "line_item_name": "Teya - Kjötborg / Digido - Fös 26. júní",
+      "price": 38500,
+      "start_date": "2026-06-26",
+      "end_date": "2026-06-26",
       "seen_count": 1
     },
     {
@@ -2536,14 +2560,6 @@
       "start_date": "2026-04-15",
       "end_date": "2027-02-01",
       "seen_count": 8
-    },
-    {
-      "campaign_name": "Þrastalundur - tilboð",
-      "line_item_name": "Þrastalundur",
-      "price": 238000,
-      "start_date": "2026-06-24",
-      "end_date": "2026-06-30",
-      "seen_count": 1
     }
   ]
 }
