@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T10:06:27.799Z",
+  "generated_at": "2026-06-24T12:47:45.114Z",
   "scope": {
     "report_start_date": "2026-06-24",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 562,
-    "unique_items": 305,
+    "items_seen": 572,
+    "unique_items": 315,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -620,18 +620,18 @@
     {
       "campaign_name": "Colas",
       "line_item_name": "Colas",
-      "price": 92000,
-      "start_date": "2026-06-12",
-      "end_date": "2026-07-14",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Colas",
-      "line_item_name": "Colas",
       "price": 138000,
       "start_date": "2026-06-12",
       "end_date": "2026-06-26",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Colas",
+      "line_item_name": "Colas",
+      "price": 92000,
+      "start_date": "2026-06-12",
+      "end_date": "2026-07-14",
+      "seen_count": 2
     },
     {
       "campaign_name": "Colas",
@@ -687,6 +687,30 @@
       "price": 303000,
       "start_date": "2026-06-25",
       "end_date": "2026-06-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Eyesland - Singles day - Black Friday - Cyber Monday - 1 hólf pr flöt",
+      "line_item_name": "Eyesland - Black Friday 27. nóv - 1 hólf pr flöt",
+      "price": 96000,
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Eyesland - Singles day - Black Friday - Cyber Monday - 1 hólf pr flöt",
+      "line_item_name": "Eyesland - Cyber Monday 27. nóv - 1 hólf pr flöt",
+      "price": 96000,
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Eyesland - Singles day - Black Friday - Cyber Monday - 1 hólf pr flöt",
+      "line_item_name": "Eyesland - Singles Day 11. nóv - 1 hólf pr flöt",
+      "price": 96000,
+      "start_date": "2026-11-11",
+      "end_date": "2026-11-11",
       "seen_count": 1
     },
     {
@@ -975,6 +999,22 @@
       "price": 30000,
       "start_date": "2026-06-01",
       "end_date": "2026-06-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Huppa Tilboðs birtingar",
+      "line_item_name": "Huppa Tilboðs birtingar",
+      "price": 45200,
+      "start_date": "2026-06-25",
+      "end_date": "2026-07-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Huppa Tilboðs birtingar",
+      "line_item_name": "Huppa Tilboðs birtingar",
+      "price": 20000,
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-09",
       "seen_count": 1
     },
     {
@@ -1471,6 +1511,22 @@
       "price": 26000,
       "start_date": "2026-08-11",
       "end_date": "2026-08-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "John Lindsay / Derma - júní til júlí 2026",
+      "line_item_name": "Derma sólarvörn / 24. júní til 3. júlí / Sun, Þri, Fim, Lau / HAGA, HÖF1, SÆB Holta, SEL1, SMT1, VES1",
+      "price": 174000,
+      "start_date": "2026-06-24",
+      "end_date": "2026-07-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "John Lindsay / Derma - júní til júlí 2026",
+      "line_item_name": "Derma sólarvörn / 24. júní til 30. júní / Sun, Þri, Fös, Lau / GLER1",
+      "price": 26000,
+      "start_date": "2026-06-24",
+      "end_date": "2026-06-30",
       "seen_count": 1
     },
     {
@@ -2148,7 +2204,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 153200,
+      "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2156,7 +2212,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 39000,
+      "price": 153200,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2204,17 +2260,33 @@
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
+      "price": 109000,
+      "start_date": "2026-07-02",
+      "end_date": "2026-07-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "samkaup-krambúðin samningur +auka",
+      "line_item_name": "SPAR",
       "price": 145800,
       "start_date": "2026-07-02",
       "end_date": "2026-07-07",
       "seen_count": 1
     },
     {
-      "campaign_name": "samkaup-krambúðin samningur +auka",
-      "line_item_name": "SPAR",
-      "price": 109000,
-      "start_date": "2026-07-02",
-      "end_date": "2026-07-06",
+      "campaign_name": "Sauna - Tilboð",
+      "line_item_name": "Sauna - Tilboð",
+      "price": 39000,
+      "start_date": "2026-06-25",
+      "end_date": "2026-06-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sauna - Tilboð",
+      "line_item_name": "Sauna - Tilboð",
+      "price": 338100,
+      "start_date": "2026-06-25",
+      "end_date": "2026-07-01",
       "seen_count": 1
     },
     {
@@ -2464,6 +2536,14 @@
       "start_date": "2026-04-15",
       "end_date": "2027-02-01",
       "seen_count": 8
+    },
+    {
+      "campaign_name": "Þrastalundur - tilboð",
+      "line_item_name": "Þrastalundur",
+      "price": 238000,
+      "start_date": "2026-06-24",
+      "end_date": "2026-06-30",
+      "seen_count": 1
     }
   ]
 }
