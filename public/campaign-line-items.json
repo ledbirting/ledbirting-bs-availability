@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T10:05:26.446Z",
+  "generated_at": "2026-06-25T12:50:56.699Z",
   "scope": {
     "report_start_date": "2026-06-25",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 559,
-    "unique_items": 309,
+    "items_seen": 585,
+    "unique_items": 332,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -610,6 +610,46 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Danól Felix tómatsósa.",
+      "line_item_name": "Danól Felix tómatsósa. 09-10 júlí",
+      "price": 34500,
+      "start_date": "2026-07-09",
+      "end_date": "2026-07-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Danól Felix tómatsósa.",
+      "line_item_name": "Danól Felix tómatsósa.06 ágúst.",
+      "price": 24500,
+      "start_date": "2026-08-06",
+      "end_date": "2026-08-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Danól Felix tómatsósa.",
+      "line_item_name": "Danól Felix tómatsósa.12 ágúst.",
+      "price": 21000,
+      "start_date": "2026-08-12",
+      "end_date": "2026-08-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Danól Felix tómatsósa.",
+      "line_item_name": "Danól Felix tómatsósa.20 ágúst.",
+      "price": 18000,
+      "start_date": "2026-08-20",
+      "end_date": "2026-08-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Danól Felix tómatsósa.",
+      "line_item_name": "Danól Felix tómatsósa.24-25 júlí",
+      "price": 68600,
+      "start_date": "2026-07-24",
+      "end_date": "2026-07-25",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Datera - ágúst 2026",
       "line_item_name": "Datera - 17. til 23. ágúst - einfaldar birtingar",
       "price": 1265600,
@@ -623,6 +663,70 @@
       "price": 2169600,
       "start_date": "2026-08-24",
       "end_date": "2026-08-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Dominos Júlí",
+      "line_item_name": "Dominos 02 júlí. BT-BH1-GRI-KAPLA1-GB-KEV1-SFS2-VlV1",
+      "price": 52500,
+      "start_date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Dominos Júlí",
+      "line_item_name": "Dominos 03-júlí. BH2-EH1-HB1-KAPLA2-GB-KEV-SFS2-VLV2",
+      "price": 48500,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Dominos Júlí",
+      "line_item_name": "Dominos 04-júlí.BH1-GRI-HSMI-KAPLA1-KEV2-SFS1-SMT-VLV1",
+      "price": 51300,
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Dominos Júlí",
+      "line_item_name": "Dominos 10 júlí. BT-GLT-GRI-KAPLA1-GB-KEV1-SFS2-VlV1",
+      "price": 53500,
+      "start_date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Dominos Júlí",
+      "line_item_name": "Dominos 11-júlí. BH2-EH1-HB1-KAPLA2-GB-KEV-GLT2-VLV2-",
+      "price": 48500,
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Dominos Júlí",
+      "line_item_name": "Dominos 15 júlí. BT-GLT-GRI-KAPLA1-GB-KEV1-SFS2-VlV1-AK1-HB-HÖFT.",
+      "price": 66800,
+      "start_date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Dominos Júlí",
+      "line_item_name": "Dominos 18 júli AK2-BH2-GRI-HAFT-HASMI-HB2-SFS1-VLV1-EH2-KEV2",
+      "price": 57300,
+      "start_date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Dominos Júlí",
+      "line_item_name": "Dominos 29-30 júlí..AK1-BH1-EH1-GLT-GRI-KAPLA1-GB-KEV1-SFS2",
+      "price": 113000,
+      "start_date": "2026-07-29",
+      "end_date": "2026-07-30",
       "seen_count": 1
     },
     {
@@ -960,6 +1064,14 @@
       "start_date": "2026-06-26",
       "end_date": "2026-07-02",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Híbýli júlí",
+      "line_item_name": "Híbýli júlí",
+      "price": 37500,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-31",
+      "seen_count": 2
     },
     {
       "campaign_name": "Huppa Tilboðs birtingar",
@@ -1471,22 +1583,6 @@
       "price": 26000,
       "start_date": "2026-08-11",
       "end_date": "2026-08-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "John Lindsay / Derma - júní til júlí 2026",
-      "line_item_name": "Derma sólarvörn / 24. júní til 3. júlí / Sun, Þri, Fim, Lau / HAGA, HÖF1, SÆB Holta, SEL1, SMT1, VES1",
-      "price": 174000,
-      "start_date": "2026-06-24",
-      "end_date": "2026-07-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "John Lindsay / Derma - júní til júlí 2026",
-      "line_item_name": "Derma sólarvörn / 24. júní til 30. júní / Sun, Þri, Fös, Lau / GLER1",
-      "price": 26000,
-      "start_date": "2026-06-24",
-      "end_date": "2026-06-30",
       "seen_count": 1
     },
     {
@@ -2132,7 +2228,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 104000,
+      "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2148,7 +2244,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 39000,
+      "price": 104000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2351,6 +2447,94 @@
       "price": 38500,
       "start_date": "2026-06-26",
       "end_date": "2026-06-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Thule",
+      "line_item_name": "Thule  01-02 júlí",
+      "price": 172600,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Thule",
+      "line_item_name": "Thule  06-08 ágúst.",
+      "price": 85500,
+      "start_date": "2026-08-06",
+      "end_date": "2026-08-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Thule",
+      "line_item_name": "Thule  10-11 júlí",
+      "price": 78000,
+      "start_date": "2026-07-10",
+      "end_date": "2026-07-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Thule",
+      "line_item_name": "Thule  14-15 ágúst.",
+      "price": 57000,
+      "start_date": "2026-08-14",
+      "end_date": "2026-08-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Thule",
+      "line_item_name": "Thule  16-18 júlí",
+      "price": 101400,
+      "start_date": "2026-07-16",
+      "end_date": "2026-07-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Thule",
+      "line_item_name": "Thule  23-25 júlí",
+      "price": 108000,
+      "start_date": "2026-07-23",
+      "end_date": "2026-07-25",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Thule",
+      "line_item_name": "Thule  28-29 ágúst.",
+      "price": 48600,
+      "start_date": "2026-08-28",
+      "end_date": "2026-08-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Thule",
+      "line_item_name": "Thule  29-30 júlí",
+      "price": 77600,
+      "start_date": "2026-07-29",
+      "end_date": "2026-07-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Thule",
+      "line_item_name": "Thule  31 júlí - 01 ágúst.",
+      "price": 64000,
+      "start_date": "2026-07-31",
+      "end_date": "2026-08-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Thule",
+      "line_item_name": "Thule 26-28 júní",
+      "price": 135000,
+      "start_date": "2026-06-26",
+      "end_date": "2026-06-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Thule",
+      "line_item_name": "Thule 29-30 júní",
+      "price": 134600,
+      "start_date": "2026-06-29",
+      "end_date": "2026-06-30",
       "seen_count": 1
     },
     {
