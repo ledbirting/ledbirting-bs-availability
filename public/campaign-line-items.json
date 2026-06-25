@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T07:14:45.848Z",
+  "generated_at": "2026-06-25T10:05:26.446Z",
   "scope": {
     "report_start_date": "2026-06-25",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 558,
-    "unique_items": 308,
+    "items_seen": 559,
+    "unique_items": 309,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1346,6 +1346,14 @@
       "seen_count": 7
     },
     {
+      "campaign_name": "Ísbilinn 25júni-1 júli TP",
+      "line_item_name": "Ísbilinn 25júni-1 júli TP",
+      "price": 429100,
+      "start_date": "2026-06-25",
+      "end_date": "2026-07-01",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Ísbíllinn - Júlí",
       "line_item_name": "Glerártorg/Akureyri",
       "price": 39000,
@@ -1780,18 +1788,18 @@
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
-      "price": 143000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-31",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
-      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 468000,
       "start_date": "2026-07-05",
       "end_date": "2026-09-30",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Minjasafnið á Akureyri - Langtíma",
+      "line_item_name": "Minjasafnið á Akureyri - Langtíma",
+      "price": 143000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-31",
+      "seen_count": 2
     },
     {
       "campaign_name": "MS / Ennemm - Akureyri - 1. til 4. júlí 2026",
@@ -2124,6 +2132,14 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
+      "price": 104000,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sam-Film. Vaiana",
+      "line_item_name": "Vaiana",
       "price": 153200,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
@@ -2133,14 +2149,6 @@
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
       "price": 39000,
-      "start_date": "2026-07-03",
-      "end_date": "2026-07-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sam-Film. Vaiana",
-      "line_item_name": "Vaiana",
-      "price": 104000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
