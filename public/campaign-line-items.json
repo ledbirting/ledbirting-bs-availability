@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T12:50:56.699Z",
+  "generated_at": "2026-06-25T15:52:49.651Z",
   "scope": {
     "report_start_date": "2026-06-25",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 585,
-    "unique_items": 332,
+    "items_seen": 602,
+    "unique_items": 348,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -503,6 +503,118 @@
       "price": 73500,
       "start_date": "2026-06-09",
       "end_date": "2026-06-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - júlí 2026",
+      "line_item_name": "Bónus 1. júlí - Mið / 9x1",
+      "price": 58500,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - júlí 2026",
+      "line_item_name": "Bónus 10. júlí - Fös / 10x1",
+      "price": 62500,
+      "start_date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - júlí 2026",
+      "line_item_name": "Bónus 13. júlí - Mán / 8x1",
+      "price": 51000,
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - júlí 2026",
+      "line_item_name": "Bónus 15. júlí - Mið / 9x1",
+      "price": 57000,
+      "start_date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - júlí 2026",
+      "line_item_name": "Bónus 17. júlí - Fös / 10x1",
+      "price": 63000,
+      "start_date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - júlí 2026",
+      "line_item_name": "Bónus 20. júlí - Mán / 9x1",
+      "price": 56000,
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - júlí 2026",
+      "line_item_name": "Bónus 22. júlí - Mið / 9x1",
+      "price": 56000,
+      "start_date": "2026-07-22",
+      "end_date": "2026-07-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - júlí 2026",
+      "line_item_name": "Bónus 24. júlí - Fös / 10x1",
+      "price": 60000,
+      "start_date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - júlí 2026",
+      "line_item_name": "Bónus 27. júlí - Mán / 8x1",
+      "price": 49500,
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - júlí 2026",
+      "line_item_name": "Bónus 29. júlí - Mið / 10x1",
+      "price": 62500,
+      "start_date": "2026-07-29",
+      "end_date": "2026-07-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - júlí 2026",
+      "line_item_name": "Bónus 3. júlí - Fös / 8x1",
+      "price": 57000,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - júlí 2026",
+      "line_item_name": "Bónus 31. júlí - Fös / 8x1",
+      "price": 52000,
+      "start_date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - júlí 2026",
+      "line_item_name": "Bónus 6. júlí - Mán / 9x1",
+      "price": 57000,
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - júlí 2026",
+      "line_item_name": "Bónus 8. júlí - Mið / 9x1",
+      "price": 57000,
+      "start_date": "2026-07-08",
+      "end_date": "2026-07-08",
       "seen_count": 1
     },
     {
@@ -1724,7 +1836,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 214800,
+      "price": 320000,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
@@ -1732,7 +1844,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 320000,
+      "price": 214800,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
@@ -1812,7 +1924,7 @@
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 99000,
+      "price": 45300,
       "start_date": "2026-06-30",
       "end_date": "2026-07-06",
       "seen_count": 1
@@ -1820,7 +1932,7 @@
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 45300,
+      "price": 99000,
       "start_date": "2026-06-30",
       "end_date": "2026-07-06",
       "seen_count": 1
@@ -1872,6 +1984,14 @@
       "start_date": "2026-07-11",
       "end_date": "2026-07-18",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Magnus - Hæðasmári",
+      "line_item_name": "Magnus - Hæðasmári",
+      "price": 165000,
+      "start_date": "2026-06-26",
+      "end_date": "2026-07-25",
+      "seen_count": 2
     },
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
@@ -2324,16 +2444,24 @@
     {
       "campaign_name": "Sauna - Tilboð",
       "line_item_name": "Sauna - Tilboð",
-      "price": 338100,
-      "start_date": "2026-06-25",
-      "end_date": "2026-07-01",
+      "price": 32500,
+      "start_date": "2026-06-26",
+      "end_date": "2026-06-30",
       "seen_count": 1
     },
     {
       "campaign_name": "Sauna - Tilboð",
-      "line_item_name": "Sauna - Tilboð",
-      "price": 39000,
-      "start_date": "2026-06-25",
+      "line_item_name": "Sauna - Tilboð 1-5 júlí",
+      "price": 169000,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sauna - Tilboð",
+      "line_item_name": "Sauna - Tilboð 26-30 júní",
+      "price": 241500,
+      "start_date": "2026-06-26",
       "end_date": "2026-06-30",
       "seen_count": 1
     },
