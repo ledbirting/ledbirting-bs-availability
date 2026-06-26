@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-25T21:33:59.357Z",
+  "generated_at": "2026-06-26T00:49:27.760Z",
   "scope": {
-    "report_start_date": "2026-06-25",
+    "report_start_date": "2026-06-26",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 602,
-    "unique_items": 348,
+    "items_seen": 591,
+    "unique_items": 341,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -163,14 +163,6 @@
     },
     {
       "campaign_name": "Atlantsolía / HN - júní 2026",
-      "line_item_name": "Atlantsolía / 25. júní / 3x1",
-      "price": 19500,
-      "start_date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Atlantsolía / HN - júní 2026",
       "line_item_name": "Atlantsolía / 26. júní / 2x1",
       "price": 12500,
       "start_date": "2026-06-26",
@@ -215,14 +207,6 @@
       "price": 99000,
       "start_date": "2026-08-22",
       "end_date": "2026-08-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bestun-Ali -sumarpakki",
-      "line_item_name": "Bestun-Ali",
-      "price": 592200,
-      "start_date": "2026-06-12",
-      "end_date": "2026-06-25",
       "seen_count": 1
     },
     {
@@ -311,7 +295,7 @@
       "price": 234000,
       "start_date": "2026-07-05",
       "end_date": "2026-07-26",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Bílasala Akureyri (júní og júlí)",
@@ -679,7 +663,7 @@
       "price": 60000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-25",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -695,14 +679,6 @@
       "price": 164400,
       "start_date": "2026-06-24",
       "end_date": "2026-06-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Colas",
-      "line_item_name": "Colas",
-      "price": 138000,
-      "start_date": "2026-06-12",
-      "end_date": "2026-06-26",
       "seen_count": 1
     },
     {
@@ -759,7 +735,7 @@
       "price": 68600,
       "start_date": "2026-07-24",
       "end_date": "2026-07-25",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Datera - ágúst 2026",
@@ -775,7 +751,7 @@
       "price": 2169600,
       "start_date": "2026-08-24",
       "end_date": "2026-08-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Dominos Júlí",
@@ -900,7 +876,7 @@
     {
       "campaign_name": "Eyesland (samningur) - mars '26 til feb '27",
       "line_item_name": "Eyesland - Grandi / GRA / Fim, Fös / (aukahólf)",
-      "price": 1300000,
+      "price": 780000,
       "start_date": "2026-03-01",
       "end_date": "2027-02-28",
       "seen_count": 9
@@ -908,7 +884,7 @@
     {
       "campaign_name": "Eyesland (samningur) - mars '26 til feb '27",
       "line_item_name": "Eyesland - Grandi / GRA / Mán, Þri, Mið, Fim, Fös",
-      "price": 3250000,
+      "price": 1950000,
       "start_date": "2026-03-01",
       "end_date": "2027-02-28",
       "seen_count": 9
@@ -951,7 +927,7 @@
       "price": 60000,
       "start_date": "2026-08-24",
       "end_date": "2026-08-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Farmers Market - 2026 - Grandi",
@@ -1063,7 +1039,7 @@
       "price": 55000,
       "start_date": "2026-07-22",
       "end_date": "2026-07-28",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Forest Lagoon / Skógarböðin - langtíma samningur 6mán",
@@ -1507,14 +1483,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 25. júní / 4x1",
-      "price": 23000,
-      "start_date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 26. júní / 4x1",
       "price": 25500,
       "start_date": "2026-06-26",
@@ -1836,7 +1804,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 320000,
+      "price": 214800,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
@@ -1844,7 +1812,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - júní 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 214800,
+      "price": 320000,
       "start_date": "2026-06-15",
       "end_date": "2026-06-28",
       "seen_count": 1
@@ -1924,7 +1892,7 @@
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 99000,
+      "price": 45300,
       "start_date": "2026-06-30",
       "end_date": "2026-07-06",
       "seen_count": 1
@@ -1932,7 +1900,7 @@
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 45300,
+      "price": 99000,
       "start_date": "2026-06-30",
       "end_date": "2026-07-06",
       "seen_count": 1
@@ -1951,14 +1919,6 @@
       "price": 41800,
       "start_date": "2026-07-03",
       "end_date": "2026-07-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lyfja Akureyri",
-      "line_item_name": "Lyfja Akureyri GLT 1 KA 1. 23/25 júní",
-      "price": 26000,
-      "start_date": "2026-06-23",
-      "end_date": "2026-06-25",
       "seen_count": 1
     },
     {
@@ -1991,7 +1951,7 @@
       "price": 165000,
       "start_date": "2026-06-26",
       "end_date": "2026-07-25",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
@@ -2171,14 +2131,6 @@
     },
     {
       "campaign_name": "Pipar Orkusalan 15-30 júní",
-      "line_item_name": "Pipar Orkusalan 23/25 júní",
-      "price": 15000,
-      "start_date": "2026-06-23",
-      "end_date": "2026-06-25",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Pipar Orkusalan 15-30 júní",
       "line_item_name": "Pipar Orkusalan 27-28 júní",
       "price": 15000,
       "start_date": "2026-06-27",
@@ -2231,7 +2183,7 @@
       "price": 610000,
       "start_date": "2026-06-28",
       "end_date": "2026-07-26",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
@@ -2340,7 +2292,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 104000,
+      "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2356,7 +2308,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 39000,
+      "price": 104000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2404,17 +2356,17 @@
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 145800,
+      "price": 109000,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-07",
+      "end_date": "2026-07-06",
       "seen_count": 1
     },
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 109000,
+      "price": 145800,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-06",
+      "end_date": "2026-07-07",
       "seen_count": 1
     },
     {
@@ -2623,7 +2575,7 @@
       "price": 108000,
       "start_date": "2026-07-23",
       "end_date": "2026-07-25",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Thule",
@@ -2707,14 +2659,6 @@
     },
     {
       "campaign_name": "Verkfærasalan Akureyri langtima",
-      "line_item_name": "Júní",
-      "price": 52000,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Verkfærasalan Akureyri langtima",
       "line_item_name": "Verkfærasalan Akureyri langtima ágúst-des",
       "price": 286000,
       "start_date": "2026-08-01",
@@ -2743,7 +2687,7 @@
       "price": 19500,
       "start_date": "2026-07-22",
       "end_date": "2026-07-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - júlí '26",
