@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T10:06:27.747Z",
+  "generated_at": "2026-06-26T12:46:31.128Z",
   "scope": {
     "report_start_date": "2026-06-26",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 589,
-    "unique_items": 339,
+    "items_seen": 595,
+    "unique_items": 342,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -850,30 +850,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Eyesland - Singles day - Black Friday - Cyber Monday - 1 hólf pr flöt",
-      "line_item_name": "Eyesland - Black Friday 27. nóv - 1 hólf pr flöt",
-      "price": 96000,
-      "start_date": "2026-11-27",
-      "end_date": "2026-11-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Eyesland - Singles day - Black Friday - Cyber Monday - 1 hólf pr flöt",
-      "line_item_name": "Eyesland - Cyber Monday 27. nóv - 1 hólf pr flöt",
-      "price": 96000,
-      "start_date": "2026-11-27",
-      "end_date": "2026-11-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Eyesland - Singles day - Black Friday - Cyber Monday - 1 hólf pr flöt",
-      "line_item_name": "Eyesland - Singles Day 11. nóv - 1 hólf pr flöt",
-      "price": 96000,
-      "start_date": "2026-11-11",
-      "end_date": "2026-11-11",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Eyesland (samningur) - mars '26 til feb '27",
       "line_item_name": "Eyesland - Grandi / GRA / Fim, Fös / (aukahólf)",
       "price": 780000,
@@ -1151,6 +1127,30 @@
       "price": 20000,
       "start_date": "2026-07-06",
       "end_date": "2026-07-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
+      "price": 39000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-31",
+      "seen_count": 4
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
+      "price": 52000,
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
+      "price": 6500,
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-31",
       "seen_count": 1
     },
     {
@@ -2106,6 +2106,30 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Petmark  / Hvíta húsið - júní til júlí 2026",
+      "line_item_name": "Petmark / 1. til 5. júlí / Mið, Fim, Fös / EGI1, GBR Litla, HAGA",
+      "price": 48900,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Petmark  / Hvíta húsið - júní til júlí 2026",
+      "line_item_name": "Petmark / 26. júní til 30. júni / Fös, Þri / AKU1, EGI, HAGA, GBR Litla",
+      "price": 45600,
+      "start_date": "2026-06-26",
+      "end_date": "2026-06-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Petmark  / Hvíta húsið - júní til júlí 2026",
+      "line_item_name": "Petmark / 9. til 10. júlí/ Þri og Mið / AKU1, EGI1",
+      "price": 22600,
+      "start_date": "2026-07-09",
+      "end_date": "2026-07-10",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Pipar Orkusalan 15-30 júní",
       "line_item_name": "Pipar Orkusalan 21-22/24-25/27  júní",
       "price": 211500,
@@ -2276,7 +2300,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 39000,
+      "price": 104000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2292,7 +2316,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 104000,
+      "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2340,17 +2364,17 @@
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 109000,
+      "price": 145800,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-06",
+      "end_date": "2026-07-07",
       "seen_count": 1
     },
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 145800,
+      "price": 109000,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-07",
+      "end_date": "2026-07-06",
       "seen_count": 1
     },
     {
