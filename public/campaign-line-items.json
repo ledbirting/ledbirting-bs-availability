@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T12:46:31.128Z",
+  "generated_at": "2026-06-26T15:48:23.924Z",
   "scope": {
     "report_start_date": "2026-06-26",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 595,
-    "unique_items": 342,
+    "items_seen": 594,
+    "unique_items": 341,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -847,6 +847,14 @@
       "price": 303000,
       "start_date": "2026-06-25",
       "end_date": "2026-06-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Eyesland (samningur) - mars '26 til feb '27",
+      "line_item_name": "Eyesland - Glæsibær / GRA, VES1, VES2 / (auka v. bilunar) Lau, Þri",
+      "price": 90000,
+      "start_date": "2026-06-26",
+      "end_date": "2026-07-10",
       "seen_count": 1
     },
     {
@@ -2375,22 +2383,6 @@
       "price": 109000,
       "start_date": "2026-07-02",
       "end_date": "2026-07-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Santa Cruz Bikes.",
-      "line_item_name": "Santa Cruz Bikes. BT-EH1-HB1-KAPLA1-GB-VLV1",
-      "price": 187500,
-      "start_date": "2026-06-26",
-      "end_date": "2026-07-08",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Santa Cruz Bikes.",
-      "line_item_name": "Santa Cruz Bikes. EH2-HB2-KAPLA3-SMT-VLV2",
-      "price": 217800,
-      "start_date": "2026-06-26",
-      "end_date": "2026-07-09",
       "seen_count": 1
     },
     {
