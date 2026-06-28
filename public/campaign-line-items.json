@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-27T21:25:10.271Z",
+  "generated_at": "2026-06-28T00:48:35.880Z",
   "scope": {
-    "report_start_date": "2026-06-27",
+    "report_start_date": "2026-06-28",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 580,
-    "unique_items": 329,
+    "items_seen": 576,
+    "unique_items": 324,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -647,7 +647,7 @@
       "price": 312000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "CCEP HM Sumar.",
@@ -914,14 +914,6 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Fit Food - Júní 2026",
-      "line_item_name": "Fit Food - Júní",
-      "price": 480000,
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-29",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Flugger tillaga að plani",
       "line_item_name": "Flugger mán-miðv-föstud. 01 maí - 31 ágúst. Selfoss-Reykjanesbær-Glerártorg.",
       "price": 980500,
@@ -1116,18 +1108,18 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 6500,
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
+      "price": 6500,
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-31",
+      "seen_count": 1
     },
     {
       "campaign_name": "Icelandair  / Hvíta húsið - Glerártorgi",
@@ -1431,14 +1423,6 @@
       "price": 25500,
       "start_date": "2026-07-09",
       "end_date": "2026-07-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 27. júní / 4x1",
-      "price": 26500,
-      "start_date": "2026-06-27",
-      "end_date": "2026-06-27",
       "seen_count": 1
     },
     {
@@ -1811,14 +1795,6 @@
     },
     {
       "campaign_name": "Löður - Júní 2026",
-      "line_item_name": "V26",
-      "price": 52000,
-      "start_date": "2026-06-21",
-      "end_date": "2026-06-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Löður - Júní 2026",
       "line_item_name": "V27",
       "price": 24000,
       "start_date": "2026-06-28",
@@ -2003,14 +1979,6 @@
     },
     {
       "campaign_name": "Orkan - Júní 2026",
-      "line_item_name": "V26",
-      "price": 270000,
-      "start_date": "2026-06-21",
-      "end_date": "2026-06-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Orkan - Júní 2026",
       "line_item_name": "V27",
       "price": 170000,
       "start_date": "2026-06-28",
@@ -2059,14 +2027,6 @@
     },
     {
       "campaign_name": "Pipar Orkusalan 15-30 júní",
-      "line_item_name": "Pipar Orkusalan 21-22/24-25/27  júní",
-      "price": 211500,
-      "start_date": "2026-06-21",
-      "end_date": "2026-06-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Pipar Orkusalan 15-30 júní",
       "line_item_name": "Pipar Orkusalan 27-28 júní",
       "price": 15000,
       "start_date": "2026-06-27",
@@ -2111,7 +2071,7 @@
       "price": 962000,
       "start_date": "2026-07-27",
       "end_date": "2026-08-26",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Ratsjá PEI",
@@ -2127,7 +2087,7 @@
       "price": 5854800,
       "start_date": "2026-07-27",
       "end_date": "2026-08-29",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "campaign_name": "Reykjagarður. júní til ágúst 2026",
@@ -2228,14 +2188,6 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 104000,
-      "start_date": "2026-07-03",
-      "end_date": "2026-07-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sam-Film. Vaiana",
-      "line_item_name": "Vaiana",
       "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
@@ -2245,6 +2197,14 @@
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
       "price": 153200,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sam-Film. Vaiana",
+      "line_item_name": "Vaiana",
+      "price": 104000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
