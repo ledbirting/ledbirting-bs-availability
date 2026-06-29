@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T13:31:18.186Z",
+  "generated_at": "2026-06-29T16:18:36.071Z",
   "scope": {
     "report_start_date": "2026-06-29",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 599,
-    "unique_items": 351,
+    "items_seen": 624,
+    "unique_items": 376,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -48,22 +48,6 @@
       "start_date": "2026-01-22",
       "end_date": "2027-01-22",
       "seen_count": 7
-    },
-    {
-      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
-      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x1 (alla daga)",
-      "price": 142200,
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
-      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x2 (síðasta daginn)",
-      "price": 47400,
-      "start_date": "2026-09-10",
-      "end_date": "2026-09-10",
-      "seen_count": 1
     },
     {
       "campaign_name": "Afreksverk - Hafnartorg",
@@ -96,6 +80,14 @@
       "start_date": "2026-01-05",
       "end_date": "2026-12-31",
       "seen_count": 7
+    },
+    {
+      "campaign_name": "Arion - Besta banka appið / Digido - 6. júlí til 30. júlí 2026",
+      "line_item_name": "Arion - Besta banka appið / Digido - þri og fös",
+      "price": 80500,
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-30",
+      "seen_count": 1
     },
     {
       "campaign_name": "Artasan - Hæðasmári - Otrivin - Gunnar",
@@ -178,6 +170,206 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Fim 13. ágúst - 7x1",
+      "price": 43500,
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Fim 20. ágúst - 8x1",
+      "price": 47800,
+      "start_date": "2026-08-20",
+      "end_date": "2026-08-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Fim 27. ágúst - 7x1",
+      "price": 45800,
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Fim 6. ágúst - 7x1",
+      "price": 43000,
+      "start_date": "2026-08-06",
+      "end_date": "2026-08-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Fös 28. ágúst - 8x1",
+      "price": 52000,
+      "start_date": "2026-08-28",
+      "end_date": "2026-08-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Fös 7. ágúst - 8x1",
+      "price": 51800,
+      "start_date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Lau 1. ágúst  - 8x1",
+      "price": 50800,
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Lau 15. ágúst - 7x1",
+      "price": 46300,
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Lau 22. ágúst - 7x1",
+      "price": 45000,
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Lau 8. ágúst - 7x1",
+      "price": 46500,
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Mán 10. ágúst - 7x1",
+      "price": 45000,
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Mán 17. ágúst - 8x1",
+      "price": 49800,
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Mán 24. ágúst - 7x1",
+      "price": 44500,
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Mið 12. ágúst - 7x1",
+      "price": 45500,
+      "start_date": "2026-08-12",
+      "end_date": "2026-08-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Mið 19. ágúst - 7x1",
+      "price": 43800,
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Mið 26. ágúst - 7x1",
+      "price": 41300,
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Mið 5. ágúst - 7x1",
+      "price": 43300,
+      "start_date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Sun 16. ágúst - 7x1",
+      "price": 47000,
+      "start_date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Sun 2. ágúst - 8x1",
+      "price": 49000,
+      "start_date": "2026-08-02",
+      "end_date": "2026-08-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Sun 23. ágúst - 7x1",
+      "price": 43500,
+      "start_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Sun 9. ágúst - 7x1",
+      "price": 43800,
+      "start_date": "2026-08-09",
+      "end_date": "2026-08-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Þri 11. ágúst - 8x1",
+      "price": 53300,
+      "start_date": "2026-08-11",
+      "end_date": "2026-08-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Þri 18. ágúst - 7x1",
+      "price": 48000,
+      "start_date": "2026-08-18",
+      "end_date": "2026-08-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Þri 25. ágúst - 8x1",
+      "price": 53000,
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Aur / HN - ágúst 2026",
+      "line_item_name": "Aur / HN - Þri 4. ágúst - 7x1",
+      "price": 47300,
+      "start_date": "2026-08-04",
+      "end_date": "2026-08-04",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Aur / HN - júlí 2026",
       "line_item_name": "Aur / HN - Fim 16. júlí - 7x1",
       "price": 43500,
@@ -188,7 +380,7 @@
     {
       "campaign_name": "Aur / HN - júlí 2026",
       "line_item_name": "Aur / HN - Fim 23. júlí - 7x1",
-      "price": 41300,
+      "price": 47800,
       "start_date": "2026-07-23",
       "end_date": "2026-07-23",
       "seen_count": 1
@@ -196,7 +388,7 @@
     {
       "campaign_name": "Aur / HN - júlí 2026",
       "line_item_name": "Aur / HN - Fim 30. júlí - 7x1",
-      "price": 45800,
+      "price": 46500,
       "start_date": "2026-07-30",
       "end_date": "2026-07-30",
       "seen_count": 1
@@ -212,7 +404,7 @@
     {
       "campaign_name": "Aur / HN - júlí 2026",
       "line_item_name": "Aur / HN - Fös 10. júlí - 7x1",
-      "price": 45300,
+      "price": 46300,
       "start_date": "2026-07-10",
       "end_date": "2026-07-10",
       "seen_count": 1
@@ -227,8 +419,8 @@
     },
     {
       "campaign_name": "Aur / HN - júlí 2026",
-      "line_item_name": "Aur / HN - Fös 31. júlí - 7x1",
-      "price": 45500,
+      "line_item_name": "Aur / HN - Fös 31. júlí - 8x1",
+      "price": 52300,
       "start_date": "2026-07-31",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -236,7 +428,7 @@
     {
       "campaign_name": "Aur / HN - júlí 2026",
       "line_item_name": "Aur / HN - Lau 11. júlí - 7x1",
-      "price": 48000,
+      "price": 46500,
       "start_date": "2026-07-11",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -268,7 +460,7 @@
     {
       "campaign_name": "Aur / HN - júlí 2026",
       "line_item_name": "Aur / HN - Mán 13. júlí - 7x1",
-      "price": 43500,
+      "price": 45000,
       "start_date": "2026-07-13",
       "end_date": "2026-07-13",
       "seen_count": 1
@@ -276,7 +468,7 @@
     {
       "campaign_name": "Aur / HN - júlí 2026",
       "line_item_name": "Aur / HN - Mán 20. júlí - 7x1",
-      "price": 43300,
+      "price": 44300,
       "start_date": "2026-07-20",
       "end_date": "2026-07-20",
       "seen_count": 1
@@ -291,16 +483,8 @@
     },
     {
       "campaign_name": "Aur / HN - júlí 2026",
-      "line_item_name": "Aur / HN - Mán 6. júlí - 7x1",
-      "price": 43300,
-      "start_date": "2026-07-06",
-      "end_date": "2026-07-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - júlí 2026",
-      "line_item_name": "Aur / HN - Mið 15. júlí - 7x1",
-      "price": 45500,
+      "line_item_name": "Aur / HN - Mið 15. júlí - 8x1",
+      "price": 52000,
       "start_date": "2026-07-15",
       "end_date": "2026-07-15",
       "seen_count": 1
@@ -371,16 +555,16 @@
     },
     {
       "campaign_name": "Aur / HN - júlí 2026",
-      "line_item_name": "Aur / HN - Þri 21. júlí - 7x1",
-      "price": 48000,
+      "line_item_name": "Aur / HN - Þri 21. júlí - 8x1",
+      "price": 53500,
       "start_date": "2026-07-21",
       "end_date": "2026-07-21",
       "seen_count": 1
     },
     {
       "campaign_name": "Aur / HN - júlí 2026",
-      "line_item_name": "Aur / HN - Þri 28. júlí - 7x1",
-      "price": 46500,
+      "line_item_name": "Aur / HN - Þri 28. júlí - 8x1",
+      "price": 53000,
       "start_date": "2026-07-28",
       "end_date": "2026-07-28",
       "seen_count": 1
@@ -1290,6 +1474,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Heimsferðir - Júlí pakki",
+      "line_item_name": "Heimsferðir - 1-20 júli - 5 skjáir",
+      "price": 288000,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Heimsferðir - Júlí pakki",
+      "line_item_name": "Heimsferðir - 11-17Júlí - 5 skjáir",
+      "price": 288000,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-20",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Híbýli júlí",
       "line_item_name": "Híbýli júlí",
       "price": 37500,
@@ -1324,18 +1524,18 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 6500,
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
+      "price": 6500,
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-31",
+      "seen_count": 1
     },
     {
       "campaign_name": "Icelandair  / Hvíta húsið - Glerártorgi",
@@ -2412,14 +2612,6 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 39000,
-      "start_date": "2026-07-03",
-      "end_date": "2026-07-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sam-Film. Vaiana",
-      "line_item_name": "Vaiana",
       "price": 104000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
@@ -2429,6 +2621,14 @@
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
       "price": 153200,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sam-Film. Vaiana",
+      "line_item_name": "Vaiana",
+      "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
