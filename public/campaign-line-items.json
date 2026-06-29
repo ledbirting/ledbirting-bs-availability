@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T21:25:24.977Z",
+  "generated_at": "2026-06-29T00:49:43.304Z",
   "scope": {
-    "report_start_date": "2026-06-28",
+    "report_start_date": "2026-06-29",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 576,
-    "unique_items": 324,
+    "items_seen": 567,
+    "unique_items": 319,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -615,7 +615,7 @@
       "price": 272000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-29",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -1427,14 +1427,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 28. júní / 5x1",
-      "price": 32000,
-      "start_date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júní 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 29. júní / 4x1",
       "price": 28500,
       "start_date": "2026-06-29",
@@ -1738,14 +1730,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Lindex - S4S / Sahara - júní 2026",
-      "line_item_name": "Lindex S4S / Sahara - 15. til 28. júní",
-      "price": 320000,
-      "start_date": "2026-06-15",
-      "end_date": "2026-06-28",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Lindex - S4S / Sahara - landsbyggðin júní 2026",
       "line_item_name": "Lindex.is - S4S / Sahara landsbyggðin - júní - GLER2, VESTM",
       "price": 62500,
@@ -1783,14 +1767,6 @@
       "price": 37000,
       "start_date": "2026-06-29",
       "end_date": "2026-06-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
-      "line_item_name": "LIVE / Sun 28. júní / 3x1",
-      "price": 21500,
-      "start_date": "2026-06-28",
-      "end_date": "2026-06-28",
       "seen_count": 1
     },
     {
@@ -1863,7 +1839,7 @@
       "price": 468000,
       "start_date": "2026-07-05",
       "end_date": "2026-09-30",
-      "seen_count": 4
+      "seen_count": 3
     },
     {
       "campaign_name": "MS / Ennemm - Akureyri - 1. til 4. júlí 2026",
@@ -2023,14 +1999,6 @@
       "price": 22600,
       "start_date": "2026-07-09",
       "end_date": "2026-07-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Pipar Orkusalan 15-30 júní",
-      "line_item_name": "Pipar Orkusalan 27-28 júní",
-      "price": 15000,
-      "start_date": "2026-06-27",
-      "end_date": "2026-06-28",
       "seen_count": 1
     },
     {
@@ -2252,17 +2220,17 @@
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 109000,
+      "price": 145800,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-06",
+      "end_date": "2026-07-07",
       "seen_count": 1
     },
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 145800,
+      "price": 109000,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-07",
+      "end_date": "2026-07-06",
       "seen_count": 1
     },
     {
@@ -2467,14 +2435,6 @@
     },
     {
       "campaign_name": "Thule",
-      "line_item_name": "Thule 26-28 júní",
-      "price": 135000,
-      "start_date": "2026-06-26",
-      "end_date": "2026-06-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Thule",
       "line_item_name": "Thule 29-30 júní",
       "price": 134600,
       "start_date": "2026-06-29",
@@ -2519,7 +2479,7 @@
       "price": 52000,
       "start_date": "2026-07-01",
       "end_date": "2026-07-31",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Verkfærasalan Akureyri langtima",
@@ -2551,7 +2511,7 @@
       "price": 19500,
       "start_date": "2026-07-22",
       "end_date": "2026-07-31",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - júlí '26",
