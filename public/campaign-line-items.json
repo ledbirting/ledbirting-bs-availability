@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T07:46:42.880Z",
+  "generated_at": "2026-06-29T10:37:11.719Z",
   "scope": {
     "report_start_date": "2026-06-29",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 567,
-    "unique_items": 319,
+    "items_seen": 571,
+    "unique_items": 323,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1108,18 +1108,18 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 52000,
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-31",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 6500,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
+      "price": 52000,
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-31",
+      "seen_count": 2
     },
     {
       "campaign_name": "Icelandair  / Hvíta húsið - Glerártorgi",
@@ -1780,7 +1780,7 @@
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 45300,
+      "price": 99000,
       "start_date": "2026-06-30",
       "end_date": "2026-07-06",
       "seen_count": 1
@@ -1788,7 +1788,7 @@
     {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
-      "price": 99000,
+      "price": 45300,
       "start_date": "2026-06-30",
       "end_date": "2026-07-06",
       "seen_count": 1
@@ -1903,6 +1903,38 @@
       "price": 6500,
       "start_date": "2026-07-01",
       "end_date": "2026-07-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nova 02-09 júlí",
+      "line_item_name": "Nova 02-09 júlí",
+      "price": 111900,
+      "start_date": "2026-07-02",
+      "end_date": "2026-07-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nova 02-09 júlí",
+      "line_item_name": "Nova 02-09 júlí",
+      "price": 287500,
+      "start_date": "2026-07-02",
+      "end_date": "2026-07-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nova 02-09 júlí",
+      "line_item_name": "Nova 02-09 júlí",
+      "price": 105000,
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nova 02-09 júlí",
+      "line_item_name": "Nova 02-09 júlí",
+      "price": 54600,
+      "start_date": "2026-07-08",
+      "end_date": "2026-07-09",
       "seen_count": 1
     },
     {
@@ -2156,7 +2188,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 39000,
+      "price": 153200,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2164,7 +2196,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 153200,
+      "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
