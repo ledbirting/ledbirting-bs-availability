@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T07:20:57.250Z",
+  "generated_at": "2026-06-30T10:14:32.547Z",
   "scope": {
     "report_start_date": "2026-06-30",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 603,
-    "unique_items": 361,
+    "items_seen": 606,
+    "unique_items": 364,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1452,18 +1452,18 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 6500,
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
+      "price": 6500,
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-31",
+      "seen_count": 1
     },
     {
       "campaign_name": "Icelandair  / Hvíta húsið - Glerártorgi",
@@ -2058,14 +2058,6 @@
       "seen_count": 7
     },
     {
-      "campaign_name": "Lífland - Versló - Akureyri og Selfoss",
-      "line_item_name": "Lífland - Versló - Akureyri",
-      "price": 208000,
-      "start_date": "2026-07-30",
-      "end_date": "2026-08-06",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
       "line_item_name": "LIVE / Fim 2. júlí / 6x1",
       "price": 38000,
@@ -2508,14 +2500,6 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 153200,
-      "start_date": "2026-07-03",
-      "end_date": "2026-07-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sam-Film. Vaiana",
-      "line_item_name": "Vaiana",
       "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
@@ -2525,6 +2509,14 @@
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
       "price": 104000,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sam-Film. Vaiana",
+      "line_item_name": "Vaiana",
+      "price": 153200,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2572,17 +2564,17 @@
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 145800,
+      "price": 109000,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-07",
+      "end_date": "2026-07-06",
       "seen_count": 1
     },
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 109000,
+      "price": 145800,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-06",
+      "end_date": "2026-07-07",
       "seen_count": 1
     },
     {
@@ -2663,6 +2655,38 @@
       "price": 88500,
       "start_date": "2026-06-28",
       "end_date": "2026-07-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sólar Júlí",
+      "line_item_name": "Sólar júlí",
+      "price": 93300,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sólar Júlí",
+      "line_item_name": "Sólar júlí",
+      "price": 101400,
+      "start_date": "2026-07-08",
+      "end_date": "2026-07-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sólar Júlí",
+      "line_item_name": "Sólar júlí",
+      "price": 93000,
+      "start_date": "2026-07-15",
+      "end_date": "2026-07-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sólar Júlí",
+      "line_item_name": "Sólar júní",
+      "price": 135900,
+      "start_date": "2026-07-23",
+      "end_date": "2026-07-29",
       "seen_count": 1
     },
     {
