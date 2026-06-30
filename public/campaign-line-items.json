@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T15:52:59.729Z",
+  "generated_at": "2026-06-30T18:39:29.184Z",
   "scope": {
     "report_start_date": "2026-06-30",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 616,
-    "unique_items": 373,
+    "items_seen": 620,
+    "unique_items": 377,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -48,6 +48,22 @@
       "start_date": "2026-01-22",
       "end_date": "2027-01-22",
       "seen_count": 7
+    },
+    {
+      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
+      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x1 (alla daga)",
+      "price": 142200,
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
+      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x2 (síðasta daginn)",
+      "price": 47400,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-10",
+      "seen_count": 1
     },
     {
       "campaign_name": "Afreksverk - Hafnartorg",
@@ -1375,6 +1391,22 @@
       "price": 93900,
       "start_date": "2026-06-26",
       "end_date": "2026-07-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Happdrætti DAS / Datera - ágúst 2026",
+      "line_item_name": "DAS / Datera - 16. ágúst / 4x1",
+      "price": 22000,
+      "start_date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Happdrætti DAS / Datera - ágúst 2026",
+      "line_item_name": "DAS / Datera - 26. ágúst / 3x1",
+      "price": 15500,
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-26",
       "seen_count": 1
     },
     {
