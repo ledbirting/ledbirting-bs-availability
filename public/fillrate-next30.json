@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T14:40:09.966Z",
+  "generated_at": "2026-07-01T15:41:46.409Z",
   "result": [
     {
       "date": "2026-07-01",
@@ -542,8 +542,8 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.7016666666666667,
-          "rows_seen": 11
+          "fill_rate": 0.635,
+          "rows_seen": 10
         },
         {
           "id": 237865,
@@ -656,14 +656,14 @@
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.635,
-          "rows_seen": 10
+          "fill_rate": 0.7016666666666667,
+          "rows_seen": 11
         },
         {
           "id": 235465,
           "du_name": "Höfðabakki #2",
-          "fill_rate": 0.4666666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.5333333333333333,
+          "rows_seen": 8
         },
         {
           "id": 235463,
