@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T10:22:30.896Z",
+  "generated_at": "2026-07-01T12:59:45.757Z",
   "scope": {
     "report_start_date": "2026-07-01",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 591,
-    "unique_items": 359,
+    "items_seen": 586,
+    "unique_items": 354,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -595,7 +595,7 @@
     },
     {
       "campaign_name": "Bestun-Kanslarinn",
-      "line_item_name": "Bestun-Kanslarinn GLE no content",
+      "line_item_name": "Bestun-Kanslarinn GLE",
       "price": 65000,
       "start_date": "2026-07-01",
       "end_date": "2026-07-05",
@@ -2035,14 +2035,6 @@
     },
     {
       "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
-      "line_item_name": "LIVE / Fim 2. júlí / 6x1",
-      "price": 38000,
-      "start_date": "2026-07-02",
-      "end_date": "2026-07-02",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - júní til júlí 2026",
       "line_item_name": "LIVE / Fös 3. júlí / 6x1",
       "price": 39000,
       "start_date": "2026-07-03",
@@ -2231,38 +2223,6 @@
       "price": 117000,
       "start_date": "2026-08-07",
       "end_date": "2026-08-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Nova 02-09 júlí",
-      "line_item_name": "Nova 02-09 júlí",
-      "price": 295000,
-      "start_date": "2026-07-02",
-      "end_date": "2026-07-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Nova 02-09 júlí",
-      "line_item_name": "Nova 02-09 júlí",
-      "price": 117300,
-      "start_date": "2026-07-02",
-      "end_date": "2026-07-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Nova 02-09 júlí",
-      "line_item_name": "Nova 02-09 júlí",
-      "price": 105000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Nova 02-09 júlí",
-      "line_item_name": "Nova 02-09 júlí",
-      "price": 65600,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-09",
       "seen_count": 1
     },
     {
