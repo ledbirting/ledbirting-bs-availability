@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T15:53:12.015Z",
+  "generated_at": "2026-07-01T18:41:31.731Z",
   "scope": {
     "report_start_date": "2026-07-01",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 587,
-    "unique_items": 355,
+    "items_seen": 586,
+    "unique_items": 354,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1378,14 +1378,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Heimsferðir - Júlí pakki",
-      "line_item_name": "Heimsferðir - 1-20 júli - 5 skjáir",
-      "price": 288000,
-      "start_date": "2026-07-01",
-      "end_date": "2026-07-20",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "HHÍ flokkahappdrætti  / HN - júlí 2026",
       "line_item_name": "HHÍ flokkahappdrætti / HN / 10. júlí til kl. 16",
       "price": 47200,
@@ -2492,6 +2484,14 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
+      "price": 104000,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sam-Film. Vaiana",
+      "line_item_name": "Vaiana",
       "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
@@ -2501,14 +2501,6 @@
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
       "price": 153200,
-      "start_date": "2026-07-03",
-      "end_date": "2026-07-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sam-Film. Vaiana",
-      "line_item_name": "Vaiana",
-      "price": 104000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
