@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T08:36:36.877Z",
+  "generated_at": "2026-07-01T10:09:42.912Z",
   "result": [
     {
       "date": "2026-07-01",
@@ -7490,14 +7490,14 @@
         {
           "id": 237870,
           "du_name": "Akureyri #1",
-          "fill_rate": 0.5289394,
-          "rows_seen": 9
+          "fill_rate": 0.5956060666666666,
+          "rows_seen": 10
         },
         {
           "id": 338148,
           "du_name": "Akureyri #2",
-          "fill_rate": 0.4016666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.46833333333333327,
+          "rows_seen": 8
         },
         {
           "id": 404813,
@@ -7562,14 +7562,14 @@
         {
           "id": 569050,
           "du_name": "Glerártorg #1",
-          "fill_rate": 0.735,
-          "rows_seen": 14
+          "fill_rate": 0.8016666666666666,
+          "rows_seen": 15
         },
         {
           "id": 569051,
           "du_name": "Glerártorg #2",
-          "fill_rate": 0.8272727333333333,
-          "rows_seen": 15
+          "fill_rate": 0.8939393999999999,
+          "rows_seen": 16
         },
         {
           "id": 237871,
