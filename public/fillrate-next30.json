@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T13:39:44.683Z",
+  "generated_at": "2026-07-01T14:40:09.966Z",
   "result": [
     {
       "date": "2026-07-01",
@@ -44,14 +44,14 @@
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.9333333333333332,
-          "rows_seen": 14
+          "fill_rate": 0.8666666666666666,
+          "rows_seen": 13
         },
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 4
+          "fill_rate": 0.39999999999999997,
+          "rows_seen": 5
         },
         {
           "id": 441742,
@@ -140,8 +140,8 @@
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.7683333333333333,
-          "rows_seen": 12
+          "fill_rate": 0.7016666666666667,
+          "rows_seen": 11
         },
         {
           "id": 235465,
@@ -164,8 +164,8 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.6683333333333333,
-          "rows_seen": 11
+          "fill_rate": 0.6016666666666667,
+          "rows_seen": 10
         },
         {
           "id": 408992,
@@ -218,8 +218,8 @@
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.9683333333333333,
-          "rows_seen": 16
+          "fill_rate": 0.9016666666666666,
+          "rows_seen": 15
         },
         {
           "id": 445022,
@@ -254,8 +254,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.9683333333333333,
-          "rows_seen": 15
+          "fill_rate": 0.9016666666666666,
+          "rows_seen": 14
         }
       ]
     },
@@ -302,8 +302,8 @@
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.8333333333333333,
-          "rows_seen": 13
+          "fill_rate": 0.7666666666666666,
+          "rows_seen": 12
         },
         {
           "id": 237866,
@@ -398,8 +398,8 @@
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.43499999999999994,
-          "rows_seen": 7
+          "fill_rate": 0.3683333333333333,
+          "rows_seen": 6
         },
         {
           "id": 235465,
@@ -422,8 +422,8 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.46833333333333327,
-          "rows_seen": 8
+          "fill_rate": 0.4016666666666666,
+          "rows_seen": 7
         },
         {
           "id": 408992,
@@ -476,8 +476,8 @@
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.6016666666666667,
-          "rows_seen": 10
+          "fill_rate": 0.5349999999999999,
+          "rows_seen": 9
         },
         {
           "id": 445022,
@@ -512,8 +512,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.635,
-          "rows_seen": 10
+          "fill_rate": 0.5683333333333334,
+          "rows_seen": 9
         }
       ]
     },
@@ -710,8 +710,8 @@
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.8016666666666666,
-          "rows_seen": 14
+          "fill_rate": 0.735,
+          "rows_seen": 13
         },
         {
           "id": 237874,
@@ -734,8 +734,8 @@
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.735,
-          "rows_seen": 12
+          "fill_rate": 0.8016666666666666,
+          "rows_seen": 13
         },
         {
           "id": 445022,
@@ -812,8 +812,8 @@
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.3833333333333333,
-          "rows_seen": 6
+          "fill_rate": 0.44999999999999996,
+          "rows_seen": 7
         },
         {
           "id": 235464,
@@ -920,8 +920,8 @@
         {
           "id": 235465,
           "du_name": "Höfðabakki #2",
-          "fill_rate": 0.3966666666666666,
-          "rows_seen": 6
+          "fill_rate": 0.32999999999999996,
+          "rows_seen": 5
         },
         {
           "id": 235463,
@@ -1334,8 +1334,8 @@
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.8333333333333333,
-          "rows_seen": 13
+          "fill_rate": 0.7666666666666666,
+          "rows_seen": 12
         },
         {
           "id": 237866,
@@ -1430,8 +1430,8 @@
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.5016666775462962,
-          "rows_seen": 8
+          "fill_rate": 0.4350000108796296,
+          "rows_seen": 7
         },
         {
           "id": 235465,
@@ -1454,8 +1454,8 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.6016666666666667,
-          "rows_seen": 10
+          "fill_rate": 0.5349999999999999,
+          "rows_seen": 9
         },
         {
           "id": 408992,
@@ -1484,8 +1484,8 @@
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.4016666666666666,
-          "rows_seen": 8
+          "fill_rate": 0.335,
+          "rows_seen": 7
         },
         {
           "id": 237874,
@@ -1502,14 +1502,14 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.5349999999999999,
-          "rows_seen": 9
+          "fill_rate": 0.6016666666666667,
+          "rows_seen": 10
         },
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.6683333333333333,
-          "rows_seen": 11
+          "fill_rate": 0.6016666666666667,
+          "rows_seen": 10
         },
         {
           "id": 445022,
@@ -1544,8 +1544,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.5683333333333334,
-          "rows_seen": 9
+          "fill_rate": 0.5016666666666666,
+          "rows_seen": 8
         }
       ]
     },
@@ -1850,8 +1850,8 @@
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.5666666666666667,
-          "rows_seen": 9
+          "fill_rate": 0.49999999999999994,
+          "rows_seen": 8
         },
         {
           "id": 237866,
@@ -1946,8 +1946,8 @@
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.5683333333333334,
-          "rows_seen": 9
+          "fill_rate": 0.5016666666666666,
+          "rows_seen": 8
         },
         {
           "id": 235465,
@@ -1970,8 +1970,8 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.4016666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.33499999999999996,
+          "rows_seen": 6
         },
         {
           "id": 408992,
@@ -2024,8 +2024,8 @@
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.8683333333333333,
-          "rows_seen": 13
+          "fill_rate": 0.8016666666666666,
+          "rows_seen": 12
         },
         {
           "id": 445022,
@@ -2060,8 +2060,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.7683333333333333,
-          "rows_seen": 12
+          "fill_rate": 0.7016666666666667,
+          "rows_seen": 11
         }
       ]
     },
@@ -2108,8 +2108,8 @@
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.8846153999999999,
-          "rows_seen": 14
+          "fill_rate": 0.8179487333333333,
+          "rows_seen": 13
         },
         {
           "id": 237866,
@@ -2204,8 +2204,8 @@
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.3683333333333333,
-          "rows_seen": 6
+          "fill_rate": 0.30166666666666664,
+          "rows_seen": 5
         },
         {
           "id": 235465,
@@ -2228,8 +2228,8 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.4016666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.33499999999999996,
+          "rows_seen": 6
         },
         {
           "id": 408992,
@@ -2282,8 +2282,8 @@
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.735,
-          "rows_seen": 11
+          "fill_rate": 0.6683333333333333,
+          "rows_seen": 10
         },
         {
           "id": 445022,
@@ -2318,8 +2318,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.5016666666666666,
-          "rows_seen": 8
+          "fill_rate": 0.43499999999999994,
+          "rows_seen": 7
         }
       ]
     },
@@ -3140,8 +3140,8 @@
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.5444444666666666,
-          "rows_seen": 9
+          "fill_rate": 0.4777778,
+          "rows_seen": 8
         },
         {
           "id": 237866,
@@ -3236,8 +3236,8 @@
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.43499999999999994,
-          "rows_seen": 7
+          "fill_rate": 0.3683333333333333,
+          "rows_seen": 6
         },
         {
           "id": 235465,
@@ -3260,8 +3260,8 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.4016666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.33499999999999996,
+          "rows_seen": 6
         },
         {
           "id": 408992,
@@ -3314,8 +3314,8 @@
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.835,
-          "rows_seen": 14
+          "fill_rate": 0.7683333333333333,
+          "rows_seen": 13
         },
         {
           "id": 445022,
@@ -3350,8 +3350,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.5683333333333334,
-          "rows_seen": 9
+          "fill_rate": 0.5016666666666666,
+          "rows_seen": 8
         }
       ]
     },
@@ -3656,8 +3656,8 @@
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.44444446666666665,
-          "rows_seen": 7
+          "fill_rate": 0.3777778,
+          "rows_seen": 6
         },
         {
           "id": 237866,
@@ -3752,8 +3752,8 @@
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.5683333333333334,
-          "rows_seen": 9
+          "fill_rate": 0.5016666666666666,
+          "rows_seen": 8
         },
         {
           "id": 235465,
@@ -3776,8 +3776,8 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.4016666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.33499999999999996,
+          "rows_seen": 6
         },
         {
           "id": 408992,
@@ -3830,8 +3830,8 @@
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.635,
-          "rows_seen": 11
+          "fill_rate": 0.5683333333333332,
+          "rows_seen": 10
         },
         {
           "id": 445022,
@@ -3866,8 +3866,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.7016666666666667,
-          "rows_seen": 11
+          "fill_rate": 0.635,
+          "rows_seen": 10
         }
       ]
     },
@@ -3914,8 +3914,8 @@
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.7111111333333333,
-          "rows_seen": 11
+          "fill_rate": 0.6444444666666667,
+          "rows_seen": 10
         },
         {
           "id": 237866,
@@ -4010,8 +4010,8 @@
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.30166666666666664,
-          "rows_seen": 5
+          "fill_rate": 0.23500000000000001,
+          "rows_seen": 4
         },
         {
           "id": 235465,
@@ -4034,8 +4034,8 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.4016666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.33499999999999996,
+          "rows_seen": 6
         },
         {
           "id": 408992,
@@ -4088,8 +4088,8 @@
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.5016666666666666,
-          "rows_seen": 8
+          "fill_rate": 0.43499999999999994,
+          "rows_seen": 7
         },
         {
           "id": 445022,
@@ -4124,8 +4124,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.3683333333333333,
-          "rows_seen": 6
+          "fill_rate": 0.30166666666666664,
+          "rows_seen": 5
         }
       ]
     },
@@ -4946,8 +4946,8 @@
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.5222222,
-          "rows_seen": 8
+          "fill_rate": 0.4555555333333333,
+          "rows_seen": 7
         },
         {
           "id": 237866,
@@ -5042,8 +5042,8 @@
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.5016666666666666,
-          "rows_seen": 8
+          "fill_rate": 0.43499999999999994,
+          "rows_seen": 7
         },
         {
           "id": 235465,
@@ -5066,8 +5066,8 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.5349999999999999,
-          "rows_seen": 9
+          "fill_rate": 0.46833333333333327,
+          "rows_seen": 8
         },
         {
           "id": 408992,
@@ -5120,8 +5120,8 @@
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.6238888666666667,
-          "rows_seen": 11
+          "fill_rate": 0.5572222,
+          "rows_seen": 10
         },
         {
           "id": 445022,
@@ -5156,8 +5156,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.7016666666666667,
-          "rows_seen": 11
+          "fill_rate": 0.635,
+          "rows_seen": 10
         }
       ]
     },
