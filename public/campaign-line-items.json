@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T06:39:41.942Z",
+  "generated_at": "2026-07-02T11:31:55.618Z",
   "scope": {
     "report_start_date": "2026-07-02",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 557,
-    "unique_items": 346,
+    "items_seen": 559,
+    "unique_items": 348,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -2420,7 +2420,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 104000,
+      "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2428,7 +2428,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 39000,
+      "price": 104000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2484,17 +2484,17 @@
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 145800,
+      "price": 109000,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-07",
+      "end_date": "2026-07-06",
       "seen_count": 1
     },
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 109000,
+      "price": 145800,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-06",
+      "end_date": "2026-07-07",
       "seen_count": 1
     },
     {
@@ -2551,6 +2551,22 @@
       "price": 88500,
       "start_date": "2026-06-28",
       "end_date": "2026-07-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Skógarmenn KFUM - 10. -18. júlí",
+      "line_item_name": "Hagasmári - 10.-15.júlí",
+      "price": 34800,
+      "start_date": "2026-07-10",
+      "end_date": "2026-07-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Skógarmenn KFUM - 10. -18. júlí",
+      "line_item_name": "Höfðabakki - 10.-16.júlí",
+      "price": 35000,
+      "start_date": "2026-07-10",
+      "end_date": "2026-07-16",
       "seen_count": 1
     },
     {
