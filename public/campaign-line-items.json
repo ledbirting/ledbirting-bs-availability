@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-02T22:04:26.582Z",
+  "generated_at": "2026-07-03T02:42:59.693Z",
   "scope": {
-    "report_start_date": "2026-07-02",
+    "report_start_date": "2026-07-03",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 564,
-    "unique_items": 353,
+    "items_seen": 549,
+    "unique_items": 346,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -71,7 +71,7 @@
       "price": 187500,
       "start_date": "2026-08-01",
       "end_date": "2026-08-28",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Afreksverk - Hafnartorg",
@@ -119,7 +119,7 @@
       "price": 159500,
       "start_date": "2026-08-01",
       "end_date": "2026-08-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Artasan -Sóley - Hæðasmári - 2026",
@@ -127,7 +127,7 @@
       "price": 159500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-29",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Artasan -Sóley - Hæðasmári - 2026",
@@ -143,7 +143,7 @@
       "price": 159500,
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Artasan -Sóley - Hæðasmári - 2026",
@@ -607,7 +607,7 @@
       "price": 52000,
       "start_date": "2026-08-01",
       "end_date": "2026-08-08",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun-vogue-des-Glerártorg",
@@ -727,14 +727,6 @@
       "price": 6500,
       "start_date": "2026-08-29",
       "end_date": "2026-08-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir Þór 02 júlí",
-      "price": 6500,
-      "start_date": "2026-07-02",
-      "end_date": "2026-07-02",
       "seen_count": 1
     },
     {
@@ -1059,14 +1051,6 @@
     },
     {
       "campaign_name": "Dominos Júlí",
-      "line_item_name": "Dominos 02 júlí. BT-BH1-GRI-KAPLA1-GB-KEV1-SFS2-VlV1",
-      "price": 52500,
-      "start_date": "2026-07-02",
-      "end_date": "2026-07-02",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Dominos Júlí",
       "line_item_name": "Dominos 03-júlí. BH2-EH1-HB1-KAPLA2-GB-KEV-SFS2-VLV2",
       "price": 48500,
       "start_date": "2026-07-03",
@@ -1143,7 +1127,7 @@
       "price": 3198000,
       "start_date": "2026-03-01",
       "end_date": "2027-02-28",
-      "seen_count": 9
+      "seen_count": 8
     },
     {
       "campaign_name": "Eyesland (samningur) - mars '26 til feb '27",
@@ -1175,7 +1159,7 @@
       "price": 157500,
       "start_date": "2026-08-01",
       "end_date": "2026-08-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Farmers Market - 2026 - Grandi",
@@ -1183,7 +1167,7 @@
       "price": 60000,
       "start_date": "2026-08-24",
       "end_date": "2026-08-31",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Farmers Market - 2026 - Grandi",
@@ -1191,7 +1175,7 @@
       "price": 217500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-29",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Farmers Market - 2026 - Grandi",
@@ -1207,7 +1191,7 @@
       "price": 217500,
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Farmers Market - 2026 - Grandi",
@@ -1231,7 +1215,7 @@
       "price": 980500,
       "start_date": "2026-05-01",
       "end_date": "2026-08-31",
-      "seen_count": 3
+      "seen_count": 2
     },
     {
       "campaign_name": "Flugrútan sumar.",
@@ -1295,7 +1279,7 @@
       "price": 315000,
       "start_date": "2026-06-19",
       "end_date": "2026-08-31",
-      "seen_count": 3
+      "seen_count": 2
     },
     {
       "campaign_name": "FS Fasteignir - Tilboð",
@@ -1327,14 +1311,6 @@
       "price": 97500,
       "start_date": "2026-07-05",
       "end_date": "2026-07-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Gluggahöllin sprengi tilboð",
-      "line_item_name": "Egilshöll1-Grandi-Hagasmári-Kaplakrika1-SMáratorg.",
-      "price": 93900,
-      "start_date": "2026-06-26",
-      "end_date": "2026-07-02",
       "seen_count": 1
     },
     {
@@ -1463,7 +1439,7 @@
       "price": 195000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Icepharma - apóteks samningur / Digido  - langtíma  2026",
@@ -1511,7 +1487,7 @@
       "price": 510000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
@@ -1567,14 +1543,6 @@
       "price": 31000,
       "start_date": "2026-07-19",
       "end_date": "2026-07-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 2. júlí / 4x1",
-      "price": 26000,
-      "start_date": "2026-07-02",
-      "end_date": "2026-07-02",
       "seen_count": 1
     },
     {
@@ -2083,14 +2051,6 @@
     },
     {
       "campaign_name": "MS / Ennemm - Akureyri - 1. til 4. júlí 2026",
-      "line_item_name": "Kókómjólk - MS / Ennemm - Akureyri 2. júlí - GLER1, GLER2 (2 hólf á hvorri hlið)",
-      "price": 26000,
-      "start_date": "2026-07-02",
-      "end_date": "2026-07-02",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "MS / Ennemm - Akureyri - 1. til 4. júlí 2026",
       "line_item_name": "Kókómjólk - MS / Ennemm - Akureyri 3. júlí - GLER2 (3 hólf á einni hlið)",
       "price": 19500,
       "start_date": "2026-07-03",
@@ -2112,14 +2072,6 @@
       "start_date": "2026-01-21",
       "end_date": "2027-01-20",
       "seen_count": 7
-    },
-    {
-      "campaign_name": "N1 mótin Glerártorg.",
-      "line_item_name": "GLT. 1 og 2  02 júlí",
-      "price": 13000,
-      "start_date": "2026-07-02",
-      "end_date": "2026-07-02",
-      "seen_count": 1
     },
     {
       "campaign_name": "N1 mótin Glerártorg.",
@@ -2191,7 +2143,7 @@
       "price": 180500,
       "start_date": "2026-09-12",
       "end_date": "2026-09-30",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Optical - Hæðasmári",
@@ -2375,7 +2327,7 @@
       "price": 188500,
       "start_date": "2026-08-03",
       "end_date": "2026-08-31",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Sahara-Earth Lagoon -Desember",
@@ -2415,12 +2367,12 @@
       "price": 78000,
       "start_date": "2026-09-03",
       "end_date": "2026-09-30",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 39000,
+      "price": 153200,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2428,7 +2380,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 153200,
+      "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2455,7 +2407,7 @@
       "price": 162000,
       "start_date": "2026-08-01",
       "end_date": "2026-08-06",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Samkaup / Nettó - jan 2026",
@@ -2484,17 +2436,17 @@
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 145800,
+      "price": 109000,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-07",
+      "end_date": "2026-07-06",
       "seen_count": 1
     },
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 109000,
+      "price": 145800,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-06",
+      "end_date": "2026-07-07",
       "seen_count": 1
     },
     {
@@ -2627,14 +2579,6 @@
     },
     {
       "campaign_name": "Thule",
-      "line_item_name": "Thule  01-02 júlí",
-      "price": 172600,
-      "start_date": "2026-07-01",
-      "end_date": "2026-07-02",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Thule",
       "line_item_name": "Thule  06-08 ágúst.",
       "price": 85500,
       "start_date": "2026-08-06",
@@ -2695,7 +2639,7 @@
       "price": 64000,
       "start_date": "2026-07-31",
       "end_date": "2026-08-01",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Tónhylur Long term",
@@ -2839,7 +2783,7 @@
       "price": 71500,
       "start_date": "2026-08-01",
       "end_date": "2026-08-15",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "ÞG Verk - Thorraholtid",
