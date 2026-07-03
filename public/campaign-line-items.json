@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T11:30:19.592Z",
+  "generated_at": "2026-07-03T13:57:41.301Z",
   "scope": {
     "report_start_date": "2026-07-03",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 551,
-    "unique_items": 348,
+    "items_seen": 557,
+    "unique_items": 353,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1380,7 +1380,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 52000,
+      "price": 6500,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1388,7 +1388,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 6500,
+      "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1994,6 +1994,46 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Lova Iceland júlí",
+      "line_item_name": "Lova Iceland",
+      "price": 87000,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-18",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Lova Iceland júlí",
+      "line_item_name": "Lova Iceland",
+      "price": 71000,
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lova Iceland júlí",
+      "line_item_name": "Lova Iceland",
+      "price": 85600,
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lova Iceland júlí",
+      "line_item_name": "Lova Iceland",
+      "price": 45300,
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lova Iceland júlí",
+      "line_item_name": "Lova Iceland",
+      "price": 41800,
+      "start_date": "2026-07-12",
+      "end_date": "2026-07-18",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Lyfja Selfoss og Akureyri.",
       "line_item_name": "Lyfja 05 júlí  Akureyri 4 x skjáir og  Selfoss 2 x skjáir.",
       "price": 39000,
@@ -2364,7 +2404,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 104000,
+      "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2372,7 +2412,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 39000,
+      "price": 104000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2420,17 +2460,17 @@
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 109000,
+      "price": 145800,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-06",
+      "end_date": "2026-07-07",
       "seen_count": 1
     },
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
       "line_item_name": "SPAR",
-      "price": 145800,
+      "price": 109000,
       "start_date": "2026-07-02",
-      "end_date": "2026-07-07",
+      "end_date": "2026-07-06",
       "seen_count": 1
     },
     {
