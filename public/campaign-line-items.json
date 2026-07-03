@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T06:29:22.259Z",
+  "generated_at": "2026-07-03T11:30:19.592Z",
   "scope": {
     "report_start_date": "2026-07-03",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 549,
-    "unique_items": 346,
+    "items_seen": 551,
+    "unique_items": 348,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1380,7 +1380,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 6500,
+      "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1388,7 +1388,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 52000,
+      "price": 6500,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1978,22 +1978,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Lottó 42M - Getraunir  / Ennemm - 3. til 4. júlí 2026",
-      "line_item_name": "Lottó 42M - Fös 3. júlí",
-      "price": 71100,
-      "start_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lottó 42M - Getraunir  / Ennemm - 3. til 4. júlí 2026",
-      "line_item_name": "Lottó 42M - Lau 4. júlí til kl. 18",
-      "price": 80100,
-      "start_date": "2026-07-04",
-      "end_date": "2026-07-04",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Lova Iceland",
       "line_item_name": "Lova Iceland",
       "price": 99000,
@@ -2380,7 +2364,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 39000,
+      "price": 104000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2388,7 +2372,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 104000,
+      "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2578,6 +2562,38 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Tekk",
+      "line_item_name": "Tekk GRI",
+      "price": 15000,
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tekk",
+      "line_item_name": "Tekk. BT-BH-EH-HÆSMI-HAFT-HAGASM-HBHÖFT-KAPLA-GB-SMT-VLV",
+      "price": 238800,
+      "start_date": "2026-07-07",
+      "end_date": "2026-07-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tekk",
+      "line_item_name": "Tekk. GRI.",
+      "price": 15000,
+      "start_date": "2026-07-07",
+      "end_date": "2026-07-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tekk",
+      "line_item_name": "Tekk.b BT-BH-EH-FJH-HAGASM-HB-KAPLA-KEV-SMT-VLV",
+      "price": 291200,
+      "start_date": "2026-07-07",
+      "end_date": "2026-07-13",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Thule",
       "line_item_name": "Thule  06-08 ágúst.",
       "price": 85500,
@@ -2698,7 +2714,7 @@
       "seen_count": 6
     },
     {
-      "campaign_name": "Verslunarmannahelgi",
+      "campaign_name": "Verslunarmannahelgi Digido.",
       "line_item_name": "Treo. 02 ágúst.",
       "price": 45000,
       "start_date": "2026-08-02",
@@ -2706,7 +2722,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Verslunarmannahelgi",
+      "campaign_name": "Verslunarmannahelgi Digido.",
       "line_item_name": "Treo. 03 ágúst.",
       "price": 41000,
       "start_date": "2026-08-03",
@@ -2714,7 +2730,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Verslunarmannahelgi",
+      "campaign_name": "Verslunarmannahelgi Digido.",
       "line_item_name": "Treo. 30 júlí",
       "price": 37500,
       "start_date": "2026-07-30",
