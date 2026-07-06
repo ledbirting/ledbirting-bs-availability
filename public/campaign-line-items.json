@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T21:58:53.656Z",
+  "generated_at": "2026-07-06T02:56:22.009Z",
   "scope": {
-    "report_start_date": "2026-07-05",
+    "report_start_date": "2026-07-06",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 541,
-    "unique_items": 333,
+    "items_seen": 534,
+    "unique_items": 324,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -515,14 +515,6 @@
     },
     {
       "campaign_name": "Aur / HN - júlí 2026",
-      "line_item_name": "Aur / HN - Sun 5. júlí - 7x1",
-      "price": 42500,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-05",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - júlí 2026",
       "line_item_name": "Aur / HN - Þri 14. júlí - 7x1",
       "price": 46800,
       "start_date": "2026-07-14",
@@ -583,14 +575,6 @@
       "price": 33000,
       "start_date": "2026-08-22",
       "end_date": "2026-08-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bestun-Kanslarinn",
-      "line_item_name": "Bestun-Kanslarinn GLE",
-      "price": 65000,
-      "start_date": "2026-07-01",
-      "end_date": "2026-07-05",
       "seen_count": 1
     },
     {
@@ -951,7 +935,7 @@
       "price": 312000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Colas",
@@ -1571,14 +1555,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 5. júlí / 4x1",
-      "price": 24000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-05",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 6. júlí / 4x1",
       "price": 25500,
       "start_date": "2026-07-06",
@@ -1607,14 +1583,6 @@
       "price": 25500,
       "start_date": "2026-07-09",
       "end_date": "2026-07-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ilva GLE 1-5 juli",
-      "line_item_name": "Ilva GLE 1-5 juli (3 juli)",
-      "price": 0,
-      "start_date": "2026-07-01",
-      "end_date": "2026-07-05",
       "seen_count": 1
     },
     {
@@ -1743,7 +1711,7 @@
       "price": 39000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-03",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1815,7 +1783,7 @@
       "price": 39000,
       "start_date": "2026-09-03",
       "end_date": "2026-09-05",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1900,14 +1868,6 @@
     {
       "campaign_name": "Lova Iceland júlí",
       "line_item_name": "Lova Iceland",
-      "price": 85600,
-      "start_date": "2026-07-06",
-      "end_date": "2026-07-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lova Iceland júlí",
-      "line_item_name": "Lova Iceland",
       "price": 71000,
       "start_date": "2026-07-06",
       "end_date": "2026-07-18",
@@ -1916,17 +1876,17 @@
     {
       "campaign_name": "Lova Iceland júlí",
       "line_item_name": "Lova Iceland",
-      "price": 41800,
-      "start_date": "2026-07-12",
-      "end_date": "2026-07-18",
+      "price": 85600,
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-13",
       "seen_count": 1
     },
     {
-      "campaign_name": "Lyfja Selfoss og Akureyri.",
-      "line_item_name": "Lyfja 05 júlí  Akureyri 4 x skjáir og  Selfoss 2 x skjáir.",
-      "price": 39000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-05",
+      "campaign_name": "Lova Iceland júlí",
+      "line_item_name": "Lova Iceland",
+      "price": 41800,
+      "start_date": "2026-07-12",
+      "end_date": "2026-07-18",
       "seen_count": 1
     },
     {
@@ -1971,14 +1931,6 @@
     },
     {
       "campaign_name": "N1 mótin Glerártorg.",
-      "line_item_name": "GLT. 1 og 2  05 júlí",
-      "price": 13000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-05",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "N1 mótin Glerártorg.",
       "line_item_name": "GLT. 1 og 2 07-09 ágúst.  3 x birtingar.",
       "price": 117000,
       "start_date": "2026-08-07",
@@ -1991,22 +1943,6 @@
       "price": 295000,
       "start_date": "2026-07-02",
       "end_date": "2026-07-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Nova 02-09 júlí",
-      "line_item_name": "Nova 02-05 júlí.BH2-HÆSM-HAGAS-HB2-HÖFT-KAPLA-VLV2",
-      "price": 234400,
-      "start_date": "2026-07-02",
-      "end_date": "2026-07-05",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Nova 02-09 júlí",
-      "line_item_name": "Nova 05 júlí AK-GLT-BT-GRI-KAPLA3",
-      "price": 33000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-05",
       "seen_count": 1
     },
     {
@@ -2260,7 +2196,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 104000,
+      "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2268,7 +2204,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 39000,
+      "price": 104000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2327,14 +2263,6 @@
       "price": 109000,
       "start_date": "2026-07-02",
       "end_date": "2026-07-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sauna - Tilboð",
-      "line_item_name": "Sauna - Tilboð 1-5 júlí",
-      "price": 169000,
-      "start_date": "2026-07-01",
-      "end_date": "2026-07-05",
       "seen_count": 1
     },
     {
@@ -2663,7 +2591,7 @@
       "price": 520000,
       "start_date": "2027-06-30",
       "end_date": "2027-07-03",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Zipline Akureyri",
