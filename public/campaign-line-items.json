@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T07:12:57.654Z",
+  "generated_at": "2026-07-06T12:43:40.805Z",
   "scope": {
     "report_start_date": "2026-07-06",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 534,
-    "unique_items": 324,
+    "items_seen": 537,
+    "unique_items": 327,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1316,7 +1316,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 52000,
+      "price": 6500,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1324,7 +1324,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 6500,
+      "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1826,6 +1826,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "kringlan útsala",
+      "line_item_name": "kringlan útsala",
+      "price": 117000,
+      "start_date": "2026-07-10",
+      "end_date": "2026-07-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "kringlan útsala",
+      "line_item_name": "kringlan útsala",
+      "price": 108000,
+      "start_date": "2026-07-27",
+      "end_date": "2026-08-01",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Krónan 2 x faldar birtingar Grandi út árið 2025",
       "line_item_name": "Krónan 2 x faldar birtingar Grandi út árið 2025",
       "price": 2610000,
@@ -1851,11 +1867,11 @@
     },
     {
       "campaign_name": "Lova Iceland júlí",
-      "line_item_name": "Lova Iceland",
-      "price": 87000,
-      "start_date": "2026-07-03",
-      "end_date": "2026-07-18",
-      "seen_count": 2
+      "line_item_name": "Copy_of_Lova Iceland afmæli",
+      "price": 185200,
+      "start_date": "2026-07-18",
+      "end_date": "2026-07-24",
+      "seen_count": 1
     },
     {
       "campaign_name": "Lova Iceland júlí",
@@ -1868,16 +1884,24 @@
     {
       "campaign_name": "Lova Iceland júlí",
       "line_item_name": "Lova Iceland",
-      "price": 71000,
+      "price": 35500,
       "start_date": "2026-07-06",
-      "end_date": "2026-07-18",
+      "end_date": "2026-07-10",
       "seen_count": 1
     },
     {
       "campaign_name": "Lova Iceland júlí",
       "line_item_name": "Lova Iceland",
-      "price": 85600,
+      "price": 43500,
       "start_date": "2026-07-06",
+      "end_date": "2026-07-15",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Lova Iceland júlí",
+      "line_item_name": "Lova Iceland",
+      "price": 42800,
+      "start_date": "2026-07-07",
       "end_date": "2026-07-13",
       "seen_count": 1
     },
@@ -1885,8 +1909,16 @@
       "campaign_name": "Lova Iceland júlí",
       "line_item_name": "Lova Iceland",
       "price": 41800,
-      "start_date": "2026-07-12",
-      "end_date": "2026-07-18",
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lova Iceland júlí",
+      "line_item_name": "Lova Iceland afmæli",
+      "price": 96900,
+      "start_date": "2026-07-18",
+      "end_date": "2026-07-24",
       "seen_count": 1
     },
     {
@@ -2058,6 +2090,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Ratsjá -Evrópusambandið",
+      "line_item_name": "Ratsjá -Evrópusambandið",
+      "price": 300000,
+      "start_date": "2026-07-30",
+      "end_date": "2026-08-02",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Ratsjá -Gildi",
       "line_item_name": "Ratsjá -Gildi",
       "price": 1332800,
@@ -2084,8 +2124,8 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 5854800,
-      "start_date": "2026-07-27",
+      "price": 4649400,
+      "start_date": "2026-08-03",
       "end_date": "2026-08-29",
       "seen_count": 2
     },
@@ -2188,14 +2228,6 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 153200,
-      "start_date": "2026-07-03",
-      "end_date": "2026-07-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sam-Film. Vaiana",
-      "line_item_name": "Vaiana",
       "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
@@ -2205,6 +2237,14 @@
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
       "price": 104000,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sam-Film. Vaiana",
+      "line_item_name": "Vaiana",
+      "price": 153200,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2303,22 +2343,6 @@
       "price": 41000,
       "start_date": "2026-07-30",
       "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Skógarmenn KFUM - 10. -18. júlí",
-      "line_item_name": "Hagasmári - 10.-15.júlí",
-      "price": 34800,
-      "start_date": "2026-07-10",
-      "end_date": "2026-07-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Skógarmenn KFUM - 10. -18. júlí",
-      "line_item_name": "Höfðabakki - 10.-16.júlí",
-      "price": 35000,
-      "start_date": "2026-07-10",
-      "end_date": "2026-07-16",
       "seen_count": 1
     },
     {
@@ -2483,7 +2507,7 @@
     },
     {
       "campaign_name": "Unglingalandsmót UMFÍ 2026",
-      "line_item_name": "Unglingalandsmót UMFÍ 2026 - Akureyri",
+      "line_item_name": "Akureyri",
       "price": 136500,
       "start_date": "2026-07-08",
       "end_date": "2026-07-31",
@@ -2491,7 +2515,7 @@
     },
     {
       "campaign_name": "Unglingalandsmót UMFÍ 2026",
-      "line_item_name": "Unglingalandsmót UMFÍ 2026 - Hagasmári, Vesturlandvegur",
+      "line_item_name": "Hagasmári, Vesturlandvegur",
       "price": 39900,
       "start_date": "2026-07-21",
       "end_date": "2026-07-31",
