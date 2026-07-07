@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T22:11:30.664Z",
+  "generated_at": "2026-07-07T02:50:29.611Z",
   "scope": {
-    "report_start_date": "2026-07-06",
+    "report_start_date": "2026-07-07",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 537,
-    "unique_items": 327,
+    "items_seen": 535,
+    "unique_items": 322,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -55,7 +55,7 @@
       "price": 142200,
       "start_date": "2026-09-04",
       "end_date": "2026-09-09",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Advania / Datera - Haustráðstefna 2026",
@@ -623,7 +623,7 @@
       "price": 52000,
       "start_date": "2026-09-04",
       "end_date": "2026-09-11",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bílasala Akureyri (júní og júlí)",
@@ -875,14 +875,6 @@
     },
     {
       "campaign_name": "Bónus / HN - júlí 2026",
-      "line_item_name": "Bónus 6. júlí - Mán / 9x1",
-      "price": 57000,
-      "start_date": "2026-07-06",
-      "end_date": "2026-07-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - júlí 2026",
       "line_item_name": "Bónus 8. júlí - Mið / 9x1",
       "price": 57000,
       "start_date": "2026-07-08",
@@ -911,7 +903,7 @@
       "price": 272000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -1163,14 +1155,6 @@
     },
     {
       "campaign_name": "Flugrútan sumar.",
-      "line_item_name": "BT-KAPL2 3-GRI-GB. 01- 07 -júlí",
-      "price": 82500,
-      "start_date": "2026-07-01",
-      "end_date": "2026-07-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Flugrútan sumar.",
       "line_item_name": "BT-KAPLA1-GRI-GB.08-14-júlí",
       "price": 82500,
       "start_date": "2026-07-08",
@@ -1316,7 +1300,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 6500,
+      "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1324,7 +1308,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 52000,
+      "price": 6500,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1555,14 +1539,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 6. júlí / 4x1",
-      "price": 25500,
-      "start_date": "2026-07-06",
-      "end_date": "2026-07-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 7. júlí / 5x1",
       "price": 35000,
       "start_date": "2026-07-07",
@@ -1775,7 +1751,7 @@
       "price": 39000,
       "start_date": "2026-12-03",
       "end_date": "2026-12-05",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1876,6 +1852,14 @@
     {
       "campaign_name": "Lova Iceland júlí",
       "line_item_name": "Lova Iceland",
+      "price": 43500,
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-15",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Lova Iceland júlí",
+      "line_item_name": "Lova Iceland",
       "price": 45300,
       "start_date": "2026-07-06",
       "end_date": "2026-07-10",
@@ -1888,14 +1872,6 @@
       "start_date": "2026-07-06",
       "end_date": "2026-07-10",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Lova Iceland júlí",
-      "line_item_name": "Lova Iceland",
-      "price": 43500,
-      "start_date": "2026-07-06",
-      "end_date": "2026-07-15",
-      "seen_count": 2
     },
     {
       "campaign_name": "Lova Iceland júlí",
@@ -2103,7 +2079,7 @@
       "price": 1332800,
       "start_date": "2026-09-04",
       "end_date": "2026-09-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Ratsjá PEI",
@@ -2191,7 +2167,7 @@
       "price": 377000,
       "start_date": "2026-12-03",
       "end_date": "2026-12-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "sahara-Earth Lagoon -júli",
@@ -2223,12 +2199,12 @@
       "price": 78000,
       "start_date": "2026-09-03",
       "end_date": "2026-09-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 39000,
+      "price": 153200,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2244,7 +2220,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 153200,
+      "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2271,7 +2247,7 @@
       "price": 1235325,
       "start_date": "2026-01-06",
       "end_date": "2027-01-02",
-      "seen_count": 7
+      "seen_count": 6
     },
     {
       "campaign_name": "Samkaup / Nettó - jan 2026",
@@ -2279,7 +2255,7 @@
       "price": 1441125,
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
-      "seen_count": 7
+      "seen_count": 6
     },
     {
       "campaign_name": "Samkaup / Nettó - jan 2026",
@@ -2287,7 +2263,7 @@
       "price": 960750,
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
-      "seen_count": 7
+      "seen_count": 6
     },
     {
       "campaign_name": "samkaup-krambúðin samningur +auka",
@@ -2295,14 +2271,6 @@
       "price": 145800,
       "start_date": "2026-07-02",
       "end_date": "2026-07-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "samkaup-krambúðin samningur +auka",
-      "line_item_name": "SPAR",
-      "price": 109000,
-      "start_date": "2026-07-02",
-      "end_date": "2026-07-06",
       "seen_count": 1
     },
     {
@@ -2343,14 +2311,6 @@
       "price": 41000,
       "start_date": "2026-07-30",
       "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sólar Júlí",
-      "line_item_name": "Sólar júlí",
-      "price": 93300,
-      "start_date": "2026-07-01",
-      "end_date": "2026-07-07",
       "seen_count": 1
     },
     {
@@ -2639,7 +2599,7 @@
       "price": 0,
       "start_date": "2026-04-15",
       "end_date": "2027-02-01",
-      "seen_count": 8
+      "seen_count": 7
     }
   ]
 }
