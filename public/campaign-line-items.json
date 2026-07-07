@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T06:43:54.063Z",
+  "generated_at": "2026-07-07T11:46:22.447Z",
   "scope": {
     "report_start_date": "2026-07-07",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 535,
-    "unique_items": 322,
+    "items_seen": 538,
+    "unique_items": 325,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1058,6 +1058,30 @@
       "seen_count": 8
     },
     {
+      "campaign_name": "Ennemm. Lottó 67 milljónir11 júlí",
+      "line_item_name": "Ennemm. Lottó 67 milljónir 09 júlí",
+      "price": 56500,
+      "start_date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ennemm. Lottó 67 milljónir11 júlí",
+      "line_item_name": "Ennemm. Lottó 67 milljónir 10 júlí",
+      "price": 52300,
+      "start_date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ennemm. Lottó 67 milljónir11 júlí",
+      "line_item_name": "Ennemm. Lottó 67 milljónir 11 júlí",
+      "price": 56000,
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Eyesland (samningur) - mars '26 til feb '27",
       "line_item_name": "Eyesland - Glæsibær / GRA, VES1, VES2 / (auka v. bilunar) Lau, Þri",
       "price": 90000,
@@ -1852,14 +1876,6 @@
     {
       "campaign_name": "Lova Iceland júlí",
       "line_item_name": "Lova Iceland",
-      "price": 43500,
-      "start_date": "2026-07-06",
-      "end_date": "2026-07-15",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Lova Iceland júlí",
-      "line_item_name": "Lova Iceland",
       "price": 45300,
       "start_date": "2026-07-06",
       "end_date": "2026-07-10",
@@ -1872,6 +1888,14 @@
       "start_date": "2026-07-06",
       "end_date": "2026-07-10",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Lova Iceland júlí",
+      "line_item_name": "Lova Iceland",
+      "price": 43500,
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-15",
+      "seen_count": 2
     },
     {
       "campaign_name": "Lova Iceland júlí",
@@ -2212,7 +2236,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 104000,
+      "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2220,7 +2244,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 39000,
+      "price": 104000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
