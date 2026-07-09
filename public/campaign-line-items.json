@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T22:03:12.543Z",
+  "generated_at": "2026-07-09T02:43:04.956Z",
   "scope": {
-    "report_start_date": "2026-07-08",
+    "report_start_date": "2026-07-09",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 551,
-    "unique_items": 332,
+    "items_seen": 544,
+    "unique_items": 326,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -60,9 +60,9 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 15000,
+      "price": 75000,
       "start_date": "2026-07-08",
-      "end_date": "2026-07-17",
+      "end_date": "2026-07-22",
       "seen_count": 1
     },
     {
@@ -76,9 +76,9 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 75000,
+      "price": 15000,
       "start_date": "2026-07-08",
-      "end_date": "2026-07-22",
+      "end_date": "2026-07-17",
       "seen_count": 1
     },
     {
@@ -531,14 +531,6 @@
     },
     {
       "campaign_name": "Aur / HN - júlí 2026",
-      "line_item_name": "Aur / HN - Mið 8. júlí - 7x1",
-      "price": 43300,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-08",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - júlí 2026",
       "line_item_name": "Aur / HN - Sun 12. júlí - 7x1",
       "price": 43800,
       "start_date": "2026-07-12",
@@ -914,20 +906,12 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Bónus / HN - júlí 2026",
-      "line_item_name": "Bónus 8. júlí - Mið / 9x1",
-      "price": 57000,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-08",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Byko - Samningur - 2026",
       "line_item_name": "Byko - Ágúst - Fim,Fös - AK/GLE,SELF,KEF",
       "price": 37000,
       "start_date": "2026-08-01",
       "end_date": "2026-08-08",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -951,7 +935,7 @@
       "price": 272000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -1079,7 +1063,7 @@
       "price": 26000,
       "start_date": "2026-08-01",
       "end_date": "2026-08-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Duty Free - Heinemann  / Datera - okt 2026",
@@ -1327,14 +1311,6 @@
       "price": 37500,
       "start_date": "2026-07-01",
       "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Huppa Tilboðs birtingar",
-      "line_item_name": "Huppa Tilboðs birtingar",
-      "price": 45200,
-      "start_date": "2026-06-25",
-      "end_date": "2026-07-08",
       "seen_count": 1
     },
     {
@@ -1595,14 +1571,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 8. júlí / 4x1",
-      "price": 27500,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-08",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 9. júlí / 4x1",
       "price": 25500,
       "start_date": "2026-07-09",
@@ -1799,7 +1767,7 @@
       "price": 39000,
       "start_date": "2026-12-03",
       "end_date": "2026-12-05",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1815,7 +1783,7 @@
       "price": 39000,
       "start_date": "2026-11-05",
       "end_date": "2026-11-07",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1908,14 +1876,6 @@
     {
       "campaign_name": "Lova Iceland júlí",
       "line_item_name": "Lova Iceland",
-      "price": 43500,
-      "start_date": "2026-07-06",
-      "end_date": "2026-07-15",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Lova Iceland júlí",
-      "line_item_name": "Lova Iceland",
       "price": 42800,
       "start_date": "2026-07-07",
       "end_date": "2026-07-13",
@@ -1927,6 +1887,14 @@
       "price": 41800,
       "start_date": "2026-07-11",
       "end_date": "2026-07-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lova Iceland júlí",
+      "line_item_name": "Lova Iceland",
+      "price": 43500,
+      "start_date": "2026-07-15",
+      "end_date": "2026-07-15",
       "seen_count": 1
     },
     {
@@ -1983,7 +1951,7 @@
       "price": 117000,
       "start_date": "2026-08-07",
       "end_date": "2026-08-09",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Nova 02-09 júlí",
@@ -2276,6 +2244,14 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
+      "price": 153200,
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sam-Film. Vaiana",
+      "line_item_name": "Vaiana",
       "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
@@ -2287,22 +2263,6 @@
       "price": 104000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sam-Film. Vaiana",
-      "line_item_name": "Vaiana",
-      "price": 153200,
-      "start_date": "2026-07-03",
-      "end_date": "2026-07-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sam-Film. Vaiana",
-      "line_item_name": "Vaiana (2)",
-      "price": 54000,
-      "start_date": "2026-07-07",
-      "end_date": "2026-07-08",
       "seen_count": 1
     },
     {
@@ -2319,7 +2279,7 @@
       "price": 156900,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
@@ -2463,14 +2423,6 @@
       "price": 238800,
       "start_date": "2026-07-07",
       "end_date": "2026-07-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Tekk",
-      "line_item_name": "Tekk. GRI.",
-      "price": 15000,
-      "start_date": "2026-07-07",
-      "end_date": "2026-07-08",
       "seen_count": 1
     },
     {
@@ -2655,7 +2607,7 @@
       "price": 520000,
       "start_date": "2027-06-30",
       "end_date": "2027-07-03",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Zipline Akureyri",
