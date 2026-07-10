@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T06:42:34.547Z",
+  "generated_at": "2026-07-10T11:48:41.671Z",
   "scope": {
     "report_start_date": "2026-07-10",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 536,
-    "unique_items": 320,
+    "items_seen": 539,
+    "unique_items": 323,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1007,6 +1007,30 @@
       "price": 2169600,
       "start_date": "2026-08-24",
       "end_date": "2026-08-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Datera - Smáralind - Ágúst",
+      "line_item_name": "Datera - Smáralind - 17 Ágúst",
+      "price": 33500,
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Datera - Smáralind - Ágúst",
+      "line_item_name": "Datera - Smáralind - 19 Ágúst",
+      "price": 36500,
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Datera - Smáralind - Ágúst",
+      "line_item_name": "Datera - Smáralind - 21 Ágúst",
+      "price": 37300,
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-21",
       "seen_count": 1
     },
     {
