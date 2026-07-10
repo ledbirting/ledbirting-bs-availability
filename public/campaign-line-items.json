@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T19:23:17.876Z",
+  "generated_at": "2026-07-10T21:59:19.289Z",
   "scope": {
     "report_start_date": "2026-07-10",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 539,
-    "unique_items": 323,
+    "items_seen": 542,
+    "unique_items": 325,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -60,9 +60,9 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 15000,
+      "price": 34800,
       "start_date": "2026-07-08",
-      "end_date": "2026-07-17",
+      "end_date": "2026-07-19",
       "seen_count": 1
     },
     {
@@ -76,17 +76,17 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 75000,
+      "price": 15000,
       "start_date": "2026-07-08",
-      "end_date": "2026-07-22",
+      "end_date": "2026-07-17",
       "seen_count": 1
     },
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 34800,
+      "price": 75000,
       "start_date": "2026-07-08",
-      "end_date": "2026-07-19",
+      "end_date": "2026-07-22",
       "seen_count": 1
     },
     {
@@ -2178,6 +2178,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Sahara Earth Lagoon opnunar keyrsla",
+      "line_item_name": "Sahara Earth Lagoon opnunar keyrsla",
+      "price": 442000,
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sahara Earth Lagoon opnunar keyrsla",
+      "line_item_name": "Sahara Earth Lagoon opnunar keyrsla",
+      "price": 117000,
+      "start_date": "2026-08-05",
+      "end_date": "2026-08-15",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "sahara-Earth Lagoon -ágúst",
       "line_item_name": "sahara-Earth Lagoon -ágúst",
       "price": 188500,
@@ -2228,7 +2244,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 153200,
+      "price": 39000,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2236,7 +2252,7 @@
     {
       "campaign_name": "Sam-Film. Vaiana",
       "line_item_name": "Vaiana",
-      "price": 39000,
+      "price": 153200,
       "start_date": "2026-07-03",
       "end_date": "2026-07-11",
       "seen_count": 1
@@ -2252,7 +2268,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 95200,
+      "price": 156900,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
@@ -2260,7 +2276,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 156900,
+      "price": 95200,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
