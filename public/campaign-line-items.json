@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10T21:59:19.289Z",
+  "generated_at": "2026-07-11T02:25:27.936Z",
   "scope": {
-    "report_start_date": "2026-07-10",
+    "report_start_date": "2026-07-11",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 542,
-    "unique_items": 325,
+    "items_seen": 531,
+    "unique_items": 316,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -60,15 +60,7 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 34800,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "_pris júli",
-      "line_item_name": "pris júli",
-      "price": 30000,
+      "price": 75000,
       "start_date": "2026-07-08",
       "end_date": "2026-07-22",
       "seen_count": 1
@@ -84,9 +76,17 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 75000,
+      "price": 30000,
       "start_date": "2026-07-08",
       "end_date": "2026-07-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "_pris júli",
+      "line_item_name": "pris júli",
+      "price": 34800,
+      "start_date": "2026-07-08",
+      "end_date": "2026-07-19",
       "seen_count": 1
     },
     {
@@ -427,14 +427,6 @@
     },
     {
       "campaign_name": "Aur / HN - júlí 2026",
-      "line_item_name": "Aur / HN - Fös 10. júlí - 7x1",
-      "price": 46300,
-      "start_date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - júlí 2026",
       "line_item_name": "Aur / HN - Fös 17. júlí - 7x1",
       "price": 45300,
       "start_date": "2026-07-17",
@@ -615,7 +607,7 @@
       "price": 97500,
       "start_date": "2026-12-07",
       "end_date": "2026-12-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun-Vogue-júli-Glerártorg",
@@ -819,14 +811,6 @@
     },
     {
       "campaign_name": "Bónus / HN - júlí 2026",
-      "line_item_name": "Bónus 10. júlí - Fös / 10x1",
-      "price": 62500,
-      "start_date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - júlí 2026",
       "line_item_name": "Bónus 13. júlí - Mán / 8x1",
       "price": 51000,
       "start_date": "2026-07-13",
@@ -955,14 +939,6 @@
     },
     {
       "campaign_name": "Danól Felix tómatsósa.",
-      "line_item_name": "Danól Felix tómatsósa. 09-10 júlí",
-      "price": 34500,
-      "start_date": "2026-07-09",
-      "end_date": "2026-07-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Danól Felix tómatsósa.",
       "line_item_name": "Danól Felix tómatsósa.06 ágúst.",
       "price": 24500,
       "start_date": "2026-08-06",
@@ -1035,14 +1011,6 @@
     },
     {
       "campaign_name": "Dominos Júlí",
-      "line_item_name": "Dominos 10 júlí. BT-GLT-GRI-KAPLA1-GB-KEV1-SFS2-VlV1",
-      "price": 53500,
-      "start_date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Dominos Júlí",
       "line_item_name": "Dominos 11-júlí. BH2-EH1-HB1-KAPLA2-GB-KEV-GLT2-VLV2-",
       "price": 48500,
       "start_date": "2026-07-11",
@@ -1096,14 +1064,6 @@
       "start_date": "2026-03-01",
       "end_date": "2027-02-28",
       "seen_count": 8
-    },
-    {
-      "campaign_name": "Ennemm. Lottó 67 milljónir11 júlí",
-      "line_item_name": "Ennemm. Lottó 67 milljónir 10 júlí",
-      "price": 38800,
-      "start_date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "seen_count": 1
     },
     {
       "campaign_name": "Ennemm. Lottó 67 milljónir11 júlí",
@@ -1298,14 +1258,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "HHÍ flokkahappdrætti  / HN - júlí 2026",
-      "line_item_name": "HHÍ flokkahappdrætti / HN / 10. júlí til kl. 16",
-      "price": 47200,
-      "start_date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Híbýli ágúst",
       "line_item_name": "Híbýli ágúst",
       "price": 30000,
@@ -1327,12 +1279,12 @@
       "price": 39000,
       "start_date": "2026-07-05",
       "end_date": "2026-07-31",
-      "seen_count": 3
+      "seen_count": 2
     },
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 52000,
+      "price": 6500,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1340,7 +1292,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 6500,
+      "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1775,7 +1727,7 @@
       "price": 39000,
       "start_date": "2026-11-05",
       "end_date": "2026-11-07",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1860,14 +1812,6 @@
     {
       "campaign_name": "Lova Iceland júlí",
       "line_item_name": "Lova Iceland",
-      "price": 35500,
-      "start_date": "2026-07-06",
-      "end_date": "2026-07-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lova Iceland júlí",
-      "line_item_name": "Lova Iceland",
       "price": 42800,
       "start_date": "2026-07-07",
       "end_date": "2026-07-13",
@@ -1943,7 +1887,7 @@
       "price": 117000,
       "start_date": "2026-08-07",
       "end_date": "2026-08-09",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Nova. Glerártorg árssamningu.",
@@ -2032,14 +1976,6 @@
       "start_date": "2026-06-01",
       "end_date": "2026-08-31",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Petmark  / Hvíta húsið - júní til júlí 2026",
-      "line_item_name": "Petmark / 9. til 10. júlí/ Þri og Mið / AKU1, EGI1",
-      "price": 22600,
-      "start_date": "2026-07-09",
-      "end_date": "2026-07-10",
-      "seen_count": 1
     },
     {
       "campaign_name": "pris ágúst",
@@ -2240,14 +2176,6 @@
       "start_date": "2026-09-03",
       "end_date": "2026-09-30",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Sam-Film. Vaiana",
-      "line_item_name": "Vaiana",
-      "price": 39000,
-      "start_date": "2026-07-03",
-      "end_date": "2026-07-11",
-      "seen_count": 1
     },
     {
       "campaign_name": "Sam-Film. Vaiana",
