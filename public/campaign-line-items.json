@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T13:13:56.624Z",
+  "generated_at": "2026-07-12T15:57:15.224Z",
   "scope": {
     "report_start_date": "2026-07-12",
     "report_end_date": "2099-12-31",
@@ -1244,14 +1244,6 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 6500,
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 39000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
@@ -1261,6 +1253,14 @@
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 52000,
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
+      "price": 6500,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1980,8 +1980,8 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 4649400,
-      "start_date": "2026-08-03",
+      "price": 3780800,
+      "start_date": "2026-07-27",
       "end_date": "2026-08-29",
       "seen_count": 2
     },
