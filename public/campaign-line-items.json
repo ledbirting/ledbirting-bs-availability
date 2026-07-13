@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T14:48:30.479Z",
+  "generated_at": "2026-07-13T17:11:14.273Z",
   "scope": {
     "report_start_date": "2026-07-13",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 528,
-    "unique_items": 301,
+    "items_seen": 529,
+    "unique_items": 302,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -60,14 +60,6 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 30000,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "_pris júli",
-      "line_item_name": "pris júli",
       "price": 34800,
       "start_date": "2026-07-08",
       "end_date": "2026-07-19",
@@ -76,7 +68,7 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 75000,
+      "price": 30000,
       "start_date": "2026-07-08",
       "end_date": "2026-07-22",
       "seen_count": 1
@@ -87,6 +79,14 @@
       "price": 15000,
       "start_date": "2026-07-08",
       "end_date": "2026-07-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "_pris júli",
+      "line_item_name": "pris júli",
+      "price": 75000,
+      "start_date": "2026-07-08",
+      "end_date": "2026-07-22",
       "seen_count": 1
     },
     {
@@ -914,6 +914,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Collab / Ölgerðin ágúst",
+      "line_item_name": "Collab / Ölgerðin 14-18 júní",
+      "price": 185000,
+      "start_date": "2026-07-14",
+      "end_date": "2026-07-18",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Danól Felix tómatsósa.",
       "line_item_name": "Danól Felix tómatsósa.06 ágúst.",
       "price": 24500,
@@ -1236,7 +1244,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 6500,
+      "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1252,7 +1260,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 52000,
+      "price": 6500,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
