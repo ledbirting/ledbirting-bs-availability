@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T06:14:21.691Z",
+  "generated_at": "2026-07-13T11:58:41.486Z",
   "scope": {
     "report_start_date": "2026-07-13",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 513,
-    "unique_items": 300,
+    "items_seen": 528,
+    "unique_items": 301,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -60,6 +60,14 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
+      "price": 30000,
+      "start_date": "2026-07-08",
+      "end_date": "2026-07-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "_pris júli",
+      "line_item_name": "pris júli",
       "price": 34800,
       "start_date": "2026-07-08",
       "end_date": "2026-07-19",
@@ -69,14 +77,6 @@
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
       "price": 75000,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "_pris júli",
-      "line_item_name": "pris júli",
-      "price": 30000,
       "start_date": "2026-07-08",
       "end_date": "2026-07-22",
       "seen_count": 1
@@ -1236,7 +1236,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 39000,
+      "price": 6500,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1244,7 +1244,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 6500,
+      "price": 39000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1738,6 +1738,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Lottó 95M - Getspá / Ennemm - 17. til 18. júlí",
+      "line_item_name": "Lottó 95M - 17. júlí",
+      "price": 113000,
+      "start_date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lottó 95M - Getspá / Ennemm - 17. til 18. júlí",
+      "line_item_name": "Lottó 95M - 18. júlí til kl. 18",
+      "price": 93600,
+      "start_date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Lova Iceland júlí",
       "line_item_name": "Copy_of_Lova Iceland afmæli",
       "price": 185200,
@@ -1848,6 +1864,14 @@
       "start_date": "2026-07-12",
       "end_date": "2026-08-11",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Optical - Hafnartorg",
+      "line_item_name": "Optical - Hafnartorg",
+      "price": 4290000,
+      "start_date": "2026-07-13",
+      "end_date": "2027-09-14",
+      "seen_count": 15
     },
     {
       "campaign_name": "Orkan - Júlí 2026",
@@ -2167,22 +2191,6 @@
       "price": 41000,
       "start_date": "2026-07-30",
       "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sólar Júlí",
-      "line_item_name": "Sólar júlí",
-      "price": 101400,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sólar Júlí",
-      "line_item_name": "Sólar júlí",
-      "price": 93000,
-      "start_date": "2026-07-15",
-      "end_date": "2026-07-21",
       "seen_count": 1
     },
     {
