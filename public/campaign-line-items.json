@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-12T21:45:36.341Z",
+  "generated_at": "2026-07-13T06:14:21.691Z",
   "scope": {
-    "report_start_date": "2026-07-12",
+    "report_start_date": "2026-07-13",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 517,
-    "unique_items": 303,
+    "items_seen": 513,
+    "unique_items": 300,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -68,14 +68,6 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 15000,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "_pris júli",
-      "line_item_name": "pris júli",
       "price": 75000,
       "start_date": "2026-07-08",
       "end_date": "2026-07-22",
@@ -87,6 +79,14 @@
       "price": 30000,
       "start_date": "2026-07-08",
       "end_date": "2026-07-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "_pris júli",
+      "line_item_name": "pris júli",
+      "price": 15000,
+      "start_date": "2026-07-08",
+      "end_date": "2026-07-17",
       "seen_count": 1
     },
     {
@@ -503,14 +503,6 @@
       "price": 41300,
       "start_date": "2026-07-29",
       "end_date": "2026-07-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - júlí 2026",
-      "line_item_name": "Aur / HN - Sun 12. júlí - 7x1",
-      "price": 43800,
-      "start_date": "2026-07-12",
-      "end_date": "2026-07-12",
       "seen_count": 1
     },
     {
@@ -1252,7 +1244,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 52000,
+      "price": 6500,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1260,7 +1252,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 6500,
+      "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1360,14 +1352,6 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 12. júlí / 5x1",
-      "price": 29500,
-      "start_date": "2026-07-12",
-      "end_date": "2026-07-12",
-      "seen_count": 1
     },
     {
       "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
@@ -1863,7 +1847,7 @@
       "price": 294500,
       "start_date": "2026-07-12",
       "end_date": "2026-08-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Orkan - Júlí 2026",
@@ -2239,14 +2223,6 @@
       "price": 120000,
       "start_date": "2026-06-18",
       "end_date": "2026-07-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Tekk",
-      "line_item_name": "Tekk GRI",
-      "price": 15000,
-      "start_date": "2026-07-11",
-      "end_date": "2026-07-12",
       "seen_count": 1
     },
     {
