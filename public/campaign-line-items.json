@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T17:11:14.273Z",
+  "generated_at": "2026-07-13T19:19:58.481Z",
   "scope": {
     "report_start_date": "2026-07-13",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 529,
-    "unique_items": 302,
+    "items_seen": 531,
+    "unique_items": 304,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1210,6 +1210,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Góa sumar",
+      "line_item_name": "Góa sumar - lau - BRH, FJH, LT , SMT, VST, GLT, GRI, SFS",
+      "price": 220000,
+      "start_date": "2026-07-16",
+      "end_date": "2026-08-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Góa sumar",
+      "line_item_name": "Góa sumar - mið - KAPLA-AK-GLT-SFS-GRI",
+      "price": 105000,
+      "start_date": "2026-07-16",
+      "end_date": "2026-08-08",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Happdrætti DAS / Datera - ágúst 2026",
       "line_item_name": "DAS / Datera - 16. ágúst / 4x1",
       "price": 22000,
@@ -1244,14 +1260,6 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 52000,
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 39000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
@@ -1261,6 +1269,14 @@
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 6500,
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
+      "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
