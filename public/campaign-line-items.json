@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T10:42:44.463Z",
+  "generated_at": "2026-07-14T13:28:14.995Z",
   "scope": {
     "report_start_date": "2026-07-14",
     "report_end_date": "2099-12-31",
@@ -955,14 +955,6 @@
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
-      "line_item_name": "Byko - Ágúst- Fim,Fös - GRA, KAP1,LIT,VLV1,BREI1",
-      "price": 272000,
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-29",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Byko - Samningur - 2026",
       "line_item_name": "Byko - Desember- Fim,Fös - GRA, KAP1,LIT,VLV1,BREI1",
       "price": 272000,
       "start_date": "2026-12-01",
@@ -991,6 +983,14 @@
       "price": 312000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Byko - Samningur - 2026",
+      "line_item_name": "No pics -  Ágúst- Fim,Fös - GRA, KAP1,LIT,VLV1,BREI1 - Empty",
+      "price": 272000,
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-29",
       "seen_count": 2
     },
     {
