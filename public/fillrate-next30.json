@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T12:24:56.903Z",
+  "generated_at": "2026-07-14T14:27:08.856Z",
   "result": [
     {
       "date": "2026-07-14",
@@ -32,20 +32,20 @@
         {
           "id": 237865,
           "du_name": "Breiðholt #1",
-          "fill_rate": 0.2127778,
-          "rows_seen": 4
+          "fill_rate": 0.27944446666666667,
+          "rows_seen": 5
         },
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.4666666666666666,
+          "rows_seen": 7
         },
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.3777778,
-          "rows_seen": 6
+          "fill_rate": 0.44444446666666665,
+          "rows_seen": 7
         },
         {
           "id": 237866,
@@ -140,14 +140,14 @@
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.3683333333333333,
-          "rows_seen": 6
+          "fill_rate": 0.43499999999999994,
+          "rows_seen": 7
         },
         {
           "id": 235465,
           "du_name": "Höfðabakki #2",
-          "fill_rate": 0.4666666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.5333333333333333,
+          "rows_seen": 8
         },
         {
           "id": 235463,
@@ -230,8 +230,8 @@
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.13333333333333333,
+          "rows_seen": 2
         },
         {
           "id": 445024,
@@ -290,20 +290,20 @@
         {
           "id": 237865,
           "du_name": "Breiðholt #1",
-          "fill_rate": 0.3461111333333333,
-          "rows_seen": 6
+          "fill_rate": 0.4127778,
+          "rows_seen": 7
         },
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 4
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 5
         },
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.34444446666666667,
-          "rows_seen": 6
+          "fill_rate": 0.4111111333333333,
+          "rows_seen": 7
         },
         {
           "id": 237866,
@@ -398,14 +398,14 @@
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.635,
-          "rows_seen": 10
+          "fill_rate": 0.7016666666666667,
+          "rows_seen": 11
         },
         {
           "id": 235465,
           "du_name": "Höfðabakki #2",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.4666666666666666,
+          "rows_seen": 7
         },
         {
           "id": 235463,
@@ -488,8 +488,8 @@
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.13333333333333333,
+          "rows_seen": 2
         },
         {
           "id": 445024,
@@ -548,20 +548,20 @@
         {
           "id": 237865,
           "du_name": "Breiðholt #1",
-          "fill_rate": 0.27944446666666667,
-          "rows_seen": 5
+          "fill_rate": 0.3461111333333333,
+          "rows_seen": 6
         },
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.4666666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.5333333333333333,
+          "rows_seen": 8
         },
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.5777778,
-          "rows_seen": 9
+          "fill_rate": 0.6444444666666667,
+          "rows_seen": 10
         },
         {
           "id": 237866,
@@ -656,14 +656,14 @@
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.43499999999999994,
-          "rows_seen": 7
+          "fill_rate": 0.5016666666666666,
+          "rows_seen": 8
         },
         {
           "id": 235465,
           "du_name": "Höfðabakki #2",
-          "fill_rate": 0.5333333333333333,
-          "rows_seen": 8
+          "fill_rate": 0.6,
+          "rows_seen": 9
         },
         {
           "id": 235463,
@@ -746,8 +746,8 @@
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.13333333333333333,
+          "rows_seen": 2
         },
         {
           "id": 445024,
@@ -806,20 +806,20 @@
         {
           "id": 237865,
           "du_name": "Breiðholt #1",
-          "fill_rate": 0.5127778,
-          "rows_seen": 9
+          "fill_rate": 0.5794444666666666,
+          "rows_seen": 10
         },
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.4666666666666666,
+          "rows_seen": 7
         },
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.8444444666666666,
-          "rows_seen": 14
+          "fill_rate": 0.9111111333333333,
+          "rows_seen": 15
         },
         {
           "id": 237866,
@@ -914,14 +914,14 @@
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.7016666666666667,
-          "rows_seen": 11
+          "fill_rate": 0.7683333333333333,
+          "rows_seen": 12
         },
         {
           "id": 235465,
           "du_name": "Höfðabakki #2",
-          "fill_rate": 0.5333333333333333,
-          "rows_seen": 8
+          "fill_rate": 0.6,
+          "rows_seen": 9
         },
         {
           "id": 235463,
@@ -1004,8 +1004,8 @@
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 4
         },
         {
           "id": 445024,
@@ -1064,20 +1064,20 @@
         {
           "id": 237865,
           "du_name": "Breiðholt #1",
-          "fill_rate": 0.4294444666666667,
-          "rows_seen": 8
+          "fill_rate": 0.49611113333333334,
+          "rows_seen": 9
         },
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.44999999999999996,
-          "rows_seen": 7
+          "fill_rate": 0.5166666666666666,
+          "rows_seen": 8
         },
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.4611111333333333,
-          "rows_seen": 8
+          "fill_rate": 0.5277778,
+          "rows_seen": 9
         },
         {
           "id": 237866,
@@ -1172,14 +1172,14 @@
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.41833333333333333,
-          "rows_seen": 7
+          "fill_rate": 0.485,
+          "rows_seen": 8
         },
         {
           "id": 235465,
           "du_name": "Höfðabakki #2",
-          "fill_rate": 0.4666666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.5333333333333333,
+          "rows_seen": 8
         },
         {
           "id": 235463,
@@ -1262,8 +1262,8 @@
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.11666666666666667,
-          "rows_seen": 2
+          "fill_rate": 0.18333333333333335,
+          "rows_seen": 3
         },
         {
           "id": 445024,
@@ -1322,20 +1322,20 @@
         {
           "id": 237865,
           "du_name": "Breiðholt #1",
-          "fill_rate": 0.22388886666666666,
-          "rows_seen": 4
+          "fill_rate": 0.2905555333333334,
+          "rows_seen": 5
         },
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 4
         },
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.25555553333333336,
-          "rows_seen": 4
+          "fill_rate": 0.3222222,
+          "rows_seen": 5
         },
         {
           "id": 237866,
@@ -1430,14 +1430,14 @@
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.23500000000000001,
-          "rows_seen": 4
+          "fill_rate": 0.30166666666666664,
+          "rows_seen": 5
         },
         {
           "id": 235465,
           "du_name": "Höfðabakki #2",
-          "fill_rate": 0.25555553333333336,
-          "rows_seen": 4
+          "fill_rate": 0.3222222,
+          "rows_seen": 5
         },
         {
           "id": 235463,
@@ -1520,8 +1520,8 @@
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.13333333333333333,
+          "rows_seen": 2
         },
         {
           "id": 445024,
