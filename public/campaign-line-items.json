@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T13:28:14.995Z",
+  "generated_at": "2026-07-14T16:12:05.043Z",
   "scope": {
     "report_start_date": "2026-07-14",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 560,
-    "unique_items": 334,
+    "items_seen": 564,
+    "unique_items": 338,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -60,9 +60,9 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 15000,
+      "price": 30000,
       "start_date": "2026-07-08",
-      "end_date": "2026-07-17",
+      "end_date": "2026-07-22",
       "seen_count": 1
     },
     {
@@ -84,9 +84,9 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 30000,
+      "price": 15000,
       "start_date": "2026-07-08",
-      "end_date": "2026-07-22",
+      "end_date": "2026-07-17",
       "seen_count": 1
     },
     {
@@ -986,14 +986,6 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Byko - Samningur - 2026",
-      "line_item_name": "No pics -  Ágúst- Fim,Fös - GRA, KAP1,LIT,VLV1,BREI1 - Empty",
-      "price": 272000,
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-29",
-      "seen_count": 2
-    },
-    {
       "campaign_name": "Colas",
       "line_item_name": "Colas",
       "price": 92000,
@@ -1314,6 +1306,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Góðgerðar birtingar",
+      "line_item_name": "Góðgerðar birtingar",
+      "price": 186000,
+      "start_date": "2026-07-14",
+      "end_date": "2026-07-19",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Happdrætti DAS / Datera - ágúst 2026",
       "line_item_name": "DAS / Datera - 16. ágúst / 4x1",
       "price": 22000,
@@ -1348,6 +1348,14 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
+      "price": 52000,
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 6500,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
@@ -1357,14 +1365,6 @@
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 39000,
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -2404,7 +2404,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 95200,
+      "price": 156900,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
@@ -2412,7 +2412,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 156900,
+      "price": 95200,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
@@ -2648,6 +2648,38 @@
       "start_date": "2026-07-30",
       "end_date": "2026-07-30",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - ágúst '26",
+      "line_item_name": "VÍS Akureyri 1.8 til 7.8 / Sun, Mán, Fim /  AKU1, GLER2",
+      "price": 19500,
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - ágúst '26",
+      "line_item_name": "VÍS Akureyri 15.8 til 21.8 / Þri, Fim, Lau / AKU1, GLER2",
+      "price": 19500,
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - ágúst '26",
+      "line_item_name": "VÍS Akureyri 22.8 til 31.8 / Mán, Þri, Lau / AKU1, GLER1",
+      "price": 32500,
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - ágúst '26",
+      "line_item_name": "VÍS Akureyri 8.8 til 14.8 / Mán, Mið, Fös / AKU2, GLER1",
+      "price": 19500,
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-14",
+      "seen_count": 2
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - júlí '26",
