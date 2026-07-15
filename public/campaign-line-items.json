@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T10:46:58.954Z",
+  "generated_at": "2026-07-15T13:38:06.943Z",
   "scope": {
     "report_start_date": "2026-07-15",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 558,
-    "unique_items": 333,
+    "items_seen": 557,
+    "unique_items": 332,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -931,14 +931,6 @@
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
-      "line_item_name": "Byko - Ágúst - Fim,Fös - AK/GLE,SELF,KEF",
-      "price": 37000,
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-08",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Byko - Samningur - 2026",
       "line_item_name": "Byko - Desember- Fim,Fös - GRA, KAP1,LIT,VLV1,BREI1",
       "price": 272000,
       "start_date": "2026-12-01",
@@ -1316,6 +1308,14 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
+      "price": 39000,
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
@@ -1325,14 +1325,6 @@
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 6500,
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 39000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1996,7 +1988,7 @@
     {
       "campaign_name": "Lottó 95M - Getspá / Ennemm - 17. til 18. júlí",
       "line_item_name": "Lottó 95M - 17. júlí",
-      "price": 113000,
+      "price": 65500,
       "start_date": "2026-07-17",
       "end_date": "2026-07-17",
       "seen_count": 1
@@ -2004,7 +1996,7 @@
     {
       "campaign_name": "Lottó 95M - Getspá / Ennemm - 17. til 18. júlí",
       "line_item_name": "Lottó 95M - 18. júlí til kl. 18",
-      "price": 93600,
+      "price": 53625,
       "start_date": "2026-07-18",
       "end_date": "2026-07-18",
       "seen_count": 1
