@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T13:38:06.943Z",
+  "generated_at": "2026-07-15T16:19:00.526Z",
   "scope": {
     "report_start_date": "2026-07-15",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 557,
-    "unique_items": 332,
+    "items_seen": 561,
+    "unique_items": 335,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -60,6 +60,14 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
+      "price": 75000,
+      "start_date": "2026-07-08",
+      "end_date": "2026-07-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "_pris júli",
+      "line_item_name": "pris júli",
       "price": 34800,
       "start_date": "2026-07-08",
       "end_date": "2026-07-19",
@@ -69,14 +77,6 @@
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
       "price": 30000,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "_pris júli",
-      "line_item_name": "pris júli",
-      "price": 75000,
       "start_date": "2026-07-08",
       "end_date": "2026-07-22",
       "seen_count": 1
@@ -602,6 +602,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Bílasala Akureyri - Ágúst",
+      "line_item_name": "Bílasala Akureyri - Ágúst",
+      "price": 188500,
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-29",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Bílasala Akureyri (júní og júlí)",
       "line_item_name": "Bílasala Akureyri - júlí",
       "price": 234000,
@@ -752,6 +760,22 @@
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "seen_count": 6
+    },
+    {
+      "campaign_name": "Blush - Akureyri - Versló",
+      "line_item_name": "Blush - Akureyri - Versló - Glerártorg 1 ágúst",
+      "price": 6500,
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Blush - Akureyri - Versló",
+      "line_item_name": "Blush - Akureyri - Versló - Glerártorg 2-3 ágúst",
+      "price": 26000,
+      "start_date": "2026-08-02",
+      "end_date": "2026-08-03",
+      "seen_count": 1
     },
     {
       "campaign_name": "BM Vallá / Datera - júlí 2026",
@@ -1250,7 +1274,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Góa sumar",
+      "campaign_name": "Góa / Pipar - sumarpakki",
       "line_item_name": "Góa sumar - lau - BRH, FJH, LT , SMT, VST, GLT, GRI, SFS",
       "price": 220000,
       "start_date": "2026-07-16",
@@ -1258,7 +1282,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Góa sumar",
+      "campaign_name": "Góa / Pipar - sumarpakki",
       "line_item_name": "Góa sumar - mið - KAPLA-AK-GLT-SFS-GRI",
       "price": 105000,
       "start_date": "2026-07-16",
@@ -1308,7 +1332,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1316,7 +1340,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -2356,7 +2380,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 95200,
+      "price": 156900,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
@@ -2364,7 +2388,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 156900,
+      "price": 95200,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
