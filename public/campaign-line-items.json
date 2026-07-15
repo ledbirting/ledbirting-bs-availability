@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T21:54:58.541Z",
+  "generated_at": "2026-07-15T02:09:35.478Z",
   "scope": {
-    "report_start_date": "2026-07-14",
+    "report_start_date": "2026-07-15",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 564,
-    "unique_items": 338,
+    "items_seen": 558,
+    "unique_items": 333,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -60,14 +60,6 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 30000,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "_pris júli",
-      "line_item_name": "pris júli",
       "price": 34800,
       "start_date": "2026-07-08",
       "end_date": "2026-07-19",
@@ -76,7 +68,7 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 75000,
+      "price": 30000,
       "start_date": "2026-07-08",
       "end_date": "2026-07-22",
       "seen_count": 1
@@ -84,9 +76,9 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 15000,
+      "price": 75000,
       "start_date": "2026-07-08",
-      "end_date": "2026-07-17",
+      "end_date": "2026-07-22",
       "seen_count": 1
     },
     {
@@ -511,14 +503,6 @@
       "price": 43500,
       "start_date": "2026-07-26",
       "end_date": "2026-07-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - júlí 2026",
-      "line_item_name": "Aur / HN - Þri 14. júlí - 7x1",
-      "price": 46800,
-      "start_date": "2026-07-14",
-      "end_date": "2026-07-14",
       "seen_count": 1
     },
     {
@@ -986,14 +970,6 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Colas",
-      "line_item_name": "Colas",
-      "price": 92000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-14",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Collab / Ölgerðin ágúst",
       "line_item_name": "Collab / Ölgerðin 14-18 júní",
       "price": 185000,
@@ -1207,14 +1183,6 @@
       "price": 55000,
       "start_date": "2026-07-15",
       "end_date": "2026-07-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Flugrútan sumar.",
-      "line_item_name": "BT-KAPLA1-GRI-GB.08-14-júlí",
-      "price": 82500,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-14",
       "seen_count": 1
     },
     {
@@ -1659,14 +1627,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 14. júlí / 4x1",
-      "price": 26000,
-      "start_date": "2026-07-14",
-      "end_date": "2026-07-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 15. júlí / 4x1",
       "price": 25500,
       "start_date": "2026-07-15",
@@ -1895,7 +1855,7 @@
       "price": 26000,
       "start_date": "2026-10-11",
       "end_date": "2026-10-12",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -2143,7 +2103,7 @@
       "price": 180500,
       "start_date": "2026-09-12",
       "end_date": "2026-09-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Optical - Hæðasmári",
@@ -2343,7 +2303,7 @@
       "price": 117000,
       "start_date": "2026-08-05",
       "end_date": "2026-08-15",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "sahara-Earth Lagoon -ágúst",
@@ -2404,7 +2364,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 156900,
+      "price": 95200,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
@@ -2412,7 +2372,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 95200,
+      "price": 156900,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
