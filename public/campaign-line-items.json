@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T08:08:12.020Z",
+  "generated_at": "2026-07-16T10:56:31.921Z",
   "scope": {
     "report_start_date": "2026-07-16",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 554,
-    "unique_items": 329,
+    "items_seen": 560,
+    "unique_items": 332,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -755,7 +755,7 @@
     },
     {
       "campaign_name": "Blush - Akureyri - Versló",
-      "line_item_name": "Blush - Akureyri - Versló - Glerártorg 1 ágúst",
+      "line_item_name": "Glerártorg 1 ágúst",
       "price": 6500,
       "start_date": "2026-08-01",
       "end_date": "2026-08-01",
@@ -763,7 +763,7 @@
     },
     {
       "campaign_name": "Blush - Akureyri - Versló",
-      "line_item_name": "Blush - Akureyri - Versló - Glerártorg 2-3 ágúst",
+      "line_item_name": "Glerártorg 2-3 ágúst",
       "price": 26000,
       "start_date": "2026-08-02",
       "end_date": "2026-08-03",
@@ -1308,7 +1308,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1324,7 +1324,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -2528,6 +2528,30 @@
       "start_date": "2026-06-23",
       "end_date": "2026-07-23",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Varmi - Águst, sept og okt",
+      "line_item_name": "Varmi - Ágúst",
+      "price": 162900,
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Varmi - Águst, sept og okt",
+      "line_item_name": "Varmi - okt",
+      "price": 182700,
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Varmi - Águst, sept og okt",
+      "line_item_name": "Varmi - Sept",
+      "price": 162400,
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-30",
+      "seen_count": 2
     },
     {
       "campaign_name": "Varmi - maí/júní/júlí",
