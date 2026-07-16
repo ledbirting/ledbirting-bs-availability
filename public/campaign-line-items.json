@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T16:15:02.714Z",
+  "generated_at": "2026-07-16T19:05:18.968Z",
   "scope": {
     "report_start_date": "2026-07-16",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 562,
-    "unique_items": 333,
+    "items_seen": 567,
+    "unique_items": 336,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1308,7 +1308,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1316,7 +1316,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -2074,6 +2074,30 @@
       "seen_count": 6
     },
     {
+      "campaign_name": "Ofar - 4-23 ágúst",
+      "line_item_name": "Ofar - 10-23 ágúst- Akureyri",
+      "price": 273000,
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-23",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Ofar - 4-23 ágúst",
+      "line_item_name": "Ofar - 4-10 ágúst - Grandi, Kapla, Vesturlandsv",
+      "price": 161000,
+      "start_date": "2026-08-04",
+      "end_date": "2026-08-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ofar - 4-23 ágúst",
+      "line_item_name": "Ofar - 4-23 ágúst - Borgartún, Glerártorg, Hagasmári",
+      "price": 150400,
+      "start_date": "2026-08-04",
+      "end_date": "2026-08-23",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Optical - Hæðasmári",
       "line_item_name": "12 ágúst - 11 sept",
       "price": 294500,
@@ -2348,7 +2372,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 95200,
+      "price": 156900,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
@@ -2356,7 +2380,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 156900,
+      "price": 95200,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
