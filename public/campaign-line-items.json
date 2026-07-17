@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-16T22:01:04.491Z",
+  "generated_at": "2026-07-17T02:25:44.282Z",
   "scope": {
-    "report_start_date": "2026-07-16",
+    "report_start_date": "2026-07-17",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 567,
-    "unique_items": 336,
+    "items_seen": 560,
+    "unique_items": 331,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -34,20 +34,12 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "_Lyfjaval- júli  2026",
-      "line_item_name": "Höfuðborgarsvæði - 2",
-      "price": 109000,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-16",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "_Media com -Boozt 3 ágúst -16 ágúst",
       "line_item_name": "Media com -Boozt  3 ágúst -16 ágúst",
       "price": 268000,
       "start_date": "2026-08-03",
       "end_date": "2026-08-16",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "_Mediacom-Myllan sumarpakki júli",
@@ -68,17 +60,17 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 34800,
+      "price": 30000,
       "start_date": "2026-07-08",
-      "end_date": "2026-07-19",
+      "end_date": "2026-07-22",
       "seen_count": 1
     },
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 30000,
+      "price": 34800,
       "start_date": "2026-07-08",
-      "end_date": "2026-07-22",
+      "end_date": "2026-07-19",
       "seen_count": 1
     },
     {
@@ -391,14 +383,6 @@
       "price": 47300,
       "start_date": "2026-08-04",
       "end_date": "2026-08-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - júlí 2026",
-      "line_item_name": "Aur / HN - Fim 16. júlí - 7x1",
-      "price": 43500,
-      "start_date": "2026-07-16",
-      "end_date": "2026-07-16",
       "seen_count": 1
     },
     {
@@ -1316,7 +1300,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 39000,
+      "price": 6500,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1324,7 +1308,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 6500,
+      "price": 39000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1619,14 +1603,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 16. júlí / 4x1",
-      "price": 26500,
-      "start_date": "2026-07-16",
-      "end_date": "2026-07-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 17. júlí / 5x1",
       "price": 35000,
       "start_date": "2026-07-17",
@@ -1847,7 +1823,7 @@
       "price": 26000,
       "start_date": "2026-12-13",
       "end_date": "2026-12-14",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1855,7 +1831,7 @@
       "price": 26000,
       "start_date": "2026-09-13",
       "end_date": "2026-09-14",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1919,14 +1895,6 @@
       "price": 39000,
       "start_date": "2026-08-06",
       "end_date": "2026-08-08",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "KFC júlí",
-      "line_item_name": "KFC júlí BH1-EH-GRI-HSMI-HB2-KAPLA1-GB-SFS1-VLV1 -",
-      "price": 281500,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-17",
       "seen_count": 1
     },
     {
@@ -2466,14 +2434,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Svens 18 júní-16 júlí",
-      "line_item_name": "Svens Glerártorg 6-16 júlí",
-      "price": 52000,
-      "start_date": "2026-07-06",
-      "end_date": "2026-07-16",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Thule",
       "line_item_name": "Thule  06-08 ágúst.",
       "price": 85500,
@@ -2487,7 +2447,7 @@
       "price": 57000,
       "start_date": "2026-08-14",
       "end_date": "2026-08-15",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Thule",
@@ -2647,7 +2607,7 @@
       "price": 19500,
       "start_date": "2026-08-15",
       "end_date": "2026-08-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - ágúst '26",
@@ -2703,7 +2663,7 @@
       "price": 71500,
       "start_date": "2026-08-01",
       "end_date": "2026-08-15",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "ÞG Verk - Thorraholtid",
