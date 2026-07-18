@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T15:53:53.861Z",
+  "generated_at": "2026-07-18T18:59:32.468Z",
   "scope": {
     "report_start_date": "2026-07-18",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 556,
-    "unique_items": 325,
+    "items_seen": 560,
+    "unique_items": 327,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -60,17 +60,17 @@
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 75000,
+      "price": 34800,
       "start_date": "2026-07-08",
-      "end_date": "2026-07-22",
+      "end_date": "2026-07-19",
       "seen_count": 1
     },
     {
       "campaign_name": "_pris júli",
       "line_item_name": "pris júli",
-      "price": 34800,
+      "price": 75000,
       "start_date": "2026-07-08",
-      "end_date": "2026-07-19",
+      "end_date": "2026-07-22",
       "seen_count": 1
     },
     {
@@ -144,6 +144,22 @@
       "start_date": "2026-07-01",
       "end_date": "2026-07-31",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Artasan - Heiða - Biokult - Hæðasmári",
+      "line_item_name": "20 ágúst til 20 sept",
+      "price": 176000,
+      "start_date": "2026-08-20",
+      "end_date": "2026-09-20",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Artasan - Heiða - Biokult - Hæðasmári",
+      "line_item_name": "20 júlí til 19 ágúst",
+      "price": 170500,
+      "start_date": "2026-07-20",
+      "end_date": "2026-08-19",
+      "seen_count": 2
     },
     {
       "campaign_name": "Artasan -Sóley - Hæðasmári - 2026",
@@ -1996,7 +2012,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 2
@@ -2004,7 +2020,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 2
