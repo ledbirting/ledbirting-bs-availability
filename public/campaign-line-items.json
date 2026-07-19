@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T21:47:31.641Z",
+  "generated_at": "2026-07-19T02:27:46.904Z",
   "scope": {
-    "report_start_date": "2026-07-18",
+    "report_start_date": "2026-07-19",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 560,
-    "unique_items": 327,
+    "items_seen": 549,
+    "unique_items": 315,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -47,14 +47,6 @@
       "price": 540000,
       "start_date": "2026-07-06",
       "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "_pris júli",
-      "line_item_name": "pris júli",
-      "price": 30000,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-22",
       "seen_count": 1
     },
     {
@@ -427,14 +419,6 @@
     },
     {
       "campaign_name": "Aur / HN - júlí 2026",
-      "line_item_name": "Aur / HN - Lau 18. júlí - 7x1",
-      "price": 46300,
-      "start_date": "2026-07-18",
-      "end_date": "2026-07-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - júlí 2026",
       "line_item_name": "Aur / HN - Lau 25. júlí - 7x1",
       "price": 48000,
       "start_date": "2026-07-25",
@@ -683,14 +667,6 @@
     },
     {
       "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir Þór 18 júlí",
-      "price": 6500,
-      "start_date": "2026-07-18",
-      "end_date": "2026-07-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
       "line_item_name": "Heimaleikir Þór Aug",
       "price": 6500,
       "start_date": "2026-08-23",
@@ -711,14 +687,6 @@
       "price": 6500,
       "start_date": "2026-08-07",
       "end_date": "2026-08-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir Þór/KA. 18 júlí",
-      "price": 6500,
-      "start_date": "2026-07-18",
-      "end_date": "2026-07-18",
       "seen_count": 1
     },
     {
@@ -954,14 +922,6 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Collab / Ölgerðin ágúst",
-      "line_item_name": "Collab / Ölgerðin 14-18 júní",
-      "price": 185000,
-      "start_date": "2026-07-14",
-      "end_date": "2026-07-18",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Danól Felix tómatsósa.",
       "line_item_name": "Danól Felix tómatsósa.06 ágúst.",
       "price": 24500,
@@ -999,7 +959,7 @@
       "price": 1265600,
       "start_date": "2026-08-17",
       "end_date": "2026-08-23",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Datera - ágúst 2026",
@@ -1031,14 +991,6 @@
       "price": 37300,
       "start_date": "2026-08-21",
       "end_date": "2026-08-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Dominos Júlí",
-      "line_item_name": "Dominos 18 júli AK2-BH2-GRI-HAFT-HASMI-HB2-SFS1-VLV1-EH2-KEV2",
-      "price": 57300,
-      "start_date": "2026-07-18",
-      "end_date": "2026-07-18",
       "seen_count": 1
     },
     {
@@ -1292,6 +1244,14 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
+      "price": 52000,
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 6500,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
@@ -1301,14 +1261,6 @@
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 39000,
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1603,14 +1555,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 18. júlí / 5x1",
-      "price": 32000,
-      "start_date": "2026-07-18",
-      "end_date": "2026-07-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 19. júlí / 5x1",
       "price": 31000,
       "start_date": "2026-07-19",
@@ -1831,7 +1775,7 @@
       "price": 26000,
       "start_date": "2026-11-15",
       "end_date": "2026-11-16",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1839,7 +1783,7 @@
       "price": 26000,
       "start_date": "2026-08-16",
       "end_date": "2026-08-17",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1892,14 +1836,6 @@
     {
       "campaign_name": "kringlan útsala",
       "line_item_name": "kringlan útsala",
-      "price": 117000,
-      "start_date": "2026-07-10",
-      "end_date": "2026-07-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "kringlan útsala",
-      "line_item_name": "kringlan útsala",
       "price": 108000,
       "start_date": "2026-07-27",
       "end_date": "2026-08-01",
@@ -1930,14 +1866,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Lottó 95M - Getspá / Ennemm - 17. til 18. júlí",
-      "line_item_name": "Lottó 95M - 18. júlí til kl. 18",
-      "price": 53625,
-      "start_date": "2026-07-18",
-      "end_date": "2026-07-18",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Lova Iceland júlí",
       "line_item_name": "Copy_of_Lova Iceland afmæli",
       "price": 185200,
@@ -1951,14 +1879,6 @@
       "price": 96900,
       "start_date": "2026-07-18",
       "end_date": "2026-07-24",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lyst Akeyri",
-      "line_item_name": "Lyst Akureyri",
-      "price": 65000,
-      "start_date": "2026-07-11",
-      "end_date": "2026-07-18",
       "seen_count": 1
     },
     {
@@ -2064,14 +1984,6 @@
       "start_date": "2026-07-13",
       "end_date": "2027-09-14",
       "seen_count": 15
-    },
-    {
-      "campaign_name": "Orkan - Júlí 2026",
-      "line_item_name": "V29",
-      "price": 280000,
-      "start_date": "2026-07-12",
-      "end_date": "2026-07-18",
-      "seen_count": 1
     },
     {
       "campaign_name": "Orkan - Júlí 2026",
@@ -2308,7 +2220,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 156900,
+      "price": 95200,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
@@ -2316,7 +2228,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 95200,
+      "price": 156900,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
@@ -2415,14 +2327,6 @@
       "price": 57000,
       "start_date": "2026-08-14",
       "end_date": "2026-08-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Thule",
-      "line_item_name": "Thule  16-18 júlí",
-      "price": 101400,
-      "start_date": "2026-07-16",
-      "end_date": "2026-07-18",
       "seen_count": 1
     },
     {
