@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T13:59:55.518Z",
+  "generated_at": "2026-07-20T16:22:28.083Z",
   "scope": {
     "report_start_date": "2026-07-20",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 544,
-    "unique_items": 311,
+    "items_seen": 546,
+    "unique_items": 312,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1170,6 +1170,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Gjafabréf.is - 10-20 ágúst",
+      "line_item_name": "Akureyri",
+      "price": 65000,
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-20",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Góa / Pipar - sumarpakki",
       "line_item_name": "Góa sumar - lau - BRH, FJH, LT , SMT, VST, GLT, GRI, SFS",
       "price": 220000,
@@ -1220,7 +1228,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1236,7 +1244,7 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1611,14 +1619,6 @@
     },
     {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
-      "line_item_name": "Íslandsbanki - Fim 13. ágúst / 6x1",
-      "price": 39500,
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
       "line_item_name": "Íslandsbanki - Fim 6. ágúst / 4x1",
       "price": 24500,
       "start_date": "2026-08-06",
@@ -1703,6 +1703,14 @@
       "price": 26000,
       "start_date": "2026-08-11",
       "end_date": "2026-08-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
+      "line_item_name": "leeg -  Íslandsbanki - Fim 13. ágúst / 6x1",
+      "price": 39500,
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-13",
       "seen_count": 1
     },
     {
@@ -1900,7 +1908,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 2
@@ -1908,7 +1916,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 2
