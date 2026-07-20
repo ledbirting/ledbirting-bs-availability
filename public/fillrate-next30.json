@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T12:34:28.704Z",
+  "generated_at": "2026-07-20T15:01:42.897Z",
   "result": [
     {
       "date": "2026-07-20",
@@ -4634,14 +4634,14 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.5016666666666666,
-          "rows_seen": 8
+          "fill_rate": 0.635,
+          "rows_seen": 9
         },
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.30166666666666664,
-          "rows_seen": 5
+          "fill_rate": 0.43499999999999994,
+          "rows_seen": 6
         }
       ]
     },
@@ -4892,14 +4892,14 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.835,
-          "rows_seen": 12
+          "fill_rate": 0.9683333333333333,
+          "rows_seen": 13
         },
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.5683333333333334,
-          "rows_seen": 9
+          "fill_rate": 0.7016666666666667,
+          "rows_seen": 10
         }
       ]
     },
@@ -5960,8 +5960,8 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.5866666666666667,
-          "rows_seen": 9
+          "fill_rate": 0.5199999999999999,
+          "rows_seen": 8
         },
         {
           "id": 237865,
@@ -6164,8 +6164,8 @@
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.2,
+          "rows_seen": 3
         },
         {
           "id": 445024,
