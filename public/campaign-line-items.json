@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T11:42:37.043Z",
+  "generated_at": "2026-07-20T13:59:55.518Z",
   "scope": {
     "report_start_date": "2026-07-20",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 542,
-    "unique_items": 310,
+    "items_seen": 544,
+    "unique_items": 311,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1220,14 +1220,6 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 52000,
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 39000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
@@ -1237,6 +1229,14 @@
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 6500,
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
+      "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1856,6 +1856,14 @@
       "start_date": "2026-06-26",
       "end_date": "2026-07-25",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "MAGNUS - Hæðasmári - ágúst",
+      "line_item_name": "MAGNUS - Hæðasmári - ágúst",
+      "price": 159500,
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-29",
+      "seen_count": 2
     },
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
