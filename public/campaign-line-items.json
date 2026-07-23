@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:25:36.992Z",
+  "generated_at": "2026-07-23T11:06:50.620Z",
   "scope": {
     "report_start_date": "2026-07-23",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 535,
-    "unique_items": 307,
+    "items_seen": 536,
+    "unique_items": 308,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1196,6 +1196,14 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
+      "price": 6500,
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
@@ -1205,14 +1213,6 @@
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 39000,
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 6500,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -2036,10 +2036,10 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 3780800,
-      "start_date": "2026-07-27",
-      "end_date": "2026-08-29",
-      "seen_count": 2
+      "price": 121700,
+      "start_date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "seen_count": 1
     },
     {
       "campaign_name": "Reykjagarður. júní til ágúst 2026",
@@ -2200,6 +2200,14 @@
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
       "seen_count": 6
+    },
+    {
+      "campaign_name": "Sbarro",
+      "line_item_name": "Sbarro",
+      "price": 391000,
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-29",
+      "seen_count": 2
     },
     {
       "campaign_name": "Securitas / Datera - júlí 2026",
