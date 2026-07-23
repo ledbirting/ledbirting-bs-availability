@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-22T22:01:49.643Z",
+  "generated_at": "2026-07-23T02:29:36.308Z",
   "scope": {
-    "report_start_date": "2026-07-22",
+    "report_start_date": "2026-07-23",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,21 +18,13 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 543,
-    "unique_items": 311,
+    "items_seen": 535,
+    "unique_items": 307,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
   },
   "items": [
-    {
-      "campaign_name": "_Lyfjaval- júli  2026",
-      "line_item_name": "Höfuðborgarsvæði",
-      "price": 390000,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-22",
-      "seen_count": 1
-    },
     {
       "campaign_name": "_Media com -Boozt 3 ágúst -16 ágúst",
       "line_item_name": "Media com -Boozt  3 ágúst -16 ágúst",
@@ -47,14 +39,6 @@
       "price": 450000,
       "start_date": "2026-07-06",
       "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "_pris júli",
-      "line_item_name": "pris júli",
-      "price": 75000,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-22",
       "seen_count": 1
     },
     {
@@ -135,7 +119,7 @@
       "price": 176000,
       "start_date": "2026-08-20",
       "end_date": "2026-09-20",
-      "seen_count": 3
+      "seen_count": 2
     },
     {
       "campaign_name": "Artasan - Heiða - Biokult - Hæðasmári",
@@ -427,14 +411,6 @@
     },
     {
       "campaign_name": "Aur / HN - júlí 2026",
-      "line_item_name": "Aur / HN - Mið 22. júlí - 7x1",
-      "price": 43800,
-      "start_date": "2026-07-22",
-      "end_date": "2026-07-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - júlí 2026",
       "line_item_name": "Aur / HN - Mið 29. júlí - 7x1",
       "price": 41300,
       "start_date": "2026-07-29",
@@ -487,7 +463,7 @@
       "price": 341600,
       "start_date": "2026-08-21",
       "end_date": "2026-09-07",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun Kjarnafæði -mars-31 des 2026",
@@ -843,14 +819,6 @@
     },
     {
       "campaign_name": "Bónus / HN - júlí 2026",
-      "line_item_name": "Bónus 22. júlí - Mið / 9x1",
-      "price": 56000,
-      "start_date": "2026-07-22",
-      "end_date": "2026-07-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - júlí 2026",
       "line_item_name": "Bónus 24. júlí - Fös / 10x1",
       "price": 60000,
       "start_date": "2026-07-24",
@@ -1039,7 +1007,7 @@
       "price": 157500,
       "start_date": "2026-08-01",
       "end_date": "2026-08-21",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Farmers Market - 2026 - Grandi",
@@ -1228,14 +1196,6 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 6500,
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
@@ -1245,6 +1205,14 @@
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 39000,
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
+      "price": 6500,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1751,7 +1719,7 @@
       "price": 26000,
       "start_date": "2027-01-17",
       "end_date": "2027-01-18",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1911,7 +1879,7 @@
       "price": 52000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Ofar - 4-23 ágúst",
@@ -1927,7 +1895,7 @@
       "price": 256300,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Optical - Hæðasmári",
