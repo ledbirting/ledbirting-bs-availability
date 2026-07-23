@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T13:50:40.131Z",
+  "generated_at": "2026-07-23T16:24:18.593Z",
   "scope": {
     "report_start_date": "2026-07-23",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 536,
-    "unique_items": 308,
+    "items_seen": 538,
+    "unique_items": 310,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1196,14 +1196,6 @@
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 6500,
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 52000,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
@@ -1213,6 +1205,14 @@
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 39000,
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
+      "price": 6500,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -1786,6 +1786,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Lindex - S4S / Sahara - júlí til ágúst 2026",
+      "line_item_name": "Lindex S4S / Sahara - 29. júlí til 12. ágúst",
+      "price": 225000,
+      "start_date": "2026-07-29",
+      "end_date": "2026-08-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lindex - S4S / Sahara - júlí til ágúst 2026",
+      "line_item_name": "Lindex S4S / Sahara - 30. júlí til 12. ágúst",
+      "price": 90000,
+      "start_date": "2026-07-30",
+      "end_date": "2026-08-12",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Lindex - S4S / Sahara - landsbyggðin júlí til ágúst 2026",
       "line_item_name": "Lindex.is - S4S / Sahara landsbyggðin - Versló - GLER1",
       "price": 19500,
@@ -2164,7 +2180,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 156900,
+      "price": 95200,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
@@ -2172,7 +2188,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 95200,
+      "price": 156900,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
