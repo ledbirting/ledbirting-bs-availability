@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-23T22:01:50.252Z",
+  "generated_at": "2026-07-24T02:26:51.883Z",
   "scope": {
-    "report_start_date": "2026-07-23",
+    "report_start_date": "2026-07-24",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 538,
-    "unique_items": 310,
+    "items_seen": 534,
+    "unique_items": 306,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -367,14 +367,6 @@
       "price": 47300,
       "start_date": "2026-08-04",
       "end_date": "2026-08-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - júlí 2026",
-      "line_item_name": "Aur / HN - Fim 23. júlí - 7x1",
-      "price": 47800,
-      "start_date": "2026-07-23",
-      "end_date": "2026-07-23",
       "seen_count": 1
     },
     {
@@ -1507,14 +1499,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 23. júlí / 4x1",
-      "price": 28500,
-      "start_date": "2026-07-23",
-      "end_date": "2026-07-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 24. júlí / 4x1",
       "price": 25500,
       "start_date": "2026-07-24",
@@ -1827,14 +1811,6 @@
     },
     {
       "campaign_name": "Lova Iceland júlí",
-      "line_item_name": "Copy_of_Lova Iceland afmæli",
-      "price": 185200,
-      "start_date": "2026-07-18",
-      "end_date": "2026-07-24",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lova Iceland júlí",
       "line_item_name": "Lova Iceland afmæli",
       "price": 96900,
       "start_date": "2026-07-18",
@@ -1983,7 +1959,7 @@
       "price": 45000,
       "start_date": "2026-08-03",
       "end_date": "2026-08-24",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "pris ágúst",
@@ -2180,7 +2156,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 95200,
+      "price": 156900,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
@@ -2188,7 +2164,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 156900,
+      "price": 95200,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
@@ -2354,14 +2330,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Útileigukortið",
-      "line_item_name": "Útileigukortið",
-      "price": 286000,
-      "start_date": "2026-06-23",
-      "end_date": "2026-07-23",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Varmi - Águst, sept og okt",
       "line_item_name": "Varmi - Ágúst",
       "price": 162900,
@@ -2455,7 +2423,7 @@
       "price": 32500,
       "start_date": "2026-08-22",
       "end_date": "2026-08-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - ágúst '26",
