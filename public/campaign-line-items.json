@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T08:22:42.731Z",
+  "generated_at": "2026-07-24T11:04:16.467Z",
   "scope": {
     "report_start_date": "2026-07-24",
     "report_end_date": "2099-12-31",
@@ -1187,24 +1187,40 @@
     },
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Betra Bak. Akureyri útsala GLT 1",
+      "price": 13000,
+      "start_date": "2026-08-04",
+      "end_date": "2026-08-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Betra Bak. Akureyri útsala GLT 1",
+      "price": 6500,
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Dorma. Akureyri útsala GLT",
+      "price": 19500,
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
+      "line_item_name": "Dorma. Akureyri útsala GLT 1",
+      "price": 19500,
+      "start_date": "2026-08-06",
+      "end_date": "2026-08-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Húsgagnahöllin. Akureyri útsala",
       "price": 52000,
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 39000,
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Húsgagnahöllin. Akureyri útsala",
-      "price": 6500,
       "start_date": "2026-07-25",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -2260,17 +2276,9 @@
     {
       "campaign_name": "Thule",
       "line_item_name": "Thule  06-08 ágúst.",
-      "price": 85500,
+      "price": 45000,
       "start_date": "2026-08-06",
       "end_date": "2026-08-08",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Thule",
-      "line_item_name": "Thule  14-15 ágúst.",
-      "price": 57000,
-      "start_date": "2026-08-14",
-      "end_date": "2026-08-15",
       "seen_count": 1
     },
     {
@@ -2283,16 +2291,8 @@
     },
     {
       "campaign_name": "Thule",
-      "line_item_name": "Thule  28-29 ágúst.",
-      "price": 48600,
-      "start_date": "2026-08-28",
-      "end_date": "2026-08-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Thule",
       "line_item_name": "Thule  29-30 júlí",
-      "price": 77600,
+      "price": 50000,
       "start_date": "2026-07-29",
       "end_date": "2026-07-30",
       "seen_count": 1
