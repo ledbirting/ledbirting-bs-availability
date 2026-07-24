@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:04:16.467Z",
+  "generated_at": "2026-07-24T13:38:19.074Z",
   "scope": {
     "report_start_date": "2026-07-24",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 534,
-    "unique_items": 306,
+    "items_seen": 532,
+    "unique_items": 304,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1802,22 +1802,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Lindex - S4S / Sahara - landsbyggðin júlí til ágúst 2026",
-      "line_item_name": "Lindex.is - S4S / Sahara landsbyggðin - Versló - GLER1",
-      "price": 19500,
-      "start_date": "2026-07-29",
-      "end_date": "2026-08-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lindex - S4S / Sahara - landsbyggðin júlí til ágúst 2026",
-      "line_item_name": "Lindex.is - S4S / Sahara landsbyggðin - Versló - GLER2",
-      "price": 13000,
-      "start_date": "2026-07-29",
-      "end_date": "2026-08-03",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Löður - Júlí 2026",
       "line_item_name": "V31",
       "price": 25500,
@@ -2316,9 +2300,9 @@
     {
       "campaign_name": "Unglingalandsmót UMFÍ 2026",
       "line_item_name": "Akureyri",
-      "price": 136500,
+      "price": 156000,
       "start_date": "2026-07-08",
-      "end_date": "2026-07-31",
+      "end_date": "2026-07-29",
       "seen_count": 1
     },
     {
