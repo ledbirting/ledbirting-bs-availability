@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T13:38:19.074Z",
+  "generated_at": "2026-07-24T16:31:38.557Z",
   "scope": {
     "report_start_date": "2026-07-24",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 532,
-    "unique_items": 304,
+    "items_seen": 540,
+    "unique_items": 312,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -948,7 +948,7 @@
     {
       "campaign_name": "Dominos Júlí",
       "line_item_name": "Dominos 29-30 júlí..AK1-BH1-EH1-GLT-GRI-KAPLA1-GB-KEV1-SFS2",
-      "price": 113000,
+      "price": 111000,
       "start_date": "2026-07-29",
       "end_date": "2026-07-30",
       "seen_count": 1
@@ -976,6 +976,54 @@
       "start_date": "2026-03-01",
       "end_date": "2027-02-28",
       "seen_count": 8
+    },
+    {
+      "campaign_name": "Ennemm Appelsin og Orka Verslunamannhelgi - 31 juli - GLE 1,2",
+      "line_item_name": "Ennemm Appelsin og Orka Verslunamannhelgi - 31 juli - GLE 1,2",
+      "price": 0,
+      "start_date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ennemm Appelsín og Orka verslunarmannahelgi.",
+      "line_item_name": "Ennemm Ölgerðin Appelsín 01 ágúst.GLT og KA",
+      "price": 19500,
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ennemm Appelsín og Orka verslunarmannahelgi.",
+      "line_item_name": "Ennemm Ölgerðin Appelsín 02-03 ágúst GLT og KA",
+      "price": 52000,
+      "start_date": "2026-08-02",
+      "end_date": "2026-08-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ennemm Appelsín og Orka verslunarmannahelgi.",
+      "line_item_name": "Ennemm Ölgerðin Appelsín 29 júlí GLT og KA",
+      "price": 26000,
+      "start_date": "2026-07-29",
+      "end_date": "2026-07-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ennemm Appelsín og Orka verslunarmannahelgi.",
+      "line_item_name": "Ennemm Ölgerðin Appelsín 30 júlí GLT og KA",
+      "price": 19500,
+      "start_date": "2026-07-30",
+      "end_date": "2026-07-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ennemm Appelsín og Orka verslunarmannahelgi.",
+      "line_item_name": "Ennemm Ölgerðin Appelsín 30 júlí GLT. (2)",
+      "price": 6500,
+      "start_date": "2026-07-30",
+      "end_date": "2026-07-30",
+      "seen_count": 1
     },
     {
       "campaign_name": "Eyesland (samningur) - mars '26 til feb '27",
@@ -1100,9 +1148,17 @@
     {
       "campaign_name": "FS Fasteignir - Tilboð",
       "line_item_name": "Glerártorg",
-      "price": 286000,
+      "price": 227500,
       "start_date": "2026-04-01",
-      "end_date": "2026-08-31",
+      "end_date": "2026-07-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "FS Fasteignir - Tilboð",
+      "line_item_name": "Glerártorg",
+      "price": 58500,
+      "start_date": "2026-08-01",
+      "end_date": "2026-09-02",
       "seen_count": 2
     },
     {
@@ -1858,6 +1914,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Nova. Enska deildin.",
+      "line_item_name": "Nova. Enska deildin.",
+      "price": 118500,
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-22",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Nova. Glerártorg árssamningu.",
       "line_item_name": "Nova. Glerártorg árssamningu.",
       "price": 2340000,
@@ -2363,7 +2427,7 @@
     },
     {
       "campaign_name": "Verslunarmannahelgi Digido.",
-      "line_item_name": "Treo. 02 ágúst.",
+      "line_item_name": "Treo. 02 ágúst - Icepharma",
       "price": 45000,
       "start_date": "2026-08-02",
       "end_date": "2026-08-02",
@@ -2371,7 +2435,7 @@
     },
     {
       "campaign_name": "Verslunarmannahelgi Digido.",
-      "line_item_name": "Treo. 03 ágúst.",
+      "line_item_name": "Treo. 03 ágúst - Icepharma",
       "price": 41000,
       "start_date": "2026-08-03",
       "end_date": "2026-08-03",
@@ -2379,7 +2443,7 @@
     },
     {
       "campaign_name": "Verslunarmannahelgi Digido.",
-      "line_item_name": "Treo. 30 júlí",
+      "line_item_name": "Treo. 30 júlí - Icepharma",
       "price": 37500,
       "start_date": "2026-07-30",
       "end_date": "2026-07-30",
