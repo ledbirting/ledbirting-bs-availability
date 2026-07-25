@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-24T22:02:31.834Z",
+  "generated_at": "2026-07-25T02:25:17.826Z",
   "scope": {
-    "report_start_date": "2026-07-24",
+    "report_start_date": "2026-07-25",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 540,
-    "unique_items": 312,
+    "items_seen": 532,
+    "unique_items": 309,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -503,7 +503,7 @@
       "price": 97500,
       "start_date": "2026-12-07",
       "end_date": "2026-12-21",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Bestun-Vogue-júli-Glerártorg",
@@ -811,14 +811,6 @@
     },
     {
       "campaign_name": "Bónus / HN - júlí 2026",
-      "line_item_name": "Bónus 24. júlí - Fös / 10x1",
-      "price": 60000,
-      "start_date": "2026-07-24",
-      "end_date": "2026-07-24",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - júlí 2026",
       "line_item_name": "Bónus 27. júlí - Mán / 8x1",
       "price": 49500,
       "start_date": "2026-07-27",
@@ -911,7 +903,7 @@
       "price": 1265600,
       "start_date": "2026-08-17",
       "end_date": "2026-08-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Datera - ágúst 2026",
@@ -1571,14 +1563,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 24. júlí / 4x1",
-      "price": 25500,
-      "start_date": "2026-07-24",
-      "end_date": "2026-07-24",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 27. júlí / 4x1",
       "price": 25500,
       "start_date": "2026-07-27",
@@ -1866,14 +1850,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Lova Iceland júlí",
-      "line_item_name": "Lova Iceland afmæli",
-      "price": 96900,
-      "start_date": "2026-07-18",
-      "end_date": "2026-07-24",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Magnus - Hæðasmári",
       "line_item_name": "Magnus - Hæðasmári",
       "price": 165000,
@@ -1903,7 +1879,7 @@
       "price": 2372500,
       "start_date": "2026-01-21",
       "end_date": "2027-01-20",
-      "seen_count": 7
+      "seen_count": 6
     },
     {
       "campaign_name": "N1 mótin Glerártorg.",
@@ -2015,7 +1991,7 @@
       "price": 63800,
       "start_date": "2026-08-01",
       "end_date": "2026-08-27",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "pris ágúst",
@@ -2287,7 +2263,7 @@
       "price": 91000,
       "start_date": "2026-08-10",
       "end_date": "2026-08-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Sérefni - langtímasamningur Glerártorgi 2026",
