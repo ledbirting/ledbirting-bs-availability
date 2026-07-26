@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T21:52:54.535Z",
+  "generated_at": "2026-07-26T02:31:39.030Z",
   "scope": {
-    "report_start_date": "2026-07-25",
+    "report_start_date": "2026-07-26",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 532,
-    "unique_items": 309,
+    "items_seen": 524,
+    "unique_items": 301,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -387,14 +387,6 @@
     },
     {
       "campaign_name": "Aur / HN - júlí 2026",
-      "line_item_name": "Aur / HN - Lau 25. júlí - 7x1",
-      "price": 48000,
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-25",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - júlí 2026",
       "line_item_name": "Aur / HN - Mán 27. júlí - 7x1",
       "price": 44500,
       "start_date": "2026-07-27",
@@ -544,14 +536,6 @@
       "start_date": "2026-08-01",
       "end_date": "2026-08-29",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Bílasala Akureyri (júní og júlí)",
-      "line_item_name": "Bílasala Akureyri - júlí",
-      "price": 234000,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-26",
-      "seen_count": 1
     },
     {
       "campaign_name": "Birtingahúsið Besta deildin.",
@@ -855,7 +839,7 @@
       "price": 60000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-25",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -890,14 +874,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Danól Felix tómatsósa.",
-      "line_item_name": "Danól Felix tómatsósa.24-25 júlí",
-      "price": 68600,
-      "start_date": "2026-07-24",
-      "end_date": "2026-07-25",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Datera - ágúst 2026",
       "line_item_name": "Datera - 17. til 23. ágúst - einfaldar birtingar",
       "price": 1265600,
@@ -911,7 +887,7 @@
       "price": 2169600,
       "start_date": "2026-08-24",
       "end_date": "2026-08-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Datera - Smáralind - Ágúst",
@@ -1047,7 +1023,7 @@
       "price": 60000,
       "start_date": "2026-08-24",
       "end_date": "2026-08-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Farmers Market - 2026 - Grandi",
@@ -1103,14 +1079,6 @@
       "price": 82500,
       "start_date": "2026-07-29",
       "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Flugrútan sumar.",
-      "line_item_name": "BT-KAPLA3-GRI-GB.22-28-júlí",
-      "price": 55000,
-      "start_date": "2026-07-22",
-      "end_date": "2026-07-28",
       "seen_count": 1
     },
     {
@@ -1850,14 +1818,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Magnus - Hæðasmári",
-      "line_item_name": "Magnus - Hæðasmári",
-      "price": 165000,
-      "start_date": "2026-06-26",
-      "end_date": "2026-07-25",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "MAGNUS - Hæðasmári - ágúst",
       "line_item_name": "MAGNUS - Hæðasmári - ágúst",
       "price": 159500,
@@ -1963,14 +1923,6 @@
     },
     {
       "campaign_name": "Orkan - Júlí 2026",
-      "line_item_name": "V30",
-      "price": 450000,
-      "start_date": "2026-07-19",
-      "end_date": "2026-07-25",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Orkan - Júlí 2026",
       "line_item_name": "V31",
       "price": 420000,
       "start_date": "2026-07-26",
@@ -2007,7 +1959,7 @@
       "price": 85000,
       "start_date": "2026-08-08",
       "end_date": "2026-08-24",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "pris ágúst",
@@ -2056,14 +2008,6 @@
       "start_date": "2026-07-27",
       "end_date": "2026-08-26",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Ratsjá PEI",
-      "line_item_name": "Ratsjá PEI JÚLI",
-      "price": 610000,
-      "start_date": "2026-06-28",
-      "end_date": "2026-07-26",
-      "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
@@ -2196,7 +2140,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 156900,
+      "price": 95200,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
@@ -2204,7 +2148,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 95200,
+      "price": 156900,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
@@ -2303,14 +2247,6 @@
       "price": 45000,
       "start_date": "2026-08-06",
       "end_date": "2026-08-08",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Thule",
-      "line_item_name": "Thule  23-25 júlí",
-      "price": 108000,
-      "start_date": "2026-07-23",
-      "end_date": "2026-07-25",
       "seen_count": 1
     },
     {
