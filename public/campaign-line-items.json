@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T06:26:36.209Z",
+  "generated_at": "2026-07-27T12:19:35.261Z",
   "scope": {
     "report_start_date": "2026-07-27",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 517,
-    "unique_items": 299,
+    "items_seen": 515,
+    "unique_items": 298,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -2160,14 +2160,6 @@
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
       "seen_count": 6
-    },
-    {
-      "campaign_name": "Sbarro",
-      "line_item_name": "Sbarro",
-      "price": 391000,
-      "start_date": "2026-09-01",
-      "end_date": "2026-09-29",
-      "seen_count": 2
     },
     {
       "campaign_name": "Securitas / Datera - júlí 2026",
