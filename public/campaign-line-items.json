@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T11:14:41.105Z",
+  "generated_at": "2026-07-28T13:59:42.662Z",
   "scope": {
     "report_start_date": "2026-07-28",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 511,
-    "unique_items": 295,
+    "items_seen": 513,
+    "unique_items": 297,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -815,6 +815,22 @@
       "price": 312000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "CCEP Coke 01-14 ágúst.",
+      "line_item_name": "CCEP Coke 01-14 ágúst.",
+      "price": 183200,
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "CCEP Coke 01-14 ágúst.",
+      "line_item_name": "CCEP Coke 01-14 ágúst.",
+      "price": 182000,
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-14",
       "seen_count": 1
     },
     {
