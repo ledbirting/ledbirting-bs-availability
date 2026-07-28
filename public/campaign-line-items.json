@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T13:59:42.662Z",
+  "generated_at": "2026-07-28T16:38:23.637Z",
   "scope": {
     "report_start_date": "2026-07-28",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 513,
-    "unique_items": 297,
+    "items_seen": 514,
+    "unique_items": 298,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -78,6 +78,22 @@
       "line_item_name": "Júlí",
       "price": 187500,
       "start_date": "2026-07-01",
+      "end_date": "2026-07-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Akueyri versló laus pláss",
+      "line_item_name": "Akueyri 02 ágúst. - Durex After Party",
+      "price": 19500,
+      "start_date": "2026-08-02",
+      "end_date": "2026-08-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Akueyri versló laus pláss",
+      "line_item_name": "Akueyri 29 júlí - Durex After Party",
+      "price": 26000,
+      "start_date": "2026-07-29",
       "end_date": "2026-07-29",
       "seen_count": 1
     },
@@ -1823,14 +1839,6 @@
       "price": 117000,
       "start_date": "2026-08-07",
       "end_date": "2026-08-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Nova. Enska deildin.",
-      "line_item_name": "Nova. Enska deildin.",
-      "price": 118500,
-      "start_date": "2026-08-17",
-      "end_date": "2026-08-22",
       "seen_count": 1
     },
     {
