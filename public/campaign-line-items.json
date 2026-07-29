@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T11:23:36.690Z",
+  "generated_at": "2026-07-29T14:03:43.473Z",
   "scope": {
     "report_start_date": "2026-07-29",
     "report_end_date": "2099-12-31",
@@ -684,7 +684,7 @@
     {
       "campaign_name": "Boli 29 júlí - 01 á´gust.",
       "line_item_name": "Boli 31 júlí",
-      "price": 35500,
+      "price": 30500,
       "start_date": "2026-07-31",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -692,7 +692,7 @@
     {
       "campaign_name": "Boli 29 júlí - 01 á´gust.",
       "line_item_name": "Bolio 01 ágúst.",
-      "price": 67800,
+      "price": 62800,
       "start_date": "2026-08-01",
       "end_date": "2026-08-01",
       "seen_count": 1
