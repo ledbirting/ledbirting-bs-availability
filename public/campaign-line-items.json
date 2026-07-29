@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T22:01:46.108Z",
+  "generated_at": "2026-07-29T02:23:55.412Z",
   "scope": {
-    "report_start_date": "2026-07-28",
+    "report_start_date": "2026-07-29",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 514,
-    "unique_items": 298,
+    "items_seen": 506,
+    "unique_items": 292,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -104,14 +104,6 @@
       "start_date": "2026-01-05",
       "end_date": "2026-12-31",
       "seen_count": 6
-    },
-    {
-      "campaign_name": "Arion - Besta banka appið / Digido - 6. júlí til 30. júlí 2026",
-      "line_item_name": "Arion - Besta banka appið / Digido - þri og fös",
-      "price": 80500,
-      "start_date": "2026-07-06",
-      "end_date": "2026-07-30",
-      "seen_count": 1
     },
     {
       "campaign_name": "Artasan - Hæðasmári - Otrivin - Gunnar",
@@ -407,14 +399,6 @@
       "price": 41300,
       "start_date": "2026-07-29",
       "end_date": "2026-07-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - júlí 2026",
-      "line_item_name": "Aur / HN - Þri 28. júlí - 8x1",
-      "price": 53000,
-      "start_date": "2026-07-28",
-      "end_date": "2026-07-28",
       "seen_count": 1
     },
     {
@@ -807,7 +791,7 @@
       "price": 272000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-29",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -1531,14 +1515,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 28. júlí / 4x1",
-      "price": 26500,
-      "start_date": "2026-07-28",
-      "end_date": "2026-07-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 29. júlí / 5x1",
       "price": 32000,
       "start_date": "2026-07-29",
@@ -1823,7 +1799,7 @@
       "price": 468000,
       "start_date": "2026-07-05",
       "end_date": "2026-09-30",
-      "seen_count": 3
+      "seen_count": 2
     },
     {
       "campaign_name": "N1 árssamingur Glerártorg.",
@@ -2251,14 +2227,6 @@
     },
     {
       "campaign_name": "Unglingalandsmót UMFÍ 2026",
-      "line_item_name": "Akureyri",
-      "price": 156000,
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Unglingalandsmót UMFÍ 2026",
       "line_item_name": "Hagasmári, Vesturlandvegur",
       "price": 39900,
       "start_date": "2026-07-21",
@@ -2293,14 +2261,6 @@
       "campaign_name": "Varmi - maí/júní/júlí",
       "line_item_name": "Varmi - júlí",
       "price": 182700,
-      "start_date": "2026-07-01",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Verkfærasalan Akureyri langtima",
-      "line_item_name": "Júlí",
-      "price": 52000,
       "start_date": "2026-07-01",
       "end_date": "2026-07-31",
       "seen_count": 1
@@ -2367,14 +2327,6 @@
       "price": 19500,
       "start_date": "2026-08-08",
       "end_date": "2026-08-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "VÍS / Datera Landsbyggðin - júlí '26",
-      "line_item_name": "VÍS Akureyri 22.7 til 31.7 / Mán, Þri, Lau / AKU2, GLER1",
-      "price": 19500,
-      "start_date": "2026-07-22",
-      "end_date": "2026-07-31",
       "seen_count": 1
     },
     {
