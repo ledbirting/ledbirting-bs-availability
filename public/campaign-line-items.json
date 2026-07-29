@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T08:35:49.172Z",
+  "generated_at": "2026-07-29T11:23:36.690Z",
   "scope": {
     "report_start_date": "2026-07-29",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 506,
-    "unique_items": 292,
+    "items_seen": 510,
+    "unique_items": 296,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -663,6 +663,38 @@
       "price": 50000,
       "start_date": "2026-07-01",
       "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Boli 29 júlí - 01 á´gust.",
+      "line_item_name": "Boli 29 júlí",
+      "price": 43000,
+      "start_date": "2026-07-29",
+      "end_date": "2026-07-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Boli 29 júlí - 01 á´gust.",
+      "line_item_name": "Boli 30 júlí",
+      "price": 35500,
+      "start_date": "2026-07-30",
+      "end_date": "2026-07-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Boli 29 júlí - 01 á´gust.",
+      "line_item_name": "Boli 31 júlí",
+      "price": 35500,
+      "start_date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Boli 29 júlí - 01 á´gust.",
+      "line_item_name": "Bolio 01 ágúst.",
+      "price": 67800,
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-01",
       "seen_count": 1
     },
     {
@@ -1828,7 +1860,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1836,7 +1868,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -2100,7 +2132,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 95200,
+      "price": 156900,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
@@ -2108,7 +2140,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 156900,
+      "price": 95200,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
