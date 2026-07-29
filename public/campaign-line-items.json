@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T14:03:43.473Z",
+  "generated_at": "2026-07-29T16:18:46.293Z",
   "scope": {
     "report_start_date": "2026-07-29",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 510,
-    "unique_items": 296,
+    "items_seen": 511,
+    "unique_items": 297,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1850,6 +1850,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Nova. Enska deildin.",
+      "line_item_name": "Nova. Enska deildin.",
+      "price": 118500,
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-22",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Nova. Glerártorg árssamningu.",
       "line_item_name": "Nova. Glerártorg árssamningu.",
       "price": 2340000,
@@ -2132,7 +2140,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 156900,
+      "price": 95200,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
@@ -2140,7 +2148,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 95200,
+      "price": 156900,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
