@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T13:58:15.147Z",
+  "generated_at": "2026-07-31T16:42:54.403Z",
   "scope": {
     "report_start_date": "2026-07-31",
     "report_end_date": "2099-12-31",
@@ -1811,14 +1811,6 @@
     },
     {
       "campaign_name": "Orkan - Ágúst 2026",
-      "line_item_name": "V31",
-      "price": 70000,
-      "start_date": "2026-08-30",
-      "end_date": "2026-08-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Orkan - Ágúst 2026",
       "line_item_name": "V32",
       "price": 360000,
       "start_date": "2026-08-01",
@@ -1847,6 +1839,14 @@
       "price": 140000,
       "start_date": "2026-08-23",
       "end_date": "2026-08-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orkan - Ágúst 2026",
+      "line_item_name": "V36",
+      "price": 70000,
+      "start_date": "2026-08-30",
+      "end_date": "2026-08-31",
       "seen_count": 1
     },
     {
