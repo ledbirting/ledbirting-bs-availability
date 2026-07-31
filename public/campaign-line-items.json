@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-30T22:03:27.613Z",
+  "generated_at": "2026-07-31T02:33:26.788Z",
   "scope": {
-    "report_start_date": "2026-07-30",
+    "report_start_date": "2026-07-31",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 494,
-    "unique_items": 282,
+    "items_seen": 474,
+    "unique_items": 270,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -135,7 +135,7 @@
       "price": 159500,
       "start_date": "2026-08-01",
       "end_date": "2026-08-29",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Artasan -Sóley - Hæðasmári - 2026",
@@ -363,14 +363,6 @@
     },
     {
       "campaign_name": "Aur / HN - júlí 2026",
-      "line_item_name": "Aur / HN - Fim 30. júlí - 7x1",
-      "price": 46500,
-      "start_date": "2026-07-30",
-      "end_date": "2026-07-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - júlí 2026",
       "line_item_name": "Aur / HN - Fös 31. júlí - 8x1",
       "price": 52300,
       "start_date": "2026-07-31",
@@ -495,7 +487,7 @@
       "price": 188500,
       "start_date": "2026-08-01",
       "end_date": "2026-08-29",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Birtingahúsið Besta deildin.",
@@ -643,14 +635,6 @@
     },
     {
       "campaign_name": "Boli 29 júlí - 01 á´gust.",
-      "line_item_name": "Boli 30 júlí",
-      "price": 35500,
-      "start_date": "2026-07-30",
-      "end_date": "2026-07-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Boli 29 júlí - 01 á´gust.",
       "line_item_name": "Boli 31 júlí",
       "price": 30500,
       "start_date": "2026-07-31",
@@ -791,7 +775,7 @@
       "price": 272000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -863,7 +847,7 @@
       "price": 2169600,
       "start_date": "2026-08-24",
       "end_date": "2026-08-29",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Datera - Smáralind - Ágúst",
@@ -887,14 +871,6 @@
       "price": 37300,
       "start_date": "2026-08-21",
       "end_date": "2026-08-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Dominos Júlí",
-      "line_item_name": "Dominos 29-30 júlí..AK1-BH1-EH1-GLT-GRI-KAPLA1-GB-KEV1-SFS2",
-      "price": 111000,
-      "start_date": "2026-07-29",
-      "end_date": "2026-07-30",
       "seen_count": 1
     },
     {
@@ -943,22 +919,6 @@
       "price": 52000,
       "start_date": "2026-08-02",
       "end_date": "2026-08-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ennemm Appelsín og Orka verslunarmannahelgi.",
-      "line_item_name": "Ennemm Ölgerðin Appelsín 30 júlí GLT og KA",
-      "price": 19500,
-      "start_date": "2026-07-30",
-      "end_date": "2026-07-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ennemm Appelsín og Orka verslunarmannahelgi.",
-      "line_item_name": "Ennemm Ölgerðin Appelsín 30 júlí GLT. (2)",
-      "price": 6500,
-      "start_date": "2026-07-30",
-      "end_date": "2026-07-30",
       "seen_count": 1
     },
     {
@@ -1079,14 +1039,6 @@
       "price": 48000,
       "start_date": "2026-07-05",
       "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Gæludýr / Hvíta húsið - júlí 2026",
-      "line_item_name": "Gæludýr á Glerártorgi / 5. til 31. júlí / Mán, Þri, Fim, Lau / GLER1",
-      "price": 97500,
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-30",
       "seen_count": 1
     },
     {
@@ -1467,14 +1419,6 @@
     },
     {
       "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 30. júlí / 4x1",
-      "price": 27000,
-      "start_date": "2026-07-30",
-      "end_date": "2026-07-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - júlí 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 31. júlí / 5x1",
       "price": 31000,
       "start_date": "2026-07-31",
@@ -1487,7 +1431,7 @@
       "price": 0,
       "start_date": "2026-06-12",
       "end_date": "2026-12-31",
-      "seen_count": 6
+      "seen_count": 5
     },
     {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
@@ -1727,7 +1671,7 @@
       "price": 159500,
       "start_date": "2026-08-01",
       "end_date": "2026-08-29",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
@@ -1772,7 +1716,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1780,7 +1724,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1839,7 +1783,7 @@
       "price": 169000,
       "start_date": "2026-06-01",
       "end_date": "2026-08-31",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "pris ágúst",
@@ -1871,14 +1815,6 @@
       "price": 30000,
       "start_date": "2026-08-15",
       "end_date": "2026-08-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ratsjá -Bændasamtökin",
-      "line_item_name": "Ratsjá -Bændasamtökin",
-      "price": 690000,
-      "start_date": "2026-07-16",
-      "end_date": "2026-07-30",
       "seen_count": 1
     },
     {
@@ -2058,14 +1994,6 @@
       "seen_count": 6
     },
     {
-      "campaign_name": "Securitas / Datera - júlí 2026",
-      "line_item_name": "Securitas / Datera - 6. júlí til 31. júlí 2026 / GLER1 - (mið, fim, lau)",
-      "price": 71500,
-      "start_date": "2026-07-06",
-      "end_date": "2026-07-31",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Sep-12 Kaldalón Hæðasmári",
       "line_item_name": "Kaldalón - HST (until end of Feb 24')",
       "price": 0,
@@ -2123,14 +2051,6 @@
     },
     {
       "campaign_name": "Thule",
-      "line_item_name": "Thule  29-30 júlí",
-      "price": 50000,
-      "start_date": "2026-07-29",
-      "end_date": "2026-07-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Thule",
       "line_item_name": "Thule  31 júlí - 01 ágúst.",
       "price": 64000,
       "start_date": "2026-07-31",
@@ -2144,14 +2064,6 @@
       "start_date": "2026-03-05",
       "end_date": "2028-04-05",
       "seen_count": 18
-    },
-    {
-      "campaign_name": "Unglingalandsmót UMFÍ 2026",
-      "line_item_name": "Hagasmári, Vesturlandvegur",
-      "price": 39900,
-      "start_date": "2026-07-21",
-      "end_date": "2026-07-31",
-      "seen_count": 1
     },
     {
       "campaign_name": "Varmi - Águst, sept og okt",
@@ -2175,7 +2087,7 @@
       "price": 162400,
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Varmi - maí/júní/júlí",
@@ -2207,14 +2119,6 @@
       "price": 41000,
       "start_date": "2026-08-03",
       "end_date": "2026-08-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Verslunarmannahelgi Digido.",
-      "line_item_name": "Treo. 30 júlí - Icepharma",
-      "price": 37500,
-      "start_date": "2026-07-30",
-      "end_date": "2026-07-30",
       "seen_count": 1
     },
     {
