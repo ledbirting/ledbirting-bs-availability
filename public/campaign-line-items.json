@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T12:19:42.997Z",
+  "generated_at": "2026-08-03T17:06:42.221Z",
   "scope": {
     "report_start_date": "2026-08-03",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 430,
-    "unique_items": 250,
+    "items_seen": 429,
+    "unique_items": 249,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -63,14 +63,6 @@
       "price": 187500,
       "start_date": "2026-08-01",
       "end_date": "2026-08-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Akueyrarbær.",
-      "line_item_name": "Akueyrarbær. 25-27 birtiingar báðum meginn Gleraártorg og KA. alla daga.",
-      "price": 39000,
-      "start_date": "2026-08-25",
-      "end_date": "2026-08-27",
       "seen_count": 1
     },
     {
