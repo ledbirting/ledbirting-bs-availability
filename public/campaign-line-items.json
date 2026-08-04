@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T16:49:17.295Z",
+  "generated_at": "2026-08-04T19:27:35.029Z",
   "scope": {
     "report_start_date": "2026-08-04",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 420,
-    "unique_items": 238,
+    "items_seen": 423,
+    "unique_items": 241,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1524,7 +1524,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1532,7 +1532,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1674,6 +1674,30 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 1722000,
+      "start_date": "2026-08-09",
+      "end_date": "2026-08-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 165000,
+      "start_date": "2026-08-09",
+      "end_date": "2026-08-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 105000,
+      "start_date": "2026-08-23",
+      "end_date": "2026-08-29",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Reykjastræti - Fast í Hafnartorgi",
       "line_item_name": "Reykjastræti - Fast í Hafnartorgi",
       "price": 0,
@@ -1756,7 +1780,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 95200,
+      "price": 156900,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
@@ -1764,7 +1788,7 @@
     {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 156900,
+      "price": 95200,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
