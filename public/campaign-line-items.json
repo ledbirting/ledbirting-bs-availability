@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T22:06:10.032Z",
+  "generated_at": "2026-08-04T02:12:38.121Z",
   "scope": {
-    "report_start_date": "2026-08-03",
+    "report_start_date": "2026-08-04",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 429,
-    "unique_items": 249,
+    "items_seen": 423,
+    "unique_items": 241,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -71,7 +71,7 @@
       "price": 3790500,
       "start_date": "2026-01-05",
       "end_date": "2026-12-31",
-      "seen_count": 6
+      "seen_count": 5
     },
     {
       "campaign_name": "Artasan - Hæðasmári - Otrivin - Gunnar",
@@ -111,7 +111,7 @@
       "price": 159500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Artasan -Sóley - Hæðasmári - 2026",
@@ -119,7 +119,7 @@
       "price": 159500,
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Artasan -Sóley - Hæðasmári - 2026",
@@ -391,7 +391,7 @@
       "price": 195000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun-vogue-okt-Glerártorg",
@@ -535,15 +535,7 @@
       "price": 2372500,
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
-      "seen_count": 6
-    },
-    {
-      "campaign_name": "Blush - Akureyri - Versló",
-      "line_item_name": "Glerártorg 2-3 ágúst",
-      "price": 26000,
-      "start_date": "2026-08-02",
-      "end_date": "2026-08-03",
-      "seen_count": 1
+      "seen_count": 5
     },
     {
       "campaign_name": "Bónus / HN - ágúst 2026",
@@ -615,14 +607,6 @@
       "price": 71000,
       "start_date": "2026-08-28",
       "end_date": "2026-08-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - ágúst 2026",
-      "line_item_name": "Bónus 3. ágúst - Mán / 9x1",
-      "price": 57500,
-      "start_date": "2026-08-03",
-      "end_date": "2026-08-03",
       "seen_count": 1
     },
     {
@@ -775,7 +759,7 @@
       "price": 13000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-15",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "ELKO árssamningur",
@@ -784,14 +768,6 @@
       "start_date": "2026-03-01",
       "end_date": "2027-02-28",
       "seen_count": 7
-    },
-    {
-      "campaign_name": "Ennemm Appelsín og Orka verslunarmannahelgi.",
-      "line_item_name": "Ennemm Ölgerðin Appelsín 02-03 ágúst GLT og KA",
-      "price": 52000,
-      "start_date": "2026-08-02",
-      "end_date": "2026-08-03",
-      "seen_count": 1
     },
     {
       "campaign_name": "Eyesland (samningur) - mars '26 til feb '27",
@@ -831,7 +807,7 @@
       "price": 217500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Farmers Market - 2026 - Grandi",
@@ -839,7 +815,7 @@
       "price": 217500,
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Farmers Market - 2026 - Grandi",
@@ -887,7 +863,7 @@
       "price": 58500,
       "start_date": "2026-08-01",
       "end_date": "2026-09-02",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Gjafabréf.is - 10-20 ágúst",
@@ -991,7 +967,7 @@
       "price": 195000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Icelandair  / Hvíta húsið - Glerártorgi",
@@ -1031,7 +1007,7 @@
       "price": 510000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Icepharma - apóteks samningur / Digido  - langtíma  2026",
@@ -1159,14 +1135,6 @@
       "price": 32000,
       "start_date": "2026-08-29",
       "end_date": "2026-08-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 3. ágúst / 4x1",
-      "price": 26500,
-      "start_date": "2026-08-03",
-      "end_date": "2026-08-03",
       "seen_count": 1
     },
     {
@@ -1439,7 +1407,7 @@
       "price": 2610000,
       "start_date": "2026-03-01",
       "end_date": "2026-12-31",
-      "seen_count": 6
+      "seen_count": 5
     },
     {
       "campaign_name": "Lífland - Versló - Akureyri og Selfoss",
@@ -1551,12 +1519,12 @@
       "price": 2340000,
       "start_date": "2026-01-06",
       "end_date": "2026-12-31",
-      "seen_count": 6
+      "seen_count": 5
     },
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1564,7 +1532,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1690,14 +1658,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Ratsjá -Bændasamtökin",
-      "line_item_name": "Ratsjá -Bændasamtökin",
-      "price": 166000,
-      "start_date": "2026-07-31",
-      "end_date": "2026-08-03",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Ratsjá -Gildi",
       "line_item_name": "Ratsjá -Gildi",
       "price": 1332800,
@@ -1716,14 +1676,6 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 165000,
-      "start_date": "2026-08-09",
-      "end_date": "2026-08-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 1722000,
       "start_date": "2026-08-09",
       "end_date": "2026-08-29",
@@ -1732,25 +1684,17 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 165000,
+      "start_date": "2026-08-09",
+      "end_date": "2026-08-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 105000,
       "start_date": "2026-08-23",
       "end_date": "2026-08-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Reykjagarður. júní til ágúst 2026",
-      "line_item_name": "Reykjagarður. 19. juni til 3.agust 2026",
-      "price": 896000,
-      "start_date": "2026-06-19",
-      "end_date": "2026-08-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Reykjagarður. júní til ágúst 2026",
-      "line_item_name": "Reykjagarður. 20. juni til 3.agust 2026 - GRA",
-      "price": 195000,
-      "start_date": "2026-06-20",
-      "end_date": "2026-08-03",
       "seen_count": 1
     },
     {
@@ -1799,7 +1743,7 @@
       "price": 377000,
       "start_date": "2026-12-03",
       "end_date": "2026-12-31",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "sahara-Earth Lagoon -nóv",
@@ -1935,7 +1879,7 @@
       "price": 182700,
       "start_date": "2026-10-01",
       "end_date": "2026-10-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Varmi - Águst, sept og okt",
@@ -1951,15 +1895,7 @@
       "price": 286000,
       "start_date": "2026-08-01",
       "end_date": "2026-12-31",
-      "seen_count": 6
-    },
-    {
-      "campaign_name": "Verslunarmannahelgi Digido.",
-      "line_item_name": "Treo. 03 ágúst - Icepharma",
-      "price": 41000,
-      "start_date": "2026-08-03",
-      "end_date": "2026-08-03",
-      "seen_count": 1
+      "seen_count": 5
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - ágúst '26",
