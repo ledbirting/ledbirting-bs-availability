@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T11:17:51.178Z",
+  "generated_at": "2026-08-05T14:01:39.308Z",
   "scope": {
     "report_start_date": "2026-08-05",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 422,
-    "unique_items": 238,
+    "items_seen": 423,
+    "unique_items": 239,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1184,6 +1184,14 @@
       "start_date": "2026-06-12",
       "end_date": "2026-12-31",
       "seen_count": 5
+    },
+    {
+      "campaign_name": "ILVA sérstakt tilboð 7-9 ágúst.",
+      "line_item_name": "ILVA sérstakt tilboð 7-9 ágúst.",
+      "price": 312900,
+      "start_date": "2026-08-07",
+      "end_date": "2026-08-09",
+      "seen_count": 1
     },
     {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
