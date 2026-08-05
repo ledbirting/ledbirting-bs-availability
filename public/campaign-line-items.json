@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T22:08:46.741Z",
+  "generated_at": "2026-08-05T02:11:44.023Z",
   "scope": {
-    "report_start_date": "2026-08-04",
+    "report_start_date": "2026-08-05",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 423,
-    "unique_items": 241,
+    "items_seen": 422,
+    "unique_items": 238,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -306,14 +306,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Aur / HN - ágúst 2026",
-      "line_item_name": "Aur / HN - Þri 4. ágúst - 7x1",
-      "price": 47300,
-      "start_date": "2026-08-04",
-      "end_date": "2026-08-04",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Bestun - Epli - Sumarpakki b - Ágúst",
       "line_item_name": "Bestun - Epli - Sumarpakki b - 1-20 Ágúst",
       "price": 509300,
@@ -463,14 +455,6 @@
       "price": 6500,
       "start_date": "2026-08-29",
       "end_date": "2026-08-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir Þór 04 ágúst.",
-      "price": 6500,
-      "start_date": "2026-08-04",
-      "end_date": "2026-08-04",
       "seen_count": 1
     },
     {
@@ -663,7 +647,7 @@
       "price": 312000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "CCEP Coke 01-14 ágúst.",
@@ -1155,14 +1139,6 @@
     },
     {
       "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 4. ágúst / 5x1",
-      "price": 31000,
-      "start_date": "2026-08-04",
-      "end_date": "2026-08-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 5. ágúst / 4x1",
       "price": 24000,
       "start_date": "2026-08-05",
@@ -1311,7 +1287,7 @@
       "price": 39000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-03",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1375,7 +1351,7 @@
       "price": 39000,
       "start_date": "2026-09-03",
       "end_date": "2026-09-05",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1524,7 +1500,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1532,7 +1508,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1676,17 +1652,17 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 1722000,
+      "price": 165000,
       "start_date": "2026-08-09",
-      "end_date": "2026-08-29",
+      "end_date": "2026-08-21",
       "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 165000,
+      "price": 1722000,
       "start_date": "2026-08-09",
-      "end_date": "2026-08-21",
+      "end_date": "2026-08-29",
       "seen_count": 1
     },
     {
@@ -1935,7 +1911,7 @@
       "price": 520000,
       "start_date": "2027-06-30",
       "end_date": "2027-07-03",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Zipline Akureyri",
