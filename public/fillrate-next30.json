@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T14:46:08.178Z",
+  "generated_at": "2026-08-05T16:28:27.314Z",
   "result": [
     {
       "date": "2026-08-05",
@@ -6260,8 +6260,8 @@
         {
           "id": 321889,
           "du_name": "Frumherji - Reykjanesbær",
-          "fill_rate": 0.0667,
-          "rows_seen": 1
+          "fill_rate": 0.10003333333333334,
+          "rows_seen": 2
         },
         {
           "id": 321888,
@@ -6380,14 +6380,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.26833333333333337,
-          "rows_seen": 4
+          "fill_rate": 0.3016666666666667,
+          "rows_seen": 5
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.20166666666666666,
-          "rows_seen": 3
+          "fill_rate": 0.235,
+          "rows_seen": 4
         },
         {
           "id": 237874,
@@ -6518,8 +6518,8 @@
         {
           "id": 321889,
           "du_name": "Frumherji - Reykjanesbær",
-          "fill_rate": 0.0667,
-          "rows_seen": 1
+          "fill_rate": 0.10003333333333334,
+          "rows_seen": 2
         },
         {
           "id": 321888,
@@ -6638,14 +6638,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.10166666666666667,
-          "rows_seen": 2
+          "fill_rate": 0.135,
+          "rows_seen": 3
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.10166666666666667,
-          "rows_seen": 2
+          "fill_rate": 0.135,
+          "rows_seen": 3
         },
         {
           "id": 237874,
@@ -6776,8 +6776,8 @@
         {
           "id": 321889,
           "du_name": "Frumherji - Reykjanesbær",
-          "fill_rate": 0.0667,
-          "rows_seen": 1
+          "fill_rate": 0.10003333333333334,
+          "rows_seen": 2
         },
         {
           "id": 321888,
@@ -6896,14 +6896,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.16833333333333333,
-          "rows_seen": 4
+          "fill_rate": 0.20166666666666666,
+          "rows_seen": 5
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.20166666666666666,
-          "rows_seen": 5
+          "fill_rate": 0.235,
+          "rows_seen": 6
         },
         {
           "id": 237874,
@@ -7034,8 +7034,8 @@
         {
           "id": 321889,
           "du_name": "Frumherji - Reykjanesbær",
-          "fill_rate": 0.0667,
-          "rows_seen": 1
+          "fill_rate": 0.10003333333333334,
+          "rows_seen": 2
         },
         {
           "id": 321888,
@@ -7154,14 +7154,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.135,
-          "rows_seen": 3
+          "fill_rate": 0.16833333333333333,
+          "rows_seen": 4
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.06833333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.10166666666666666,
+          "rows_seen": 3
         },
         {
           "id": 237874,
@@ -7190,14 +7190,14 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.1,
+          "rows_seen": 2
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.1,
+          "rows_seen": 2
         },
         {
           "id": 445024,
@@ -7292,8 +7292,8 @@
         {
           "id": 321889,
           "du_name": "Frumherji - Reykjanesbær",
-          "fill_rate": 0.0667,
-          "rows_seen": 1
+          "fill_rate": 0.10003333333333334,
+          "rows_seen": 2
         },
         {
           "id": 321888,
@@ -7412,14 +7412,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.10166666666666667,
-          "rows_seen": 2
+          "fill_rate": 0.135,
+          "rows_seen": 3
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.035,
-          "rows_seen": 1
+          "fill_rate": 0.06833333333333333,
+          "rows_seen": 2
         },
         {
           "id": 237874,
@@ -7448,14 +7448,14 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.1,
+          "rows_seen": 2
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.1,
+          "rows_seen": 2
         },
         {
           "id": 445024,
@@ -7550,8 +7550,8 @@
         {
           "id": 321889,
           "du_name": "Frumherji - Reykjanesbær",
-          "fill_rate": 0.0667,
-          "rows_seen": 1
+          "fill_rate": 0.10003333333333334,
+          "rows_seen": 2
         },
         {
           "id": 321888,
@@ -7670,14 +7670,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.135,
-          "rows_seen": 3
+          "fill_rate": 0.16833333333333333,
+          "rows_seen": 4
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.10166666666666666,
-          "rows_seen": 3
+          "fill_rate": 0.13499999999999998,
+          "rows_seen": 4
         },
         {
           "id": 237874,
@@ -7706,14 +7706,14 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.23333333333333334,
+          "rows_seen": 4
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.1,
+          "rows_seen": 2
         },
         {
           "id": 445024,
