@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T14:00:42.905Z",
+  "generated_at": "2026-08-06T23:55:35.541Z",
   "scope": {
     "report_start_date": "2026-08-06",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 427,
-    "unique_items": 238,
+    "items_seen": 440,
+    "unique_items": 247,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -831,6 +831,30 @@
       "price": 58500,
       "start_date": "2026-08-01",
       "end_date": "2026-09-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Gay Pride 2026",
+      "line_item_name": "7. ágúst - PRIDE - Grandi",
+      "price": 3554.5,
+      "start_date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Gay Pride 2026",
+      "line_item_name": "7.-8. ágúst - PRIDE - Hafnartorg",
+      "price": 20000,
+      "start_date": "2026-08-07",
+      "end_date": "2026-08-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Gay Pride 2026",
+      "line_item_name": "8. ágúst - PRIDE - Grandi",
+      "price": 7500,
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-08",
       "seen_count": 1
     },
     {
@@ -1820,7 +1844,7 @@
     {
       "campaign_name": "Tilboð",
       "line_item_name": "Tilboð (sun, þri, fim, fös)",
-      "price": 612000,
+      "price": 468000,
       "start_date": "2026-08-25",
       "end_date": "2026-09-14",
       "seen_count": 2
@@ -1828,9 +1852,57 @@
     {
       "campaign_name": "Tilboð",
       "line_item_name": "Tilboð (sun, þri, fim, fös)",
-      "price": 468000,
+      "price": 612000,
       "start_date": "2026-08-25",
       "end_date": "2026-09-14",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Tölvutek Akureyri",
+      "line_item_name": "Tölvutek - 1-24DES Glerártorg #1",
+      "price": 156000,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-24",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Tölvutek Akureyri",
+      "line_item_name": "Tölvutek - 12-21Nóv Glerártorg #1 - ÞRIÐJUDAGAR OG FIMMTUDAGAR",
+      "price": 19500,
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tölvutek Akureyri",
+      "line_item_name": "Tölvutek - 22-29Nóv Glerártorg #1 OG KA #1",
+      "price": 104000,
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tölvutek Akureyri",
+      "line_item_name": "Tölvutek - 6Sept - 7Nóv Glerártorg #1 - ÞRIÐJUDAGAR OG FIMMTUDAGAR",
+      "price": 117000,
+      "start_date": "2026-09-06",
+      "end_date": "2026-11-07",
+      "seen_count": 3
+    },
+    {
+      "campaign_name": "Tölvutek Akureyri",
+      "line_item_name": "Tölvutek - 8-11Nóv Glerártorg #1",
+      "price": 26000,
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tölvutek Akureyri",
+      "line_item_name": "Tölvutek - 9Ágúst-5Sept Glerártorg #1",
+      "price": 182000,
+      "start_date": "2026-08-09",
+      "end_date": "2026-09-05",
       "seen_count": 2
     },
     {
