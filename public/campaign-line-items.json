@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T11:20:39.042Z",
+  "generated_at": "2026-08-06T14:00:42.905Z",
   "scope": {
     "report_start_date": "2026-08-06",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 423,
-    "unique_items": 236,
+    "items_seen": 427,
+    "unique_items": 238,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1816,6 +1816,22 @@
       "start_date": "2026-08-06",
       "end_date": "2026-08-08",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Tilboð",
+      "line_item_name": "Tilboð (sun, þri, fim, fös)",
+      "price": 612000,
+      "start_date": "2026-08-25",
+      "end_date": "2026-09-14",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Tilboð",
+      "line_item_name": "Tilboð (sun, þri, fim, fös)",
+      "price": 468000,
+      "start_date": "2026-08-25",
+      "end_date": "2026-09-14",
+      "seen_count": 2
     },
     {
       "campaign_name": "Tónhylur Long term",
