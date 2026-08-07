@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T23:55:35.541Z",
+  "generated_at": "2026-08-07T02:33:39.291Z",
   "scope": {
-    "report_start_date": "2026-08-06",
+    "report_start_date": "2026-08-07",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 440,
-    "unique_items": 247,
+    "items_seen": 427,
+    "unique_items": 235,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -151,14 +151,6 @@
       "price": 45800,
       "start_date": "2026-08-27",
       "end_date": "2026-08-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - ágúst 2026",
-      "line_item_name": "Aur / HN - Fim 6. ágúst - 7x1",
-      "price": 43000,
-      "start_date": "2026-08-06",
-      "end_date": "2026-08-06",
       "seen_count": 1
     },
     {
@@ -475,14 +467,6 @@
     },
     {
       "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir Þór/KA. 06 ágúst.",
-      "price": 6500,
-      "start_date": "2026-08-06",
-      "end_date": "2026-08-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
       "line_item_name": "Heimaleikir Þór/KA. 07 ágúst.",
       "price": 6500,
       "start_date": "2026-08-07",
@@ -636,25 +620,9 @@
     {
       "campaign_name": "CCEP Coke 01-14 ágúst.",
       "line_item_name": "CCEP Coke 01-14 ágúst.",
-      "price": 183200,
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "CCEP Coke 01-14 ágúst.",
-      "line_item_name": "CCEP Coke 01-14 ágúst.",
       "price": 182000,
       "start_date": "2026-08-08",
       "end_date": "2026-08-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Danól Felix tómatsósa.",
-      "line_item_name": "Danól Felix tómatsósa.06 ágúst.",
-      "price": 24500,
-      "start_date": "2026-08-06",
-      "end_date": "2026-08-06",
       "seen_count": 1
     },
     {
@@ -907,14 +875,6 @@
     },
     {
       "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Dorma. Akureyri útsala GLT",
-      "price": 19500,
-      "start_date": "2026-08-03",
-      "end_date": "2026-08-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
       "line_item_name": "Dorma. Akureyri útsala GLT 1",
       "price": 19500,
       "start_date": "2026-08-06",
@@ -1131,14 +1091,6 @@
     },
     {
       "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 6. ágúst / 4x1",
-      "price": 25500,
-      "start_date": "2026-08-06",
-      "end_date": "2026-08-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 7. ágúst / 4x1",
       "price": 29500,
       "start_date": "2026-08-07",
@@ -1199,14 +1151,6 @@
       "price": 39500,
       "start_date": "2026-08-13",
       "end_date": "2026-08-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
-      "line_item_name": "Íslandsbanki - Fim 6. ágúst / 4x1",
-      "price": 24500,
-      "start_date": "2026-08-06",
-      "end_date": "2026-08-06",
       "seen_count": 1
     },
     {
@@ -1359,7 +1303,7 @@
       "price": 39000,
       "start_date": "2026-09-03",
       "end_date": "2026-09-05",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1392,14 +1336,6 @@
       "start_date": "2026-03-01",
       "end_date": "2026-12-31",
       "seen_count": 5
-    },
-    {
-      "campaign_name": "Lífland - Versló - Akureyri og Selfoss",
-      "line_item_name": "Lífland - Versló - Akureyri",
-      "price": 208000,
-      "start_date": "2026-07-30",
-      "end_date": "2026-08-06",
-      "seen_count": 1
     },
     {
       "campaign_name": "Lindex - S4S / Sahara - júlí til ágúst 2026",
@@ -1698,14 +1634,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Saffran - Akureyri Versló",
-      "line_item_name": "Saffran - Akureyri Versló",
-      "price": 58500,
-      "start_date": "2026-07-29",
-      "end_date": "2026-08-06",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Sahara Earth Lagoon opnunar keyrsla",
       "line_item_name": "Sahara Earth Lagoon opnunar keyrsla",
       "price": 117000,
@@ -1735,7 +1663,7 @@
       "price": 104000,
       "start_date": "2026-11-03",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Sahara-Earth Lagoon -okt",
@@ -1754,25 +1682,9 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Saman-hópurinn",
-      "line_item_name": "Saman-hópurinn 1-6 ágúst",
-      "price": 162000,
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-06",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Sambíó Hvolpasveitin.",
       "line_item_name": "Sambíó Hvolpasveitin.",
       "price": 156900,
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sambíó Hvolpasveitin.",
-      "line_item_name": "Sambíó Hvolpasveitin.",
-      "price": 95200,
       "start_date": "2026-08-01",
       "end_date": "2026-08-07",
       "seen_count": 1
@@ -1903,7 +1815,7 @@
       "price": 182000,
       "start_date": "2026-08-09",
       "end_date": "2026-09-05",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Tónhylur Long term",
@@ -1944,14 +1856,6 @@
       "start_date": "2026-08-01",
       "end_date": "2026-12-31",
       "seen_count": 5
-    },
-    {
-      "campaign_name": "VÍS / Datera Landsbyggðin - ágúst '26",
-      "line_item_name": "VÍS Akureyri 1.8 til 7.8 / Sun, Mán, Fim /  AKU1, GLER2",
-      "price": 19500,
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-07",
-      "seen_count": 1
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - ágúst '26",
