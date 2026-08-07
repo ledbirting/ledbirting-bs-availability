@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:10:27.534Z",
+  "generated_at": "2026-08-07T09:58:28.465Z",
   "scope": {
     "report_start_date": "2026-08-07",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 427,
-    "unique_items": 235,
+    "items_seen": 429,
+    "unique_items": 237,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1534,6 +1534,22 @@
       "line_item_name": "V36",
       "price": 70000,
       "start_date": "2026-08-30",
+      "end_date": "2026-08-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Partybúðin ágúst",
+      "line_item_name": "Partybúðin ágúst",
+      "price": 487300,
+      "start_date": "2026-08-07",
+      "end_date": "2026-08-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Partyland ágúst",
+      "line_item_name": "Partyland ágúst",
+      "price": 546000,
+      "start_date": "2026-08-07",
       "end_date": "2026-08-31",
       "seen_count": 1
     },
