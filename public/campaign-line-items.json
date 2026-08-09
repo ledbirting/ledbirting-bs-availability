@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T21:27:00.266Z",
+  "generated_at": "2026-08-09T01:25:27.745Z",
   "scope": {
-    "report_start_date": "2026-08-08",
+    "report_start_date": "2026-08-09",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 422,
-    "unique_items": 231,
+    "items_seen": 406,
+    "unique_items": 216,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -179,14 +179,6 @@
     },
     {
       "campaign_name": "Aur / HN - ágúst 2026",
-      "line_item_name": "Aur / HN - Lau 8. ágúst - 7x1",
-      "price": 46500,
-      "start_date": "2026-08-08",
-      "end_date": "2026-08-08",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - ágúst 2026",
       "line_item_name": "Aur / HN - Mán 10. ágúst - 7x1",
       "price": 45000,
       "start_date": "2026-08-10",
@@ -311,7 +303,7 @@
       "price": 3335000,
       "start_date": "2026-03-01",
       "end_date": "2027-12-31",
-      "seen_count": 18
+      "seen_count": 17
     },
     {
       "campaign_name": "Bestun-22 ágúst",
@@ -335,14 +327,6 @@
       "price": 33000,
       "start_date": "2026-08-22",
       "end_date": "2026-08-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bestun-vogue-ágúst-Glerártorg",
-      "line_item_name": "Bestun-vogue-ágúst-Glerártorg",
-      "price": 52000,
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-08",
       "seen_count": 1
     },
     {
@@ -391,14 +375,6 @@
       "price": 6500,
       "start_date": "2026-09-05",
       "end_date": "2026-09-05",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir KA. 08 ágúst",
-      "price": 6500,
-      "start_date": "2026-08-08",
-      "end_date": "2026-08-08",
       "seen_count": 1
     },
     {
@@ -778,35 +754,11 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Gay Pride 2026",
-      "line_item_name": "7.-8. ágúst - PRIDE - Hafnartorg",
-      "price": 20000,
-      "start_date": "2026-08-07",
-      "end_date": "2026-08-08",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Gay Pride 2026",
-      "line_item_name": "8. ágúst - PRIDE - Grandi",
-      "price": 7500,
-      "start_date": "2026-08-08",
-      "end_date": "2026-08-08",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Gjafabréf.is - 10-20 ágúst",
       "line_item_name": "Akureyri",
       "price": 65000,
       "start_date": "2026-08-10",
       "end_date": "2026-08-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Góa / Pipar - sumarpakki",
-      "line_item_name": "Góa sumar - lau - BRH, FJH, LT , SMT, VST, GLT, GRI, SFS",
-      "price": 220000,
-      "start_date": "2026-07-16",
-      "end_date": "2026-08-08",
       "seen_count": 1
     },
     {
@@ -847,22 +799,6 @@
       "price": 30000,
       "start_date": "2026-08-01",
       "end_date": "2026-08-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Betra Bak. Akureyri útsala GLT 1",
-      "price": 6500,
-      "start_date": "2026-08-08",
-      "end_date": "2026-08-08",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Húsgagnahöllin. Akureyri útsala",
-      "line_item_name": "Dorma. Akureyri útsala GLT 1",
-      "price": 19500,
-      "start_date": "2026-08-06",
-      "end_date": "2026-08-08",
       "seen_count": 1
     },
     {
@@ -1075,14 +1011,6 @@
     },
     {
       "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 8. ágúst / 4x1",
-      "price": 27500,
-      "start_date": "2026-08-08",
-      "end_date": "2026-08-08",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 9. ágúst/ 4x1",
       "price": 25500,
       "start_date": "2026-08-09",
@@ -1103,14 +1031,6 @@
       "price": 54800,
       "start_date": "2026-08-09",
       "end_date": "2026-08-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "ILVA sérstakt tilboð 7-9 ágúst.",
-      "line_item_name": "ILVA sérstakt tilboð 7-9 ágúst.",
-      "price": 67800,
-      "start_date": "2026-08-08",
-      "end_date": "2026-08-08",
       "seen_count": 1
     },
     {
@@ -1135,14 +1055,6 @@
       "price": 33500,
       "start_date": "2026-08-15",
       "end_date": "2026-08-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
-      "line_item_name": "Íslandsbanki - Lau 8. ágúst / 5x1",
-      "price": 31000,
-      "start_date": "2026-08-08",
-      "end_date": "2026-08-08",
       "seen_count": 1
     },
     {
@@ -1282,14 +1194,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
-      "line_item_name": "Kavita - Samningur - EGH/KAP og GLER - 6-8.ágúst",
-      "price": 39000,
-      "start_date": "2026-08-06",
-      "end_date": "2026-08-08",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Krónan 2 x faldar birtingar Grandi út árið 2025",
       "line_item_name": "Krónan 2 x faldar birtingar Grandi út árið 2025",
       "price": 2610000,
@@ -1311,14 +1215,6 @@
       "price": 90000,
       "start_date": "2026-07-30",
       "end_date": "2026-08-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Löður - Ágúst 2026",
-      "line_item_name": "V32",
-      "price": 107272.73,
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-08",
       "seen_count": 1
     },
     {
@@ -1404,7 +1300,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1412,7 +1308,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1456,14 +1352,6 @@
       "start_date": "2026-07-13",
       "end_date": "2027-09-14",
       "seen_count": 14
-    },
-    {
-      "campaign_name": "Orkan - Ágúst 2026",
-      "line_item_name": "V32",
-      "price": 360000,
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-08",
-      "seen_count": 1
     },
     {
       "campaign_name": "Orkan - Ágúst 2026",
@@ -1714,17 +1602,9 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Thule",
-      "line_item_name": "Thule  06-08 ágúst.",
-      "price": 45000,
-      "start_date": "2026-08-06",
-      "end_date": "2026-08-08",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Tilboð",
       "line_item_name": "Tilboð (sun, þri, fim, fös)",
-      "price": 612000,
+      "price": 468000,
       "start_date": "2026-08-25",
       "end_date": "2026-09-14",
       "seen_count": 2
@@ -1732,7 +1612,7 @@
     {
       "campaign_name": "Tilboð",
       "line_item_name": "Tilboð (sun, þri, fim, fös)",
-      "price": 468000,
+      "price": 612000,
       "start_date": "2026-08-25",
       "end_date": "2026-09-14",
       "seen_count": 2
