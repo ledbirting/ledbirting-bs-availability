@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T16:36:23.766Z",
+  "generated_at": "2026-08-10T17:39:42.890Z",
   "result": [
     {
       "date": "2026-08-10",
@@ -200,8 +200,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 4
         },
         {
           "id": 405768,
@@ -284,8 +284,8 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.5683333333333334,
-          "rows_seen": 9
+          "fill_rate": 0.635,
+          "rows_seen": 10
         },
         {
           "id": 237865,
@@ -512,8 +512,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.5249999999999999,
-          "rows_seen": 7
+          "fill_rate": 0.5916666666666667,
+          "rows_seen": 8
         }
       ]
     },
@@ -716,8 +716,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.2,
+          "rows_seen": 3
         },
         {
           "id": 405768,
@@ -800,8 +800,8 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.5016666666666666,
-          "rows_seen": 8
+          "fill_rate": 0.5683333333333334,
+          "rows_seen": 9
         },
         {
           "id": 237865,
@@ -1232,8 +1232,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 4
         },
         {
           "id": 405768,
@@ -1286,8 +1286,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.8583333333333333,
-          "rows_seen": 12
+          "fill_rate": 0.9249999999999999,
+          "rows_seen": 13
         }
       ]
     },
@@ -1316,8 +1316,8 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.30166666666666664,
-          "rows_seen": 5
+          "fill_rate": 0.3683333333333333,
+          "rows_seen": 6
         },
         {
           "id": 237865,
@@ -1490,8 +1490,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0,
-          "rows_seen": 0
+          "fill_rate": 0.06666666666666667,
+          "rows_seen": 1
         },
         {
           "id": 405768,
@@ -2006,8 +2006,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 4
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 5
         },
         {
           "id": 405768,
@@ -2090,8 +2090,8 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.41000000000000003,
-          "rows_seen": 7
+          "fill_rate": 0.4766666666666667,
+          "rows_seen": 8
         },
         {
           "id": 237865,
@@ -2318,8 +2318,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.43499999999999994,
-          "rows_seen": 6
+          "fill_rate": 0.5016666666666666,
+          "rows_seen": 7
         }
       ]
     },
@@ -2522,8 +2522,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.2,
+          "rows_seen": 3
         },
         {
           "id": 405768,
@@ -2606,8 +2606,8 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.41000000000000003,
-          "rows_seen": 7
+          "fill_rate": 0.4766666666666667,
+          "rows_seen": 8
         },
         {
           "id": 237865,
@@ -3038,8 +3038,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.2,
+          "rows_seen": 3
         },
         {
           "id": 405768,
@@ -3092,8 +3092,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.5683333333333334,
-          "rows_seen": 8
+          "fill_rate": 0.635,
+          "rows_seen": 9
         }
       ]
     },
@@ -3122,8 +3122,8 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.27666666666666667,
-          "rows_seen": 5
+          "fill_rate": 0.3433333333333334,
+          "rows_seen": 6
         },
         {
           "id": 237865,
@@ -3296,8 +3296,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 3
+          "fill_rate": 0.4666666666666666,
+          "rows_seen": 4
         },
         {
           "id": 405768,
@@ -3812,8 +3812,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.16666666666666669,
-          "rows_seen": 2
+          "fill_rate": 0.23333333333333334,
+          "rows_seen": 3
         },
         {
           "id": 405768,
@@ -3896,8 +3896,8 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.5250966666666665,
-          "rows_seen": 9
+          "fill_rate": 0.5917633333333332,
+          "rows_seen": 10
         },
         {
           "id": 237865,
@@ -4124,8 +4124,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.33499999999999996,
-          "rows_seen": 4
+          "fill_rate": 0.4016666666666666,
+          "rows_seen": 5
         }
       ]
     },
@@ -4328,8 +4328,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.16666666666666669,
-          "rows_seen": 2
+          "fill_rate": 0.23333333333333334,
+          "rows_seen": 3
         },
         {
           "id": 405768,
@@ -4412,8 +4412,8 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.3917633333333333,
-          "rows_seen": 7
+          "fill_rate": 0.45842999999999995,
+          "rows_seen": 8
         },
         {
           "id": 237865,
@@ -4844,8 +4844,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.16666666666666669,
-          "rows_seen": 2
+          "fill_rate": 0.23333333333333334,
+          "rows_seen": 3
         },
         {
           "id": 405768,
@@ -4898,8 +4898,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.5349999999999999,
-          "rows_seen": 7
+          "fill_rate": 0.6016666666666667,
+          "rows_seen": 8
         }
       ]
     },
@@ -4928,8 +4928,8 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.32509666666666664,
-          "rows_seen": 6
+          "fill_rate": 0.3917633333333333,
+          "rows_seen": 7
         },
         {
           "id": 237865,
@@ -5102,8 +5102,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.1,
-          "rows_seen": 1
+          "fill_rate": 0.16666666666666669,
+          "rows_seen": 2
         },
         {
           "id": 405768,
@@ -5618,8 +5618,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.13333333333333333,
+          "rows_seen": 2
         },
         {
           "id": 405768,
