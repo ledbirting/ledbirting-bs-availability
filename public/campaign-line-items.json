@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T21:28:41.029Z",
+  "generated_at": "2026-08-10T01:27:15.813Z",
   "scope": {
-    "report_start_date": "2026-08-09",
+    "report_start_date": "2026-08-10",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 406,
-    "unique_items": 216,
+    "items_seen": 401,
+    "unique_items": 210,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -243,14 +243,6 @@
     },
     {
       "campaign_name": "Aur / HN - ágúst 2026",
-      "line_item_name": "Aur / HN - Sun 9. ágúst - 7x1",
-      "price": 43800,
-      "start_date": "2026-08-09",
-      "end_date": "2026-08-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - ágúst 2026",
       "line_item_name": "Aur / HN - Þri 11. ágúst - 8x1",
       "price": 53300,
       "start_date": "2026-08-11",
@@ -335,7 +327,7 @@
       "price": 97500,
       "start_date": "2026-12-07",
       "end_date": "2026-12-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun-vogue-nóv-Glerártorg",
@@ -375,14 +367,6 @@
       "price": 6500,
       "start_date": "2026-09-05",
       "end_date": "2026-09-05",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir KA. 09 ágúst",
-      "price": 6500,
-      "start_date": "2026-08-09",
-      "end_date": "2026-08-09",
       "seen_count": 1
     },
     {
@@ -1010,28 +994,12 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 9. ágúst/ 4x1",
-      "price": 25500,
-      "start_date": "2026-08-09",
-      "end_date": "2026-08-09",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Ilva lang tima AKU 1-GLE 2",
       "line_item_name": "Ilva lang tima AKU 1-GLE 2",
       "price": 0,
       "start_date": "2026-06-12",
       "end_date": "2026-12-31",
       "seen_count": 5
-    },
-    {
-      "campaign_name": "ILVA sérstakt tilboð 7-9 ágúst.",
-      "line_item_name": "Copy_of_ILVA sérstakt tilboð 7-9 ágúst.",
-      "price": 54800,
-      "start_date": "2026-08-09",
-      "end_date": "2026-08-09",
-      "seen_count": 1
     },
     {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
@@ -1087,14 +1055,6 @@
       "price": 28000,
       "start_date": "2026-08-16",
       "end_date": "2026-08-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
-      "line_item_name": "Íslandsbanki - Sun 9. ágúst / 5x1",
-      "price": 21500,
-      "start_date": "2026-08-09",
-      "end_date": "2026-08-09",
       "seen_count": 1
     },
     {
@@ -1183,7 +1143,7 @@
       "price": 39000,
       "start_date": "2026-11-05",
       "end_date": "2026-11-07",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1274,14 +1234,6 @@
       "seen_count": 6
     },
     {
-      "campaign_name": "N1 mótin Glerártorg.",
-      "line_item_name": "GLT. 1 og 2 07-09 ágúst.  3 x birtingar.",
-      "price": 117000,
-      "start_date": "2026-08-07",
-      "end_date": "2026-08-09",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Nova. Enska deildin.",
       "line_item_name": "Nova. Enska deildin.",
       "price": 118500,
@@ -1300,7 +1252,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1308,7 +1260,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1460,17 +1412,17 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 1722000,
+      "price": 165000,
       "start_date": "2026-08-09",
-      "end_date": "2026-08-29",
+      "end_date": "2026-08-21",
       "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 165000,
+      "price": 1722000,
       "start_date": "2026-08-09",
-      "end_date": "2026-08-21",
+      "end_date": "2026-08-29",
       "seen_count": 1
     },
     {
@@ -1647,7 +1599,7 @@
       "price": 117000,
       "start_date": "2026-09-06",
       "end_date": "2026-11-07",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "campaign_name": "Tölvutek Akureyri",
