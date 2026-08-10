@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T13:00:48.432Z",
+  "generated_at": "2026-08-10T15:57:09.252Z",
   "scope": {
     "report_start_date": "2026-08-10",
     "report_end_date": "2099-12-31",
@@ -19,7 +19,7 @@
   "stats": {
     "api_calls": 96,
     "items_seen": 406,
-    "unique_items": 213,
+    "unique_items": 215,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1442,6 +1442,38 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Reykjaböð.",
+      "line_item_name": "Reykjaböð.14/16/18/21/23 des.",
+      "price": 162500,
+      "start_date": "2026-12-14",
+      "end_date": "2026-12-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Reykjaböð.",
+      "line_item_name": "Reykjaböð.15/17/19/21/22 des.",
+      "price": 162000,
+      "start_date": "2026-12-14",
+      "end_date": "2026-12-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Reykjaböð.",
+      "line_item_name": "Reykjaböð.26/28 nóv.",
+      "price": 97600,
+      "start_date": "2026-11-26",
+      "end_date": "2026-12-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Reykjaböð.",
+      "line_item_name": "Reykjaböð.27/29/30 nóv.",
+      "price": 108000,
+      "start_date": "2026-11-26",
+      "end_date": "2026-12-01",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Reykjastræti - Fast í Hafnartorgi",
       "line_item_name": "Reykjastræti - Fast í Hafnartorgi",
       "price": 0,
@@ -1554,11 +1586,11 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Svens - Hagasmári og Smáratorg",
-      "line_item_name": "Svens - Hagasmári og Smáratorg (24 ágúst til 21 sept)",
-      "price": 313200,
-      "start_date": "2026-08-24",
-      "end_date": "2026-09-21",
+      "campaign_name": "Svens - Hagasmári - Sept",
+      "line_item_name": "Svens - Hagasmári",
+      "price": 174000,
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-30",
       "seen_count": 2
     },
     {
@@ -1576,22 +1608,6 @@
       "start_date": "2026-07-17",
       "end_date": "2026-08-14",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Tilboð",
-      "line_item_name": "Tilboð (sun, þri, fim, fös)",
-      "price": 468000,
-      "start_date": "2026-08-25",
-      "end_date": "2026-09-14",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Tilboð",
-      "line_item_name": "Tilboð (sun, þri, fim, fös)",
-      "price": 612000,
-      "start_date": "2026-08-25",
-      "end_date": "2026-09-14",
-      "seen_count": 2
     },
     {
       "campaign_name": "Tölvutek Akureyri",
