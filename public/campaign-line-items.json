@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:13:48.397Z",
+  "generated_at": "2026-08-10T13:00:48.432Z",
   "scope": {
     "report_start_date": "2026-08-10",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 401,
-    "unique_items": 210,
+    "items_seen": 406,
+    "unique_items": 213,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -579,16 +579,16 @@
     },
     {
       "campaign_name": "Datera - ágúst 2026",
-      "line_item_name": "Datera - 17. til 23. ágúst - einfaldar birtingar",
-      "price": 1265600,
+      "line_item_name": "Datera - 17. til 23. ágúst - 1 hólf",
+      "price": 1083600,
       "start_date": "2026-08-17",
       "end_date": "2026-08-23",
       "seen_count": 1
     },
     {
       "campaign_name": "Datera - ágúst 2026",
-      "line_item_name": "Datera - 24. til 29. ágúst - tvöfaldar birtingar",
-      "price": 2169600,
+      "line_item_name": "Datera - 24. til 29. ágúst - 1,5 hólf",
+      "price": 1501200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-29",
       "seen_count": 1
@@ -1162,6 +1162,14 @@
       "seen_count": 5
     },
     {
+      "campaign_name": "Laugarás lagoon - (Sept til Jan)",
+      "line_item_name": "Laugarás lagoon - Blakc friday / Desember - Auka keyrsla",
+      "price": 778400,
+      "start_date": "2026-11-23",
+      "end_date": "2026-12-20",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Lindex - S4S / Sahara - júlí til ágúst 2026",
       "line_item_name": "Lindex S4S / Sahara - 29. júlí til 12. ágúst",
       "price": 225000,
@@ -1252,7 +1260,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1260,7 +1268,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1412,17 +1420,17 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 165000,
+      "price": 1722000,
       "start_date": "2026-08-09",
-      "end_date": "2026-08-21",
+      "end_date": "2026-08-29",
       "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 1722000,
+      "price": 165000,
       "start_date": "2026-08-09",
-      "end_date": "2026-08-29",
+      "end_date": "2026-08-21",
       "seen_count": 1
     },
     {
@@ -1536,6 +1544,22 @@
       "start_date": "2026-08-10",
       "end_date": "2026-08-23",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Sinfonían / Datera - 22. ágúst",
+      "line_item_name": "Sinfónían 22. ágúst (4 hólf per flöt)",
+      "price": 60000,
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Svens - Hagasmári og Smáratorg",
+      "line_item_name": "Svens - Hagasmári og Smáratorg (24 ágúst til 21 sept)",
+      "price": 313200,
+      "start_date": "2026-08-24",
+      "end_date": "2026-09-21",
+      "seen_count": 2
     },
     {
       "campaign_name": "Svens 17 júlí-14 ágúst",
