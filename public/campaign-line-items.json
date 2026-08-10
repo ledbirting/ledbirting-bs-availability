@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T15:57:09.252Z",
+  "generated_at": "2026-08-10T18:53:07.368Z",
   "scope": {
     "report_start_date": "2026-08-10",
     "report_end_date": "2099-12-31",
@@ -1420,17 +1420,17 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 1722000,
+      "price": 165000,
       "start_date": "2026-08-09",
-      "end_date": "2026-08-29",
+      "end_date": "2026-08-21",
       "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 165000,
+      "price": 1722000,
       "start_date": "2026-08-09",
-      "end_date": "2026-08-21",
+      "end_date": "2026-08-29",
       "seen_count": 1
     },
     {
@@ -1578,9 +1578,9 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Sinfonían / Datera - 22. ágúst",
+      "campaign_name": "Sinfónían / Datera - 22. ágúst",
       "line_item_name": "Sinfónían 22. ágúst (4 hólf per flöt)",
-      "price": 60000,
+      "price": 50000,
       "start_date": "2026-08-22",
       "end_date": "2026-08-22",
       "seen_count": 1
