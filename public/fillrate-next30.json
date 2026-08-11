@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T15:30:29.246Z",
+  "generated_at": "2026-08-11T16:40:17.396Z",
   "result": [
     {
       "date": "2026-08-11",
@@ -68,8 +68,8 @@
         {
           "id": 321889,
           "du_name": "Frumherji - Reykjanesbær",
-          "fill_rate": 0.10003333333333334,
-          "rows_seen": 2
+          "fill_rate": 0.1667,
+          "rows_seen": 3
         },
         {
           "id": 321888,
@@ -326,8 +326,8 @@
         {
           "id": 321889,
           "du_name": "Frumherji - Reykjanesbær",
-          "fill_rate": 0.10003333333333334,
-          "rows_seen": 2
+          "fill_rate": 0.1667,
+          "rows_seen": 3
         },
         {
           "id": 321888,
