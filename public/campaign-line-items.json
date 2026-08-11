@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T21:38:22.256Z",
+  "generated_at": "2026-08-11T01:24:52.166Z",
   "scope": {
-    "report_start_date": "2026-08-10",
+    "report_start_date": "2026-08-11",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 406,
-    "unique_items": 215,
+    "items_seen": 403,
+    "unique_items": 212,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -47,7 +47,7 @@
       "price": 142200,
       "start_date": "2026-09-04",
       "end_date": "2026-09-09",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Advania / Datera - Haustráðstefna 2026",
@@ -175,14 +175,6 @@
       "price": 45000,
       "start_date": "2026-08-22",
       "end_date": "2026-08-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - ágúst 2026",
-      "line_item_name": "Aur / HN - Mán 10. ágúst - 7x1",
-      "price": 45000,
-      "start_date": "2026-08-10",
-      "end_date": "2026-08-10",
       "seen_count": 1
     },
     {
@@ -443,14 +435,6 @@
     },
     {
       "campaign_name": "Bónus / HN - ágúst 2026",
-      "line_item_name": "Bónus 10. ágúst - Mán / 9x1",
-      "price": 58500,
-      "start_date": "2026-08-10",
-      "end_date": "2026-08-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - ágúst 2026",
       "line_item_name": "Bónus 12. ágúst - Mið / 10x1",
       "price": 61500,
       "start_date": "2026-08-12",
@@ -631,7 +615,7 @@
       "price": 13000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-15",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "ELKO árssamningur",
@@ -1027,14 +1011,6 @@
     },
     {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
-      "line_item_name": "Íslandsbanki - Mán 10. ágúst / 5x1",
-      "price": 23500,
-      "start_date": "2026-08-10",
-      "end_date": "2026-08-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
       "line_item_name": "Íslandsbanki - Mán 17. ágúst / 4x1",
       "price": 28000,
       "start_date": "2026-08-17",
@@ -1151,7 +1127,7 @@
       "price": 39000,
       "start_date": "2027-01-07",
       "end_date": "2027-01-09",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Krónan 2 x faldar birtingar Grandi út árið 2025",
@@ -1260,7 +1236,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1268,7 +1244,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1420,17 +1396,17 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 165000,
+      "price": 1722000,
       "start_date": "2026-08-09",
-      "end_date": "2026-08-21",
+      "end_date": "2026-08-29",
       "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 1722000,
+      "price": 165000,
       "start_date": "2026-08-09",
-      "end_date": "2026-08-29",
+      "end_date": "2026-08-21",
       "seen_count": 1
     },
     {
@@ -1647,7 +1623,7 @@
       "price": 26000,
       "start_date": "2026-11-08",
       "end_date": "2026-11-11",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Tölvutek Akureyri",
