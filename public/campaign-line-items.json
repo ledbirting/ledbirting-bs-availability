@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T12:57:00.204Z",
+  "generated_at": "2026-08-11T15:58:13.359Z",
   "scope": {
     "report_start_date": "2026-08-11",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 410,
-    "unique_items": 219,
+    "items_seen": 412,
+    "unique_items": 221,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -287,6 +287,22 @@
       "price": 341600,
       "start_date": "2026-08-21",
       "end_date": "2026-09-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bestun /Garmin  25-31 ágúst",
+      "line_item_name": "Bestun /Garmin  25-31 ágúst",
+      "price": 481600,
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bestun /Garmin  25-31 ágúst",
+      "line_item_name": "Bestun /Garmin  25-31 ágúst",
+      "price": 22500,
+      "start_date": "2026-08-29",
+      "end_date": "2026-08-31",
       "seen_count": 1
     },
     {
@@ -628,7 +644,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 232200,
+      "price": 223200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 1
@@ -636,7 +652,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 223200,
+      "price": 232200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 1
@@ -1292,7 +1308,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1300,7 +1316,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1603,10 +1619,10 @@
     },
     {
       "campaign_name": "Sérefni - langtímasamningur Glerártorgi 2026",
-      "line_item_name": "Sérefni - Glerártorg 10-23. ágúst",
-      "price": 91000,
-      "start_date": "2026-08-10",
-      "end_date": "2026-08-23",
+      "line_item_name": "Sérefni - langtímasamningur Glerártorgi 2026",
+      "price": 97500,
+      "start_date": "2026-08-19",
+      "end_date": "2026-09-02",
       "seen_count": 1
     },
     {
