@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:01:34.265Z",
+  "generated_at": "2026-08-11T09:57:17.367Z",
   "scope": {
     "report_start_date": "2026-08-11",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 403,
-    "unique_items": 212,
+    "items_seen": 406,
+    "unique_items": 215,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -63,6 +63,14 @@
       "price": 187500,
       "start_date": "2026-08-01",
       "end_date": "2026-08-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Alureyravaka/Akureyrarbær.",
+      "line_item_name": "Alureyravaka",
+      "price": 39000,
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-27",
       "seen_count": 1
     },
     {
@@ -1128,6 +1136,22 @@
       "start_date": "2027-01-07",
       "end_date": "2027-01-09",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Kringlan - Back to school",
+      "line_item_name": "11-16 Ágúst",
+      "price": 258000,
+      "start_date": "2026-08-11",
+      "end_date": "2026-08-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kringlan - Back to school",
+      "line_item_name": "26-30 Ágúst",
+      "price": 104000,
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-30",
+      "seen_count": 1
     },
     {
       "campaign_name": "Krónan 2 x faldar birtingar Grandi út árið 2025",
