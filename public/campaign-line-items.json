@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T13:01:39.110Z",
+  "generated_at": "2026-08-12T15:56:15.156Z",
   "scope": {
     "report_start_date": "2026-08-12",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 407,
-    "unique_items": 217,
+    "items_seen": 403,
+    "unique_items": 213,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1455,38 +1455,6 @@
       "price": 105000,
       "start_date": "2026-08-23",
       "end_date": "2026-08-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Reykjaböð.",
-      "line_item_name": "Reykjaböð.14/16/18/21/23 des.",
-      "price": 162500,
-      "start_date": "2026-12-14",
-      "end_date": "2026-12-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Reykjaböð.",
-      "line_item_name": "Reykjaböð.15/17/19/21/22 des.",
-      "price": 162000,
-      "start_date": "2026-12-14",
-      "end_date": "2026-12-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Reykjaböð.",
-      "line_item_name": "Reykjaböð.26/28 nóv.",
-      "price": 97600,
-      "start_date": "2026-11-26",
-      "end_date": "2026-12-01",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Reykjaböð.",
-      "line_item_name": "Reykjaböð.27/29/30 nóv.",
-      "price": 108000,
-      "start_date": "2026-11-26",
-      "end_date": "2026-12-01",
       "seen_count": 1
     },
     {
