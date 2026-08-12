@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T09:59:34.634Z",
+  "generated_at": "2026-08-12T13:01:39.110Z",
   "scope": {
     "report_start_date": "2026-08-12",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 409,
-    "unique_items": 218,
+    "items_seen": 407,
+    "unique_items": 217,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1192,14 +1192,6 @@
       "start_date": "2026-03-01",
       "end_date": "2026-12-31",
       "seen_count": 5
-    },
-    {
-      "campaign_name": "Laugarás lagoon - (Sept til Jan)",
-      "line_item_name": "Laugarás lagoon - Blakc friday / Desember - Auka keyrsla",
-      "price": 778400,
-      "start_date": "2026-11-23",
-      "end_date": "2026-12-20",
-      "seen_count": 2
     },
     {
       "campaign_name": "Lindex - S4S / Sahara - júlí til ágúst 2026",
