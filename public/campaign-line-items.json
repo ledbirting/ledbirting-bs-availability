@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T21:41:20.967Z",
+  "generated_at": "2026-08-13T01:44:26.226Z",
   "scope": {
-    "report_start_date": "2026-08-12",
+    "report_start_date": "2026-08-13",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 403,
-    "unique_items": 213,
+    "items_seen": 395,
+    "unique_items": 207,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -203,14 +203,6 @@
     },
     {
       "campaign_name": "Aur / HN - ágúst 2026",
-      "line_item_name": "Aur / HN - Mið 12. ágúst - 7x1",
-      "price": 45500,
-      "start_date": "2026-08-12",
-      "end_date": "2026-08-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Aur / HN - ágúst 2026",
       "line_item_name": "Aur / HN - Mið 19. ágúst - 7x1",
       "price": 43800,
       "start_date": "2026-08-19",
@@ -359,7 +351,7 @@
       "price": 52000,
       "start_date": "2026-09-04",
       "end_date": "2026-09-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Bílasala Akureyri - Ágúst",
@@ -463,14 +455,6 @@
       "price": 130000,
       "start_date": "2026-08-18",
       "end_date": "2026-08-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - ágúst 2026",
-      "line_item_name": "Bónus 12. ágúst - Mið / 10x1",
-      "price": 61500,
-      "start_date": "2026-08-12",
-      "end_date": "2026-08-12",
       "seen_count": 1
     },
     {
@@ -579,14 +563,6 @@
     },
     {
       "campaign_name": "Danól Felix tómatsósa.",
-      "line_item_name": "Danól Felix tómatsósa.12 ágúst.",
-      "price": 21000,
-      "start_date": "2026-08-12",
-      "end_date": "2026-08-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Danól Felix tómatsósa.",
       "line_item_name": "Danól Felix tómatsósa.20 ágúst.",
       "price": 18000,
       "start_date": "2026-08-20",
@@ -636,7 +612,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 223200,
+      "price": 232200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 1
@@ -644,7 +620,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 232200,
+      "price": 223200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 1
@@ -1067,14 +1043,6 @@
     },
     {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
-      "line_item_name": "Íslandsbanki - Mið 12. ágúst/ 6x1",
-      "price": 36500,
-      "start_date": "2026-08-12",
-      "end_date": "2026-08-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
       "line_item_name": "Íslandsbanki - Sun 16. ágúst / 5x1",
       "price": 28000,
       "start_date": "2026-08-16",
@@ -1095,7 +1063,7 @@
       "price": 26000,
       "start_date": "2026-10-11",
       "end_date": "2026-10-12",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1167,7 +1135,7 @@
       "price": 39000,
       "start_date": "2027-01-07",
       "end_date": "2027-01-09",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kringlan - Back to school",
@@ -1192,22 +1160,6 @@
       "start_date": "2026-03-01",
       "end_date": "2026-12-31",
       "seen_count": 5
-    },
-    {
-      "campaign_name": "Lindex - S4S / Sahara - júlí til ágúst 2026",
-      "line_item_name": "Lindex S4S / Sahara - 29. júlí til 12. ágúst",
-      "price": 225000,
-      "start_date": "2026-07-29",
-      "end_date": "2026-08-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lindex - S4S / Sahara - júlí til ágúst 2026",
-      "line_item_name": "Lindex S4S / Sahara - 30. júlí til 12. ágúst",
-      "price": 90000,
-      "start_date": "2026-07-30",
-      "end_date": "2026-08-12",
-      "seen_count": 1
     },
     {
       "campaign_name": "Löður - Ágúst 2026",
@@ -1311,7 +1263,7 @@
       "price": 294500,
       "start_date": "2026-08-12",
       "end_date": "2026-09-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Optical - Hæðasmári",
