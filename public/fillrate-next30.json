@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T13:55:07.592Z",
+  "generated_at": "2026-08-14T15:05:56.913Z",
   "result": [
     {
       "date": "2026-08-14",
@@ -4574,14 +4574,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.67238,
-          "rows_seen": 11
+          "fill_rate": 0.5390466666666666,
+          "rows_seen": 10
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.5723799999999999,
-          "rows_seen": 10
+          "fill_rate": 0.4390466666666666,
+          "rows_seen": 9
         },
         {
           "id": 237874,
@@ -4832,14 +4832,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.9723799999999999,
-          "rows_seen": 11
+          "fill_rate": 0.8390466666666666,
+          "rows_seen": 10
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.9723799999999999,
-          "rows_seen": 11
+          "fill_rate": 0.8390466666666666,
+          "rows_seen": 10
         },
         {
           "id": 237874,
@@ -5090,14 +5090,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 1,
-          "rows_seen": 11
+          "fill_rate": 0.8666666666666667,
+          "rows_seen": 10
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.8723799999999999,
-          "rows_seen": 9
+          "fill_rate": 0.7390466666666666,
+          "rows_seen": 8
         },
         {
           "id": 237874,
@@ -5348,14 +5348,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.9723799999999999,
-          "rows_seen": 11
+          "fill_rate": 0.8390466666666666,
+          "rows_seen": 10
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 1,
-          "rows_seen": 12
+          "fill_rate": 0.8666666666666667,
+          "rows_seen": 11
         },
         {
           "id": 237874,
@@ -5606,14 +5606,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 1,
-          "rows_seen": 11
+          "fill_rate": 0.8666666666666667,
+          "rows_seen": 10
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.9057133333333333,
-          "rows_seen": 10
+          "fill_rate": 0.77238,
+          "rows_seen": 9
         },
         {
           "id": 237874,
@@ -5864,14 +5864,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.9723799999999999,
-          "rows_seen": 11
+          "fill_rate": 0.8390466666666666,
+          "rows_seen": 10
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.9999999999999999,
-          "rows_seen": 11
+          "fill_rate": 0.8666666666666666,
+          "rows_seen": 10
         },
         {
           "id": 237874,
@@ -6122,14 +6122,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.5390466666666666,
-          "rows_seen": 8
+          "fill_rate": 0.40571333333333326,
+          "rows_seen": 7
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.4723799999999999,
-          "rows_seen": 7
+          "fill_rate": 0.3390466666666666,
+          "rows_seen": 6
         },
         {
           "id": 237874,
