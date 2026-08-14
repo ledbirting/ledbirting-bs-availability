@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T21:41:14.359Z",
+  "generated_at": "2026-08-14T01:42:14.118Z",
   "scope": {
-    "report_start_date": "2026-08-13",
+    "report_start_date": "2026-08-14",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 397,
-    "unique_items": 209,
+    "items_seen": 392,
+    "unique_items": 205,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -136,14 +136,6 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Aur / HN - ágúst 2026",
-      "line_item_name": "Aur / HN - Fim 13. ágúst - 7x1",
-      "price": 43500,
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-13",
-      "seen_count": 1
     },
     {
       "campaign_name": "Aur / HN - ágúst 2026",
@@ -552,14 +544,6 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "CCEP Coke 01-14 ágúst.",
-      "line_item_name": "CCEP Coke 01-14 ágúst.",
-      "price": 182000,
-      "start_date": "2026-08-08",
-      "end_date": "2026-08-14",
-      "seen_count": 1
     },
     {
       "campaign_name": "Danól Felix tómatsósa.",
@@ -1019,14 +1003,6 @@
     },
     {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
-      "line_item_name": "Íslandsbanki - Fim 13. ágúst / 6x1",
-      "price": 39500,
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
       "line_item_name": "Íslandsbanki - Fös 14. ágúst / 6x1",
       "price": 41000,
       "start_date": "2026-08-14",
@@ -1071,7 +1047,7 @@
       "price": 26000,
       "start_date": "2026-10-11",
       "end_date": "2026-10-12",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Samningur - Egilshöll, KAPL og Akureyri - 2026",
@@ -1279,7 +1255,7 @@
       "price": 180500,
       "start_date": "2026-09-12",
       "end_date": "2026-09-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Optical - Hafnartorg",
@@ -1396,17 +1372,17 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 1722000,
+      "price": 165000,
       "start_date": "2026-08-09",
-      "end_date": "2026-08-29",
+      "end_date": "2026-08-21",
       "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 165000,
+      "price": 1722000,
       "start_date": "2026-08-09",
-      "end_date": "2026-08-21",
+      "end_date": "2026-08-29",
       "seen_count": 1
     },
     {
@@ -1439,14 +1415,6 @@
       "price": 97500,
       "start_date": "2026-06-01",
       "end_date": "2026-08-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sahara Earth Lagoon opnunar keyrsla",
-      "line_item_name": "Sahara Earth Lagoon opnunar keyrsla",
-      "price": 117000,
-      "start_date": "2026-08-05",
-      "end_date": "2026-08-15",
       "seen_count": 1
     },
     {
@@ -1599,7 +1567,7 @@
       "price": 26000,
       "start_date": "2026-11-08",
       "end_date": "2026-11-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Tölvutek Akureyri",
