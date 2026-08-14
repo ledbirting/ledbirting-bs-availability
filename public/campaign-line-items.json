@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T09:57:14.697Z",
+  "generated_at": "2026-08-14T12:58:46.668Z",
   "scope": {
     "report_start_date": "2026-08-14",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 392,
-    "unique_items": 205,
+    "items_seen": 397,
+    "unique_items": 210,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -354,6 +354,30 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Bíóbú - Grísk jógúrt / Ennemm / ágúst 2026",
+      "line_item_name": "Bíóbú - Grísk jógúrt / Mið, Fös",
+      "price": 100000,
+      "start_date": "2026-08-18",
+      "end_date": "2026-08-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bíóbú - Grísk jógúrt / Ennemm / ágúst 2026",
+      "line_item_name": "Bíóbú - Grísk jógúrt / Þri, Fim",
+      "price": 112000,
+      "start_date": "2026-08-18",
+      "end_date": "2026-08-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bíóbú - Grísk jógúrt / Ennemm / ágúst 2026",
+      "line_item_name": "Bíóbú - Grísk jógúrt / Þri, Mið",
+      "price": 44000,
+      "start_date": "2026-08-18",
+      "end_date": "2026-08-21",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Birtingahúsið Besta deildin.",
       "line_item_name": "Heimaleikir KA. 05 sept.",
       "price": 6500,
@@ -680,6 +704,22 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Ferrozink",
+      "line_item_name": "Ferrozink. AK1/Glerártorg/Reykjnesbær/Vestmannaeyjar.",
+      "price": 245000,
+      "start_date": "2026-08-14",
+      "end_date": "2026-08-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ferrozink",
+      "line_item_name": "Ferrozink. AK2/Glerártorg2/Selfoss.",
+      "price": 195000,
+      "start_date": "2026-08-14",
+      "end_date": "2026-08-31",
+      "seen_count": 1
     },
     {
       "campaign_name": "Flugger tillaga að plani",
@@ -1372,17 +1412,17 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 165000,
+      "price": 1722000,
       "start_date": "2026-08-09",
-      "end_date": "2026-08-21",
+      "end_date": "2026-08-29",
       "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 1722000,
+      "price": 165000,
       "start_date": "2026-08-09",
-      "end_date": "2026-08-29",
+      "end_date": "2026-08-21",
       "seen_count": 1
     },
     {
