@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:04:49.658Z",
+  "generated_at": "2026-08-17T15:41:14.054Z",
   "result": [
     {
       "date": "2026-08-17",
@@ -26,14 +26,14 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.7158823333333333,
-          "rows_seen": 12
+          "fill_rate": 0.9158823333333332,
+          "rows_seen": 13
         },
         {
           "id": 237865,
           "du_name": "Breiðholt #1",
-          "fill_rate": 0.38254900000000003,
-          "rows_seen": 6
+          "fill_rate": 0.582549,
+          "rows_seen": 7
         },
         {
           "id": 237046,
@@ -50,14 +50,14 @@
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.2,
-          "rows_seen": 2
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 3
         },
         {
           "id": 441742,
           "du_name": "Einhella",
-          "fill_rate": 0.43499999999999994,
-          "rows_seen": 6
+          "fill_rate": 0.5683333333333334,
+          "rows_seen": 7
         },
         {
           "id": 456840,
@@ -200,8 +200,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 4
+          "fill_rate": 0.6,
+          "rows_seen": 5
         },
         {
           "id": 405768,
@@ -224,14 +224,14 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.44166666666666665,
-          "rows_seen": 7
+          "fill_rate": 0.575,
+          "rows_seen": 8
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 3
         },
         {
           "id": 445024,
@@ -308,14 +308,14 @@
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 3
+          "fill_rate": 0.39999999999999997,
+          "rows_seen": 4
         },
         {
           "id": 441742,
           "du_name": "Einhella",
-          "fill_rate": 0.30166666666666664,
-          "rows_seen": 4
+          "fill_rate": 0.43499999999999994,
+          "rows_seen": 5
         },
         {
           "id": 456840,
@@ -458,8 +458,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.3333333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.6666666666666666,
+          "rows_seen": 6
         },
         {
           "id": 405768,
@@ -482,14 +482,14 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.175,
-          "rows_seen": 3
+          "fill_rate": 0.30833333333333335,
+          "rows_seen": 4
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 3
         },
         {
           "id": 445024,
@@ -566,14 +566,14 @@
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 3
+          "fill_rate": 0.39999999999999997,
+          "rows_seen": 4
         },
         {
           "id": 441742,
           "du_name": "Einhella",
-          "fill_rate": 0.43499999999999994,
-          "rows_seen": 6
+          "fill_rate": 0.5683333333333334,
+          "rows_seen": 7
         },
         {
           "id": 456840,
@@ -716,8 +716,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.5333333333333333,
+          "rows_seen": 4
         },
         {
           "id": 405768,
@@ -740,14 +740,14 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.375,
-          "rows_seen": 6
+          "fill_rate": 0.5083333333333333,
+          "rows_seen": 7
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 3
         },
         {
           "id": 445024,
@@ -824,14 +824,14 @@
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 3
+          "fill_rate": 0.39999999999999997,
+          "rows_seen": 4
         },
         {
           "id": 441742,
           "du_name": "Einhella",
-          "fill_rate": 0.30166666666666664,
-          "rows_seen": 4
+          "fill_rate": 0.43499999999999994,
+          "rows_seen": 5
         },
         {
           "id": 456840,
@@ -974,8 +974,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.5333333333333333,
+          "rows_seen": 4
         },
         {
           "id": 405768,
@@ -998,14 +998,14 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.575,
-          "rows_seen": 9
+          "fill_rate": 0.7083333333333333,
+          "rows_seen": 10
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 3
         },
         {
           "id": 445024,
@@ -1082,14 +1082,14 @@
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.2,
-          "rows_seen": 2
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 3
         },
         {
           "id": 441742,
           "du_name": "Einhella",
-          "fill_rate": 0.43499999999999994,
-          "rows_seen": 6
+          "fill_rate": 0.5683333333333334,
+          "rows_seen": 7
         },
         {
           "id": 456840,
@@ -1232,8 +1232,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 4
+          "fill_rate": 0.6,
+          "rows_seen": 5
         },
         {
           "id": 405768,
@@ -1256,14 +1256,14 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.575,
-          "rows_seen": 9
+          "fill_rate": 0.7083333333333333,
+          "rows_seen": 10
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 3
         },
         {
           "id": 445024,
@@ -1340,14 +1340,14 @@
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 1
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 2
         },
         {
           "id": 441742,
           "du_name": "Einhella",
-          "fill_rate": 0.30166666666666664,
-          "rows_seen": 4
+          "fill_rate": 0.43499999999999994,
+          "rows_seen": 5
         },
         {
           "id": 456840,
@@ -1490,8 +1490,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.5333333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.8666666666666666,
+          "rows_seen": 6
         },
         {
           "id": 405768,
@@ -1514,14 +1514,14 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.44166666666666665,
-          "rows_seen": 7
+          "fill_rate": 0.575,
+          "rows_seen": 8
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 3
         },
         {
           "id": 445024,
@@ -1598,14 +1598,14 @@
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 1
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 2
         },
         {
           "id": 441742,
           "du_name": "Einhella",
-          "fill_rate": 0.30166666666666664,
-          "rows_seen": 4
+          "fill_rate": 0.43499999999999994,
+          "rows_seen": 5
         },
         {
           "id": 456840,
@@ -1748,8 +1748,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.4666666666666666,
+          "rows_seen": 3
         },
         {
           "id": 405768,
@@ -1772,14 +1772,14 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.16231886666666667,
-          "rows_seen": 3
+          "fill_rate": 0.2956522,
+          "rows_seen": 4
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 3
         },
         {
           "id": 445024,
@@ -1856,14 +1856,14 @@
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.2,
-          "rows_seen": 2
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 3
         },
         {
           "id": 441742,
           "du_name": "Einhella",
-          "fill_rate": 0.5016666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.635,
+          "rows_seen": 8
         },
         {
           "id": 456840,
@@ -2006,8 +2006,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.23333333333333334,
-          "rows_seen": 3
+          "fill_rate": 0.5666666666666667,
+          "rows_seen": 4
         },
         {
           "id": 405768,
@@ -2030,14 +2030,14 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.39565219999999995,
-          "rows_seen": 6
+          "fill_rate": 0.5289855333333333,
+          "rows_seen": 7
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.16666666666666669,
-          "rows_seen": 2
+          "fill_rate": 0.3,
+          "rows_seen": 3
         },
         {
           "id": 445024,
@@ -2114,14 +2114,14 @@
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.36111113333333333,
-          "rows_seen": 5
+          "fill_rate": 0.49444446666666664,
+          "rows_seen": 6
         },
         {
           "id": 441742,
           "du_name": "Einhella",
-          "fill_rate": 0.3683333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.5016666666666666,
+          "rows_seen": 6
         },
         {
           "id": 456840,
@@ -2264,8 +2264,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.16666666666666669,
-          "rows_seen": 2
+          "fill_rate": 0.5,
+          "rows_seen": 3
         },
         {
           "id": 405768,
@@ -2288,14 +2288,14 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.19565220000000003,
-          "rows_seen": 3
+          "fill_rate": 0.3289855333333333,
+          "rows_seen": 4
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.23333333333333334,
-          "rows_seen": 3
+          "fill_rate": 0.36666666666666664,
+          "rows_seen": 4
         },
         {
           "id": 445024,
@@ -2372,14 +2372,14 @@
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.3333333333333333,
-          "rows_seen": 4
+          "fill_rate": 0.4666666666666666,
+          "rows_seen": 5
         },
         {
           "id": 441742,
           "du_name": "Einhella",
-          "fill_rate": 0.5016666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.635,
+          "rows_seen": 8
         },
         {
           "id": 456840,
@@ -2522,8 +2522,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.23333333333333334,
-          "rows_seen": 3
+          "fill_rate": 0.5666666666666667,
+          "rows_seen": 4
         },
         {
           "id": 405768,
@@ -2546,14 +2546,14 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.3289855333333333,
-          "rows_seen": 5
+          "fill_rate": 0.4623188666666666,
+          "rows_seen": 6
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.16666666666666669,
-          "rows_seen": 2
+          "fill_rate": 0.3,
+          "rows_seen": 3
         },
         {
           "id": 445024,
@@ -2630,14 +2630,14 @@
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.36111113333333333,
-          "rows_seen": 5
+          "fill_rate": 0.49444446666666664,
+          "rows_seen": 6
         },
         {
           "id": 441742,
           "du_name": "Einhella",
-          "fill_rate": 0.3683333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.5016666666666666,
+          "rows_seen": 6
         },
         {
           "id": 456840,
@@ -2780,8 +2780,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.23333333333333334,
-          "rows_seen": 3
+          "fill_rate": 0.5666666666666667,
+          "rows_seen": 4
         },
         {
           "id": 405768,
@@ -2804,14 +2804,14 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.4623188666666666,
-          "rows_seen": 7
+          "fill_rate": 0.5956522,
+          "rows_seen": 8
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.23333333333333334,
-          "rows_seen": 3
+          "fill_rate": 0.36666666666666664,
+          "rows_seen": 4
         },
         {
           "id": 445024,
@@ -2888,14 +2888,14 @@
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.2,
-          "rows_seen": 2
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 3
         },
         {
           "id": 441742,
           "du_name": "Einhella",
-          "fill_rate": 0.43499999999999994,
-          "rows_seen": 6
+          "fill_rate": 0.5683333333333334,
+          "rows_seen": 7
         },
         {
           "id": 456840,
@@ -3038,8 +3038,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.23333333333333334,
-          "rows_seen": 3
+          "fill_rate": 0.5666666666666667,
+          "rows_seen": 4
         },
         {
           "id": 405768,
@@ -3062,14 +3062,14 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.4623188666666666,
-          "rows_seen": 7
+          "fill_rate": 0.5956522,
+          "rows_seen": 8
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.16666666666666669,
-          "rows_seen": 2
+          "fill_rate": 0.3,
+          "rows_seen": 3
         },
         {
           "id": 445024,
@@ -3146,14 +3146,14 @@
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.16111113333333332,
-          "rows_seen": 2
+          "fill_rate": 0.2944444666666667,
+          "rows_seen": 3
         },
         {
           "id": 441742,
           "du_name": "Einhella",
-          "fill_rate": 0.30166666666666664,
-          "rows_seen": 4
+          "fill_rate": 0.43499999999999994,
+          "rows_seen": 5
         },
         {
           "id": 456840,
@@ -3296,8 +3296,8 @@
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.16666666666666669,
-          "rows_seen": 2
+          "fill_rate": 0.5,
+          "rows_seen": 3
         },
         {
           "id": 405768,
@@ -3320,14 +3320,14 @@
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.3289855333333333,
-          "rows_seen": 5
+          "fill_rate": 0.4623188666666666,
+          "rows_seen": 6
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.16666666666666669,
-          "rows_seen": 2
+          "fill_rate": 0.3,
+          "rows_seen": 3
         },
         {
           "id": 445024,
@@ -3680,8 +3680,8 @@
         {
           "id": 321889,
           "du_name": "Frumherji - Reykjanesbær",
-          "fill_rate": 0.23336666666666667,
-          "rows_seen": 4
+          "fill_rate": 0.1667,
+          "rows_seen": 3
         },
         {
           "id": 321888,
@@ -3800,14 +3800,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.5390466666666666,
-          "rows_seen": 10
+          "fill_rate": 0.46833333333333327,
+          "rows_seen": 9
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.4390466666666666,
-          "rows_seen": 9
+          "fill_rate": 0.36833333333333335,
+          "rows_seen": 8
         },
         {
           "id": 237874,
@@ -3938,8 +3938,8 @@
         {
           "id": 321889,
           "du_name": "Frumherji - Reykjanesbær",
-          "fill_rate": 0.36669999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.3000333333333333,
+          "rows_seen": 5
         },
         {
           "id": 321888,
@@ -4058,14 +4058,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.8390466666666666,
-          "rows_seen": 10
+          "fill_rate": 0.7683333333333333,
+          "rows_seen": 9
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.8390466666666666,
-          "rows_seen": 10
+          "fill_rate": 0.7683333333333333,
+          "rows_seen": 9
         },
         {
           "id": 237874,
@@ -4196,8 +4196,8 @@
         {
           "id": 321889,
           "du_name": "Frumherji - Reykjanesbær",
-          "fill_rate": 0.36669999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.3000333333333333,
+          "rows_seen": 5
         },
         {
           "id": 321888,
@@ -4316,14 +4316,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.8666666666666667,
-          "rows_seen": 10
+          "fill_rate": 0.8016666666666666,
+          "rows_seen": 9
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.7390466666666666,
-          "rows_seen": 8
+          "fill_rate": 0.6683333333333333,
+          "rows_seen": 7
         },
         {
           "id": 237874,
@@ -4454,8 +4454,8 @@
         {
           "id": 321889,
           "du_name": "Frumherji - Reykjanesbær",
-          "fill_rate": 0.36669999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.3000333333333333,
+          "rows_seen": 5
         },
         {
           "id": 321888,
@@ -4574,14 +4574,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.9057133333333333,
-          "rows_seen": 11
+          "fill_rate": 0.835,
+          "rows_seen": 10
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.8666666666666667,
-          "rows_seen": 11
+          "fill_rate": 0.8016666666666666,
+          "rows_seen": 10
         },
         {
           "id": 237874,
@@ -4712,8 +4712,8 @@
         {
           "id": 321889,
           "du_name": "Frumherji - Reykjanesbær",
-          "fill_rate": 0.36669999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.3000333333333333,
+          "rows_seen": 5
         },
         {
           "id": 321888,
@@ -4832,14 +4832,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.8666666666666667,
-          "rows_seen": 10
+          "fill_rate": 0.8016666666666666,
+          "rows_seen": 9
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.77238,
-          "rows_seen": 9
+          "fill_rate": 0.7016666666666667,
+          "rows_seen": 8
         },
         {
           "id": 237874,
@@ -4970,8 +4970,8 @@
         {
           "id": 321889,
           "du_name": "Frumherji - Reykjanesbær",
-          "fill_rate": 0.36669999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.3000333333333333,
+          "rows_seen": 5
         },
         {
           "id": 321888,
@@ -5090,14 +5090,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.8390466666666666,
-          "rows_seen": 10
+          "fill_rate": 0.7683333333333333,
+          "rows_seen": 9
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.8666666666666666,
-          "rows_seen": 10
+          "fill_rate": 0.835,
+          "rows_seen": 9
         },
         {
           "id": 237874,
@@ -5228,8 +5228,8 @@
         {
           "id": 321889,
           "du_name": "Frumherji - Reykjanesbær",
-          "fill_rate": 0.3000333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.23336666666666667,
+          "rows_seen": 4
         },
         {
           "id": 321888,
@@ -5348,14 +5348,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.40571333333333326,
-          "rows_seen": 7
+          "fill_rate": 0.33499999999999996,
+          "rows_seen": 6
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.3390466666666666,
-          "rows_seen": 6
+          "fill_rate": 0.26833333333333337,
+          "rows_seen": 5
         },
         {
           "id": 237874,
