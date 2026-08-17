@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T09:37:36.242Z",
+  "generated_at": "2026-08-17T12:37:26.138Z",
   "scope": {
     "report_start_date": "2026-08-17",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 382,
-    "unique_items": 194,
+    "items_seen": 380,
+    "unique_items": 192,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -746,30 +746,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Harpa - Menningarnótt 2026",
-      "line_item_name": "15-21Ágúst - Grandi",
-      "price": 45000,
-      "start_date": "2026-08-15",
-      "end_date": "2026-08-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Harpa - Menningarnótt 2026",
-      "line_item_name": "20-21Ágúst - 11 skjáir",
-      "price": 123600,
-      "start_date": "2026-08-20",
-      "end_date": "2026-08-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Harpa - Menningarnótt 2026",
-      "line_item_name": "22Ágúst - 24 skjáir",
-      "price": 127300,
-      "start_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Híbýli ágúst",
       "line_item_name": "Híbýli ágúst",
       "price": 30000,
@@ -1127,6 +1103,14 @@
       "price": 159500,
       "start_date": "2026-08-01",
       "end_date": "2026-08-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
+      "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
+      "price": 432000,
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-30",
       "seen_count": 1
     },
     {
