@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T12:37:26.138Z",
+  "generated_at": "2026-08-17T15:21:29.997Z",
   "scope": {
     "report_start_date": "2026-08-17",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 380,
-    "unique_items": 192,
+    "items_seen": 386,
+    "unique_items": 196,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -572,7 +572,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 223200,
+      "price": 232200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 1
@@ -580,7 +580,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 232200,
+      "price": 223200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 1
@@ -946,6 +946,14 @@
       "seen_count": 5
     },
     {
+      "campaign_name": "ISAVIA - Keflavíkurflugvöllur / Datera - ágúst 2026",
+      "line_item_name": "Keflavíkurflugvöllur / 20. ágúst / 4x1",
+      "price": 25500,
+      "start_date": "2026-08-20",
+      "end_date": "2026-08-20",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Íslandsbanki - Maraþon / Datera - ágúst 2026",
       "line_item_name": "Íslandsbanki - Mán 17. ágúst / 4x1",
       "price": 28000,
@@ -1292,14 +1300,6 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 165000,
-      "start_date": "2026-08-09",
-      "end_date": "2026-08-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 1722000,
       "start_date": "2026-08-09",
       "end_date": "2026-08-29",
@@ -1308,9 +1308,25 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 165000,
+      "start_date": "2026-08-09",
+      "end_date": "2026-08-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 2261000,
       "start_date": "2026-08-13",
       "end_date": "2026-08-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 1260000,
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-30",
       "seen_count": 1
     },
     {
@@ -1408,6 +1424,22 @@
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
       "seen_count": 5
+    },
+    {
+      "campaign_name": "Securitas / Datera - sept 2026",
+      "line_item_name": "Securitas / Datera - sept 2026 / BORG, BRE2, GLER1, GRA, KAP3 - (mán, mið, fös, lau)",
+      "price": 544000,
+      "start_date": "2026-09-02",
+      "end_date": "2026-09-29",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Securitas / Datera - sept 2026",
+      "line_item_name": "Securitas / Datera - sept 2026 / GBR Litlat, HÖF1, KAP3, NJA1, VES2 - (þri, fim)",
+      "price": 240000,
+      "start_date": "2026-09-02",
+      "end_date": "2026-09-29",
+      "seen_count": 2
     },
     {
       "campaign_name": "Sep-12 Kaldalón Hæðasmári",
