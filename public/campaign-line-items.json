@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T15:28:10.540Z",
+  "generated_at": "2026-08-18T18:33:25.293Z",
   "scope": {
     "report_start_date": "2026-08-18",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 379,
-    "unique_items": 188,
+    "items_seen": 398,
+    "unique_items": 203,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -722,6 +722,102 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 18. ágúst / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 19500,
+      "start_date": "2026-08-18",
+      "end_date": "2026-08-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 19. ágúst / GBR Litlatún / 2x1",
+      "price": 13000,
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 21. ágúst / GRA, GBR Litlatún / 3x1",
+      "price": 13000,
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 23. ágúst / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 19500,
+      "start_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 24. ágúst / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 19500,
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 25. ágúst / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 19500,
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 26. ágúst / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 19500,
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 27. ágúst / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 19500,
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 28. ágúst / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 19500,
+      "start_date": "2026-08-28",
+      "end_date": "2026-08-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 29. ágúst / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 19500,
+      "start_date": "2026-08-29",
+      "end_date": "2026-08-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 30. ágúst / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 19500,
+      "start_date": "2026-08-30",
+      "end_date": "2026-08-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 31. ágúst / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 39000,
+      "start_date": "2026-08-31",
+      "end_date": "2026-08-31",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Icelandair  / Hvíta húsið - Glerártorgi",
       "line_item_name": "Icelandair - Glerártorgi - ágúst 2026",
       "price": 201500,
@@ -860,17 +956,9 @@
     {
       "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 27. ágúst / 4x1",
-      "price": 25500,
+      "price": 26000,
       "start_date": "2026-08-27",
       "end_date": "2026-08-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 28. ágúst / 4x1",
-      "price": 26500,
-      "start_date": "2026-08-28",
-      "end_date": "2026-08-28",
       "seen_count": 1
     },
     {
@@ -1496,6 +1584,38 @@
       "start_date": "2026-08-01",
       "end_date": "2026-12-31",
       "seen_count": 5
+    },
+    {
+      "campaign_name": "VIRK / Hvíta húsið - ágúst til sept 2026",
+      "line_item_name": "VIRK / Mán og Fim / AKU1, EGI1, HÖF2, SEL2, VES2",
+      "price": 366000,
+      "start_date": "2026-08-19",
+      "end_date": "2026-09-30",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "VIRK / Hvíta húsið - ágúst til sept 2026",
+      "line_item_name": "VIRK / Mán og Fim / BORG, BRE2, GRA, GBR Litlat, NJA2, KAP2",
+      "price": 80000,
+      "start_date": "2026-08-19",
+      "end_date": "2026-09-30",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "VIRK / Hvíta húsið - ágúst til sept 2026",
+      "line_item_name": "VIRK / Þri og Fim / BRE1, HAGA, KAP1, SEL1, VES1",
+      "price": 399600,
+      "start_date": "2026-08-19",
+      "end_date": "2026-09-30",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "VIRK / Hvíta húsið - ágúst til sept 2026",
+      "line_item_name": "VIRK / Þri, Mið, Fös / BRE2, HÖF1, HAGA, KAP3",
+      "price": 461700,
+      "start_date": "2026-08-19",
+      "end_date": "2026-09-30",
+      "seen_count": 2
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - ágúst '26",
