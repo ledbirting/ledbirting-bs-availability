@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T12:38:16.579Z",
+  "generated_at": "2026-08-18T15:28:10.540Z",
   "scope": {
     "report_start_date": "2026-08-18",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 380,
-    "unique_items": 189,
+    "items_seen": 379,
+    "unique_items": 188,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -540,7 +540,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 223200,
+      "price": 232200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 1
@@ -548,7 +548,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 232200,
+      "price": 223200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 1
@@ -916,7 +916,7 @@
     {
       "campaign_name": "Já til að sjá / Datera - ágúst 2026",
       "line_item_name": "Datera - 17. til 23. ágúst - 1 hólf",
-      "price": 1083600,
+      "price": 1118600,
       "start_date": "2026-08-17",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -924,7 +924,7 @@
     {
       "campaign_name": "Já til að sjá / Datera - ágúst 2026",
       "line_item_name": "Datera - 24. til 29. ágúst - 1,5 hólf",
-      "price": 1501200,
+      "price": 1546200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-29",
       "seen_count": 1
@@ -1244,17 +1244,17 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 165000,
+      "price": 1722000,
       "start_date": "2026-08-09",
-      "end_date": "2026-08-21",
+      "end_date": "2026-08-29",
       "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 1722000,
+      "price": 165000,
       "start_date": "2026-08-09",
-      "end_date": "2026-08-29",
+      "end_date": "2026-08-21",
       "seen_count": 1
     },
     {
@@ -1336,14 +1336,6 @@
       "start_date": "2026-09-03",
       "end_date": "2026-09-30",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Sahara/ Auðkenni",
-      "line_item_name": "Sahara/ Auðkenni",
-      "price": 197500,
-      "start_date": "2026-08-30",
-      "end_date": "2026-09-06",
-      "seen_count": 1
     },
     {
       "campaign_name": "Samkaup / Nettó - jan 2026",
