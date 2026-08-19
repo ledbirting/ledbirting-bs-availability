@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T09:30:19.819Z",
+  "generated_at": "2026-08-19T12:39:33.882Z",
   "scope": {
     "report_start_date": "2026-08-19",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 395,
-    "unique_items": 201,
+    "items_seen": 396,
+    "unique_items": 202,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -695,6 +695,14 @@
       "price": 100000,
       "start_date": "2026-08-18",
       "end_date": "2026-08-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Happatreyjur Enski Boltinn Ágúst-Sept",
+      "line_item_name": "21-27 Ágúst - Höfðabakki, Egilshöll, Garðabær + 20 fletir Smáralind",
+      "price": 108500,
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-27",
       "seen_count": 1
     },
     {
