@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T16:09:06.395Z",
+  "generated_at": "2026-08-19T16:57:02.647Z",
   "result": [
     {
       "date": "2026-08-19",
@@ -4149,7 +4149,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
+          "rows_seen": 0
         },
         {
           "id": 406591,
@@ -4406,8 +4406,8 @@
         {
           "id": 404813,
           "du_name": "Austurstræti",
-          "fill_rate": 0,
-          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
+          "fill_rate": 0.125,
+          "rows_seen": 1
         },
         {
           "id": 406591,
@@ -4665,7 +4665,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
+          "rows_seen": 0
         },
         {
           "id": 406591,
@@ -4923,7 +4923,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
+          "rows_seen": 0
         },
         {
           "id": 406591,
@@ -5181,7 +5181,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
+          "rows_seen": 0
         },
         {
           "id": 406591,
@@ -5439,7 +5439,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
+          "rows_seen": 0
         },
         {
           "id": 406591,
@@ -5697,7 +5697,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
+          "rows_seen": 0
         },
         {
           "id": 406591,
@@ -5954,8 +5954,8 @@
         {
           "id": 404813,
           "du_name": "Austurstræti",
-          "fill_rate": 0,
-          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
+          "fill_rate": 0.125,
+          "rows_seen": 1
         },
         {
           "id": 406591,
@@ -6212,8 +6212,8 @@
         {
           "id": 404813,
           "du_name": "Austurstræti",
-          "fill_rate": 0,
-          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
+          "fill_rate": 0.125,
+          "rows_seen": 1
         },
         {
           "id": 406591,
@@ -6471,7 +6471,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
+          "rows_seen": 0
         },
         {
           "id": 406591,
@@ -6729,7 +6729,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
+          "rows_seen": 0
         },
         {
           "id": 406591,
@@ -6987,7 +6987,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
+          "rows_seen": 0
         },
         {
           "id": 406591,
@@ -7245,7 +7245,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
+          "rows_seen": 0
         },
         {
           "id": 406591,
@@ -7503,7 +7503,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
+          "rows_seen": 0
         },
         {
           "id": 406591,
