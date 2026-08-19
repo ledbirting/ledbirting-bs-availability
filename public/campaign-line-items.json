@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T06:38:03.118Z",
+  "generated_at": "2026-08-19T09:30:19.819Z",
   "scope": {
     "report_start_date": "2026-08-19",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 394,
-    "unique_items": 200,
+    "items_seen": 395,
+    "unique_items": 201,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -532,7 +532,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 223200,
+      "price": 232200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 1
@@ -540,7 +540,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 232200,
+      "price": 223200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 1
@@ -1164,7 +1164,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1172,7 +1172,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1400,6 +1400,14 @@
       "start_date": "2026-09-03",
       "end_date": "2026-09-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Sahara/ Auðkenni",
+      "line_item_name": "Sahara/ Auðkenni",
+      "price": 197500,
+      "start_date": "2026-08-30",
+      "end_date": "2026-09-06",
+      "seen_count": 1
     },
     {
       "campaign_name": "Samkaup / Nettó - jan 2026",
