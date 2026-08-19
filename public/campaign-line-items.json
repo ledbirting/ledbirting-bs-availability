@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T12:39:33.882Z",
+  "generated_at": "2026-08-19T15:27:39.020Z",
   "scope": {
     "report_start_date": "2026-08-19",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 396,
-    "unique_items": 202,
+    "items_seen": 392,
+    "unique_items": 200,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1440,22 +1440,6 @@
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
       "seen_count": 5
-    },
-    {
-      "campaign_name": "Securitas / Datera - sept 2026",
-      "line_item_name": "Securitas / Datera - sept 2026 / BORG, BRE2, GLER1, GRA, KAP3 - (mán, mið, fös, lau)",
-      "price": 544000,
-      "start_date": "2026-09-02",
-      "end_date": "2026-09-29",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Securitas / Datera - sept 2026",
-      "line_item_name": "Securitas / Datera - sept 2026 / GBR Litlat, HÖF1, KAP3, NJA1, VES2 - (þri, fim)",
-      "price": 240000,
-      "start_date": "2026-09-02",
-      "end_date": "2026-09-29",
-      "seen_count": 2
     },
     {
       "campaign_name": "Sep-12 Kaldalón Hæðasmári",
