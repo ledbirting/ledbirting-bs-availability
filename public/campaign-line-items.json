@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:39:59.722Z",
+  "generated_at": "2026-08-20T09:30:34.190Z",
   "scope": {
     "report_start_date": "2026-08-20",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 709,
-    "unique_items": 271,
+    "items_seen": 713,
+    "unique_items": 273,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -143,6 +143,14 @@
       "price": 159500,
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Artasan/Better you Hæðasmára",
+      "line_item_name": "Artasan/Better you Hæðasmára",
+      "price": 121000,
+      "start_date": "2026-08-20",
+      "end_date": "2026-09-19",
       "seen_count": 2
     },
     {
@@ -1740,6 +1748,14 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 442000,
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 2261000,
       "start_date": "2026-08-13",
       "end_date": "2026-08-29",
@@ -1748,8 +1764,8 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 442000,
-      "start_date": "2026-08-13",
+      "price": 520000,
+      "start_date": "2026-08-17",
       "end_date": "2026-08-29",
       "seen_count": 1
     },
@@ -1760,14 +1776,6 @@
       "start_date": "2026-08-17",
       "end_date": "2026-08-30",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 520000,
-      "start_date": "2026-08-17",
-      "end_date": "2026-08-29",
-      "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
@@ -1984,6 +1992,14 @@
       "start_date": "2026-08-22",
       "end_date": "2026-08-22",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Skin þvottastöð ágúst",
+      "line_item_name": "Halldóra",
+      "price": 378000,
+      "start_date": "2026-08-26",
+      "end_date": "2026-09-22",
+      "seen_count": 2
     },
     {
       "campaign_name": "Svens - Hagasmári - Sept",
