@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T15:04:15.413Z",
+  "generated_at": "2026-08-20T15:49:11.907Z",
   "result": [
     {
       "date": "2026-08-20",
@@ -20,8 +20,8 @@
         {
           "id": 404813,
           "du_name": "Austurstræti",
-          "fill_rate": 0.125,
-          "rows_seen": 1
+          "fill_rate": 0.25,
+          "rows_seen": 2
         },
         {
           "id": 406591,
@@ -278,8 +278,8 @@
         {
           "id": 404813,
           "du_name": "Austurstræti",
-          "fill_rate": 0.25,
-          "rows_seen": 2
+          "fill_rate": 0.375,
+          "rows_seen": 3
         },
         {
           "id": 406591,
@@ -536,8 +536,8 @@
         {
           "id": 404813,
           "du_name": "Austurstræti",
-          "fill_rate": 0.375,
-          "rows_seen": 3
+          "fill_rate": 0.5,
+          "rows_seen": 4
         },
         {
           "id": 406591,
@@ -1826,8 +1826,8 @@
         {
           "id": 404813,
           "du_name": "Austurstræti",
-          "fill_rate": 0,
-          "rows_seen": 0
+          "fill_rate": 0.125,
+          "rows_seen": 1
         },
         {
           "id": 406591,
@@ -2084,8 +2084,8 @@
         {
           "id": 404813,
           "du_name": "Austurstræti",
-          "fill_rate": 0.125,
-          "rows_seen": 1
+          "fill_rate": 0.25,
+          "rows_seen": 2
         },
         {
           "id": 406591,
@@ -2342,8 +2342,8 @@
         {
           "id": 404813,
           "du_name": "Austurstræti",
-          "fill_rate": 0.125,
-          "rows_seen": 1
+          "fill_rate": 0.25,
+          "rows_seen": 2
         },
         {
           "id": 406591,
