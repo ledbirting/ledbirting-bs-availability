@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T12:41:30.291Z",
+  "generated_at": "2026-08-20T15:29:51.787Z",
   "scope": {
     "report_start_date": "2026-08-20",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 713,
-    "unique_items": 273,
+    "items_seen": 714,
+    "unique_items": 275,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -906,6 +906,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Gildi/optima C-þéttur pakki",
+      "line_item_name": "Gildi/optima C-þéttur pakki",
+      "price": 1050000,
+      "start_date": "2026-08-31",
+      "end_date": "2026-09-13",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "GK Bakarí - Sumar 2026",
       "line_item_name": "GK Bakarí - Ágúst - Selfoss #1 og Frumherji Selfoss",
       "price": 231000,
@@ -1564,7 +1572,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1572,7 +1580,7 @@
     {
       "campaign_name": "Ofar - 4-23 ágúst",
       "line_item_name": "Glerártorg",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-08-04",
       "end_date": "2026-08-23",
       "seen_count": 1
@@ -1698,6 +1706,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Peroni/Bestun ágúst",
+      "line_item_name": "Peroni/Bestun ágúst",
+      "price": 45000,
+      "start_date": "2026-08-20",
+      "end_date": "2026-08-31",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "pris ágúst",
       "line_item_name": "pris ágúst",
       "price": 63800,
@@ -1732,10 +1748,10 @@
     {
       "campaign_name": "Ratsjá -Gildi",
       "line_item_name": "Ratsjá -Gildi",
-      "price": 1332800,
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-30",
-      "seen_count": 4
+      "price": 666400,
+      "start_date": "2026-09-23",
+      "end_date": "2026-10-08",
+      "seen_count": 2
     },
     {
       "campaign_name": "Ratsjá PEI",
@@ -1764,18 +1780,18 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 520000,
-      "start_date": "2026-08-17",
-      "end_date": "2026-08-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 1260000,
       "start_date": "2026-08-17",
       "end_date": "2026-08-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 520000,
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-29",
+      "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
