@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T15:29:12.710Z",
+  "generated_at": "2026-08-21T18:32:16.611Z",
   "scope": {
     "report_start_date": "2026-08-21",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 707,
-    "unique_items": 270,
+    "items_seen": 710,
+    "unique_items": 271,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -636,7 +636,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 223200,
+      "price": 232200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 2
@@ -644,7 +644,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 232200,
+      "price": 223200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 2
@@ -1468,18 +1468,18 @@
     {
       "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
       "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
-      "price": 84000,
-      "start_date": "2026-08-19",
-      "end_date": "2026-08-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
-      "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
       "price": 432000,
       "start_date": "2026-08-19",
       "end_date": "2026-08-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
+      "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
+      "price": 84000,
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-28",
+      "seen_count": 1
     },
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
@@ -1658,6 +1658,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Penninn. ágúst.",
+      "line_item_name": "Penninn. ágúst.",
+      "price": 91000,
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-25",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Penninn. ágúst.",
+      "line_item_name": "Penninn. ágúst.",
+      "price": 78000,
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-25",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Perform - Ágúst",
       "line_item_name": "Perform - Borgartún",
       "price": 58500,
@@ -1724,14 +1740,6 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 442000,
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 2261000,
       "start_date": "2026-08-13",
       "end_date": "2026-08-29",
@@ -1740,8 +1748,8 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 520000,
-      "start_date": "2026-08-17",
+      "price": 442000,
+      "start_date": "2026-08-13",
       "end_date": "2026-08-29",
       "seen_count": 1
     },
@@ -1752,6 +1760,14 @@
       "start_date": "2026-08-17",
       "end_date": "2026-08-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 520000,
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-29",
+      "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
@@ -2160,14 +2176,6 @@
       "start_date": "2026-08-21",
       "end_date": "2026-09-11",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Wino Selfossi -",
-      "line_item_name": "Wino - Hótel Selfoss #1 og #2 - 22-24 Ágúst",
-      "price": 52500,
-      "start_date": "2026-08-22",
-      "end_date": "2026-08-24",
-      "seen_count": 1
     },
     {
       "campaign_name": "ÞG Verk - Thorraholtid",
