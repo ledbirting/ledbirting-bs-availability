@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T09:33:12.571Z",
+  "generated_at": "2026-08-21T12:39:55.695Z",
   "scope": {
     "report_start_date": "2026-08-21",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 699,
-    "unique_items": 265,
+    "items_seen": 700,
+    "unique_items": 266,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -919,14 +919,6 @@
       "price": 100000,
       "start_date": "2026-08-18",
       "end_date": "2026-08-28",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Halldóra",
-      "line_item_name": "Halldóra",
-      "price": 378000,
-      "start_date": "2026-08-26",
-      "end_date": "2026-09-22",
       "seen_count": 2
     },
     {
@@ -2128,6 +2120,22 @@
       "start_date": "2027-06-30",
       "end_date": "2027-07-03",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Vörður /Netöryggi Haust tækifærispakki",
+      "line_item_name": "Vörður /Netöryggi Haust tækifærispakki",
+      "price": 296000,
+      "start_date": "2026-08-21",
+      "end_date": "2026-09-11",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Wino Selfossi -",
+      "line_item_name": "Wino - Hótel Selfoss #1 og #2 - 22-24 Ágúst",
+      "price": 52500,
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-24",
+      "seen_count": 1
     },
     {
       "campaign_name": "ÞG Verk - Thorraholtid",
