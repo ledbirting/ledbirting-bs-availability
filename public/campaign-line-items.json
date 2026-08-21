@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T12:39:55.695Z",
+  "generated_at": "2026-08-21T15:29:12.710Z",
   "scope": {
     "report_start_date": "2026-08-21",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 700,
-    "unique_items": 266,
+    "items_seen": 707,
+    "unique_items": 270,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -954,6 +954,22 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Háskóli Íslands Endurmenntun",
+      "line_item_name": "Háskóli Íslands Endurmenntun",
+      "price": 264000,
+      "start_date": "2026-08-31",
+      "end_date": "2026-09-13",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Háskóli Íslands Endurmenntun",
+      "line_item_name": "Háskóli Íslands Endurmenntun",
+      "price": 294400,
+      "start_date": "2026-08-31",
+      "end_date": "2026-09-13",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Híbýli ágúst",
       "line_item_name": "Híbýli ágúst",
       "price": 60000,
@@ -1452,18 +1468,18 @@
     {
       "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
       "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
-      "price": 432000,
-      "start_date": "2026-08-19",
-      "end_date": "2026-08-30",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
-      "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
       "price": 84000,
       "start_date": "2026-08-19",
       "end_date": "2026-08-28",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
+      "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
+      "price": 432000,
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-30",
+      "seen_count": 2
     },
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
@@ -1488,6 +1504,22 @@
       "start_date": "2026-01-21",
       "end_date": "2027-01-20",
       "seen_count": 6
+    },
+    {
+      "campaign_name": "Nathan Til hamingju.",
+      "line_item_name": "Nathan Til hamingju",
+      "price": 261000,
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-14",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Nathan Til hamingju.",
+      "line_item_name": "Nathan Til hamingju",
+      "price": 308000,
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-14",
+      "seen_count": 1
     },
     {
       "campaign_name": "Nova. Enska deildin.",
@@ -1692,6 +1724,14 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 442000,
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 2261000,
       "start_date": "2026-08-13",
       "end_date": "2026-08-29",
@@ -1700,8 +1740,8 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 442000,
-      "start_date": "2026-08-13",
+      "price": 520000,
+      "start_date": "2026-08-17",
       "end_date": "2026-08-29",
       "seen_count": 1
     },
@@ -1712,14 +1752,6 @@
       "start_date": "2026-08-17",
       "end_date": "2026-08-30",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 520000,
-      "start_date": "2026-08-17",
-      "end_date": "2026-08-29",
-      "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
