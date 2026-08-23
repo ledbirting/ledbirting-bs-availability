@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T21:18:20.428Z",
+  "generated_at": "2026-08-23T01:08:03.806Z",
   "scope": {
-    "report_start_date": "2026-08-22",
+    "report_start_date": "2026-08-23",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 684,
-    "unique_items": 255,
+    "items_seen": 664,
+    "unique_items": 241,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -171,14 +171,6 @@
     },
     {
       "campaign_name": "Aur / HN - ágúst 2026",
-      "line_item_name": "Aur / HN - Lau 22. ágúst - 7x1",
-      "price": 45000,
-      "start_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Aur / HN - ágúst 2026",
       "line_item_name": "Aur / HN - Lau 29. ágúst - 7x1",
       "price": 45000,
       "start_date": "2026-08-29",
@@ -264,30 +256,6 @@
       "start_date": "2026-03-01",
       "end_date": "2027-12-31",
       "seen_count": 17
-    },
-    {
-      "campaign_name": "Bestun-22 ágúst",
-      "line_item_name": "Bestun Garmín-22 ágúst",
-      "price": 99000,
-      "start_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bestun-Garmin",
-      "line_item_name": "Bestun-Garmin",
-      "price": 33000,
-      "start_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Bestun-Garmin",
-      "line_item_name": "Garmin",
-      "price": 33000,
-      "start_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "seen_count": 1
     },
     {
       "campaign_name": "Bestun-kanslarinn-Austurstræti-selfoss-vesturlandsvegur",
@@ -383,14 +351,6 @@
       "price": 6500,
       "start_date": "2026-09-06",
       "end_date": "2026-09-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir KA. 22 ágúst",
-      "price": 6500,
-      "start_date": "2026-08-22",
-      "end_date": "2026-08-22",
       "seen_count": 1
     },
     {
@@ -799,7 +759,7 @@
       "price": 2998498.5,
       "start_date": "2024-09-23",
       "end_date": "2027-06-18",
-      "seen_count": 11
+      "seen_count": 10
     },
     {
       "campaign_name": "Frumherji - á Frumherja Selfossi",
@@ -908,7 +868,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -916,7 +876,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -935,14 +895,6 @@
       "price": 30000,
       "start_date": "2026-08-01",
       "end_date": "2026-08-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - ágúst '26",
-      "line_item_name": "Hreyfing / 22. ágúst / BORG, GBR Litlatún / 2x1",
-      "price": 12000,
-      "start_date": "2026-08-22",
-      "end_date": "2026-08-22",
       "seen_count": 1
     },
     {
@@ -1099,14 +1051,6 @@
     },
     {
       "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 22. ágúst / 4x1",
-      "price": 26000,
-      "start_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 23. ágúst / 4x1",
       "price": 28500,
       "start_date": "2026-08-23",
@@ -1186,27 +1130,11 @@
       "seen_count": 10
     },
     {
-      "campaign_name": "ISAVIA - Keflavíkurflugvöllur / Datera - ágúst 2026",
-      "line_item_name": "Keflavíkurflugvöllur / 22. ágúst / 4x1",
-      "price": 24000,
-      "start_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "ísbíllinn - ágúst",
       "line_item_name": "ísbíllinn - Egilshöll",
       "price": 35000,
       "start_date": "2026-08-10",
       "end_date": "2026-08-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Islandsbanki - Austerstræti",
-      "line_item_name": "Islandsbanki - Austerstræti",
-      "price": 0,
-      "start_date": "2026-08-19",
-      "end_date": "2026-08-22",
       "seen_count": 1
     },
     {
@@ -1491,14 +1419,6 @@
     },
     {
       "campaign_name": "Orkan - Ágúst 2026",
-      "line_item_name": "V34",
-      "price": 220000,
-      "start_date": "2026-08-16",
-      "end_date": "2026-08-22",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Orkan - Ágúst 2026",
       "line_item_name": "V35",
       "price": 140000,
       "start_date": "2026-08-23",
@@ -1596,14 +1516,6 @@
     {
       "campaign_name": "pris ágúst",
       "line_item_name": "pris ágúst",
-      "price": 45000,
-      "start_date": "2026-08-03",
-      "end_date": "2026-08-24",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "pris ágúst",
-      "line_item_name": "pris ágúst",
       "price": 85000,
       "start_date": "2026-08-08",
       "end_date": "2026-08-24",
@@ -1636,14 +1548,6 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 442000,
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 2261000,
       "start_date": "2026-08-13",
       "end_date": "2026-08-29",
@@ -1652,10 +1556,10 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 1260000,
-      "start_date": "2026-08-17",
-      "end_date": "2026-08-30",
-      "seen_count": 2
+      "price": 442000,
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-29",
+      "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
@@ -1664,6 +1568,14 @@
       "start_date": "2026-08-17",
       "end_date": "2026-08-29",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 1260000,
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-30",
+      "seen_count": 2
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
@@ -1858,14 +1770,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Sinfónían / Datera - 22. ágúst",
-      "line_item_name": "Sinfónían 22. ágúst (4 hólf per flöt)",
-      "price": 50000,
-      "start_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Skin þvottastöð ágúst",
       "line_item_name": "Skín Þvottastöð - Kaplakriki og Fjarðarkaup - Ágúst-Sept",
       "price": 378000,
@@ -1962,14 +1866,6 @@
       "seen_count": 4
     },
     {
-      "campaign_name": "Vecct RMÍ 2026",
-      "line_item_name": "Vecct - Reykjavíkurmaraþon 20-22Ágúst - 10 skjáir",
-      "price": 130500,
-      "start_date": "2026-08-20",
-      "end_date": "2026-08-22",
-      "seen_count": 2
-    },
-    {
       "campaign_name": "Verkfærasalan Akureyri langtima",
       "line_item_name": "Verkfærasalan Akureyri langtima ágúst-des",
       "price": 286000,
@@ -2056,14 +1952,6 @@
       "start_date": "2026-04-15",
       "end_date": "2027-02-01",
       "seen_count": 6
-    },
-    {
-      "campaign_name": "Þjóðleikhúsið 17 júní og menningar nótt 22 ágúst. Austurstræti",
-      "line_item_name": "Þjóðleikhúsið 22 ágúst. Menningarnótt í Austurstræti.",
-      "price": 7500,
-      "start_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "seen_count": 1
     }
   ]
 }
