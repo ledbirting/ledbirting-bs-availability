@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T15:35:37.299Z",
+  "generated_at": "2026-08-24T18:35:21.530Z",
   "scope": {
     "report_start_date": "2026-08-24",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 673,
-    "unique_items": 244,
+    "items_seen": 683,
+    "unique_items": 249,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -828,7 +828,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -836,7 +836,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -1104,6 +1104,46 @@
       "start_date": "2026-08-10",
       "end_date": "2026-08-31",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Já til að sjá - viðbót / Datera - ágúst 2026",
+      "line_item_name": "Datera - 25. ágúst - 1 aukahólf á 28 flötum",
+      "price": 155300,
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-25",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Já til að sjá - viðbót / Datera - ágúst 2026",
+      "line_item_name": "Datera - 26. ágúst - 1 aukahólf á 30 flötum",
+      "price": 170300,
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Já til að sjá - viðbót / Datera - ágúst 2026",
+      "line_item_name": "Datera - 27. ágúst - 1 aukahólf á 27 flötum",
+      "price": 145800,
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-27",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Já til að sjá - viðbót / Datera - ágúst 2026",
+      "line_item_name": "Datera - 28. ágúst - 1 aukahólf á 28 flötum",
+      "price": 148800,
+      "start_date": "2026-08-28",
+      "end_date": "2026-08-28",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Já til að sjá - viðbót / Datera - ágúst 2026",
+      "line_item_name": "Datera - 29. ágúst - 1 aukahólf á 29 flötum",
+      "price": 155300,
+      "start_date": "2026-08-29",
+      "end_date": "2026-08-29",
+      "seen_count": 2
     },
     {
       "campaign_name": "Já til að sjá / Datera - ágúst 2026",
@@ -1484,14 +1524,6 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 442000,
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 2261000,
       "start_date": "2026-08-13",
       "end_date": "2026-08-29",
@@ -1500,10 +1532,10 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 1260000,
-      "start_date": "2026-08-17",
-      "end_date": "2026-08-30",
-      "seen_count": 2
+      "price": 442000,
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-29",
+      "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
@@ -1512,6 +1544,14 @@
       "start_date": "2026-08-17",
       "end_date": "2026-08-29",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 1260000,
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-30",
+      "seen_count": 2
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
