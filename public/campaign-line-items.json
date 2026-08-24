@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T09:43:00.611Z",
+  "generated_at": "2026-08-24T12:42:25.260Z",
   "scope": {
     "report_start_date": "2026-08-24",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 645,
-    "unique_items": 230,
+    "items_seen": 662,
+    "unique_items": 238,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1684,10 +1684,74 @@
     {
       "campaign_name": "Skin þvottastöð ágúst",
       "line_item_name": "Skín Þvottastöð - Kaplakriki og Fjarðarkaup - Ágúst-Sept",
+      "price": 418500,
+      "start_date": "2026-08-27",
+      "end_date": "2026-09-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Skin þvottastöð Apríl 2027",
+      "line_item_name": "Skín Þvottastöð - Kaplakriki og Fjarðarkaup - Apríl-Maí",
+      "price": 405000,
+      "start_date": "2027-04-27",
+      "end_date": "2027-05-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Skin þvottastöð Des",
+      "line_item_name": "Skín Þvottastöð - Kaplakriki og Fjarðarkaup - Des-Jan",
+      "price": 418500,
+      "start_date": "2026-12-27",
+      "end_date": "2027-01-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Skin þvottastöð Feb 2027",
+      "line_item_name": "Skín Þvottastöð - Kaplakriki og Fjarðarkaup - Feb-Mars",
       "price": 378000,
-      "start_date": "2026-08-26",
-      "end_date": "2026-09-22",
-      "seen_count": 1
+      "start_date": "2027-02-27",
+      "end_date": "2027-03-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Skin þvottastöð Jan 2027",
+      "line_item_name": "Skín Þvottastöð - Kaplakriki og Fjarðarkaup - Jan-Feb",
+      "price": 418500,
+      "start_date": "2027-01-27",
+      "end_date": "2027-02-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Skin þvottastöð Mars 2027",
+      "line_item_name": "Skín Þvottastöð - Kaplakriki og Fjarðarkaup - Mars-Apríl",
+      "price": 418500,
+      "start_date": "2027-03-27",
+      "end_date": "2027-04-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Skin þvottastöð Nóv",
+      "line_item_name": "Skín Þvottastöð - Kaplakriki og Fjarðarkaup - Nóv-Des",
+      "price": 405000,
+      "start_date": "2026-11-27",
+      "end_date": "2026-12-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Skin þvottastöð Okt",
+      "line_item_name": "Skín Þvottastöð - Kaplakriki og Fjarðarkaup - Okt-Nóv",
+      "price": 418500,
+      "start_date": "2026-10-27",
+      "end_date": "2026-11-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Skin þvottastöð Sept",
+      "line_item_name": "Skín Þvottastöð - Kaplakriki og Fjarðarkaup - Sept-Okt",
+      "price": 405000,
+      "start_date": "2026-09-27",
+      "end_date": "2026-10-26",
+      "seen_count": 2
     },
     {
       "campaign_name": "Svens - Hagasmári - Sept",
