@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:42:25.260Z",
+  "generated_at": "2026-08-24T15:35:37.299Z",
   "scope": {
     "report_start_date": "2026-08-24",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 662,
-    "unique_items": 238,
+    "items_seen": 673,
+    "unique_items": 244,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -524,7 +524,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 232200,
+      "price": 223200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 2
@@ -532,7 +532,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 223200,
+      "price": 232200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 2
@@ -828,7 +828,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -836,9 +836,33 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Háskólinn á Akureyri verkefnastjórnun með Vottun.",
+      "line_item_name": "Birtingar  01/02/03/06 sept.  BT-BH1GLT1-GRI-SMT1-VLV1",
+      "price": 176000,
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-07",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Háskólinn á Akureyri verkefnastjórnun með Vottun.",
+      "line_item_name": "Birtingar /31 ágúst. GRI-HAFT-HSMI-KAPLA2-SMT-VLV2",
+      "price": 36300,
+      "start_date": "2026-08-31",
+      "end_date": "2026-08-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskólinn á Akureyri verkefnastjórnun með Vottun.",
+      "line_item_name": "Birtingar 26/27/29 ágúst. AK-GLT-HB-KAPLA.EH.",
+      "price": 93000,
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-29",
       "seen_count": 2
     },
     {
@@ -1244,18 +1268,18 @@
     {
       "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
       "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
-      "price": 84000,
-      "start_date": "2026-08-19",
-      "end_date": "2026-08-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
-      "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
       "price": 432000,
       "start_date": "2026-08-19",
       "end_date": "2026-08-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
+      "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
+      "price": 84000,
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-28",
+      "seen_count": 1
     },
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
@@ -1476,18 +1500,18 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 520000,
-      "start_date": "2026-08-17",
-      "end_date": "2026-08-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 1260000,
       "start_date": "2026-08-17",
       "end_date": "2026-08-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 520000,
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-29",
+      "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
@@ -1596,9 +1620,9 @@
     {
       "campaign_name": "Sahara/ Auðkenni",
       "line_item_name": "Sahara/ Auðkenni",
-      "price": 197500,
-      "start_date": "2026-08-30",
-      "end_date": "2026-09-06",
+      "price": 204000,
+      "start_date": "2026-08-31",
+      "end_date": "2026-09-14",
       "seen_count": 2
     },
     {
@@ -1719,6 +1743,30 @@
       "price": 418500,
       "start_date": "2027-01-27",
       "end_date": "2027-02-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Skin þvottastöð Júlí 2027",
+      "line_item_name": "Skín Þvottastöð - Kaplakriki og Fjarðarkaup - Júlí-Ágúst",
+      "price": 418500,
+      "start_date": "2027-07-27",
+      "end_date": "2027-08-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Skin þvottastöð Júní 2027",
+      "line_item_name": "Skín Þvottastöð - Kaplakriki og Fjarðarkaup - Júní-Júlí",
+      "price": 405000,
+      "start_date": "2027-06-27",
+      "end_date": "2027-07-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Skin þvottastöð Maí 2027",
+      "line_item_name": "Skín Þvottastöð - Kaplakriki og Fjarðarkaup - Maí-Júní",
+      "price": 418500,
+      "start_date": "2027-05-27",
+      "end_date": "2027-06-26",
       "seen_count": 2
     },
     {
