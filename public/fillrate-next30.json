@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T13:30:42.709Z",
+  "generated_at": "2026-08-24T14:30:46.144Z",
   "result": [
     {
       "date": "2026-08-24",
@@ -188,14 +188,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.7016666666666667,
-          "rows_seen": 11
+          "fill_rate": 0.7280555555555556,
+          "rows_seen": 12
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.5807580812037036,
-          "rows_seen": 10
+          "fill_rate": 0.6071469700925926,
+          "rows_seen": 11
         },
         {
           "id": 237874,
@@ -446,14 +446,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.835,
-          "rows_seen": 13
+          "fill_rate": 0.9016666666666666,
+          "rows_seen": 14
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.6349999999999999,
-          "rows_seen": 10
+          "fill_rate": 0.7016666666666667,
+          "rows_seen": 11
         },
         {
           "id": 237874,
@@ -704,14 +704,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.6683333333333333,
-          "rows_seen": 10
+          "fill_rate": 0.735,
+          "rows_seen": 11
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.6683333333333333,
-          "rows_seen": 10
+          "fill_rate": 0.735,
+          "rows_seen": 11
         },
         {
           "id": 237874,
@@ -962,14 +962,14 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.6683333333333333,
-          "rows_seen": 10
+          "fill_rate": 0.71,
+          "rows_seen": 11
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.7474184367592592,
-          "rows_seen": 12
+          "fill_rate": 0.7890851034259259,
+          "rows_seen": 13
         },
         {
           "id": 237874,
@@ -1922,8 +1922,8 @@
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 527247,
