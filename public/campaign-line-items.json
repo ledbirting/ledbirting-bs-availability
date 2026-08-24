@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T21:18:05.739Z",
+  "generated_at": "2026-08-24T01:06:04.607Z",
   "scope": {
-    "report_start_date": "2026-08-23",
+    "report_start_date": "2026-08-24",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 664,
-    "unique_items": 241,
+    "items_seen": 645,
+    "unique_items": 230,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -195,14 +195,6 @@
     },
     {
       "campaign_name": "Aur / HN - ágúst 2026",
-      "line_item_name": "Aur / HN - Sun 23. ágúst - 7x1",
-      "price": 43500,
-      "start_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Aur / HN - ágúst 2026",
       "line_item_name": "Aur / HN - Þri 25. ágúst - 8x1",
       "price": 53000,
       "start_date": "2026-08-25",
@@ -271,7 +263,7 @@
       "price": 97500,
       "start_date": "2026-12-07",
       "end_date": "2026-12-21",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Bestun-vogue-nóv-Glerártorg",
@@ -355,14 +347,6 @@
     },
     {
       "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir KA. 23 ágúst",
-      "price": 6500,
-      "start_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
       "line_item_name": "Heimaleikir KA. 29 ágúst",
       "price": 6500,
       "start_date": "2026-08-29",
@@ -383,14 +367,6 @@
       "price": 6500,
       "start_date": "2026-09-06",
       "end_date": "2026-09-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir Þór Aug",
-      "price": 6500,
-      "start_date": "2026-08-23",
-      "end_date": "2026-08-23",
       "seen_count": 1
     },
     {
@@ -546,17 +522,9 @@
       "seen_count": 4
     },
     {
-      "campaign_name": "Datera - Smáralind - Ágúst",
-      "line_item_name": "Datera - Smáralind - 23 Ágúst",
-      "price": 42000,
-      "start_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 223200,
+      "price": 232200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 2
@@ -564,7 +532,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 232200,
+      "price": 223200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 2
@@ -843,14 +811,6 @@
     },
     {
       "campaign_name": "Happdrætti DAS / Datera - ágúst 2026",
-      "line_item_name": "DAS / Datera - 23. ágúst / 3x1",
-      "price": 19000,
-      "start_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Happdrætti DAS / Datera - ágúst 2026",
       "line_item_name": "DAS / Datera - 24. ágúst / 3x1",
       "price": 19500,
       "start_date": "2026-08-24",
@@ -896,14 +856,6 @@
       "start_date": "2026-08-01",
       "end_date": "2026-08-31",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - ágúst '26",
-      "line_item_name": "Hreyfing / 23. ágúst / BORG, GRA, GBR Litlatún / 3x1",
-      "price": 19500,
-      "start_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "seen_count": 2
     },
     {
       "campaign_name": "Hreyfing / HN - ágúst '26",
@@ -1051,14 +1003,6 @@
     },
     {
       "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 23. ágúst / 4x1",
-      "price": 28500,
-      "start_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 24. ágúst / 4x1",
       "price": 25500,
       "start_date": "2026-08-24",
@@ -1136,14 +1080,6 @@
       "start_date": "2026-08-10",
       "end_date": "2026-08-31",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Já til að sjá / Datera - ágúst 2026",
-      "line_item_name": "Datera - 17. til 23. ágúst - 1 hólf",
-      "price": 1118600,
-      "start_date": "2026-08-17",
-      "end_date": "2026-08-23",
-      "seen_count": 2
     },
     {
       "campaign_name": "Já til að sjá / Datera - ágúst 2026",
@@ -1239,14 +1175,6 @@
       "price": 69750,
       "start_date": "2026-08-23",
       "end_date": "2026-09-22",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Kringlan - Back to school",
-      "line_item_name": "21-23 ágúst",
-      "price": 90000,
-      "start_date": "2026-08-21",
-      "end_date": "2026-08-23",
       "seen_count": 1
     },
     {
@@ -1316,18 +1244,18 @@
     {
       "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
       "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
-      "price": 432000,
-      "start_date": "2026-08-19",
-      "end_date": "2026-08-30",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
-      "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
       "price": 84000,
       "start_date": "2026-08-19",
       "end_date": "2026-08-28",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
+      "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
+      "price": 432000,
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-30",
+      "seen_count": 2
     },
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
@@ -1351,7 +1279,7 @@
       "price": 2372500,
       "start_date": "2026-01-21",
       "end_date": "2027-01-20",
-      "seen_count": 6
+      "seen_count": 5
     },
     {
       "campaign_name": "Nathan Til hamingju.",
@@ -1376,14 +1304,6 @@
       "start_date": "2026-01-06",
       "end_date": "2026-12-31",
       "seen_count": 5
-    },
-    {
-      "campaign_name": "Ofar - 4-23 ágúst",
-      "line_item_name": "Ofar - 10-23 ágúst- Akureyri",
-      "price": 91000,
-      "start_date": "2026-08-10",
-      "end_date": "2026-08-23",
-      "seen_count": 1
     },
     {
       "campaign_name": "Optical - Hæðasmári",
@@ -1508,14 +1428,6 @@
     {
       "campaign_name": "pris ágúst",
       "line_item_name": "pris ágúst",
-      "price": 63800,
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "pris ágúst",
-      "line_item_name": "pris ágúst",
       "price": 85000,
       "start_date": "2026-08-08",
       "end_date": "2026-08-24",
@@ -1548,18 +1460,18 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 2261000,
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-29",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 442000,
       "start_date": "2026-08-13",
       "end_date": "2026-08-29",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 2261000,
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-29",
+      "seen_count": 2
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
@@ -1775,7 +1687,7 @@
       "price": 378000,
       "start_date": "2026-08-26",
       "end_date": "2026-09-22",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Svens - Hagasmári - Sept",
