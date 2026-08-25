@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T13:07:11.811Z",
+  "generated_at": "2026-08-25T14:15:25.673Z",
   "result": [
     {
       "date": "2026-08-25",
@@ -506,14 +506,14 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.9823188666666666,
+          "fill_rate": 0.9989855333333333,
           "rows_seen": 14
         },
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.7533333333333333,
-          "rows_seen": 10
+          "fill_rate": 0.8088888666666666,
+          "rows_seen": 11
         }
       ]
     },
@@ -770,8 +770,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.8683333333333333,
-          "rows_seen": 11
+          "fill_rate": 0.9238888666666666,
+          "rows_seen": 12
         }
       ]
     },
@@ -1022,14 +1022,14 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.9639855333333333,
+          "fill_rate": 0.9973188666666666,
           "rows_seen": 13
         },
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.9349999999999999,
-          "rows_seen": 12
+          "fill_rate": 0.9905555333333332,
+          "rows_seen": 13
         }
       ]
     },
@@ -1280,14 +1280,14 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.7639855333333333,
-          "rows_seen": 10
+          "fill_rate": 0.8750966444444443,
+          "rows_seen": 12
         },
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.735,
-          "rows_seen": 9
+          "fill_rate": 0.7794444444444444,
+          "rows_seen": 10
         }
       ]
     },
@@ -1538,8 +1538,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.30166666666666664,
-          "rows_seen": 4
+          "fill_rate": 0.3683333333333333,
+          "rows_seen": 5
         },
         {
           "id": 237863,
