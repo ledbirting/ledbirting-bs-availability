@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T09:31:45.721Z",
+  "generated_at": "2026-08-25T12:40:52.615Z",
   "scope": {
     "report_start_date": "2026-08-25",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 670,
-    "unique_items": 242,
+    "items_seen": 674,
+    "unique_items": 244,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -282,6 +282,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Bestun/Tilboð/Akureyri",
+      "line_item_name": "Bestun/Tilboð/Akureyri",
+      "price": 84500,
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-30",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Bestun/Tilboð/Akureyri",
+      "line_item_name": "Bestun/Tilboð/Akureyri",
+      "price": 110500,
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-30",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Bílasala Akureyri - Ágúst",
       "line_item_name": "Bílasala Akureyri - Ágúst",
       "price": 143000,
@@ -508,7 +524,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 223200,
+      "price": 232200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 2
@@ -516,7 +532,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 232200,
+      "price": 223200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 2
@@ -1468,14 +1484,6 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 442000,
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 2261000,
       "start_date": "2026-08-13",
       "end_date": "2026-08-29",
@@ -1484,8 +1492,8 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 520000,
-      "start_date": "2026-08-17",
+      "price": 442000,
+      "start_date": "2026-08-13",
       "end_date": "2026-08-29",
       "seen_count": 1
     },
@@ -1496,6 +1504,14 @@
       "start_date": "2026-08-17",
       "end_date": "2026-08-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 520000,
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-29",
+      "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
