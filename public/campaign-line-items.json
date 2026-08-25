@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T12:40:52.615Z",
+  "generated_at": "2026-08-25T15:38:43.409Z",
   "scope": {
     "report_start_date": "2026-08-25",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 674,
-    "unique_items": 244,
+    "items_seen": 684,
+    "unique_items": 248,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -524,7 +524,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 232200,
+      "price": 223200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 2
@@ -532,7 +532,7 @@
     {
       "campaign_name": "Dominos Góðgerðapizza  24-27 ágúst.",
       "line_item_name": "Dominos 24-27 ágúst.",
-      "price": 223200,
+      "price": 232200,
       "start_date": "2026-08-24",
       "end_date": "2026-08-27",
       "seen_count": 2
@@ -752,6 +752,30 @@
       "start_date": "2026-04-01",
       "end_date": "2026-08-31",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Gæludýr / Hvíta húsið - ágúst til sept 2026",
+      "line_item_name": "Gæludýr / 26. ágúst til 30. sept / Mán, Mið / BRE2, EGI1, KAP1",
+      "price": 203500,
+      "start_date": "2026-08-26",
+      "end_date": "2026-09-30",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Gæludýr / Hvíta húsið - ágúst til sept 2026",
+      "line_item_name": "Gæludýr / 26. ágúst til 30. sept / Þri, Fim / BRE1, GBR Litlatún, VES2",
+      "price": 185000,
+      "start_date": "2026-08-26",
+      "end_date": "2026-09-30",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Gæludýr / Hvíta húsið - ágúst til sept 2026",
+      "line_item_name": "Gæludýr / 30. ágúst til 30. sept / Fim, Fös / EGI1, KAP2, VES1",
+      "price": 164000,
+      "start_date": "2026-08-30",
+      "end_date": "2026-09-30",
+      "seen_count": 2
     },
     {
       "campaign_name": "Gildi/optima C-þéttur pakki",
@@ -1282,12 +1306,12 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
-      "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
-      "price": 432000,
-      "start_date": "2026-08-19",
-      "end_date": "2026-08-30",
-      "seen_count": 2
+      "campaign_name": "Mars Media Trefjar.",
+      "line_item_name": "Mars Media Trefjar.Tækifærispakki. BT-GRI-GB. 23 okt- 05 nóv",
+      "price": 117000,
+      "start_date": "2026-10-23",
+      "end_date": "2026-11-05",
+      "seen_count": 4
     },
     {
       "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
@@ -1296,6 +1320,14 @@
       "start_date": "2026-08-19",
       "end_date": "2026-08-28",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
+      "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
+      "price": 432000,
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-30",
+      "seen_count": 2
     },
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
@@ -1484,18 +1516,18 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 2261000,
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-29",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 442000,
       "start_date": "2026-08-13",
       "end_date": "2026-08-29",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 2261000,
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-29",
+      "seen_count": 2
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
