@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T09:37:11.998Z",
+  "generated_at": "2026-08-26T12:44:30.373Z",
   "scope": {
     "report_start_date": "2026-08-26",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 669,
-    "unique_items": 239,
+    "items_seen": 678,
+    "unique_items": 243,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -200,6 +200,14 @@
       "start_date": "2026-08-21",
       "end_date": "2026-09-07",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Bestun -icetranssport feb-des-2026",
+      "line_item_name": "Bestun -icetranssport feb-des-2026",
+      "price": 460000,
+      "start_date": "2026-08-26",
+      "end_date": "2026-12-31",
+      "seen_count": 5
     },
     {
       "campaign_name": "Bestun -icetranssport feb-des-2026",
@@ -836,7 +844,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -844,7 +852,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -1276,18 +1284,18 @@
     {
       "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
       "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
-      "price": 84000,
-      "start_date": "2026-08-19",
-      "end_date": "2026-08-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
-      "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
       "price": 432000,
       "start_date": "2026-08-19",
       "end_date": "2026-08-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
+      "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
+      "price": 84000,
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-28",
+      "seen_count": 1
     },
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
@@ -1442,6 +1450,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "PURE DELI - ágúst 2026",
+      "line_item_name": "PURE DELI fyrir Bæjarlind - 26.8 til 26.9 / Þri, Fim, Fös og Lau / Hagasmári",
+      "price": 110200,
+      "start_date": "2026-08-26",
+      "end_date": "2026-09-26",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Ratsjá -Gildi",
       "line_item_name": "Ratsjá -Gildi",
       "price": 666400,
@@ -1468,18 +1484,18 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 520000,
-      "start_date": "2026-08-17",
-      "end_date": "2026-08-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 1260000,
       "start_date": "2026-08-17",
       "end_date": "2026-08-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 520000,
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-29",
+      "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
@@ -1936,6 +1952,22 @@
       "start_date": "2026-04-15",
       "end_date": "2027-02-01",
       "seen_count": 6
+    },
+    {
+      "campaign_name": "Þjóðleikhúsið inneign.",
+      "line_item_name": "Þjóðleikhúsið inneign.",
+      "price": 132000,
+      "start_date": "2026-08-26",
+      "end_date": "2026-09-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Þjóðleikhúsið inneign.",
+      "line_item_name": "Þjóðleikhúsið inneign.",
+      "price": 240500,
+      "start_date": "2026-08-26",
+      "end_date": "2026-09-18",
+      "seen_count": 1
     }
   ]
 }
