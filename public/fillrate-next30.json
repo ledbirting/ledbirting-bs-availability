@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T14:30:04.827Z",
+  "generated_at": "2026-08-26T16:09:49.656Z",
   "result": [
     {
       "date": "2026-08-26",
@@ -8,14 +8,14 @@
         {
           "id": 237870,
           "du_name": "Akureyri #1",
-          "fill_rate": 0.8016666666666666,
-          "rows_seen": 11
+          "fill_rate": 0.735,
+          "rows_seen": 10
         },
         {
           "id": 338148,
           "du_name": "Akureyri #2",
-          "fill_rate": 0.6016666666666667,
-          "rows_seen": 8
+          "fill_rate": 0.5349999999999999,
+          "rows_seen": 7
         },
         {
           "id": 404813,
@@ -26,32 +26,32 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.9156521999999999,
-          "rows_seen": 12
+          "fill_rate": 0.8489855333333333,
+          "rows_seen": 11
         },
         {
           "id": 237865,
           "du_name": "Breiðholt #1",
-          "fill_rate": 0.7639855333333333,
-          "rows_seen": 9
+          "fill_rate": 0.6973188666666666,
+          "rows_seen": 8
         },
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.8333333333333333,
-          "rows_seen": 10
+          "fill_rate": 0.7666666666666666,
+          "rows_seen": 9
         },
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.8623188666666666,
-          "rows_seen": 12
+          "fill_rate": 0.7956521999999999,
+          "rows_seen": 11
         },
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.7,
-          "rows_seen": 8
+          "fill_rate": 0.6333333333333333,
+          "rows_seen": 7
         },
         {
           "id": 441742,
@@ -62,8 +62,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.4333333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.36666666666666664,
+          "rows_seen": 4
         },
         {
           "id": 321889,
@@ -86,14 +86,14 @@
         {
           "id": 569051,
           "du_name": "Glerártorg #2",
-          "fill_rate": 0.7289855333333333,
-          "rows_seen": 13
+          "fill_rate": 0.6623188666666666,
+          "rows_seen": 12
         },
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.8683333333333333,
-          "rows_seen": 11
+          "fill_rate": 0.8016666666666666,
+          "rows_seen": 10
         },
         {
           "id": 237892,
@@ -134,8 +134,8 @@
         {
           "id": 438452,
           "du_name": "Hagasmári",
-          "fill_rate": 0.5666666666666667,
-          "rows_seen": 8
+          "fill_rate": 0.49999999999999994,
+          "rows_seen": 7
         },
         {
           "id": 235466,
@@ -146,32 +146,32 @@
         {
           "id": 235465,
           "du_name": "Höfðabakki #2",
-          "fill_rate": 0.8623188666666666,
-          "rows_seen": 10
+          "fill_rate": 0.7956521999999999,
+          "rows_seen": 9
         },
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.9156521999999999,
-          "rows_seen": 13
+          "fill_rate": 0.8489855333333333,
+          "rows_seen": 12
         },
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.9183333333333332,
-          "rows_seen": 8
+          "fill_rate": 0.8516666666666666,
+          "rows_seen": 7
         },
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.8866666741666666,
-          "rows_seen": 10
+          "fill_rate": 0.8200000074999999,
+          "rows_seen": 9
         },
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.7849999999999999,
-          "rows_seen": 11
+          "fill_rate": 0.7183333333333333,
+          "rows_seen": 10
         },
         {
           "id": 480851,
@@ -194,14 +194,14 @@
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.8016666666666666,
-          "rows_seen": 12
+          "fill_rate": 0.735,
+          "rows_seen": 11
         },
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.6333333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.5666666666666667,
+          "rows_seen": 4
         },
         {
           "id": 405768,
@@ -212,26 +212,26 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.8016666666666666,
-          "rows_seen": 12
-        },
-        {
-          "id": 237869,
-          "du_name": "Selfoss #2",
           "fill_rate": 0.735,
           "rows_seen": 11
         },
         {
+          "id": 237869,
+          "du_name": "Selfoss #2",
+          "fill_rate": 0.6683333333333333,
+          "rows_seen": 10
+        },
+        {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.5956522,
-          "rows_seen": 8
+          "fill_rate": 0.5289855333333333,
+          "rows_seen": 7
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.36666666666666664,
-          "rows_seen": 4
+          "fill_rate": 0.3,
+          "rows_seen": 3
         },
         {
           "id": 445024,
@@ -242,20 +242,20 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.6333333333333333,
-          "rows_seen": 8
+          "fill_rate": 0.5666666666666667,
+          "rows_seen": 7
         },
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.9989855251851851,
-          "rows_seen": 14
+          "fill_rate": 0.9323188585185185,
+          "rows_seen": 13
         },
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.8088888666666666,
-          "rows_seen": 11
+          "fill_rate": 0.7422221999999999,
+          "rows_seen": 10
         }
       ]
     },
@@ -266,14 +266,14 @@
         {
           "id": 237870,
           "du_name": "Akureyri #1",
-          "fill_rate": 0.8683333333333333,
-          "rows_seen": 12
+          "fill_rate": 0.8016666666666666,
+          "rows_seen": 11
         },
         {
           "id": 338148,
           "du_name": "Akureyri #2",
-          "fill_rate": 0.735,
-          "rows_seen": 10
+          "fill_rate": 0.6683333333333333,
+          "rows_seen": 9
         },
         {
           "id": 404813,
@@ -284,32 +284,32 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.9366545014814813,
-          "rows_seen": 14
+          "fill_rate": 0.8699878348148147,
+          "rows_seen": 13
         },
         {
           "id": 237865,
           "du_name": "Breiðholt #1",
-          "fill_rate": 0.9917633332870369,
-          "rows_seen": 13
+          "fill_rate": 0.9250966666203703,
+          "rows_seen": 12
         },
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.5782245014814814,
-          "rows_seen": 8
+          "fill_rate": 0.5115578348148148,
+          "rows_seen": 7
         },
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.8623188666666666,
-          "rows_seen": 12
+          "fill_rate": 0.7956521999999999,
+          "rows_seen": 11
         },
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.7277777999999999,
-          "rows_seen": 9
+          "fill_rate": 0.6611111333333333,
+          "rows_seen": 8
         },
         {
           "id": 441742,
@@ -320,8 +320,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.49999999999999994,
-          "rows_seen": 6
+          "fill_rate": 0.4333333333333333,
+          "rows_seen": 5
         },
         {
           "id": 321889,
@@ -344,8 +344,8 @@
         {
           "id": 569051,
           "du_name": "Glerártorg #2",
-          "fill_rate": 0.9956521999999999,
-          "rows_seen": 16
+          "fill_rate": 0.9289855333333332,
+          "rows_seen": 15
         },
         {
           "id": 237871,
@@ -392,26 +392,26 @@
         {
           "id": 438452,
           "du_name": "Hagasmári",
-          "fill_rate": 0.6333333333333333,
-          "rows_seen": 9
+          "fill_rate": 0.5666666666666667,
+          "rows_seen": 8
         },
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.8683333333333333,
-          "rows_seen": 10
+          "fill_rate": 0.8016666666666666,
+          "rows_seen": 9
         },
         {
           "id": 235465,
           "du_name": "Höfðabakki #2",
-          "fill_rate": 0.9567633333333332,
-          "rows_seen": 12
+          "fill_rate": 0.8900966666666665,
+          "rows_seen": 11
         },
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.8306522,
-          "rows_seen": 13
+          "fill_rate": 0.7639855333333333,
+          "rows_seen": 12
         },
         {
           "id": 237864,
@@ -422,14 +422,14 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.6683333333333333,
-          "rows_seen": 7
+          "fill_rate": 0.6016666666666667,
+          "rows_seen": 6
         },
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.9115578348148147,
-          "rows_seen": 13
+          "fill_rate": 0.844891168148148,
+          "rows_seen": 12
         },
         {
           "id": 480851,
@@ -452,14 +452,14 @@
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.9215578348148147,
-          "rows_seen": 15
+          "fill_rate": 0.854891168148148,
+          "rows_seen": 14
         },
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.7,
-          "rows_seen": 6
+          "fill_rate": 0.6333333333333333,
+          "rows_seen": 5
         },
         {
           "id": 405768,
@@ -476,20 +476,20 @@
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.7016666666666667,
-          "rows_seen": 10
+          "fill_rate": 0.635,
+          "rows_seen": 9
         },
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.6623188666666666,
-          "rows_seen": 9
+          "fill_rate": 0.5956522,
+          "rows_seen": 8
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.4333333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.36666666666666664,
+          "rows_seen": 4
         },
         {
           "id": 445024,
@@ -500,8 +500,8 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.7666666666666666,
-          "rows_seen": 10
+          "fill_rate": 0.7,
+          "rows_seen": 9
         },
         {
           "id": 235462,
@@ -512,8 +512,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.9905555333333332,
-          "rows_seen": 13
+          "fill_rate": 0.9238888666666666,
+          "rows_seen": 12
         }
       ]
     },
@@ -524,14 +524,14 @@
         {
           "id": 237870,
           "du_name": "Akureyri #1",
-          "fill_rate": 0.8683333333333333,
-          "rows_seen": 12
+          "fill_rate": 0.8016666666666666,
+          "rows_seen": 11
         },
         {
           "id": 338148,
           "du_name": "Akureyri #2",
-          "fill_rate": 0.5349999999999999,
-          "rows_seen": 7
+          "fill_rate": 0.46833333333333327,
+          "rows_seen": 6
         },
         {
           "id": 404813,
@@ -542,32 +542,32 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.8973188666666666,
-          "rows_seen": 12
+          "fill_rate": 0.8306522,
+          "rows_seen": 11
         },
         {
           "id": 237865,
           "du_name": "Breiðholt #1",
-          "fill_rate": 0.6973188666666666,
-          "rows_seen": 8
+          "fill_rate": 0.6306522,
+          "rows_seen": 7
         },
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.7,
-          "rows_seen": 8
+          "fill_rate": 0.6333333333333333,
+          "rows_seen": 7
         },
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.9289855333333332,
-          "rows_seen": 13
+          "fill_rate": 0.8623188666666666,
+          "rows_seen": 12
         },
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.5,
-          "rows_seen": 5
+          "fill_rate": 0.43333333333333335,
+          "rows_seen": 4
         },
         {
           "id": 441742,
@@ -578,8 +578,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.49999999999999994,
-          "rows_seen": 6
+          "fill_rate": 0.4333333333333333,
+          "rows_seen": 5
         },
         {
           "id": 321889,
@@ -602,8 +602,8 @@
         {
           "id": 569051,
           "du_name": "Glerártorg #2",
-          "fill_rate": 0.9623188666666666,
-          "rows_seen": 17
+          "fill_rate": 0.8956521999999999,
+          "rows_seen": 16
         },
         {
           "id": 237871,
@@ -620,8 +620,8 @@
         {
           "id": 331110,
           "du_name": "Hæðasmári Standur - Portrait",
-          "fill_rate": 0.16666666666666666,
-          "rows_seen": 3
+          "fill_rate": 0.1,
+          "rows_seen": 2
         },
         {
           "id": 527246,
@@ -650,26 +650,26 @@
         {
           "id": 438452,
           "du_name": "Hagasmári",
-          "fill_rate": 0.6333333333333333,
-          "rows_seen": 9
+          "fill_rate": 0.5666666666666667,
+          "rows_seen": 8
         },
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.8683333333333333,
-          "rows_seen": 10
+          "fill_rate": 0.8016666666666666,
+          "rows_seen": 9
         },
         {
           "id": 235465,
           "du_name": "Höfðabakki #2",
-          "fill_rate": 0.8623188666666666,
-          "rows_seen": 10
+          "fill_rate": 0.7956521999999999,
+          "rows_seen": 9
         },
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.8306522,
-          "rows_seen": 12
+          "fill_rate": 0.7639855333333333,
+          "rows_seen": 11
         },
         {
           "id": 237864,
@@ -680,14 +680,14 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.9349999999999999,
-          "rows_seen": 11
+          "fill_rate": 0.8683333333333333,
+          "rows_seen": 10
         },
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.8333333333333333,
-          "rows_seen": 12
+          "fill_rate": 0.7666666666666666,
+          "rows_seen": 11
         },
         {
           "id": 480851,
@@ -710,14 +710,14 @@
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.835,
-          "rows_seen": 13
+          "fill_rate": 0.7683333333333333,
+          "rows_seen": 12
         },
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.7666666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.7,
+          "rows_seen": 6
         },
         {
           "id": 405768,
@@ -728,26 +728,26 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.9683333333333333,
-          "rows_seen": 14
+          "fill_rate": 0.9016666666666666,
+          "rows_seen": 13
         },
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.635,
-          "rows_seen": 9
+          "fill_rate": 0.5683333333333332,
+          "rows_seen": 8
         },
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.7956521999999999,
-          "rows_seen": 11
+          "fill_rate": 0.7289855333333333,
+          "rows_seen": 10
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.36666666666666664,
-          "rows_seen": 4
+          "fill_rate": 0.3,
+          "rows_seen": 3
         },
         {
           "id": 445024,
@@ -758,8 +758,8 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.6333333333333333,
-          "rows_seen": 8
+          "fill_rate": 0.5666666666666667,
+          "rows_seen": 7
         },
         {
           "id": 235462,
@@ -782,14 +782,14 @@
         {
           "id": 237870,
           "du_name": "Akureyri #1",
-          "fill_rate": 0.7016666666666667,
-          "rows_seen": 10
+          "fill_rate": 0.635,
+          "rows_seen": 9
         },
         {
           "id": 338148,
           "du_name": "Akureyri #2",
-          "fill_rate": 0.5349999999999999,
-          "rows_seen": 7
+          "fill_rate": 0.46833333333333327,
+          "rows_seen": 6
         },
         {
           "id": 404813,
@@ -800,32 +800,32 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.7250966666666666,
-          "rows_seen": 10
+          "fill_rate": 0.65843,
+          "rows_seen": 9
         },
         {
           "id": 237865,
           "du_name": "Breiðholt #1",
-          "fill_rate": 0.7917633333333333,
-          "rows_seen": 10
+          "fill_rate": 0.7250966666666666,
+          "rows_seen": 9
         },
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.4333333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.36666666666666664,
+          "rows_seen": 4
         },
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.8623188666666666,
-          "rows_seen": 12
+          "fill_rate": 0.7956521999999999,
+          "rows_seen": 11
         },
         {
           "id": 237866,
           "du_name": "Egilshöll #2",
-          "fill_rate": 0.46111113333333337,
-          "rows_seen": 5
+          "fill_rate": 0.3944444666666667,
+          "rows_seen": 4
         },
         {
           "id": 441742,
@@ -836,8 +836,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.4333333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.36666666666666664,
+          "rows_seen": 4
         },
         {
           "id": 321889,
@@ -854,8 +854,8 @@
         {
           "id": 569050,
           "du_name": "Glerártorg #1",
-          "fill_rate": 0.9349999999999999,
-          "rows_seen": 16
+          "fill_rate": 0.8683333333333333,
+          "rows_seen": 15
         },
         {
           "id": 569051,
@@ -866,8 +866,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.8016666666666666,
-          "rows_seen": 10
+          "fill_rate": 0.735,
+          "rows_seen": 9
         },
         {
           "id": 237892,
@@ -908,26 +908,26 @@
         {
           "id": 438452,
           "du_name": "Hagasmári",
-          "fill_rate": 0.36666666666666664,
-          "rows_seen": 5
+          "fill_rate": 0.3,
+          "rows_seen": 4
         },
         {
           "id": 235466,
           "du_name": "Höfðabakki #1",
-          "fill_rate": 0.8016666666666666,
-          "rows_seen": 9
+          "fill_rate": 0.735,
+          "rows_seen": 8
         },
         {
           "id": 235465,
           "du_name": "Höfðabakki #2",
-          "fill_rate": 0.6900966666666666,
-          "rows_seen": 8
+          "fill_rate": 0.6234299999999999,
+          "rows_seen": 7
         },
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.4973188666666666,
-          "rows_seen": 8
+          "fill_rate": 0.43065219999999993,
+          "rows_seen": 7
         },
         {
           "id": 237864,
@@ -938,14 +938,14 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.6683333333333333,
-          "rows_seen": 7
+          "fill_rate": 0.6016666666666667,
+          "rows_seen": 6
         },
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.49999999999999994,
-          "rows_seen": 7
+          "fill_rate": 0.4333333333333333,
+          "rows_seen": 6
         },
         {
           "id": 480851,
@@ -962,20 +962,20 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.6683333333333333,
-          "rows_seen": 10
+          "fill_rate": 0.735,
+          "rows_seen": 11
         },
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.6683333333333333,
-          "rows_seen": 10
+          "fill_rate": 0.6016666666666666,
+          "rows_seen": 9
         },
         {
           "id": 237874,
           "du_name": "Sæbraut - Holtagarðar",
-          "fill_rate": 0.6333333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.5666666666666667,
+          "rows_seen": 4
         },
         {
           "id": 405768,
@@ -992,20 +992,20 @@
         {
           "id": 237869,
           "du_name": "Selfoss #2",
-          "fill_rate": 0.6016666666666667,
-          "rows_seen": 8
+          "fill_rate": 0.5349999999999999,
+          "rows_seen": 7
         },
         {
           "id": 445022,
           "du_name": "Smáratorg #1",
-          "fill_rate": 0.6623188666666666,
-          "rows_seen": 9
+          "fill_rate": 0.5956522,
+          "rows_seen": 8
         },
         {
           "id": 445023,
           "du_name": "Smáratorg #2",
-          "fill_rate": 0.36666666666666664,
-          "rows_seen": 4
+          "fill_rate": 0.3,
+          "rows_seen": 3
         },
         {
           "id": 445024,
@@ -1016,20 +1016,20 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.8333333333333333,
-          "rows_seen": 11
+          "fill_rate": 0.7666666666666666,
+          "rows_seen": 10
         },
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.8750966444444443,
-          "rows_seen": 12
+          "fill_rate": 0.8084299777777777,
+          "rows_seen": 11
         },
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.7794444444444444,
-          "rows_seen": 10
+          "fill_rate": 0.7127777777777777,
+          "rows_seen": 9
         }
       ]
     },
@@ -1142,26 +1142,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.16666666666666666,
-          "rows_seen": 2
+          "fill_rate": 0.25,
+          "rows_seen": 3
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 438452,
@@ -1220,8 +1220,8 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.4016666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.46833333333333327,
+          "rows_seen": 8
         },
         {
           "id": 237872,
@@ -1400,26 +1400,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.5104166666666666,
-          "rows_seen": 6
+          "fill_rate": 0.59375,
+          "rows_seen": 7
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.2916666666666667,
-          "rows_seen": 4
+          "fill_rate": 0.375,
+          "rows_seen": 5
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 438452,
@@ -1658,26 +1658,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.25,
-          "rows_seen": 3
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 4
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 438452,
@@ -1916,26 +1916,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.25,
-          "rows_seen": 3
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 4
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 438452,
@@ -2156,8 +2156,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.7808475333333333,
-          "rows_seen": 12
+          "fill_rate": 0.8475142,
+          "rows_seen": 13
         },
         {
           "id": 237892,
@@ -2174,26 +2174,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.25,
-          "rows_seen": 3
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 4
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 438452,
@@ -2234,8 +2234,8 @@
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.5458388429166666,
-          "rows_seen": 9
+          "fill_rate": 0.6125055095833333,
+          "rows_seen": 10
         },
         {
           "id": 480851,
@@ -2312,8 +2312,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.6683333333333333,
-          "rows_seen": 11
+          "fill_rate": 0.735,
+          "rows_seen": 12
         },
         {
           "id": 237863,
@@ -2414,8 +2414,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.7683333333333333,
-          "rows_seen": 11
+          "fill_rate": 0.835,
+          "rows_seen": 12
         },
         {
           "id": 237892,
@@ -2432,26 +2432,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.5104166666666666,
-          "rows_seen": 6
+          "fill_rate": 0.59375,
+          "rows_seen": 7
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.3333333333333333,
-          "rows_seen": 4
+          "fill_rate": 0.41666666666666663,
+          "rows_seen": 5
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 438452,
@@ -2492,8 +2492,8 @@
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.4666666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.5333333333333333,
+          "rows_seen": 8
         },
         {
           "id": 480851,
@@ -2570,8 +2570,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.5349999999999999,
-          "rows_seen": 9
+          "fill_rate": 0.6016666666666667,
+          "rows_seen": 10
         },
         {
           "id": 237863,
@@ -2672,8 +2672,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.43499999999999994,
-          "rows_seen": 6
+          "fill_rate": 0.5016666666666666,
+          "rows_seen": 7
         },
         {
           "id": 237892,
@@ -2690,26 +2690,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.3333333333333333,
-          "rows_seen": 4
+          "fill_rate": 0.41666666666666663,
+          "rows_seen": 5
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 438452,
@@ -2750,8 +2750,8 @@
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.2,
+          "rows_seen": 3
         },
         {
           "id": 480851,
@@ -2828,8 +2828,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.4016666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.46833333333333327,
+          "rows_seen": 8
         },
         {
           "id": 237863,
@@ -2930,8 +2930,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.30166666666666664,
-          "rows_seen": 5
+          "fill_rate": 0.3683333333333333,
+          "rows_seen": 6
         },
         {
           "id": 237892,
@@ -2948,26 +2948,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.3333333333333333,
-          "rows_seen": 4
+          "fill_rate": 0.41666666666666663,
+          "rows_seen": 5
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 438452,
@@ -3008,8 +3008,8 @@
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 4
         },
         {
           "id": 480851,
@@ -3086,8 +3086,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.30166666666666664,
-          "rows_seen": 5
+          "fill_rate": 0.3683333333333333,
+          "rows_seen": 6
         },
         {
           "id": 237863,
@@ -3188,8 +3188,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.4465658666666666,
-          "rows_seen": 8
+          "fill_rate": 0.5132325333333333,
+          "rows_seen": 9
         },
         {
           "id": 237892,
@@ -3206,26 +3206,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.5104166666666666,
-          "rows_seen": 6
+          "fill_rate": 0.59375,
+          "rows_seen": 7
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.3333333333333333,
-          "rows_seen": 4
+          "fill_rate": 0.41666666666666663,
+          "rows_seen": 5
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 438452,
@@ -3266,8 +3266,8 @@
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.34489116814814813,
-          "rows_seen": 6
+          "fill_rate": 0.4115578348148148,
+          "rows_seen": 7
         },
         {
           "id": 480851,
@@ -3344,8 +3344,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.33499999999999996,
-          "rows_seen": 6
+          "fill_rate": 0.4016666666666666,
+          "rows_seen": 7
         },
         {
           "id": 237863,
@@ -3446,8 +3446,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.30166666666666664,
-          "rows_seen": 5
+          "fill_rate": 0.3683333333333333,
+          "rows_seen": 6
         },
         {
           "id": 237892,
@@ -3464,26 +3464,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.3333333333333333,
-          "rows_seen": 4
+          "fill_rate": 0.41666666666666663,
+          "rows_seen": 5
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 438452,
@@ -3524,8 +3524,8 @@
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 4
         },
         {
           "id": 480851,
@@ -3602,8 +3602,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.4016666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.46833333333333327,
+          "rows_seen": 8
         },
         {
           "id": 237863,
@@ -3692,8 +3692,8 @@
         {
           "id": 569050,
           "du_name": "Glerártorg #1",
-          "fill_rate": 0.4016666666666666,
-          "rows_seen": 8
+          "fill_rate": 0.46833333333333327,
+          "rows_seen": 9
         },
         {
           "id": 569051,
@@ -3704,8 +3704,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.5016666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.5683333333333334,
+          "rows_seen": 8
         },
         {
           "id": 237892,
@@ -3722,26 +3722,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.3333333333333333,
-          "rows_seen": 4
+          "fill_rate": 0.41666666666666663,
+          "rows_seen": 5
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 438452,
@@ -3782,8 +3782,8 @@
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 4
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 5
         },
         {
           "id": 480851,
@@ -3824,8 +3824,8 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.43499999999999994,
-          "rows_seen": 7
+          "fill_rate": 0.5016666666666666,
+          "rows_seen": 8
         },
         {
           "id": 237869,
@@ -3854,14 +3854,14 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 4
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 5
         },
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.33499999999999996,
-          "rows_seen": 6
+          "fill_rate": 0.4016666666666666,
+          "rows_seen": 7
         },
         {
           "id": 237863,
@@ -3950,8 +3950,8 @@
         {
           "id": 569050,
           "du_name": "Glerártorg #1",
-          "fill_rate": 0.6016666666666666,
-          "rows_seen": 11
+          "fill_rate": 0.6683333333333333,
+          "rows_seen": 12
         },
         {
           "id": 569051,
@@ -3980,26 +3980,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.5104166666666666,
-          "rows_seen": 5
+          "fill_rate": 0.59375,
+          "rows_seen": 6
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.5104166666666666,
-          "rows_seen": 5
+          "fill_rate": 0.59375,
+          "rows_seen": 6
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.41666666666666663,
-          "rows_seen": 4
+          "fill_rate": 0.49999999999999994,
+          "rows_seen": 5
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.5104166666666666,
-          "rows_seen": 5
+          "fill_rate": 0.59375,
+          "rows_seen": 6
         },
         {
           "id": 438452,
@@ -4082,8 +4082,8 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.635,
-          "rows_seen": 11
+          "fill_rate": 0.7016666666666667,
+          "rows_seen": 12
         },
         {
           "id": 237869,
@@ -4112,8 +4112,8 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 4
         },
         {
           "id": 235462,
@@ -4208,8 +4208,8 @@
         {
           "id": 569050,
           "du_name": "Glerártorg #1",
-          "fill_rate": 0.46833333333333327,
-          "rows_seen": 9
+          "fill_rate": 0.5349999999999999,
+          "rows_seen": 10
         },
         {
           "id": 569051,
@@ -4238,26 +4238,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.5104166666666666,
+          "rows_seen": 6
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.25,
-          "rows_seen": 3
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 4
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 438452,
@@ -4340,8 +4340,8 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.5016666666666666,
-          "rows_seen": 9
+          "fill_rate": 0.5683333333333332,
+          "rows_seen": 10
         },
         {
           "id": 237869,
@@ -4370,8 +4370,8 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 4
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 5
         },
         {
           "id": 235462,
@@ -4466,8 +4466,8 @@
         {
           "id": 569050,
           "du_name": "Glerártorg #1",
-          "fill_rate": 0.46833333333333327,
-          "rows_seen": 9
+          "fill_rate": 0.5349999999999999,
+          "rows_seen": 10
         },
         {
           "id": 569051,
@@ -4496,26 +4496,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.25,
-          "rows_seen": 3
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 4
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 438452,
@@ -4598,8 +4598,8 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.46833333333333327,
-          "rows_seen": 8
+          "fill_rate": 0.5349999999999999,
+          "rows_seen": 9
         },
         {
           "id": 237869,
@@ -4628,8 +4628,8 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 4
         },
         {
           "id": 235462,
@@ -4724,8 +4724,8 @@
         {
           "id": 569050,
           "du_name": "Glerártorg #1",
-          "fill_rate": 0.36833333333333335,
-          "rows_seen": 8
+          "fill_rate": 0.43499999999999994,
+          "rows_seen": 9
         },
         {
           "id": 569051,
@@ -4754,26 +4754,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.25,
-          "rows_seen": 3
+          "fill_rate": 0.3333333333333333,
+          "rows_seen": 4
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 438452,
@@ -4856,8 +4856,8 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.43499999999999994,
-          "rows_seen": 7
+          "fill_rate": 0.5016666666666666,
+          "rows_seen": 8
         },
         {
           "id": 237869,
@@ -4886,8 +4886,8 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 4
         },
         {
           "id": 235462,
@@ -4982,8 +4982,8 @@
         {
           "id": 569050,
           "du_name": "Glerártorg #1",
-          "fill_rate": 0.36833333333333335,
-          "rows_seen": 8
+          "fill_rate": 0.43499999999999994,
+          "rows_seen": 9
         },
         {
           "id": 569051,
@@ -5012,26 +5012,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.16666666666666666,
-          "rows_seen": 2
+          "fill_rate": 0.25,
+          "rows_seen": 3
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 438452,
@@ -5114,8 +5114,8 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.33499999999999996,
-          "rows_seen": 6
+          "fill_rate": 0.4016666666666666,
+          "rows_seen": 7
         },
         {
           "id": 237869,
@@ -5144,8 +5144,8 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 4
         },
         {
           "id": 235462,
@@ -5240,8 +5240,8 @@
         {
           "id": 569050,
           "du_name": "Glerártorg #1",
-          "fill_rate": 0.335,
-          "rows_seen": 7
+          "fill_rate": 0.4016666666666666,
+          "rows_seen": 8
         },
         {
           "id": 569051,
@@ -5270,26 +5270,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.16666666666666666,
-          "rows_seen": 2
+          "fill_rate": 0.25,
+          "rows_seen": 3
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 438452,
@@ -5372,8 +5372,8 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.33499999999999996,
-          "rows_seen": 6
+          "fill_rate": 0.4016666666666666,
+          "rows_seen": 7
         },
         {
           "id": 237869,
@@ -5402,8 +5402,8 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.2,
+          "rows_seen": 3
         },
         {
           "id": 235462,
@@ -5498,8 +5498,8 @@
         {
           "id": 569050,
           "du_name": "Glerártorg #1",
-          "fill_rate": 0.335,
-          "rows_seen": 7
+          "fill_rate": 0.4016666666666666,
+          "rows_seen": 8
         },
         {
           "id": 569051,
@@ -5528,26 +5528,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.16666666666666666,
-          "rows_seen": 2
+          "fill_rate": 0.25,
+          "rows_seen": 3
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 438452,
@@ -5630,8 +5630,8 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.3683333333333333,
-          "rows_seen": 6
+          "fill_rate": 0.43499999999999994,
+          "rows_seen": 7
         },
         {
           "id": 237869,
@@ -5660,8 +5660,8 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 4
         },
         {
           "id": 235462,
@@ -5756,8 +5756,8 @@
         {
           "id": 569050,
           "du_name": "Glerártorg #1",
-          "fill_rate": 0.46833333333333327,
-          "rows_seen": 9
+          "fill_rate": 0.5349999999999999,
+          "rows_seen": 10
         },
         {
           "id": 569051,
@@ -5786,26 +5786,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.16666666666666666,
-          "rows_seen": 2
+          "fill_rate": 0.25,
+          "rows_seen": 3
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 438452,
@@ -5888,8 +5888,8 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.5016666666666666,
-          "rows_seen": 9
+          "fill_rate": 0.5683333333333332,
+          "rows_seen": 10
         },
         {
           "id": 237869,
@@ -5918,8 +5918,8 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.2,
+          "rows_seen": 3
         },
         {
           "id": 235462,
@@ -6014,8 +6014,8 @@
         {
           "id": 569050,
           "du_name": "Glerártorg #1",
-          "fill_rate": 0.4016666666666666,
-          "rows_seen": 8
+          "fill_rate": 0.46833333333333327,
+          "rows_seen": 9
         },
         {
           "id": 569051,
@@ -6044,26 +6044,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.16666666666666666,
-          "rows_seen": 2
+          "fill_rate": 0.25,
+          "rows_seen": 3
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 438452,
@@ -6146,8 +6146,8 @@
         {
           "id": 237868,
           "du_name": "Selfoss #1",
-          "fill_rate": 0.43499999999999994,
-          "rows_seen": 8
+          "fill_rate": 0.5016666666666666,
+          "rows_seen": 9
         },
         {
           "id": 237869,
@@ -6176,8 +6176,8 @@
         {
           "id": 490445,
           "du_name": "Vestmannaeyjar",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.26666666666666666,
+          "rows_seen": 4
         },
         {
           "id": 235462,
@@ -6302,26 +6302,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.16666666666666666,
-          "rows_seen": 2
+          "fill_rate": 0.25,
+          "rows_seen": 3
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 438452,
@@ -6560,26 +6560,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.16666666666666666,
-          "rows_seen": 2
+          "fill_rate": 0.25,
+          "rows_seen": 3
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 438452,
@@ -6818,26 +6818,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.34374999999999994,
-          "rows_seen": 4
+          "fill_rate": 0.42708333333333326,
+          "rows_seen": 5
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.16666666666666666,
-          "rows_seen": 2
+          "fill_rate": 0.25,
+          "rows_seen": 3
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 438452,
@@ -7076,26 +7076,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.16666666666666666,
-          "rows_seen": 2
+          "fill_rate": 0.25,
+          "rows_seen": 3
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 438452,
@@ -7334,26 +7334,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.16666666666666666,
-          "rows_seen": 2
+          "fill_rate": 0.25,
+          "rows_seen": 3
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 438452,
@@ -7592,26 +7592,26 @@
         {
           "id": 527246,
           "du_name": "Hafnartorg #1 Inngangur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 527247,
           "du_name": "Hafnartorg #3 Greiðsluvél",
-          "fill_rate": 0.16666666666666666,
-          "rows_seen": 2
+          "fill_rate": 0.25,
+          "rows_seen": 3
         },
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.26041666666666663,
-          "rows_seen": 3
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 438452,
