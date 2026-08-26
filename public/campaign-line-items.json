@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T21:24:32.378Z",
+  "generated_at": "2026-08-26T01:07:17.269Z",
   "scope": {
-    "report_start_date": "2026-08-25",
+    "report_start_date": "2026-08-26",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 684,
-    "unique_items": 248,
+    "items_seen": 669,
+    "unique_items": 239,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -39,7 +39,7 @@
       "price": 2379000,
       "start_date": "2026-01-22",
       "end_date": "2027-01-22",
-      "seen_count": 6
+      "seen_count": 5
     },
     {
       "campaign_name": "Ab Varahlutir - Frumherja Selfossi",
@@ -183,14 +183,6 @@
       "price": 41300,
       "start_date": "2026-08-26",
       "end_date": "2026-08-26",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Aur / HN - ágúst 2026",
-      "line_item_name": "Aur / HN - Þri 25. ágúst - 8x1",
-      "price": 53000,
-      "start_date": "2026-08-25",
-      "end_date": "2026-08-25",
       "seen_count": 2
     },
     {
@@ -575,7 +567,7 @@
       "price": 26000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Dýraríkið - Selfossi",
@@ -844,7 +836,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -852,7 +844,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -888,22 +880,6 @@
       "start_date": "2026-08-01",
       "end_date": "2026-08-31",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Híbýli ágúst",
-      "line_item_name": "Híbýli ágúst",
-      "price": 30000,
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - ágúst '26",
-      "line_item_name": "Hreyfing / 25. ágúst / BORG, GRA, GBR Litlatún / 3x1",
-      "price": 19500,
-      "start_date": "2026-08-25",
-      "end_date": "2026-08-25",
-      "seen_count": 2
     },
     {
       "campaign_name": "Hreyfing / HN - ágúst '26",
@@ -1035,14 +1011,6 @@
     },
     {
       "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 25. ágúst / 4x1",
-      "price": 23500,
-      "start_date": "2026-08-25",
-      "end_date": "2026-08-25",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 26. ágúst / 4x1",
       "price": 23500,
       "start_date": "2026-08-26",
@@ -1104,14 +1072,6 @@
       "start_date": "2026-08-10",
       "end_date": "2026-08-31",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Já til að sjá - viðbót / Datera - ágúst 2026",
-      "line_item_name": "Datera - 25. ágúst - 1 aukahólf á 28 flötum",
-      "price": 155300,
-      "start_date": "2026-08-25",
-      "end_date": "2026-08-25",
-      "seen_count": 2
     },
     {
       "campaign_name": "Já til að sjá - viðbót / Datera - ágúst 2026",
@@ -1466,14 +1426,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Penninn. ágúst.",
-      "line_item_name": "Penninn. ágúst.",
-      "price": 78000,
-      "start_date": "2026-08-22",
-      "end_date": "2026-08-25",
-      "seen_count": 2
-    },
-    {
       "campaign_name": "Perform - Ágúst",
       "line_item_name": "Perform - Borgartún",
       "price": 58500,
@@ -1490,28 +1442,12 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "pris ágúst",
-      "line_item_name": "pris ágúst",
-      "price": 30000,
-      "start_date": "2026-08-15",
-      "end_date": "2026-08-28",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Ratsjá -Gildi",
       "line_item_name": "Ratsjá -Gildi",
       "price": 666400,
       "start_date": "2026-09-23",
       "end_date": "2026-10-08",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Ratsjá PEI",
-      "line_item_name": "Ratsjá PEI",
-      "price": 962000,
-      "start_date": "2026-07-27",
-      "end_date": "2026-08-26",
-      "seen_count": 1
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
@@ -1532,18 +1468,18 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 1260000,
-      "start_date": "2026-08-17",
-      "end_date": "2026-08-30",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 520000,
       "start_date": "2026-08-17",
       "end_date": "2026-08-29",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 1260000,
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-30",
+      "seen_count": 2
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
@@ -1568,14 +1504,6 @@
       "start_date": "2026-03-05",
       "end_date": "2030-09-30",
       "seen_count": 18
-    },
-    {
-      "campaign_name": "Rými Marsmedia.",
-      "line_item_name": "_Rými Grandi alla þriðjudaga  01 júní - 31 ágúst.",
-      "price": 97500,
-      "start_date": "2026-06-01",
-      "end_date": "2026-08-31",
-      "seen_count": 1
     },
     {
       "campaign_name": "Rými Marsmedia.",
