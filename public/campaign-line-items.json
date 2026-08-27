@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T00:25:53.890Z",
+  "generated_at": "2026-08-27T13:44:31.430Z",
   "scope": {
     "report_start_date": "2026-08-27",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 713,
-    "unique_items": 264,
+    "items_seen": 729,
+    "unique_items": 269,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -304,22 +304,6 @@
       "start_date": "2026-09-04",
       "end_date": "2026-09-11",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Bestun/Tilboð/Akureyri",
-      "line_item_name": "Bestun/Tilboð/Akureyri",
-      "price": 84500,
-      "start_date": "2026-09-01",
-      "end_date": "2026-09-30",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Bestun/Tilboð/Akureyri",
-      "line_item_name": "Bestun/Tilboð/Akureyri",
-      "price": 110500,
-      "start_date": "2026-09-01",
-      "end_date": "2026-09-30",
-      "seen_count": 2
     },
     {
       "campaign_name": "Bílasala Akureyri - Ágúst",
@@ -754,6 +738,22 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Fitfood",
+      "line_item_name": "Fitfood",
+      "price": 2672000,
+      "start_date": "2026-09-01",
+      "end_date": "2026-10-10",
+      "seen_count": 4
+    },
+    {
+      "campaign_name": "Fitfood",
+      "line_item_name": "Fitfood",
+      "price": 214500,
+      "start_date": "2026-09-08",
+      "end_date": "2026-10-10",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Flugger tillaga að plani",
       "line_item_name": "Flugger mán-miðv-föstud. 01 maí - 31 ágúst. Selfoss-Reykjanesbær-Glerártorg.",
       "price": 980500,
@@ -1004,7 +1004,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -1012,7 +1012,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -1354,6 +1354,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Laugarás lagoon - (Sept til Jan)",
+      "line_item_name": "Laugarás lagoon - Blakc friday / Desember - Auka keyrsla",
+      "price": 778400,
+      "start_date": "2026-11-23",
+      "end_date": "2026-12-20",
+      "seen_count": 4
+    },
+    {
+      "campaign_name": "Laugarás lagoon - (Sept til Jan)",
+      "line_item_name": "Laugarás lagoon - Breiðholt",
+      "price": 363000,
+      "start_date": "2026-09-01",
+      "end_date": "2027-01-31",
+      "seen_count": 6
+    },
+    {
       "campaign_name": "Laugarás Lagoon - Tilboð Selfossi - Sumar 2026",
       "line_item_name": "Laugarás Lagoon - Frumherja júlí-ágúst",
       "price": 279000,
@@ -1490,6 +1506,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "New Proposal-08/27/2026, 01:07:18 PM",
+      "line_item_name": "Pólóborg ehf",
+      "price": 104000,
+      "start_date": "2026-08-31",
+      "end_date": "2026-09-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "New Proposal-08/27/2026, 01:07:18 PM",
+      "line_item_name": "Pólóborg ehf",
+      "price": 117000,
+      "start_date": "2026-08-31",
+      "end_date": "2026-09-13",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Nova. Glerártorg árssamningu.",
       "line_item_name": "Nova. Glerártorg árssamningu.",
       "price": 2340000,
@@ -1580,9 +1612,9 @@
     {
       "campaign_name": "Penninn Húsgögn  / HN  - ágúst 2026",
       "line_item_name": "Þri, Fim, Lau / Borgartún",
-      "price": 58500,
+      "price": 52000,
       "start_date": "2026-08-10",
-      "end_date": "2026-08-31",
+      "end_date": "2026-08-27",
       "seen_count": 1
     },
     {
@@ -1628,18 +1660,18 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 2261000,
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-29",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 442000,
       "start_date": "2026-08-13",
       "end_date": "2026-08-29",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 2261000,
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-29",
+      "seen_count": 2
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
@@ -1824,6 +1856,14 @@
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
       "seen_count": 5
+    },
+    {
+      "campaign_name": "Samtök ferðaþjónustunar SAF /sept Tækifærispakki",
+      "line_item_name": "Samtök ferðaþjónustunar SAF /sept",
+      "price": 1260000,
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-24",
+      "seen_count": 2
     },
     {
       "campaign_name": "Sep-12 Kaldalón Hæðasmári",
