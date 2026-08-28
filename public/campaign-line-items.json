@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T14:52:35.964Z",
+  "generated_at": "2026-08-28T23:51:06.423Z",
   "scope": {
     "report_start_date": "2026-08-28",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 835,
-    "unique_items": 335,
+    "items_seen": 839,
+    "unique_items": 337,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -192,6 +192,22 @@
       "start_date": "2026-08-29",
       "end_date": "2026-08-29",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Bestun - Epli - Sumarpakki b - 10-17 sept",
+      "line_item_name": "Bestun - Epli - Sumarpakki b",
+      "price": 249900,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-17",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Bestun - Epli - Sumarpakki b - 10-17 sept",
+      "line_item_name": "Bestun - Epli - Sumarpakki b",
+      "price": 259200,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-17",
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun - Epli - Sumarpakki b - Sept",
@@ -1180,7 +1196,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -1188,7 +1204,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -1860,18 +1876,18 @@
     {
       "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
       "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
-      "price": 84000,
-      "start_date": "2026-08-19",
-      "end_date": "2026-08-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
-      "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
       "price": 432000,
       "start_date": "2026-08-19",
       "end_date": "2026-08-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
+      "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
+      "price": 84000,
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-28",
+      "seen_count": 1
     },
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
@@ -2092,17 +2108,17 @@
     {
       "campaign_name": "Pólóborg birtingarplan.",
       "line_item_name": "Pólóborg ehf",
-      "price": 104000,
+      "price": 26000,
       "start_date": "2026-08-28",
-      "end_date": "2026-09-10",
+      "end_date": "2026-08-31",
       "seen_count": 1
     },
     {
       "campaign_name": "Pólóborg birtingarplan.",
       "line_item_name": "Pólóborg ehf",
-      "price": 26000,
+      "price": 104000,
       "start_date": "2026-08-28",
-      "end_date": "2026-08-31",
+      "end_date": "2026-09-10",
       "seen_count": 1
     },
     {
