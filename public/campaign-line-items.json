@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-28T23:51:06.423Z",
+  "generated_at": "2026-08-29T05:34:10.676Z",
   "scope": {
-    "report_start_date": "2026-08-28",
+    "report_start_date": "2026-08-29",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 839,
-    "unique_items": 337,
+    "items_seen": 817,
+    "unique_items": 322,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -64,14 +64,6 @@
       "start_date": "2026-09-10",
       "end_date": "2026-09-10",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Afreksverk - Hafnartorg",
-      "line_item_name": "Ágúst",
-      "price": 187500,
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-28",
-      "seen_count": 1
     },
     {
       "campaign_name": "Alvogen - samningur / jan til des 2026",
@@ -179,14 +171,6 @@
     },
     {
       "campaign_name": "Aur / HN - ágúst 2026",
-      "line_item_name": "Aur / HN - Fös 28. ágúst - 8x1",
-      "price": 52000,
-      "start_date": "2026-08-28",
-      "end_date": "2026-08-28",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Aur / HN - ágúst 2026",
       "line_item_name": "Aur / HN - Lau 29. ágúst - 7x1",
       "price": 45000,
       "start_date": "2026-08-29",
@@ -196,7 +180,7 @@
     {
       "campaign_name": "Bestun - Epli - Sumarpakki b - 10-17 sept",
       "line_item_name": "Bestun - Epli - Sumarpakki b",
-      "price": 249900,
+      "price": 259200,
       "start_date": "2026-09-10",
       "end_date": "2026-09-17",
       "seen_count": 2
@@ -204,7 +188,7 @@
     {
       "campaign_name": "Bestun - Epli - Sumarpakki b - 10-17 sept",
       "line_item_name": "Bestun - Epli - Sumarpakki b",
-      "price": 259200,
+      "price": 249900,
       "start_date": "2026-09-10",
       "end_date": "2026-09-17",
       "seen_count": 2
@@ -279,7 +263,7 @@
       "price": 705000,
       "start_date": "2026-02-01",
       "end_date": "2026-12-31",
-      "seen_count": 5
+      "seen_count": 4
     },
     {
       "campaign_name": "Bestun-vogue-des-Glerártorg",
@@ -327,14 +311,6 @@
       "price": 188500,
       "start_date": "2026-08-01",
       "end_date": "2026-08-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bílaverkstæði Þóris 12 mán samningur",
-      "line_item_name": "Bílaverkstæði Þóris - 12 mán - KEF + Frumherji KEF",
-      "price": 2555000,
-      "start_date": "2025-08-29",
-      "end_date": "2026-08-28",
       "seen_count": 1
     },
     {
@@ -394,22 +370,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir Þór/KA. 28 ágúst.",
-      "price": 6500,
-      "start_date": "2026-08-28",
-      "end_date": "2026-08-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Besta deildin.",
-      "line_item_name": "Heimaleikir Þór/KA. 29 ágúst.",
-      "price": 6500,
-      "start_date": "2026-08-28",
-      "end_date": "2026-08-28",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Birtingahúsið Glerátorg ELKO.",
       "line_item_name": "Birtingahúsið Glerátorg ELKO.árssamningur.",
       "price": 2372500,
@@ -427,26 +387,10 @@
     },
     {
       "campaign_name": "BM Vallá / Datera - ágúst 2026",
-      "line_item_name": "BM Vallá / Datera / Þri, Fim og Fös / Borgartún og Litlatún",
-      "price": 75000,
-      "start_date": "2026-08-18",
-      "end_date": "2026-08-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "BM Vallá / Datera - ágúst 2026",
       "line_item_name": "BM Vallá / Datera / Þri, Mið, Fim, Fös og Lau / Akureyri 1 og Glerártorg 1",
       "price": 130000,
       "start_date": "2026-08-18",
       "end_date": "2026-08-31",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Bónus / HN - ágúst 2026",
-      "line_item_name": "Bónus 28. ágúst - Fös / 10x1",
-      "price": 71000,
-      "start_date": "2026-08-28",
-      "end_date": "2026-08-28",
       "seen_count": 2
     },
     {
@@ -688,14 +632,6 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Duty Free - Heinemann  / Datera -  ágúst 2026",
-      "line_item_name": "Duty Free - Heinemann / GLER2 (fös)",
-      "price": 26000,
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-31",
-      "seen_count": 1
     },
     {
       "campaign_name": "Duty Free - Heinemann  / Datera - okt 2026",
@@ -975,7 +911,7 @@
       "price": 45000,
       "start_date": "2026-11-10",
       "end_date": "2026-11-30",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Forlagið / HN - 19. júní til 31. ágúst",
@@ -1072,22 +1008,6 @@
       "start_date": "2026-08-31",
       "end_date": "2026-09-06",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Hagar / Hvíta húsið - ágúst 2026",
-      "line_item_name": "Hagar / Hvíta húsið - 1 hólf - 18. til 28. ágúst - mán, mið, fös - Höfuðborgarsvæðið",
-      "price": 135000,
-      "start_date": "2026-08-18",
-      "end_date": "2026-08-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hagar / Hvíta húsið - ágúst 2026",
-      "line_item_name": "Hagar / Hvíta húsið - 1 hólf - 18. til 28. ágúst - mið, fös - Landsbyggðin",
-      "price": 100000,
-      "start_date": "2026-08-18",
-      "end_date": "2026-08-28",
-      "seen_count": 2
     },
     {
       "campaign_name": "Happdrætti DAS / Datera - sept 2026",
@@ -1196,7 +1116,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -1204,7 +1124,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -1240,14 +1160,6 @@
       "start_date": "2026-08-01",
       "end_date": "2026-08-31",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - ágúst '26",
-      "line_item_name": "Hreyfing / 28. ágúst / BORG, GRA, GBR Litlatún / 3x1",
-      "price": 19500,
-      "start_date": "2026-08-28",
-      "end_date": "2026-08-28",
-      "seen_count": 2
     },
     {
       "campaign_name": "Hreyfing / HN - ágúst '26",
@@ -1352,14 +1264,6 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 28. ágúst / 4x1",
-      "price": 24500,
-      "start_date": "2026-08-28",
-      "end_date": "2026-08-28",
-      "seen_count": 1
     },
     {
       "campaign_name": "IKEA / HN - ágúst 2026 (500 þús pr. mánuð)",
@@ -1882,14 +1786,6 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Mediacom-Myllan sumarpakki ágúst",
-      "line_item_name": "Mediacom-Myllan sumarpakki ágúst",
-      "price": 84000,
-      "start_date": "2026-08-19",
-      "end_date": "2026-08-28",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 468000,
@@ -1912,14 +1808,6 @@
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
       "seen_count": 4
-    },
-    {
-      "campaign_name": "MS / Hvíta húsið - ágúst '26",
-      "line_item_name": "MS skrifta / 13. til 28. ágúst / Fös / AKU1, BRE2, KAP3, VES1",
-      "price": 82500,
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-28",
-      "seen_count": 1
     },
     {
       "campaign_name": "N1 árssamingur Glerártorg.",
@@ -2108,17 +1996,17 @@
     {
       "campaign_name": "Pólóborg birtingarplan.",
       "line_item_name": "Pólóborg ehf",
-      "price": 26000,
+      "price": 104000,
       "start_date": "2026-08-28",
-      "end_date": "2026-08-31",
+      "end_date": "2026-09-10",
       "seen_count": 1
     },
     {
       "campaign_name": "Pólóborg birtingarplan.",
       "line_item_name": "Pólóborg ehf",
-      "price": 104000,
+      "price": 26000,
       "start_date": "2026-08-28",
-      "end_date": "2026-09-10",
+      "end_date": "2026-08-31",
       "seen_count": 1
     },
     {
@@ -2156,18 +2044,18 @@
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "price": 2261000,
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-29",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
-      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
       "price": 442000,
       "start_date": "2026-08-13",
       "end_date": "2026-08-29",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "line_item_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
+      "price": 2261000,
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-29",
+      "seen_count": 2
     },
     {
       "campaign_name": "Ratsjá-kosning um inngöngu í evrópusambandið",
@@ -2208,14 +2096,6 @@
       "start_date": "2026-03-05",
       "end_date": "2030-09-30",
       "seen_count": 18
-    },
-    {
-      "campaign_name": "sahara-Earth Lagoon -ágúst",
-      "line_item_name": "sahara-Earth Lagoon -ágúst",
-      "price": 182000,
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-28",
-      "seen_count": 1
     },
     {
       "campaign_name": "sahara-Earth Lagoon -ágúst",
@@ -2439,7 +2319,7 @@
       "price": 378000,
       "start_date": "2027-02-27",
       "end_date": "2027-03-26",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Skin þvottastöð Jan 2027",
@@ -2487,7 +2367,7 @@
       "price": 405000,
       "start_date": "2026-11-27",
       "end_date": "2026-12-26",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Skin þvottastöð Okt",
@@ -2503,7 +2383,7 @@
       "price": 405000,
       "start_date": "2026-09-27",
       "end_date": "2026-10-26",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Skógarböðin - Hafnartorg",
@@ -2708,7 +2588,7 @@
     {
       "campaign_name": "Þjóðleikhúsið inneign.",
       "line_item_name": "Þjóðleikhúsið inneign.",
-      "price": 132000,
+      "price": 240500,
       "start_date": "2026-08-26",
       "end_date": "2026-09-18",
       "seen_count": 1
@@ -2716,7 +2596,7 @@
     {
       "campaign_name": "Þjóðleikhúsið inneign.",
       "line_item_name": "Þjóðleikhúsið inneign.",
-      "price": 240500,
+      "price": 132000,
       "start_date": "2026-08-26",
       "end_date": "2026-09-18",
       "seen_count": 1
