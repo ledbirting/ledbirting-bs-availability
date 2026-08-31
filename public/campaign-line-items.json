@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T12:39:01.983Z",
+  "generated_at": "2026-08-31T20:38:14.178Z",
   "scope": {
     "report_start_date": "2026-08-31",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 741,
-    "unique_items": 295,
+    "items_seen": 727,
+    "unique_items": 290,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -80,6 +80,14 @@
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "seen_count": 5
+    },
+    {
+      "campaign_name": "Artasan - GUM - október - Signý",
+      "line_item_name": "Artasan - GUM - október - Signý",
+      "price": 693500,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-23",
+      "seen_count": 2
     },
     {
       "campaign_name": "Artasan - Gunnar - Hæðasmári",
@@ -712,22 +720,6 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-29",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Fitfood",
-      "line_item_name": "Fitfood",
-      "price": 2672000,
-      "start_date": "2026-09-01",
-      "end_date": "2026-10-10",
-      "seen_count": 4
-    },
-    {
-      "campaign_name": "Fitfood",
-      "line_item_name": "Fitfood",
-      "price": 214500,
-      "start_date": "2026-09-08",
-      "end_date": "2026-10-10",
-      "seen_count": 2
     },
     {
       "campaign_name": "Flugger tillaga að plani",
@@ -1434,46 +1426,6 @@
       "seen_count": 3
     },
     {
-      "campaign_name": "Kælitækni - Vitamix - Desember - 2026",
-      "line_item_name": "Kælitækni - Borgartún - 5.-23.des - Mán, fim,fös",
-      "price": 45500,
-      "start_date": "2026-12-05",
-      "end_date": "2026-12-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kælitækni - Vitamix - Desember - 2026",
-      "line_item_name": "Kælitækni - Egilshöll - 5.-23.des - lau,sun",
-      "price": 30000,
-      "start_date": "2026-12-05",
-      "end_date": "2026-12-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kælitækni - Vitamix - Desember - 2026",
-      "line_item_name": "Kælitækni - Grandi - 5.-23.des -Sun,Mán, Þri",
-      "price": 67500,
-      "start_date": "2026-12-05",
-      "end_date": "2026-12-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kælitækni - Vitamix - Desember - 2026",
-      "line_item_name": "Kælitækni - Hagasmári - 5.-23.des - mán,þri,mið",
-      "price": 52200,
-      "start_date": "2026-12-05",
-      "end_date": "2026-12-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kælitækni - Vitamix - Desember - 2026",
-      "line_item_name": "Kælitækni - Höfðabakki 2- 5.-23.des - Mið, Fim, Lau",
-      "price": 40000,
-      "start_date": "2026-12-05",
-      "end_date": "2026-12-23",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Kavita - Nóvember (Uppfærsla á langtíma-samningnum))",
       "line_item_name": "Kavita - Nóvember",
       "price": 127500,
@@ -1512,22 +1464,6 @@
       "start_date": "2026-09-09",
       "end_date": "2026-09-18",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Laugarás lagoon - (Sept til Jan)",
-      "line_item_name": "Laugarás lagoon - Blakc friday / Desember - Auka keyrsla",
-      "price": 778400,
-      "start_date": "2026-11-23",
-      "end_date": "2026-12-20",
-      "seen_count": 4
-    },
-    {
-      "campaign_name": "Laugarás lagoon - (Sept til Jan)",
-      "line_item_name": "Laugarás lagoon - Breiðholt",
-      "price": 363000,
-      "start_date": "2026-09-01",
-      "end_date": "2027-01-31",
-      "seen_count": 6
     },
     {
       "campaign_name": "Laugarás Lagoon - Tilboð Selfossi - Sumar 2026",
@@ -1576,6 +1512,22 @@
       "start_date": "2024-06-07",
       "end_date": "2028-12-31",
       "seen_count": 18
+    },
+    {
+      "campaign_name": "Lottó 65M - Getspá  / Ennemm - 4. til 5. sept 2026",
+      "line_item_name": "Lottó 65M - Getspá  / Ennemm - 4. sept",
+      "price": 102000,
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-04",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Lottó 65M - Getspá  / Ennemm - 4. til 5. sept 2026",
+      "line_item_name": "Lottó 65M - Getspá  / Ennemm - 5. sept til kl. 18",
+      "price": 67875,
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-05",
+      "seen_count": 2
     },
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
@@ -1796,17 +1748,17 @@
     {
       "campaign_name": "Pólóborg birtingarplan.",
       "line_item_name": "Pólóborg ehf",
-      "price": 26000,
+      "price": 104000,
       "start_date": "2026-08-28",
-      "end_date": "2026-08-31",
+      "end_date": "2026-09-10",
       "seen_count": 1
     },
     {
       "campaign_name": "Pólóborg birtingarplan.",
       "line_item_name": "Pólóborg ehf",
-      "price": 104000,
+      "price": 26000,
       "start_date": "2026-08-28",
-      "end_date": "2026-09-10",
+      "end_date": "2026-08-31",
       "seen_count": 1
     },
     {
@@ -2039,6 +1991,14 @@
       "price": 97500,
       "start_date": "2026-08-19",
       "end_date": "2026-09-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sérefni (7-21 sept) viðbót á langtíma",
+      "line_item_name": "Sérefni (7-21 sept)",
+      "price": 97500,
+      "start_date": "2026-09-07",
+      "end_date": "2026-09-21",
       "seen_count": 1
     },
     {
@@ -2372,7 +2332,7 @@
     {
       "campaign_name": "Þjóðleikhúsið inneign.",
       "line_item_name": "Þjóðleikhúsið inneign.",
-      "price": 132000,
+      "price": 240500,
       "start_date": "2026-08-26",
       "end_date": "2026-09-18",
       "seen_count": 1
@@ -2380,7 +2340,7 @@
     {
       "campaign_name": "Þjóðleikhúsið inneign.",
       "line_item_name": "Þjóðleikhúsið inneign.",
-      "price": 240500,
+      "price": 132000,
       "start_date": "2026-08-26",
       "end_date": "2026-09-18",
       "seen_count": 1
