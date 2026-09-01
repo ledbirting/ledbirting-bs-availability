@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T13:54:52.718Z",
+  "generated_at": "2026-09-01T18:08:14.262Z",
   "scope": {
     "report_start_date": "2026-09-01",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 670,
-    "unique_items": 268,
+    "items_seen": 714,
+    "unique_items": 280,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -540,7 +540,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 2
@@ -548,9 +548,57 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dressmann sept - okt.",
+      "line_item_name": "Dressmann  30 sept. 02 okt.",
+      "price": 102000,
+      "start_date": "2026-09-30",
+      "end_date": "2026-10-03",
+      "seen_count": 4
+    },
+    {
+      "campaign_name": "Dressmann sept - okt.",
+      "line_item_name": "Dressmann 17/19 sept.",
+      "price": 98000,
+      "start_date": "2026-09-17",
+      "end_date": "2026-09-19",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dressmann sept - okt.",
+      "line_item_name": "Dressmann 18 sept.",
+      "price": 51300,
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dressmann sept - okt.",
+      "line_item_name": "Dressmann 24-26 sept.",
+      "price": 116000,
+      "start_date": "2026-09-24",
+      "end_date": "2026-09-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dressmann sept - okt.",
+      "line_item_name": "Dressmann 25 sept.",
+      "price": 49500,
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dressmann sept - okt.",
+      "line_item_name": "Dressmann 30 sept - 03 okt.",
+      "price": 135600,
+      "start_date": "2026-09-30",
+      "end_date": "2026-10-03",
       "seen_count": 2
     },
     {
@@ -802,6 +850,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Gæðabakstur Akueyri samningur.",
+      "line_item_name": "Gæðabakstur Akueyri samningur.",
+      "price": 1014000,
+      "start_date": "2026-09-01",
+      "end_date": "2027-08-31",
+      "seen_count": 13
+    },
+    {
+      "campaign_name": "Gæðabakstur Akueyri samningur.",
+      "line_item_name": "Gæðabakstur Akueyri samningur.",
+      "price": 1345500,
+      "start_date": "2026-09-04",
+      "end_date": "2027-08-31",
+      "seen_count": 13
+    },
+    {
       "campaign_name": "Gæludýr / Hvíta húsið - ágúst til sept 2026",
       "line_item_name": "Gæludýr / 26. ágúst til 30. sept / Mán, Mið / BRE2, EGI1, KAP1",
       "price": 203500,
@@ -851,15 +915,7 @@
     },
     {
       "campaign_name": "Hagkaup Akureyri.",
-      "line_item_name": "Hagkaup Akureyri. GLT 02/04 sept.",
-      "price": 13000,
-      "start_date": "2026-09-02",
-      "end_date": "2026-09-05",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hagkaup Akureyri.",
-      "line_item_name": "Hagkaup Akureyri. GLT 06/08/10 sept.",
+      "line_item_name": "#  Hagkaup Akureyri. GLT 06/08/10 sept.",
       "price": 19500,
       "start_date": "2026-09-06",
       "end_date": "2026-09-10",
@@ -867,7 +923,7 @@
     },
     {
       "campaign_name": "Hagkaup Akureyri.",
-      "line_item_name": "Hagkaup Akureyri. GLT 12/14/16 sept.",
+      "line_item_name": "#  Hagkaup Akureyri. GLT 16-10 sep",
       "price": 19500,
       "start_date": "2026-09-06",
       "end_date": "2026-09-10",
@@ -875,7 +931,7 @@
     },
     {
       "campaign_name": "Hagkaup Akureyri.",
-      "line_item_name": "Hagkaup Akureyri. KA 05/07/09/11 sept.",
+      "line_item_name": "#  Hagkaup Akureyri. KA 05/07/09/11 sept.",
       "price": 26000,
       "start_date": "2026-09-05",
       "end_date": "2026-09-11",
@@ -883,10 +939,18 @@
     },
     {
       "campaign_name": "Hagkaup Akureyri.",
-      "line_item_name": "Hagkaup Akureyri. KA 13/15 sept.",
+      "line_item_name": "#  Hagkaup Akureyri. KA 13/15 sept.",
       "price": 13000,
       "start_date": "2026-09-13",
       "end_date": "2026-09-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hagkaup Akureyri.",
+      "line_item_name": "Hagkaup Akureyri. GLT 02/04 sept.",
+      "price": 13000,
+      "start_date": "2026-09-02",
+      "end_date": "2026-09-05",
       "seen_count": 1
     },
     {
@@ -988,7 +1052,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -996,7 +1060,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -1570,6 +1634,14 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Perform - Sept",
+      "line_item_name": "Perform - Borgartún",
+      "price": 58500,
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-30",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Pólóborg birtingarplan.",
       "line_item_name": "Pólóborg ehf",
       "price": 104000,
@@ -1799,6 +1871,30 @@
       "price": 97500,
       "start_date": "2026-09-07",
       "end_date": "2026-09-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sérefni (okt , nóv og des)",
+      "line_item_name": "Sérefni (30 nóv til 11 des)",
+      "price": 78000,
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sérefni (okt , nóv og des)",
+      "line_item_name": "Sérefni (nóv 2-16)",
+      "price": 97500,
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sérefni (okt , nóv og des)",
+      "line_item_name": "Sérefni (okt 1-15)",
+      "price": 97500,
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-15",
       "seen_count": 1
     },
     {
@@ -2156,7 +2252,7 @@
     {
       "campaign_name": "Þjóðleikhúsið inneign.",
       "line_item_name": "Þjóðleikhúsið inneign.",
-      "price": 132000,
+      "price": 240500,
       "start_date": "2026-08-26",
       "end_date": "2026-09-18",
       "seen_count": 1
@@ -2164,7 +2260,7 @@
     {
       "campaign_name": "Þjóðleikhúsið inneign.",
       "line_item_name": "Þjóðleikhúsið inneign.",
-      "price": 240500,
+      "price": 132000,
       "start_date": "2026-08-26",
       "end_date": "2026-09-18",
       "seen_count": 1
