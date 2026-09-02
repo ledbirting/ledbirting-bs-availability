@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T07:36:20.437Z",
+  "generated_at": "2026-09-02T13:12:56.067Z",
   "scope": {
     "report_start_date": "2026-09-02",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 710,
-    "unique_items": 278,
+    "items_seen": 724,
+    "unique_items": 283,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -255,6 +255,14 @@
       "price": 52000,
       "start_date": "2026-09-04",
       "end_date": "2026-09-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bestun/Tailwind",
+      "line_item_name": "Bestun/Tailwind",
+      "price": 22000,
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-14",
       "seen_count": 1
     },
     {
@@ -540,7 +548,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 2
@@ -548,7 +556,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 2
@@ -1044,7 +1052,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -1052,7 +1060,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -1064,6 +1072,22 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-07",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Háskólinn Akueyri Stjórnenda nám",
+      "line_item_name": "Háskólinn Akueyri Stjórnenda nám",
+      "price": 96600,
+      "start_date": "2026-09-16",
+      "end_date": "2026-09-22",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Háskólinn Akueyri Stjórnenda nám",
+      "line_item_name": "Háskólinn Akueyri Stjórnenda nám",
+      "price": 97500,
+      "start_date": "2026-09-25",
+      "end_date": "2026-10-02",
+      "seen_count": 4
     },
     {
       "campaign_name": "Híbýli september.",
@@ -1464,6 +1488,22 @@
       "start_date": "2026-09-05",
       "end_date": "2026-09-05",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Luktom Píparar - Akureyri",
+      "line_item_name": "Luktom Píparar - Akureyri",
+      "price": 169000,
+      "start_date": "2026-09-04",
+      "end_date": "2026-12-03",
+      "seen_count": 3
+    },
+    {
+      "campaign_name": "Luktom Píparar - Akureyri",
+      "line_item_name": "Luktom Píparar - Akureyri",
+      "price": 42250,
+      "start_date": "2026-09-04",
+      "end_date": "2026-12-04",
+      "seen_count": 4
     },
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
@@ -2236,7 +2276,7 @@
     {
       "campaign_name": "Þjóðleikhúsið inneign.",
       "line_item_name": "Þjóðleikhúsið inneign.",
-      "price": 132000,
+      "price": 240500,
       "start_date": "2026-08-26",
       "end_date": "2026-09-18",
       "seen_count": 1
@@ -2244,7 +2284,7 @@
     {
       "campaign_name": "Þjóðleikhúsið inneign.",
       "line_item_name": "Þjóðleikhúsið inneign.",
-      "price": 240500,
+      "price": 132000,
       "start_date": "2026-08-26",
       "end_date": "2026-09-18",
       "seen_count": 1
