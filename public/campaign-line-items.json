@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T13:12:56.067Z",
+  "generated_at": "2026-09-02T18:24:44.968Z",
   "scope": {
     "report_start_date": "2026-09-02",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 724,
-    "unique_items": 283,
+    "items_seen": 754,
+    "unique_items": 288,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -80,14 +80,6 @@
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "seen_count": 5
-    },
-    {
-      "campaign_name": "Artasan - GUM - október - Signý",
-      "line_item_name": "Artasan - GUM - október - Signý",
-      "price": 693500,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-23",
-      "seen_count": 2
     },
     {
       "campaign_name": "Artasan - Gunnar - Hæðasmári",
@@ -527,22 +519,6 @@
       "price": 212000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-28",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Byko - Samningur - 2026",
-      "line_item_name": "Byko - September - Fim,Fös - AK,SELF,KEF",
-      "price": 126000,
-      "start_date": "2026-09-01",
-      "end_date": "2026-09-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Byko - Samningur - 2026",
-      "line_item_name": "Byko - September- Fim,Fös - GRA, KAP1,LIT,VLV1,BREI1",
-      "price": 312000,
-      "start_date": "2026-09-01",
-      "end_date": "2026-09-29",
       "seen_count": 2
     },
     {
@@ -1394,11 +1370,35 @@
       "seen_count": 8
     },
     {
+      "campaign_name": "ÍR Frístunda dagur",
+      "line_item_name": "ÍR Frístunda dagur",
+      "price": 0,
+      "start_date": "2026-09-02",
+      "end_date": "2026-09-05",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Jb úr og skart - Nóv og des",
       "line_item_name": "Jb úr og skart - Nóv og des",
       "price": 117000,
       "start_date": "2026-11-20",
       "end_date": "2026-12-12",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 126000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 8
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 42000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
       "seen_count": 2
     },
     {
@@ -1440,6 +1440,38 @@
       "start_date": "2026-09-09",
       "end_date": "2026-09-18",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Landsbankinn - Tvist - Okt",
+      "line_item_name": "Landsbankinn - Tvist - Sept - Akureyri og Selfoss",
+      "price": 292500,
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-26",
+      "seen_count": 4
+    },
+    {
+      "campaign_name": "Landsbankinn - Tvist - Okt",
+      "line_item_name": "Landsbankinn - Tvist - Sept - Höfuðborgarsvæðið",
+      "price": 187800,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-18",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Landsbankinn - Tvist - Sept",
+      "line_item_name": "Akureyri og Selfoss",
+      "price": 273000,
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-29",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Landsbankinn - Tvist - Sept",
+      "line_item_name": "Höfuðborgarsvæðið",
+      "price": 187800,
+      "start_date": "2026-09-02",
+      "end_date": "2026-09-15",
+      "seen_count": 2
     },
     {
       "campaign_name": "Ljósanótt pakki - Marion",
@@ -2024,6 +2056,14 @@
       "start_date": "2026-09-27",
       "end_date": "2026-10-26",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Skógarböðin - Glerártorg - Árssamningur",
+      "line_item_name": "Skógarböðin - Glerártorg",
+      "price": 2372500,
+      "start_date": "2026-10-01",
+      "end_date": "2027-09-30",
+      "seen_count": 14
     },
     {
       "campaign_name": "Skógarböðin - Hafnartorg",
