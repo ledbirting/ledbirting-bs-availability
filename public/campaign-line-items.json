@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T13:13:51.848Z",
+  "generated_at": "2026-09-03T18:20:27.292Z",
   "scope": {
     "report_start_date": "2026-09-03",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 756,
-    "unique_items": 284,
+    "items_seen": 740,
+    "unique_items": 277,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -530,54 +530,6 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Dressmann sept - okt.",
-      "line_item_name": "Dressmann  30 sept. 02 okt.",
-      "price": 102000,
-      "start_date": "2026-09-30",
-      "end_date": "2026-10-03",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Dressmann sept - okt.",
-      "line_item_name": "Dressmann 17/19 sept.",
-      "price": 98000,
-      "start_date": "2026-09-17",
-      "end_date": "2026-09-19",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Dressmann sept - okt.",
-      "line_item_name": "Dressmann 18 sept.",
-      "price": 51300,
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Dressmann sept - okt.",
-      "line_item_name": "Dressmann 24-26 sept.",
-      "price": 116000,
-      "start_date": "2026-09-24",
-      "end_date": "2026-09-26",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Dressmann sept - okt.",
-      "line_item_name": "Dressmann 25 sept.",
-      "price": 49500,
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Dressmann sept - okt.",
-      "line_item_name": "Dressmann 30 sept - 03 okt.",
-      "price": 135600,
-      "start_date": "2026-09-30",
-      "end_date": "2026-10-03",
-      "seen_count": 4
-    },
-    {
       "campaign_name": "Duty Free - Heinemann  / Datera - okt 2026",
       "line_item_name": "Duty Free - Heinemann / AKU1 (fim)",
       "price": 19500,
@@ -1012,7 +964,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -1020,7 +972,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -2263,14 +2215,6 @@
       "price": 520000,
       "start_date": "2027-06-30",
       "end_date": "2027-07-03",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Vörður /Netöryggi Haust tækifærispakki",
-      "line_item_name": "Vörður /Netöryggi Haust tækifærispakki",
-      "price": 296000,
-      "start_date": "2026-08-21",
-      "end_date": "2026-09-11",
       "seen_count": 2
     },
     {
