@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-02T22:57:50.636Z",
+  "generated_at": "2026-09-03T02:52:18.337Z",
   "scope": {
-    "report_start_date": "2026-09-02",
+    "report_start_date": "2026-09-03",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 754,
-    "unique_items": 288,
+    "items_seen": 756,
+    "unique_items": 284,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -71,7 +71,7 @@
       "price": 3790500,
       "start_date": "2026-01-05",
       "end_date": "2026-12-31",
-      "seen_count": 5
+      "seen_count": 4
     },
     {
       "campaign_name": "Arion banki + Vörður  / Digido - Langtímasamningur 2026",
@@ -79,7 +79,7 @@
       "price": 2372500,
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
-      "seen_count": 5
+      "seen_count": 4
     },
     {
       "campaign_name": "Artasan - Gunnar - Hæðasmári",
@@ -103,7 +103,7 @@
       "price": 165000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Artasan - Gunnar - Hæðasmári",
@@ -127,7 +127,7 @@
       "price": 159500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Artasan -Sóley - Hæðasmári - 2026",
@@ -135,7 +135,7 @@
       "price": 159500,
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Artasan -Sóley - Hæðasmári - 2026",
@@ -183,7 +183,7 @@
       "price": 460000,
       "start_date": "2026-08-26",
       "end_date": "2026-12-31",
-      "seen_count": 5
+      "seen_count": 4
     },
     {
       "campaign_name": "Bestun -icetranssport feb-des-2026",
@@ -231,7 +231,7 @@
       "price": 195000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun-vogue-okt-Glerártorg",
@@ -303,7 +303,7 @@
       "price": 2372500,
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
-      "seen_count": 5
+      "seen_count": 4
     },
     {
       "campaign_name": "Bónus / HN - sept 2026",
@@ -335,14 +335,6 @@
       "price": 63000,
       "start_date": "2026-09-18",
       "end_date": "2026-09-18",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Bónus / HN - sept 2026",
-      "line_item_name": "Bónus 2. sept - Mið / 10x1",
-      "price": 66000,
-      "start_date": "2026-09-02",
-      "end_date": "2026-09-02",
       "seen_count": 2
     },
     {
@@ -439,7 +431,7 @@
       "price": 327600,
       "start_date": "2026-10-26",
       "end_date": "2026-11-01",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Boozt - Sept til des",
@@ -524,7 +516,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 2
@@ -532,7 +524,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 2
@@ -543,7 +535,7 @@
       "price": 102000,
       "start_date": "2026-09-30",
       "end_date": "2026-10-03",
-      "seen_count": 4
+      "seen_count": 2
     },
     {
       "campaign_name": "Dressmann sept - okt.",
@@ -599,7 +591,7 @@
       "price": 13000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-15",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Duty Free - Heinemann  / Datera - sept 2026",
@@ -663,7 +655,7 @@
       "price": 217500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Farmers Market - 2026 - Grandi",
@@ -671,7 +663,7 @@
       "price": 217500,
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Farmers Market - 2026 - Grandi",
@@ -719,7 +711,7 @@
       "price": 58500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Forlagið / HN - 1. til 21.des 2026",
@@ -727,7 +719,7 @@
       "price": 49500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Forlagið / HN - 1. til 21.des 2026",
@@ -735,7 +727,7 @@
       "price": 58500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Forlagið / HN - 1. til 21.des 2026",
@@ -743,7 +735,7 @@
       "price": 45000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Forlagið / HN - 1. til 21.des 2026",
@@ -751,7 +743,7 @@
       "price": 112500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Forlagið / HN - 10.  til 30.nóv 2026",
@@ -826,14 +818,6 @@
       "seen_count": 18
     },
     {
-      "campaign_name": "FS Fasteignir - Tilboð",
-      "line_item_name": "Glerártorg",
-      "price": 58500,
-      "start_date": "2026-08-01",
-      "end_date": "2026-09-02",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Gæðabakstur Akueyri samningur.",
       "line_item_name": "Gæðabakstur Akueyri samningur.",
       "price": 1014000,
@@ -887,7 +871,7 @@
       "price": 1529000,
       "start_date": "2026-09-01",
       "end_date": "2027-04-30",
-      "seen_count": 9
+      "seen_count": 8
     },
     {
       "campaign_name": "Grjótagarðar - Ljósanótt",
@@ -1063,7 +1047,7 @@
       "price": 97500,
       "start_date": "2026-09-25",
       "end_date": "2026-10-02",
-      "seen_count": 4
+      "seen_count": 2
     },
     {
       "campaign_name": "Híbýli september.",
@@ -1095,7 +1079,7 @@
       "price": 195000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Icelandair  / Hvíta húsið - Glerártorgi",
@@ -1127,7 +1111,7 @@
       "price": 510000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Icepharma - apóteks samningur / Digido  - langtíma  2026",
@@ -1208,14 +1192,6 @@
       "start_date": "2026-09-19",
       "end_date": "2026-09-19",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 2. sept / 4x1",
-      "price": 28500,
-      "start_date": "2026-09-02",
-      "end_date": "2026-09-02",
-      "seen_count": 1
     },
     {
       "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
@@ -1383,7 +1359,7 @@
       "price": 117000,
       "start_date": "2026-11-20",
       "end_date": "2026-12-12",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
@@ -1423,7 +1399,7 @@
       "price": 2610000,
       "start_date": "2026-03-01",
       "end_date": "2026-12-31",
-      "seen_count": 5
+      "seen_count": 4
     },
     {
       "campaign_name": "Landbjörg - Bakverðir",
@@ -1551,7 +1527,7 @@
       "price": 736100,
       "start_date": "2026-12-01",
       "end_date": "2026-12-17",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "Minstur/Mediacom Bjartur nóvember 1-30 2026",
@@ -1559,7 +1535,7 @@
       "price": 2520000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "N1 árssamingur Glerártorg.",
@@ -1591,7 +1567,7 @@
       "price": 2340000,
       "start_date": "2026-01-06",
       "end_date": "2026-12-31",
-      "seen_count": 5
+      "seen_count": 4
     },
     {
       "campaign_name": "Optical - Hæðasmári",
@@ -1671,7 +1647,7 @@
       "price": 1092000,
       "start_date": "2026-01-06",
       "end_date": "2026-12-31",
-      "seen_count": 5
+      "seen_count": 4
     },
     {
       "campaign_name": "Partybúðin sept",
@@ -1751,7 +1727,7 @@
       "price": 377000,
       "start_date": "2026-12-03",
       "end_date": "2026-12-31",
-      "seen_count": 4
+      "seen_count": 2
     },
     {
       "campaign_name": "sahara-Earth Lagoon -nóv",
@@ -1772,7 +1748,7 @@
     {
       "campaign_name": "Sahara-Earth Lagoon -okt",
       "line_item_name": "Sahara-Earth Lagoon -okt",
-      "price": 84500,
+      "price": 104000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-29",
       "seen_count": 2
@@ -1780,10 +1756,10 @@
     {
       "campaign_name": "Sahara-Earth Lagoon -okt",
       "line_item_name": "Sahara-Earth Lagoon -okt",
-      "price": 104000,
+      "price": 84500,
       "start_date": "2026-10-01",
       "end_date": "2026-10-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Sahara-Earth Lagoon -sept",
@@ -1912,14 +1888,6 @@
       "start_date": "2023-09-12",
       "end_date": "2028-12-31",
       "seen_count": 18
-    },
-    {
-      "campaign_name": "Sérefni - langtímasamningur Glerártorgi 2026",
-      "line_item_name": "Sérefni - langtímasamningur Glerártorgi 2026",
-      "price": 97500,
-      "start_date": "2026-08-19",
-      "end_date": "2026-09-02",
-      "seen_count": 1
     },
     {
       "campaign_name": "Sérefni (7-21 sept) viðbót á langtíma",
@@ -2087,7 +2055,7 @@
       "price": 156000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-24",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Tölvutek Akureyri",
@@ -2175,7 +2143,7 @@
       "price": 182700,
       "start_date": "2026-10-01",
       "end_date": "2026-10-31",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "Varmi - Águst, sept og okt",
@@ -2207,7 +2175,7 @@
       "price": 286000,
       "start_date": "2026-08-01",
       "end_date": "2026-12-31",
-      "seen_count": 5
+      "seen_count": 4
     },
     {
       "campaign_name": "Vík vélaverkstæði - Einhella 2026-2027 12mán samningur",
