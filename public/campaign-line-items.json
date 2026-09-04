@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T07:46:13.069Z",
+  "generated_at": "2026-09-04T13:07:52.465Z",
   "scope": {
     "report_start_date": "2026-09-04",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 738,
-    "unique_items": 275,
+    "items_seen": 748,
+    "unique_items": 280,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -964,7 +964,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -972,7 +972,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -1444,17 +1444,17 @@
     {
       "campaign_name": "Luktom Píparar - Akureyri",
       "line_item_name": "Luktom Píparar - Akureyri",
-      "price": 42250,
+      "price": 169000,
       "start_date": "2026-09-04",
-      "end_date": "2026-12-04",
+      "end_date": "2026-12-03",
       "seen_count": 3
     },
     {
       "campaign_name": "Luktom Píparar - Akureyri",
       "line_item_name": "Luktom Píparar - Akureyri",
-      "price": 169000,
+      "price": 42250,
       "start_date": "2026-09-04",
-      "end_date": "2026-12-03",
+      "end_date": "2026-12-04",
       "seen_count": 3
     },
     {
@@ -1778,46 +1778,6 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Securitas / Datera - sept 2026",
-      "line_item_name": "Securitas / Datera - sept 2026 / BORG, GLER1, KAP3 - (mán, mið, fös, lau)",
-      "price": 336000,
-      "start_date": "2026-09-02",
-      "end_date": "2026-09-29",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Securitas / Datera - sept 2026",
-      "line_item_name": "Securitas / Datera - sept 2026 / BRE2, NJA2 (þri, mið, fös)",
-      "price": 121000,
-      "start_date": "2026-09-06",
-      "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Securitas / Datera - sept 2026",
-      "line_item_name": "Securitas / Datera - sept 2026 / EGI1, KAP1, SÆB Holta, VES1 - (þri, fös, lau)",
-      "price": 306000,
-      "start_date": "2026-09-02",
-      "end_date": "2026-09-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Securitas / Datera - sept 2026",
-      "line_item_name": "Securitas / Datera - sept 2026 / GBR Litlat, HÖF1, KAP2, VES2 - (þri, fim)",
-      "price": 240000,
-      "start_date": "2026-09-02",
-      "end_date": "2026-09-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Securitas / Datera - sept 2026",
-      "line_item_name": "Securitas / Datera - sept 2026 / GRA (þri, mið, lau)",
-      "price": 90000,
-      "start_date": "2026-09-02",
-      "end_date": "2026-09-29",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Sep-12 Kaldalón Hæðasmári",
       "line_item_name": "Kaldalón - HST (until end of Feb 24')",
       "price": 0,
@@ -1863,6 +1823,86 @@
       "price": 0,
       "start_date": "2026-08-31",
       "end_date": "2026-09-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sjóvá 05-18 sept.",
+      "line_item_name": "Sjóvá 05-spt..AK1-KAPLA1-SFS1-GRI",
+      "price": 57000,
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-05",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Sjóvá 05-18 sept.",
+      "line_item_name": "Sjóvá 06 sept. GLT2-KAPLA2-SFS2-VLV2",
+      "price": 57000,
+      "start_date": "2026-09-06",
+      "end_date": "2026-09-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sjóvá 05-18 sept.",
+      "line_item_name": "Sjóvá 07-sept. GRI-AK2-BT-KV2",
+      "price": 52000,
+      "start_date": "2026-09-07",
+      "end_date": "2026-09-07",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Sjóvá 05-18 sept.",
+      "line_item_name": "Sjóvá 09-spt..AK1-KAPLA1-SFS1-GRI",
+      "price": 57000,
+      "start_date": "2026-09-09",
+      "end_date": "2026-09-09",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Sjóvá 05-18 sept.",
+      "line_item_name": "Sjóvá 10 sept. GLT2-KAPLA2-KEV1-VLV2",
+      "price": 55000,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sjóvá 05-18 sept.",
+      "line_item_name": "Sjóvá 11-sept. GRI-AK2-BT-SFS1",
+      "price": 54000,
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-11",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Sjóvá 05-18 sept.",
+      "line_item_name": "Sjóvá 14-sept..AK1-KAPLA1-SFS1-GRI",
+      "price": 57000,
+      "start_date": "2026-09-14",
+      "end_date": "2026-09-14",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Sjóvá 05-18 sept.",
+      "line_item_name": "Sjóvá 16-sept. GRI-AK2-BT-KV2",
+      "price": 64000,
+      "start_date": "2026-09-16",
+      "end_date": "2026-09-16",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Sjóvá 05-18 sept.",
+      "line_item_name": "Sjóvá 18 sept. GLT2-KAPLA2-SFS2-VLV2-VEY",
+      "price": 69000,
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sjóvá 05-18 sept.",
+      "line_item_name": "Sjóvá.13-sept. GLT-GRI-KAPLA3-KEV1",
+      "price": 55000,
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
       "seen_count": 1
     },
     {
@@ -2212,7 +2252,7 @@
     {
       "campaign_name": "Þjóðleikhúsið inneign.",
       "line_item_name": "Þjóðleikhúsið inneign.",
-      "price": 240500,
+      "price": 132000,
       "start_date": "2026-08-26",
       "end_date": "2026-09-18",
       "seen_count": 1
@@ -2220,7 +2260,7 @@
     {
       "campaign_name": "Þjóðleikhúsið inneign.",
       "line_item_name": "Þjóðleikhúsið inneign.",
-      "price": 132000,
+      "price": 240500,
       "start_date": "2026-08-26",
       "end_date": "2026-09-18",
       "seen_count": 1
