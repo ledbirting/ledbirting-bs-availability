@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T23:01:37.888Z",
+  "generated_at": "2026-09-04T02:56:15.735Z",
   "scope": {
-    "report_start_date": "2026-09-03",
+    "report_start_date": "2026-09-04",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 740,
-    "unique_items": 277,
+    "items_seen": 738,
+    "unique_items": 275,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -47,7 +47,7 @@
       "price": 1102500,
       "start_date": "2026-06-01",
       "end_date": "2027-01-31",
-      "seen_count": 6
+      "seen_count": 5
     },
     {
       "campaign_name": "Advania / Datera - Haustráðstefna 2026",
@@ -775,7 +775,7 @@
       "price": 1014000,
       "start_date": "2026-09-01",
       "end_date": "2027-08-31",
-      "seen_count": 13
+      "seen_count": 12
     },
     {
       "campaign_name": "Gæðabakstur Akueyri samningur.",
@@ -1227,14 +1227,6 @@
     },
     {
       "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 3. sept / 4x1",
-      "price": 25500,
-      "start_date": "2026-09-03",
-      "end_date": "2026-09-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 30. sept / 4x1",
       "price": 27000,
       "start_date": "2026-09-30",
@@ -1316,18 +1308,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 126000,
+      "price": 42000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
-      "seen_count": 8
+      "seen_count": 4
     },
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 42000,
+      "price": 126000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
-      "seen_count": 2
+      "seen_count": 8
     },
     {
       "campaign_name": "Kavita - Nóvember (Uppfærsla á langtíma-samningnum))",
@@ -1452,18 +1444,18 @@
     {
       "campaign_name": "Luktom Píparar - Akureyri",
       "line_item_name": "Luktom Píparar - Akureyri",
-      "price": 169000,
+      "price": 42250,
       "start_date": "2026-09-04",
-      "end_date": "2026-12-03",
+      "end_date": "2026-12-04",
       "seen_count": 3
     },
     {
       "campaign_name": "Luktom Píparar - Akureyri",
       "line_item_name": "Luktom Píparar - Akureyri",
-      "price": 42250,
+      "price": 169000,
       "start_date": "2026-09-04",
-      "end_date": "2026-12-04",
-      "seen_count": 4
+      "end_date": "2026-12-03",
+      "seen_count": 3
     },
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
@@ -1648,14 +1640,6 @@
       "start_date": "2026-08-26",
       "end_date": "2026-09-26",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Ratsjá - Yfirtökur Landsbyggð 3. sept 2026",
-      "line_item_name": "Yfirtaka 2. sept 2026",
-      "price": 907500,
-      "start_date": "2026-09-03",
-      "end_date": "2026-09-03",
-      "seen_count": 2
     },
     {
       "campaign_name": "Ratsjá -Gildi",
@@ -1863,7 +1847,7 @@
       "price": 97500,
       "start_date": "2026-11-02",
       "end_date": "2026-11-16",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Sérefni (okt , nóv og des)",
@@ -1879,7 +1863,7 @@
       "price": 0,
       "start_date": "2026-08-31",
       "end_date": "2026-09-04",
-      "seen_count": 3
+      "seen_count": 1
     },
     {
       "campaign_name": "Skin þvottastöð ágúst",
@@ -2111,7 +2095,7 @@
       "price": 144800,
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Varmi - Nóv og des",
@@ -2215,7 +2199,7 @@
       "price": 520000,
       "start_date": "2027-06-30",
       "end_date": "2027-07-03",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "ÞG Verk - Thorraholtid",
