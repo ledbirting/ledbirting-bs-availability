@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T13:07:52.465Z",
+  "generated_at": "2026-09-04T18:03:58.298Z",
   "scope": {
     "report_start_date": "2026-09-04",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 748,
-    "unique_items": 280,
+    "items_seen": 756,
+    "unique_items": 291,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -308,7 +308,7 @@
     {
       "campaign_name": "Bónus / HN - sept 2026",
       "line_item_name": "Bónus 11. sept - Fös / 10x1",
-      "price": 62500,
+      "price": 55000,
       "start_date": "2026-09-11",
       "end_date": "2026-09-11",
       "seen_count": 2
@@ -516,7 +516,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 2
@@ -524,7 +524,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 2
@@ -639,6 +639,30 @@
       "price": 253500,
       "start_date": "2026-07-01",
       "end_date": "2026-09-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Forlagið - Bókamarkaður - 9. sept til 6.okt - Grandi",
+      "line_item_name": "Forlagið - Bókamarkaður - Grandi 17.til 23. sept",
+      "price": 50000,
+      "start_date": "2026-09-17",
+      "end_date": "2026-09-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Forlagið - Bókamarkaður - 9. sept til 6.okt - Grandi",
+      "line_item_name": "Forlagið - Bókamarkaður - Grandi 24. sept til 6. okt",
+      "price": 60000,
+      "start_date": "2026-09-24",
+      "end_date": "2026-10-06",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Forlagið - Bókamarkaður - 9. sept til 6.okt - Grandi",
+      "line_item_name": "Forlagið - Bókamarkaður - Grandi 9. til 15. sept",
+      "price": 77000,
+      "start_date": "2026-09-09",
+      "end_date": "2026-09-15",
       "seen_count": 1
     },
     {
@@ -1018,6 +1042,70 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 10. sept / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 19500,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-10",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 11.sept / BORG, GBR Litlatún / 2x1",
+      "price": 12000,
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 4. sept / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 19500,
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-04",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 5. sept/ GRA, GBR Litlatún, BORG / 3x1",
+      "price": 19500,
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-05",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 6. sept /  BORG, GRA, GBR Litlatún / 3x1",
+      "price": 39000,
+      "start_date": "2026-09-06",
+      "end_date": "2026-09-06",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 7. sept / GRA, GBR Litlatún / 2x1",
+      "price": 13000,
+      "start_date": "2026-09-07",
+      "end_date": "2026-09-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 8. sept / BORG, GBR Litlatún / 2x1",
+      "price": 12000,
+      "start_date": "2026-09-08",
+      "end_date": "2026-09-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 9. sept / BORG, GRA, GBR Litlatún / 2x1",
+      "price": 12000,
+      "start_date": "2026-09-09",
+      "end_date": "2026-09-09",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Icelandair  / Hvíta húsið - Glerártorgi",
       "line_item_name": "Icelandair - Glerártorgi - des 2026",
       "price": 201500,
@@ -1306,22 +1394,6 @@
       "seen_count": 3
     },
     {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 42000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 4
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 126000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 8
-    },
-    {
       "campaign_name": "Kavita - Nóvember (Uppfærsla á langtíma-samningnum))",
       "line_item_name": "Kavita - Nóvember",
       "price": 127500,
@@ -1444,17 +1516,17 @@
     {
       "campaign_name": "Luktom Píparar - Akureyri",
       "line_item_name": "Luktom Píparar - Akureyri",
-      "price": 169000,
+      "price": 42250,
       "start_date": "2026-09-04",
-      "end_date": "2026-12-03",
+      "end_date": "2026-12-04",
       "seen_count": 3
     },
     {
       "campaign_name": "Luktom Píparar - Akureyri",
       "line_item_name": "Luktom Píparar - Akureyri",
-      "price": 42250,
+      "price": 169000,
       "start_date": "2026-09-04",
-      "end_date": "2026-12-04",
+      "end_date": "2026-12-03",
       "seen_count": 3
     },
     {
@@ -1616,6 +1688,22 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Pollýanna - Nóv-Des 2026",
+      "line_item_name": "Pollýanna - 27-31Nóv - Egilshöll, Hagasmári, Kaplakriki, Litlatún, Sæbraut, Smáratorg",
+      "price": 137200,
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-30",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Pollýanna - Nóv-Des 2026",
+      "line_item_name": "Pollýanna - 9-11Nóv - Egilshöll, Hagasmári, Litlatún, Sæbraut, Vesturlandsvegur",
+      "price": 86400,
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-11",
+      "seen_count": 2
     },
     {
       "campaign_name": "Pólóborg birtingarplan.",
@@ -2252,7 +2340,7 @@
     {
       "campaign_name": "Þjóðleikhúsið inneign.",
       "line_item_name": "Þjóðleikhúsið inneign.",
-      "price": 132000,
+      "price": 240500,
       "start_date": "2026-08-26",
       "end_date": "2026-09-18",
       "seen_count": 1
@@ -2260,7 +2348,7 @@
     {
       "campaign_name": "Þjóðleikhúsið inneign.",
       "line_item_name": "Þjóðleikhúsið inneign.",
-      "price": 240500,
+      "price": 132000,
       "start_date": "2026-08-26",
       "end_date": "2026-09-18",
       "seen_count": 1
