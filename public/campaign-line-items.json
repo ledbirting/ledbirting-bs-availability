@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-04T22:45:42.435Z",
+  "generated_at": "2026-09-05T02:53:15.433Z",
   "scope": {
-    "report_start_date": "2026-09-04",
+    "report_start_date": "2026-09-05",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 756,
-    "unique_items": 291,
+    "items_seen": 740,
+    "unique_items": 284,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -167,14 +167,6 @@
       "price": 341600,
       "start_date": "2026-09-18",
       "end_date": "2026-09-30",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Bestun - Epli - Sumarpakki b - Sept",
-      "line_item_name": "Bestun - Epli - Sumarpakki b - 21 ágúst til 7 sept",
-      "price": 341600,
-      "start_date": "2026-08-21",
-      "end_date": "2026-09-07",
       "seen_count": 2
     },
     {
@@ -379,14 +371,6 @@
     },
     {
       "campaign_name": "Bónus / HN - sept 2026",
-      "line_item_name": "Bónus 4.sept - Fös / 9x1",
-      "price": 57500,
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-04",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Bónus / HN - sept 2026",
       "line_item_name": "Bónus 7. sept - Mán / 10x1",
       "price": 63500,
       "start_date": "2026-09-07",
@@ -407,7 +391,7 @@
       "price": 616000,
       "start_date": "2026-09-21",
       "end_date": "2026-10-04",
-      "seen_count": 4
+      "seen_count": 2
     },
     {
       "campaign_name": "Boozt - Sept til des",
@@ -463,7 +447,7 @@
       "price": 126000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -471,7 +455,7 @@
       "price": 272000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-29",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -516,7 +500,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 2
@@ -524,7 +508,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 2
@@ -655,7 +639,7 @@
       "price": 60000,
       "start_date": "2026-09-24",
       "end_date": "2026-10-06",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Forlagið - Bókamarkaður - 9. sept til 6.okt - Grandi",
@@ -671,7 +655,7 @@
       "price": 33000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Forlagið / HN - 1. til 21.des 2026",
@@ -890,14 +874,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Hagkaup Akureyri.",
-      "line_item_name": "Hagkaup Akureyri. GLT 02/04 sept.",
-      "price": 13000,
-      "start_date": "2026-09-02",
-      "end_date": "2026-09-05",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Happdrætti DAS / Datera - sept 2026",
       "line_item_name": "DAS / Datera - 14. sept / 3x1",
       "price": 19500,
@@ -1056,14 +1032,6 @@
       "start_date": "2026-09-11",
       "end_date": "2026-09-11",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - ágúst '26",
-      "line_item_name": "Hreyfing / 4. sept / BORG, GRA, GBR Litlatún / 3x1",
-      "price": 19500,
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-04",
-      "seen_count": 2
     },
     {
       "campaign_name": "Hreyfing / HN - ágúst '26",
@@ -1323,14 +1291,6 @@
     },
     {
       "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 4. sept / 5x1",
-      "price": 31000,
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-04",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 5. sept / 5x1",
       "price": 28500,
       "start_date": "2026-09-05",
@@ -1499,14 +1459,6 @@
     },
     {
       "campaign_name": "Lottó 65M - Getspá  / Ennemm - 4. til 5. sept 2026",
-      "line_item_name": "Lottó 65M - Getspá  / Ennemm - 4. sept",
-      "price": 102000,
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-04",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Lottó 65M - Getspá  / Ennemm - 4. til 5. sept 2026",
       "line_item_name": "Lottó 65M - Getspá  / Ennemm - 5. sept til kl. 18",
       "price": 67875,
       "start_date": "2026-09-05",
@@ -1516,17 +1468,17 @@
     {
       "campaign_name": "Luktom Píparar - Akureyri",
       "line_item_name": "Luktom Píparar - Akureyri",
-      "price": 42250,
+      "price": 169000,
       "start_date": "2026-09-04",
-      "end_date": "2026-12-04",
+      "end_date": "2026-12-03",
       "seen_count": 3
     },
     {
       "campaign_name": "Luktom Píparar - Akureyri",
       "line_item_name": "Luktom Píparar - Akureyri",
-      "price": 169000,
+      "price": 42250,
       "start_date": "2026-09-04",
-      "end_date": "2026-12-03",
+      "end_date": "2026-12-04",
       "seen_count": 3
     },
     {
@@ -1751,7 +1703,7 @@
       "price": 377000,
       "start_date": "2026-12-03",
       "end_date": "2026-12-31",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "sahara-Earth Lagoon -nóv",
@@ -1759,7 +1711,7 @@
       "price": 78000,
       "start_date": "2026-11-03",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "sahara-Earth Lagoon -nóv",
@@ -1807,7 +1759,7 @@
       "price": 1248975,
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
-      "seen_count": 5
+      "seen_count": 4
     },
     {
       "campaign_name": "Samkaup / Nettó - jan 2026",
@@ -1815,7 +1767,7 @@
       "price": 960750,
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
-      "seen_count": 5
+      "seen_count": 4
     },
     {
       "campaign_name": "Samkaup / Nettó - jan 2026",
@@ -1823,7 +1775,7 @@
       "price": 1235325,
       "start_date": "2026-01-06",
       "end_date": "2027-01-02",
-      "seen_count": 5
+      "seen_count": 4
     },
     {
       "campaign_name": "Samkaup / Nettó - jan 2026",
@@ -1831,7 +1783,7 @@
       "price": 1441125,
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
-      "seen_count": 5
+      "seen_count": 4
     },
     {
       "campaign_name": "Samkaup / Nettó - jan 2026",
@@ -1839,7 +1791,7 @@
       "price": 2497950,
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
-      "seen_count": 5
+      "seen_count": 4
     },
     {
       "campaign_name": "Samkaup / Nettó - jan 2026",
@@ -1847,7 +1799,7 @@
       "price": 1056825,
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
-      "seen_count": 5
+      "seen_count": 4
     },
     {
       "campaign_name": "Samkaup / Nettó - jan 2026",
@@ -1855,7 +1807,7 @@
       "price": 960750,
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
-      "seen_count": 5
+      "seen_count": 4
     },
     {
       "campaign_name": "Samtök ferðaþjónustunar SAF /sept Tækifærispakki",
@@ -1904,14 +1856,6 @@
       "start_date": "2026-10-01",
       "end_date": "2026-10-15",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Sinfónían / Datera - 22. ágúst",
-      "line_item_name": "Sinfónían - uppbót",
-      "price": 0,
-      "start_date": "2026-08-31",
-      "end_date": "2026-09-04",
-      "seen_count": 1
     },
     {
       "campaign_name": "Sjóvá 05-18 sept.",
@@ -2335,7 +2279,7 @@
       "price": 0,
       "start_date": "2026-04-15",
       "end_date": "2027-02-01",
-      "seen_count": 6
+      "seen_count": 5
     },
     {
       "campaign_name": "Þjóðleikhúsið inneign.",
