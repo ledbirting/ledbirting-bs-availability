@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T14:45:32.810Z",
+  "generated_at": "2026-09-07T18:58:47.011Z",
   "scope": {
     "report_start_date": "2026-09-07",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 744,
-    "unique_items": 281,
+    "items_seen": 748,
+    "unique_items": 285,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -468,7 +468,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 2
@@ -476,7 +476,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 2
@@ -924,7 +924,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -932,7 +932,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -1468,7 +1468,7 @@
     {
       "campaign_name": "Lýsi - sept 2026",
       "line_item_name": "Lýsi - 17.9 til 23.9 / GRA (mán, mið, fös)",
-      "price": 45000,
+      "price": 27000,
       "start_date": "2026-09-17",
       "end_date": "2026-09-23",
       "seen_count": 1
@@ -1647,6 +1647,38 @@
       "price": 65000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Pris - September",
+      "line_item_name": "BRE 2",
+      "price": 55000,
+      "start_date": "2026-09-07",
+      "end_date": "2026-09-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Pris - September",
+      "line_item_name": "HAG",
+      "price": 52200,
+      "start_date": "2026-09-07",
+      "end_date": "2026-09-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Pris - September",
+      "line_item_name": "HOF 1",
+      "price": 120000,
+      "start_date": "2026-09-07",
+      "end_date": "2026-09-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Pris - September",
+      "line_item_name": "HOF 2",
+      "price": 45000,
+      "start_date": "2026-09-07",
+      "end_date": "2026-09-28",
       "seen_count": 1
     },
     {
