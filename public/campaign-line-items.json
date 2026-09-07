@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T07:54:42.305Z",
+  "generated_at": "2026-09-07T14:45:32.810Z",
   "scope": {
     "report_start_date": "2026-09-07",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 718,
-    "unique_items": 266,
+    "items_seen": 744,
+    "unique_items": 281,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -468,7 +468,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 2
@@ -476,7 +476,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 2
@@ -924,7 +924,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -932,7 +932,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 2
@@ -1362,6 +1362,30 @@
       "seen_count": 18
     },
     {
+      "campaign_name": "Lottó 90M - Getspá  / Ennemm - 10. til 12. sept 2026",
+      "line_item_name": "Lottó 90M - Getspá  / Ennemm - 10. sept",
+      "price": 69960,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-10",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Lottó 90M - Getspá  / Ennemm - 10. til 12. sept 2026",
+      "line_item_name": "Lottó 90M - Getspá  / Ennemm - 11. sept",
+      "price": 97800,
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-11",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Lottó 90M - Getspá  / Ennemm - 10. til 12. sept 2026",
+      "line_item_name": "Lottó 90M - Getspá  / Ennemm - 12. sept til kl. 18",
+      "price": 80250,
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-12",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Luktom Píparar - Akureyri",
       "line_item_name": "Luktom Píparar - Akureyri",
       "price": 169000,
@@ -1376,6 +1400,78 @@
       "start_date": "2026-09-04",
       "end_date": "2026-12-04",
       "seen_count": 3
+    },
+    {
+      "campaign_name": "Lyfjaval- okt    2026",
+      "line_item_name": "Höfuðborgarsvæði",
+      "price": 390000,
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-15",
+      "seen_count": 4
+    },
+    {
+      "campaign_name": "Lyfjaval- okt    2026",
+      "line_item_name": "Höfuðborgarsvæði - 2",
+      "price": 196200,
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Lyfjaval- sept   2026",
+      "line_item_name": "Höfuðborgarsvæði",
+      "price": 390000,
+      "start_date": "2026-09-16",
+      "end_date": "2026-09-30",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Lyfjaval- sept   2026",
+      "line_item_name": "Höfuðborgarsvæði - 2",
+      "price": 130800,
+      "start_date": "2026-09-07",
+      "end_date": "2026-09-15",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Lýsi - sept 2026",
+      "line_item_name": "Lýsi -  10.9 til 23.9 / BRE2, KAP3, GBR Litlat, NJA2, SMT1, VES1 (fös)",
+      "price": 74000,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lýsi - sept 2026",
+      "line_item_name": "Lýsi -  10.9 til 23.9 / EGI1, GRA, KAP1, SEL1, VES1, VES2 (sun)",
+      "price": 84000,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-23",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Lýsi - sept 2026",
+      "line_item_name": "Lýsi -  10.9 til 23.9 / GLER2, GRA, HÖF2, KAP1, GBR Litlatún, KAP1, VES2 (þri, fim, lau)",
+      "price": 240000,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lýsi - sept 2026",
+      "line_item_name": "Lýsi - 10.9 til 23.9 / BORG, GLER1, GRA, KAP3, SEL1, VES1 (mán, mið)",
+      "price": 170000,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-23",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Lýsi - sept 2026",
+      "line_item_name": "Lýsi - 17.9 til 23.9 / GRA (mán, mið, fös)",
+      "price": 45000,
+      "start_date": "2026-09-17",
+      "end_date": "2026-09-23",
+      "seen_count": 1
     },
     {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
@@ -1576,6 +1672,30 @@
       "start_date": "2026-03-05",
       "end_date": "2030-09-30",
       "seen_count": 18
+    },
+    {
+      "campaign_name": "Saffran - Vika - Akureyri",
+      "line_item_name": "Saffran - Vika - Glerártorg 14-19 sept",
+      "price": 39000,
+      "start_date": "2026-09-14",
+      "end_date": "2026-09-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Saffran - Vika - Akureyri",
+      "line_item_name": "Saffran - Vika - Glerártorg 8-14 sept",
+      "price": 45500,
+      "start_date": "2026-09-08",
+      "end_date": "2026-09-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Saffran - Vika - Akureyri",
+      "line_item_name": "Saffran - Vika - KA 8-14 sept",
+      "price": 45500,
+      "start_date": "2026-09-08",
+      "end_date": "2026-09-14",
+      "seen_count": 1
     },
     {
       "campaign_name": "Sahara-Earth Lagoon -Desember",
@@ -2140,7 +2260,7 @@
     {
       "campaign_name": "Þjóðleikhúsið inneign.",
       "line_item_name": "Þjóðleikhúsið inneign.",
-      "price": 240500,
+      "price": 132000,
       "start_date": "2026-08-26",
       "end_date": "2026-09-18",
       "seen_count": 1
@@ -2148,7 +2268,7 @@
     {
       "campaign_name": "Þjóðleikhúsið inneign.",
       "line_item_name": "Þjóðleikhúsið inneign.",
-      "price": 132000,
+      "price": 240500,
       "start_date": "2026-08-26",
       "end_date": "2026-09-18",
       "seen_count": 1
