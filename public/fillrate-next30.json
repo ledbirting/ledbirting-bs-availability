@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T12:10:56.888Z",
+  "generated_at": "2026-09-08T16:49:55.165Z",
   "result": [
     {
       "date": "2026-09-08",
@@ -21,7 +21,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -279,7 +279,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -296,14 +296,14 @@
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.4204889616666666,
+          "rows_seen": 7
         },
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.5399999999999999,
-          "rows_seen": 8
+          "fill_rate": 0.5832098389814814,
+          "rows_seen": 9
         },
         {
           "id": 237866,
@@ -320,8 +320,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.0985383848148148,
+          "rows_seen": 2
         },
         {
           "id": 321889,
@@ -392,8 +392,8 @@
         {
           "id": 438452,
           "du_name": "Hagasmári",
-          "fill_rate": 0.4666666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.484879077037037,
+          "rows_seen": 8
         },
         {
           "id": 235466,
@@ -416,8 +416,8 @@
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.8999999999999999,
-          "rows_seen": 9
+          "fill_rate": 0.9093934056018518,
+          "rows_seen": 10
         },
         {
           "id": 319979,
@@ -506,14 +506,14 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.7416666666666666,
-          "rows_seen": 12
+          "fill_rate": 0.7504883362499999,
+          "rows_seen": 13
         },
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.7016666666666667,
-          "rows_seen": 12
+          "fill_rate": 0.7296904588425925,
+          "rows_seen": 13
         }
       ]
     },
@@ -537,12 +537,12 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.7262913330555555,
+          "fill_rate": 0.769,
           "rows_seen": 12
         },
         {
@@ -554,7 +554,7 @@
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.3179579997222222,
+          "fill_rate": 0.36066666666666664,
           "rows_seen": 6
         },
         {
@@ -578,8 +578,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.11066666666666666,
-          "rows_seen": 2
+          "fill_rate": 0.13658825305555555,
+          "rows_seen": 3
         },
         {
           "id": 321889,
@@ -608,8 +608,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.9845963999999999,
-          "rows_seen": 15
+          "fill_rate": 0.9773,
+          "rows_seen": 14
         },
         {
           "id": 237892,
@@ -668,26 +668,26 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.979,
-          "rows_seen": 15
+          "fill_rate": 0.9796121079629629,
+          "rows_seen": 16
         },
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.9072913330555554,
+          "fill_rate": 0.95,
           "rows_seen": 9
         },
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.45233333333333325,
-          "rows_seen": 8
+          "fill_rate": 0.46829630689814805,
+          "rows_seen": 9
         },
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.7179579997222222,
-          "rows_seen": 12
+          "fill_rate": 0.7676425522685185,
+          "rows_seen": 13
         },
         {
           "id": 480851,
@@ -710,7 +710,7 @@
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.48629133305555555,
+          "fill_rate": 0.5289999999999999,
           "rows_seen": 10
         },
         {
@@ -794,8 +794,8 @@
         {
           "id": 404813,
           "du_name": "Austurstræti",
-          "fill_rate": 0.125,
-          "rows_seen": 1
+          "fill_rate": 0,
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -836,8 +836,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.22331779583333333,
+          "rows_seen": 4
         },
         {
           "id": 321889,
@@ -926,8 +926,8 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.735,
-          "rows_seen": 11
+          "fill_rate": 0.7427240323611111,
+          "rows_seen": 12
         },
         {
           "id": 237864,
@@ -938,14 +938,14 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.6416666666666666,
-          "rows_seen": 10
+          "fill_rate": 0.6521110752314814,
+          "rows_seen": 11
         },
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.9333333333333332,
-          "rows_seen": 14
+          "fill_rate": 0.9352764496759258,
+          "rows_seen": 15
         },
         {
           "id": 480851,
@@ -1052,8 +1052,8 @@
         {
           "id": 404813,
           "du_name": "Austurstræti",
-          "fill_rate": 0.125,
-          "rows_seen": 1
+          "fill_rate": 0,
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -1070,8 +1070,8 @@
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.25,
-          "rows_seen": 4
+          "fill_rate": 0.27561001555555553,
+          "rows_seen": 5
         },
         {
           "id": 235464,
@@ -1094,8 +1094,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.18333333333333335,
-          "rows_seen": 3
+          "fill_rate": 0.21121990018518522,
+          "rows_seen": 4
         },
         {
           "id": 321889,
@@ -1166,8 +1166,8 @@
         {
           "id": 438452,
           "du_name": "Hagasmári",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.4204889616666666,
+          "rows_seen": 7
         },
         {
           "id": 235466,
@@ -1280,8 +1280,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.6583333333333333,
-          "rows_seen": 11
+          "fill_rate": 0.6699995055092592,
+          "rows_seen": 12
         },
         {
           "id": 237863,
@@ -1311,7 +1311,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -1334,8 +1334,8 @@
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.22898553333333335,
-          "rows_seen": 4
+          "fill_rate": 0.3014103367129629,
+          "rows_seen": 5
         },
         {
           "id": 237866,
@@ -1448,8 +1448,8 @@
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.5,
-          "rows_seen": 3
+          "fill_rate": 0.5469672278703703,
+          "rows_seen": 4
         },
         {
           "id": 319979,
@@ -1544,8 +1544,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.23500000000000001,
-          "rows_seen": 4
+          "fill_rate": 0.30685979601851854,
+          "rows_seen": 5
         }
       ]
     },
@@ -1569,12 +1569,12 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.5712768663888887,
+          "fill_rate": 0.6139855333333333,
           "rows_seen": 11
         },
         {
@@ -1586,8 +1586,8 @@
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.40729133305555554,
-          "rows_seen": 7
+          "fill_rate": 0.4687815481944444,
+          "rows_seen": 8
         },
         {
           "id": 235464,
@@ -1610,8 +1610,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.13333333333333333,
-          "rows_seen": 2
+          "fill_rate": 0.18651717444444446,
+          "rows_seen": 4
         },
         {
           "id": 321889,
@@ -1640,8 +1640,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.8072630666666666,
-          "rows_seen": 12
+          "fill_rate": 0.7999666666666666,
+          "rows_seen": 11
         },
         {
           "id": 237892,
@@ -1682,8 +1682,8 @@
         {
           "id": 438452,
           "du_name": "Hagasmári",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.4204889616666666,
+          "rows_seen": 7
         },
         {
           "id": 235466,
@@ -1700,26 +1700,26 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.6016666666666667,
-          "rows_seen": 9
+          "fill_rate": 0.6132769983333334,
+          "rows_seen": 10
         },
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.6406246663888888,
+          "fill_rate": 0.6833333333333333,
           "rows_seen": 6
         },
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.43065219999999993,
-          "rows_seen": 8
+          "fill_rate": 0.44724713439814806,
+          "rows_seen": 9
         },
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.6072913330555555,
-          "rows_seen": 10
+          "fill_rate": 0.6602015106944444,
+          "rows_seen": 11
         },
         {
           "id": 480851,
@@ -1742,7 +1742,7 @@
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.30895799972222227,
+          "fill_rate": 0.3516666666666667,
           "rows_seen": 7
         },
         {
@@ -1796,8 +1796,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.4973188666666666,
-          "rows_seen": 9
+          "fill_rate": 0.5144845377777777,
+          "rows_seen": 10
         },
         {
           "id": 237863,
@@ -1827,7 +1827,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -1844,8 +1844,8 @@
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.4204889616666666,
+          "rows_seen": 7
         },
         {
           "id": 235464,
@@ -1868,8 +1868,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.12394159810185185,
+          "rows_seen": 3
         },
         {
           "id": 321889,
@@ -1940,8 +1940,8 @@
         {
           "id": 438452,
           "du_name": "Hagasmári",
-          "fill_rate": 0.4666666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.484879077037037,
+          "rows_seen": 8
         },
         {
           "id": 235466,
@@ -1958,8 +1958,8 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.4016666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.4191064139814814,
+          "rows_seen": 8
         },
         {
           "id": 237864,
@@ -1970,14 +1970,14 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.19731886666666668,
-          "rows_seen": 4
+          "fill_rate": 0.22071480819444445,
+          "rows_seen": 5
         },
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.4174883135648148,
+          "rows_seen": 7
         },
         {
           "id": 480851,
@@ -2054,8 +2054,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.4973188666666666,
-          "rows_seen": 9
+          "fill_rate": 0.5144845377777777,
+          "rows_seen": 10
         },
         {
           "id": 237863,
@@ -2085,7 +2085,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -2102,14 +2102,14 @@
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.3333333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.3560988462962963,
+          "rows_seen": 6
         },
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.22898553333333335,
-          "rows_seen": 4
+          "fill_rate": 0.3014103367129629,
+          "rows_seen": 5
         },
         {
           "id": 237866,
@@ -2126,8 +2126,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.0985383848148148,
+          "rows_seen": 2
         },
         {
           "id": 321889,
@@ -2198,8 +2198,8 @@
         {
           "id": 438452,
           "du_name": "Hagasmári",
-          "fill_rate": 0.3333333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.3560988462962963,
+          "rows_seen": 6
         },
         {
           "id": 235466,
@@ -2222,8 +2222,8 @@
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.7,
-          "rows_seen": 6
+          "fill_rate": 0.7281802834259259,
+          "rows_seen": 7
         },
         {
           "id": 319979,
@@ -2312,14 +2312,14 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.6973188666666666,
-          "rows_seen": 12
+          "fill_rate": 0.7076548838888889,
+          "rows_seen": 13
         },
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.43499999999999994,
-          "rows_seen": 8
+          "fill_rate": 0.4880729181944444,
+          "rows_seen": 9
         }
       ]
     },
@@ -2343,12 +2343,12 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.37127686638888885,
+          "fill_rate": 0.4139855333333333,
           "rows_seen": 8
         },
         {
@@ -2360,7 +2360,7 @@
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.3406246663888889,
+          "fill_rate": 0.3833333333333333,
           "rows_seen": 6
         },
         {
@@ -2384,8 +2384,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.09387076180555555,
+          "rows_seen": 2
         },
         {
           "id": 321889,
@@ -2414,7 +2414,7 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.9322963999999999,
+          "fill_rate": 0.9916666666666666,
           "rows_seen": 14
         },
         {
@@ -2474,26 +2474,26 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.6683333333333333,
-          "rows_seen": 11
+          "fill_rate": 0.678000482037037,
+          "rows_seen": 12
         },
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.7739579997222221,
+          "fill_rate": 0.8166666666666667,
           "rows_seen": 8
         },
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.16398553333333335,
-          "rows_seen": 4
+          "fill_rate": 0.18835299972222225,
+          "rows_seen": 5
         },
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.5406246663888888,
-          "rows_seen": 9
+          "fill_rate": 0.5954780269907408,
+          "rows_seen": 10
         },
         {
           "id": 480851,
@@ -2516,7 +2516,7 @@
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.30895799972222227,
+          "fill_rate": 0.3516666666666667,
           "rows_seen": 7
         },
         {
@@ -2600,8 +2600,8 @@
         {
           "id": 404813,
           "du_name": "Austurstræti",
-          "fill_rate": 0.125,
-          "rows_seen": 1
+          "fill_rate": 0,
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -2642,8 +2642,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.09387076180555555,
+          "rows_seen": 2
         },
         {
           "id": 321889,
@@ -2732,8 +2732,8 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.46833333333333327,
-          "rows_seen": 8
+          "fill_rate": 0.48382996430555547,
+          "rows_seen": 9
         },
         {
           "id": 237864,
@@ -2744,14 +2744,14 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.6639855333333333,
-          "rows_seen": 11
+          "fill_rate": 0.6737793939814815,
+          "rows_seen": 12
         },
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.5333333333333333,
-          "rows_seen": 8
+          "fill_rate": 0.5469353475925925,
+          "rows_seen": 9
         },
         {
           "id": 480851,
@@ -2858,8 +2858,8 @@
         {
           "id": 404813,
           "du_name": "Austurstræti",
-          "fill_rate": 0.125,
-          "rows_seen": 1
+          "fill_rate": 0,
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -2876,8 +2876,8 @@
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.0985383848148148,
+          "rows_seen": 2
         },
         {
           "id": 235464,
@@ -2900,8 +2900,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.0985383848148148,
+          "rows_seen": 2
         },
         {
           "id": 321889,
@@ -2972,8 +2972,8 @@
         {
           "id": 438452,
           "du_name": "Hagasmári",
-          "fill_rate": 0.3333333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.3560988462962963,
+          "rows_seen": 6
         },
         {
           "id": 235466,
@@ -3086,8 +3086,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.43065219999999993,
-          "rows_seen": 8
+          "fill_rate": 0.4500944224074073,
+          "rows_seen": 9
         },
         {
           "id": 237863,
@@ -3117,7 +3117,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -3140,8 +3140,8 @@
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.16231886666666667,
-          "rows_seen": 3
+          "fill_rate": 0.24100591824074072,
+          "rows_seen": 4
         },
         {
           "id": 237866,
@@ -3254,8 +3254,8 @@
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.5,
-          "rows_seen": 3
+          "fill_rate": 0.5469672278703703,
+          "rows_seen": 4
         },
         {
           "id": 319979,
@@ -3350,8 +3350,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.23500000000000001,
-          "rows_seen": 4
+          "fill_rate": 0.30685979601851854,
+          "rows_seen": 5
         }
       ]
     },
@@ -3375,12 +3375,12 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.5712768663888887,
+          "fill_rate": 0.6139855333333333,
           "rows_seen": 11
         },
         {
@@ -3392,8 +3392,8 @@
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.3406246663888889,
-          "rows_seen": 6
+          "fill_rate": 0.404391432824074,
+          "rows_seen": 7
         },
         {
           "id": 235464,
@@ -3416,8 +3416,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.12394159810185185,
+          "rows_seen": 3
         },
         {
           "id": 321889,
@@ -3446,7 +3446,7 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.7889630666666666,
+          "fill_rate": 0.8483333333333333,
           "rows_seen": 12
         },
         {
@@ -3488,8 +3488,8 @@
         {
           "id": 438452,
           "du_name": "Hagasmári",
-          "fill_rate": 0.3333333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.3560988462962963,
+          "rows_seen": 6
         },
         {
           "id": 235466,
@@ -3506,26 +3506,26 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.6683333333333333,
-          "rows_seen": 10
+          "fill_rate": 0.678000482037037,
+          "rows_seen": 11
         },
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.7739579997222221,
+          "fill_rate": 0.8166666666666667,
           "rows_seen": 8
         },
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.43065219999999993,
-          "rows_seen": 8
+          "fill_rate": 0.44724713439814806,
+          "rows_seen": 9
         },
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.4739579997222222,
-          "rows_seen": 8
+          "fill_rate": 0.5307544766666666,
+          "rows_seen": 9
         },
         {
           "id": 480851,
@@ -3548,7 +3548,7 @@
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.2089579997222222,
+          "fill_rate": 0.2516666666666667,
           "rows_seen": 5
         },
         {
@@ -3602,8 +3602,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.5639855333333332,
-          "rows_seen": 10
+          "fill_rate": 0.578874653148148,
+          "rows_seen": 11
         },
         {
           "id": 237863,
@@ -3633,7 +3633,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -3650,8 +3650,8 @@
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 4
+          "fill_rate": 0.2917087309259259,
+          "rows_seen": 5
         },
         {
           "id": 235464,
@@ -3674,8 +3674,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.12394159810185185,
+          "rows_seen": 3
         },
         {
           "id": 321889,
@@ -3746,8 +3746,8 @@
         {
           "id": 438452,
           "du_name": "Hagasmári",
-          "fill_rate": 0.3333333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.3560988462962963,
+          "rows_seen": 6
         },
         {
           "id": 235466,
@@ -3764,8 +3764,8 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.4016666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.4191064139814814,
+          "rows_seen": 8
         },
         {
           "id": 237864,
@@ -3776,14 +3776,14 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.19731886666666668,
-          "rows_seen": 4
+          "fill_rate": 0.22071480819444445,
+          "rows_seen": 5
         },
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.4666666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.4822118638888888,
+          "rows_seen": 8
         },
         {
           "id": 480851,
@@ -3860,8 +3860,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.43065219999999993,
-          "rows_seen": 8
+          "fill_rate": 0.4500944224074073,
+          "rows_seen": 9
         },
         {
           "id": 237863,
@@ -3891,7 +3891,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -3908,14 +3908,14 @@
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.3333333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.3560988462962963,
+          "rows_seen": 6
         },
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.2956522,
-          "rows_seen": 5
+          "fill_rate": 0.3618146885648148,
+          "rows_seen": 6
         },
         {
           "id": 237866,
@@ -3932,8 +3932,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.0985383848148148,
+          "rows_seen": 2
         },
         {
           "id": 321889,
@@ -4004,8 +4004,8 @@
         {
           "id": 438452,
           "du_name": "Hagasmári",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.4204889616666666,
+          "rows_seen": 7
         },
         {
           "id": 235466,
@@ -4028,8 +4028,8 @@
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.8333333333333333,
-          "rows_seen": 8
+          "fill_rate": 0.8489890537499999,
+          "rows_seen": 9
         },
         {
           "id": 319979,
@@ -4118,14 +4118,14 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.5639855333333332,
-          "rows_seen": 10
+          "fill_rate": 0.578874653148148,
+          "rows_seen": 11
         },
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.5683333333333332,
-          "rows_seen": 10
+          "fill_rate": 0.6088816885185185,
+          "rows_seen": 11
         }
       ]
     },
@@ -4149,12 +4149,12 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.37127686638888885,
+          "fill_rate": 0.4139855333333333,
           "rows_seen": 8
         },
         {
@@ -4166,7 +4166,7 @@
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.14062466638888887,
+          "fill_rate": 0.18333333333333335,
           "rows_seen": 3
         },
         {
@@ -4190,8 +4190,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.09387076180555555,
+          "rows_seen": 2
         },
         {
           "id": 321889,
@@ -4220,7 +4220,7 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.7089630666666666,
+          "fill_rate": 0.7683333333333333,
           "rows_seen": 11
         },
         {
@@ -4280,26 +4280,26 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.5349999999999999,
-          "rows_seen": 9
+          "fill_rate": 0.5485534480092592,
+          "rows_seen": 10
         },
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.7739579997222221,
+          "fill_rate": 0.8166666666666667,
           "rows_seen": 8
         },
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.3639855333333333,
-          "rows_seen": 6
+          "fill_rate": 0.382523584074074,
+          "rows_seen": 7
         },
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.4739579997222222,
-          "rows_seen": 8
+          "fill_rate": 0.5307544766666666,
+          "rows_seen": 9
         },
         {
           "id": 480851,
@@ -4322,7 +4322,7 @@
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.30895799972222227,
+          "fill_rate": 0.3516666666666667,
           "rows_seen": 6
         },
         {
@@ -4406,8 +4406,8 @@
         {
           "id": 404813,
           "du_name": "Austurstræti",
-          "fill_rate": 0.125,
-          "rows_seen": 1
+          "fill_rate": 0,
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -4448,8 +4448,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.09387076180555555,
+          "rows_seen": 2
         },
         {
           "id": 321889,
@@ -4538,8 +4538,8 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.5349999999999999,
-          "rows_seen": 8
+          "fill_rate": 0.5485534480092592,
+          "rows_seen": 9
         },
         {
           "id": 237864,
@@ -4550,14 +4550,14 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.26398553333333336,
-          "rows_seen": 5
+          "fill_rate": 0.2854382918981482,
+          "rows_seen": 6
         },
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.6666666666666666,
-          "rows_seen": 10
+          "fill_rate": 0.6763823816203703,
+          "rows_seen": 11
         },
         {
           "id": 480851,
@@ -4664,8 +4664,8 @@
         {
           "id": 404813,
           "du_name": "Austurstræti",
-          "fill_rate": 0.125,
-          "rows_seen": 1
+          "fill_rate": 0,
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -4682,8 +4682,8 @@
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.2,
-          "rows_seen": 3
+          "fill_rate": 0.22731861555555558,
+          "rows_seen": 4
         },
         {
           "id": 235464,
@@ -4706,8 +4706,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.0985383848148148,
+          "rows_seen": 2
         },
         {
           "id": 321889,
@@ -4778,8 +4778,8 @@
         {
           "id": 438452,
           "du_name": "Hagasmári",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 4
+          "fill_rate": 0.2917087309259259,
+          "rows_seen": 5
         },
         {
           "id": 235466,
@@ -4892,8 +4892,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.2973188666666667,
-          "rows_seen": 6
+          "fill_rate": 0.3213141916666667,
+          "rows_seen": 7
         },
         {
           "id": 237863,
@@ -4923,7 +4923,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -4946,8 +4946,8 @@
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.2392156666666667,
-          "rows_seen": 4
+          "fill_rate": 0.31067947120370365,
+          "rows_seen": 5
         },
         {
           "id": 237866,
@@ -5060,8 +5060,8 @@
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.5333333333333333,
-          "rows_seen": 3
+          "fill_rate": 0.5771694037962963,
+          "rows_seen": 4
         },
         {
           "id": 319979,
@@ -5156,8 +5156,8 @@
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.10166666666666667,
-          "rows_seen": 2
+          "fill_rate": 0.18605109231481481,
+          "rows_seen": 3
         }
       ]
     },
@@ -5181,12 +5181,12 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.5815069997222222,
+          "fill_rate": 0.6242156666666666,
           "rows_seen": 10
         },
         {
@@ -5198,8 +5198,8 @@
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.4739579997222222,
-          "rows_seen": 8
+          "fill_rate": 0.5331716635648147,
+          "rows_seen": 9
         },
         {
           "id": 235464,
@@ -5222,8 +5222,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.12394159810185185,
+          "rows_seen": 3
         },
         {
           "id": 321889,
@@ -5252,7 +5252,7 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.5089630666666666,
+          "fill_rate": 0.5683333333333334,
           "rows_seen": 8
         },
         {
@@ -5294,8 +5294,8 @@
         {
           "id": 438452,
           "du_name": "Hagasmári",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 4
+          "fill_rate": 0.2917087309259259,
+          "rows_seen": 5
         },
         {
           "id": 235466,
@@ -5312,26 +5312,26 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.43499999999999994,
-          "rows_seen": 7
+          "fill_rate": 0.4514681558333333,
+          "rows_seen": 8
         },
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.6739579997222221,
+          "fill_rate": 0.7166666666666667,
           "rows_seen": 6
         },
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.307549,
-          "rows_seen": 6
+          "fill_rate": 0.32773204092592595,
+          "rows_seen": 7
         },
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.4739579997222222,
-          "rows_seen": 8
+          "fill_rate": 0.5307544766666666,
+          "rows_seen": 9
         },
         {
           "id": 480851,
@@ -5354,7 +5354,7 @@
         {
           "id": 237872,
           "du_name": "Njarðarbraut #2",
-          "fill_rate": 0.17562466638888888,
+          "fill_rate": 0.21833333333333332,
           "rows_seen": 5
         },
         {
@@ -5408,8 +5408,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.44088233333333327,
-          "rows_seen": 8
+          "fill_rate": 0.4599752651388888,
+          "rows_seen": 9
         },
         {
           "id": 237863,
@@ -5439,7 +5439,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -5456,8 +5456,8 @@
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.4204889616666666,
+          "rows_seen": 7
         },
         {
           "id": 235464,
@@ -5480,8 +5480,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.12394159810185185,
+          "rows_seen": 3
         },
         {
           "id": 321889,
@@ -5552,8 +5552,8 @@
         {
           "id": 438452,
           "du_name": "Hagasmári",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 4
+          "fill_rate": 0.2917087309259259,
+          "rows_seen": 5
         },
         {
           "id": 235466,
@@ -5570,8 +5570,8 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.5016666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.5161917061574073,
+          "rows_seen": 8
         },
         {
           "id": 237864,
@@ -5582,14 +5582,14 @@
         {
           "id": 319979,
           "du_name": "Kaplakriki #3",
-          "fill_rate": 0.14088233333333333,
-          "rows_seen": 3
+          "fill_rate": 0.16592319842592593,
+          "rows_seen": 4
         },
         {
           "id": 408992,
           "du_name": "Litlatún #1",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.4174883135648148,
+          "rows_seen": 7
         },
         {
           "id": 480851,
@@ -5666,8 +5666,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.3742156666666666,
-          "rows_seen": 7
+          "fill_rate": 0.39558514976851844,
+          "rows_seen": 8
         },
         {
           "id": 237863,
@@ -5697,7 +5697,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -5714,14 +5714,14 @@
         {
           "id": 237046,
           "du_name": "Breiðholt #2",
-          "fill_rate": 0.26666666666666666,
-          "rows_seen": 4
+          "fill_rate": 0.2917087309259259,
+          "rows_seen": 5
         },
         {
           "id": 235464,
           "du_name": "Egilshöll #1",
-          "fill_rate": 0.2392156666666667,
-          "rows_seen": 4
+          "fill_rate": 0.31067947120370365,
+          "rows_seen": 5
         },
         {
           "id": 237866,
@@ -5738,8 +5738,8 @@
         {
           "id": 456840,
           "du_name": "Fjarðarhraun",
-          "fill_rate": 0.06666666666666667,
-          "rows_seen": 1
+          "fill_rate": 0.0985383848148148,
+          "rows_seen": 2
         },
         {
           "id": 321889,
@@ -5810,8 +5810,8 @@
         {
           "id": 438452,
           "du_name": "Hagasmári",
-          "fill_rate": 0.3333333333333333,
-          "rows_seen": 5
+          "fill_rate": 0.3560988462962963,
+          "rows_seen": 6
         },
         {
           "id": 235466,
@@ -5834,8 +5834,8 @@
         {
           "id": 237864,
           "du_name": "Kaplakriki #2",
-          "fill_rate": 0.7999999999999999,
-          "rows_seen": 7
+          "fill_rate": 0.818786877824074,
+          "rows_seen": 8
         },
         {
           "id": 319979,
@@ -5924,14 +5924,14 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.5075489999999999,
-          "rows_seen": 9
+          "fill_rate": 0.5243653805092592,
+          "rows_seen": 10
         },
         {
           "id": 237863,
           "du_name": "Vesturlandsvegur #2",
-          "fill_rate": 0.43499999999999994,
-          "rows_seen": 8
+          "fill_rate": 0.4880729181944444,
+          "rows_seen": 9
         }
       ]
     },
@@ -5955,7 +5955,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -6212,8 +6212,8 @@
         {
           "id": 404813,
           "du_name": "Austurstræti",
-          "fill_rate": 0.125,
-          "rows_seen": 1
+          "fill_rate": 0,
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -6470,8 +6470,8 @@
         {
           "id": 404813,
           "du_name": "Austurstræti",
-          "fill_rate": 0.125,
-          "rows_seen": 1
+          "fill_rate": 0,
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -6729,7 +6729,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -6987,7 +6987,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -7245,7 +7245,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
@@ -7503,7 +7503,7 @@
           "id": 404813,
           "du_name": "Austurstræti",
           "fill_rate": 0,
-          "rows_seen": 0
+          "error": "HTTP 400: {\"error\": \"Invalid screen IDs provided.\"}"
         },
         {
           "id": 406591,
