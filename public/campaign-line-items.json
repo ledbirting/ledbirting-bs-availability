@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07T23:16:16.176Z",
+  "generated_at": "2026-09-08T02:59:25.300Z",
   "scope": {
-    "report_start_date": "2026-09-07",
+    "report_start_date": "2026-09-08",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 748,
-    "unique_items": 285,
+    "items_seen": 734,
+    "unique_items": 278,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -199,7 +199,7 @@
       "price": 3335000,
       "start_date": "2026-03-01",
       "end_date": "2027-12-31",
-      "seen_count": 17
+      "seen_count": 16
     },
     {
       "campaign_name": "Bestun-kanslarinn-Austurstræti-selfoss-vesturlandsvegur",
@@ -339,14 +339,6 @@
     },
     {
       "campaign_name": "Bónus / HN - sept 2026",
-      "line_item_name": "Bónus 7. sept - Mán / 10x1",
-      "price": 63500,
-      "start_date": "2026-09-07",
-      "end_date": "2026-09-07",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Bónus / HN - sept 2026",
       "line_item_name": "Bónus 9. sept - Mið / 10x1",
       "price": 63500,
       "start_date": "2026-09-09",
@@ -407,7 +399,7 @@
       "price": 341600,
       "start_date": "2026-11-30",
       "end_date": "2026-12-06",
-      "seen_count": 4
+      "seen_count": 2
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -468,7 +460,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 2
@@ -476,7 +468,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 2
@@ -899,14 +891,6 @@
     },
     {
       "campaign_name": "Happdrætti DAS / Datera - sept 2026",
-      "line_item_name": "DAS / Datera - 7. sept / 4x1",
-      "price": 27000,
-      "start_date": "2026-09-07",
-      "end_date": "2026-09-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Happdrætti DAS / Datera - sept 2026",
       "line_item_name": "DAS / Datera - 8. sept / 3x1",
       "price": 20500,
       "start_date": "2026-09-08",
@@ -935,14 +919,6 @@
       "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Háskólinn á Akureyri verkefnastjórnun með Vottun.",
-      "line_item_name": "Birtingar  01/02/03/06 sept.  BT-BH1GLT1-GRI-SMT1-VLV1",
-      "price": 176000,
-      "start_date": "2026-09-01",
-      "end_date": "2026-09-07",
       "seen_count": 2
     },
     {
@@ -991,14 +967,6 @@
       "price": 12000,
       "start_date": "2026-09-11",
       "end_date": "2026-09-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - ágúst '26",
-      "line_item_name": "Hreyfing / 7. sept / GRA, GBR Litlatún / 2x1",
-      "price": 13000,
-      "start_date": "2026-09-07",
-      "end_date": "2026-09-07",
       "seen_count": 1
     },
     {
@@ -1235,14 +1203,6 @@
     },
     {
       "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 7. sept / 4x1",
-      "price": 29500,
-      "start_date": "2026-09-07",
-      "end_date": "2026-09-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 8. sept / 4x1",
       "price": 27500,
       "start_date": "2026-09-08",
@@ -1388,17 +1348,17 @@
     {
       "campaign_name": "Luktom Píparar - Akureyri",
       "line_item_name": "Luktom Píparar - Akureyri",
-      "price": 169000,
+      "price": 42250,
       "start_date": "2026-09-04",
-      "end_date": "2026-12-03",
+      "end_date": "2026-12-04",
       "seen_count": 3
     },
     {
       "campaign_name": "Luktom Píparar - Akureyri",
       "line_item_name": "Luktom Píparar - Akureyri",
-      "price": 42250,
+      "price": 169000,
       "start_date": "2026-09-04",
-      "end_date": "2026-12-04",
+      "end_date": "2026-12-03",
       "seen_count": 3
     },
     {
@@ -1891,14 +1851,6 @@
     },
     {
       "campaign_name": "Sjóvá 05-18 sept.",
-      "line_item_name": "Sjóvá 07-sept. GRI-AK2-BT-KV2",
-      "price": 52000,
-      "start_date": "2026-09-07",
-      "end_date": "2026-09-07",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Sjóvá 05-18 sept.",
       "line_item_name": "Sjóvá 09-spt..AK1-KAPLA1-SFS1-GRI",
       "price": 57000,
       "start_date": "2026-09-09",
@@ -2239,14 +2191,6 @@
       "price": 461700,
       "start_date": "2026-08-19",
       "end_date": "2026-09-30",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "VÍS / Datera Landsbyggðin - sept '26",
-      "line_item_name": "VÍS Akureyri 1.9 til 7.9 / Sun, Mán, Mið /  AKU1, GLER2",
-      "price": 19500,
-      "start_date": "2026-09-01",
-      "end_date": "2026-09-07",
       "seen_count": 2
     },
     {
