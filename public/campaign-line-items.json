@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T07:59:17.771Z",
+  "generated_at": "2026-09-08T13:18:39.767Z",
   "scope": {
     "report_start_date": "2026-09-08",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 734,
-    "unique_items": 278,
+    "items_seen": 811,
+    "unique_items": 322,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -79,6 +79,14 @@
       "price": 2372500,
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
+      "seen_count": 4
+    },
+    {
+      "campaign_name": "Artasan - GUM - október - Signý",
+      "line_item_name": "Artasan - GUM - október - Signý",
+      "price": 693500,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-23",
       "seen_count": 4
     },
     {
@@ -474,6 +482,62 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Dressmann sept - okt.",
+      "line_item_name": "Dressmann  08-11 okt.",
+      "price": 178000,
+      "start_date": "2026-10-08",
+      "end_date": "2026-10-11",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dressmann sept - okt.",
+      "line_item_name": "Dressmann  30 sept. 02 okt.",
+      "price": 89000,
+      "start_date": "2026-09-30",
+      "end_date": "2026-10-03",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dressmann sept - okt.",
+      "line_item_name": "Dressmann 17/19 sept.",
+      "price": 89600,
+      "start_date": "2026-09-17",
+      "end_date": "2026-09-19",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dressmann sept - okt.",
+      "line_item_name": "Dressmann 18 sept.",
+      "price": 51300,
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dressmann sept - okt.",
+      "line_item_name": "Dressmann 24-26 sept.",
+      "price": 62000,
+      "start_date": "2026-09-24",
+      "end_date": "2026-09-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dressmann sept - okt.",
+      "line_item_name": "Dressmann 25 sept.",
+      "price": 32500,
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dressmann sept - okt.",
+      "line_item_name": "Dressmann 30 sept - 03 okt.",
+      "price": 74600,
+      "start_date": "2026-09-30",
+      "end_date": "2026-10-03",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Duty Free - Heinemann  / Datera - okt 2026",
       "line_item_name": "Duty Free - Heinemann / AKU1 (fim)",
       "price": 19500,
@@ -496,6 +560,14 @@
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Eldum rétt / Digido / sept 2026",
+      "line_item_name": "Eldum rétt - Heimshornadagar viðbót 9. sept / Digido / Mið",
+      "price": 81300,
+      "start_date": "2026-09-09",
+      "end_date": "2026-09-09",
+      "seen_count": 2
     },
     {
       "campaign_name": "ELKO árssamningur",
@@ -971,6 +1043,126 @@
     },
     {
       "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 12. sept / GRA / 1x1",
+      "price": 7500,
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 14.sept / BORG / 1x1",
+      "price": 6500,
+      "start_date": "2026-09-14",
+      "end_date": "2026-09-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 15.sept / BORG, GRA / 2x1",
+      "price": 14000,
+      "start_date": "2026-09-15",
+      "end_date": "2026-09-15",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 16. sept / GRA / 1x1",
+      "price": 7500,
+      "start_date": "2026-09-16",
+      "end_date": "2026-09-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 17. sept / GRA, GBR Litlatún / 2x1",
+      "price": 13000,
+      "start_date": "2026-09-17",
+      "end_date": "2026-09-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 18. sept / BORG, GBR Litlatún / 2x1",
+      "price": 12000,
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 19.sept / GRA, GBR Litlatún / 2x1",
+      "price": 13000,
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 21. sept / BORG, GRA / 2x1",
+      "price": 14000,
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-21",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 22. sept / BORG, GBR Litlatún / 2x1",
+      "price": 12000,
+      "start_date": "2026-09-22",
+      "end_date": "2026-09-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 23 .sept / GRA, GBR Litlatún / 2x1",
+      "price": 13000,
+      "start_date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 25. sept / BORG / 1x1",
+      "price": 6500,
+      "start_date": "2026-09-25",
+      "end_date": "2026-09-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 26. sept / GRA / 1x1",
+      "price": 7500,
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 28. sept / BORG, GBR Litlatún / 2x1",
+      "price": 12000,
+      "start_date": "2026-09-28",
+      "end_date": "2026-09-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 29. sept / GRA / 1x1",
+      "price": 7500,
+      "start_date": "2026-09-29",
+      "end_date": "2026-09-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
+      "line_item_name": "Hreyfing / 30. sept / GRA, GBR Litlatún / 2x1",
+      "price": 14000,
+      "start_date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Hreyfing / HN - ágúst '26",
       "line_item_name": "Hreyfing / 8. sept / BORG, GBR Litlatún / 2x1",
       "price": 12000,
       "start_date": "2026-09-08",
@@ -979,7 +1171,7 @@
     },
     {
       "campaign_name": "Hreyfing / HN - ágúst '26",
-      "line_item_name": "Hreyfing / 9. sept / BORG, GRA, GBR Litlatún / 2x1",
+      "line_item_name": "Hreyfing / 9. sept / BORG, GBR Litlatún / 2x1",
       "price": 12000,
       "start_date": "2026-09-09",
       "end_date": "2026-09-09",
@@ -1234,6 +1426,22 @@
       "seen_count": 3
     },
     {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 126000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 8
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 42000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 4
+    },
+    {
       "campaign_name": "Kavita - Nóvember (Uppfærsla á langtíma-samningnum))",
       "line_item_name": "Kavita - Nóvember",
       "price": 127500,
@@ -1348,17 +1556,17 @@
     {
       "campaign_name": "Luktom Píparar - Akureyri",
       "line_item_name": "Luktom Píparar - Akureyri",
-      "price": 42250,
+      "price": 169000,
       "start_date": "2026-09-04",
-      "end_date": "2026-12-04",
+      "end_date": "2026-12-03",
       "seen_count": 3
     },
     {
       "campaign_name": "Luktom Píparar - Akureyri",
       "line_item_name": "Luktom Píparar - Akureyri",
-      "price": 169000,
+      "price": 42250,
       "start_date": "2026-09-04",
-      "end_date": "2026-12-03",
+      "end_date": "2026-12-04",
       "seen_count": 3
     },
     {
@@ -1434,6 +1642,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Mars Media Trefjar.",
+      "line_item_name": "Mars Media Trefjar.Tækifærispakki. BT-GRI-GB. 23 okt- 05 nóv",
+      "price": 117000,
+      "start_date": "2026-10-23",
+      "end_date": "2026-11-05",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 468000,
@@ -1456,6 +1672,62 @@
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Myllan / Datera - sept 2026",
+      "line_item_name": "Myllan / Datera - 10. sept 2026 / 5x1",
+      "price": 35000,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-10",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Myllan / Datera - sept 2026",
+      "line_item_name": "Myllan / Datera - 11. sept 2026 / 4x1",
+      "price": 29500,
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Myllan / Datera - sept 2026",
+      "line_item_name": "Myllan / Datera - 12. sept 2026 / 5x1",
+      "price": 37500,
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Myllan / Datera - sept 2026",
+      "line_item_name": "Myllan / Datera - 16. sept 2026 / 4x1",
+      "price": 29500,
+      "start_date": "2026-09-16",
+      "end_date": "2026-09-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Myllan / Datera - sept 2026",
+      "line_item_name": "Myllan / Datera - 17. sept 2026 / 5x1",
+      "price": 37500,
+      "start_date": "2026-09-17",
+      "end_date": "2026-09-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Myllan / Datera - sept 2026",
+      "line_item_name": "Myllan / Datera - 18. sept 2026 / 5x1",
+      "price": 37500,
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Myllan / Datera - sept 2026",
+      "line_item_name": "Myllan / Datera - 9. sept 2026 / 4x1",
+      "price": 27000,
+      "start_date": "2026-09-09",
+      "end_date": "2026-09-09",
+      "seen_count": 2
     },
     {
       "campaign_name": "N1 árssamingur Glerártorg.",
@@ -1903,6 +2175,86 @@
       "price": 55000,
       "start_date": "2026-09-13",
       "end_date": "2026-09-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá 01 okt...AK1-KAPLA1-SFS1-GRI",
+      "price": 57000,
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-01",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá 02 okt.. GRI-AK2-BT-KV2",
+      "price": 64000,
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-02",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá 03 okt. GLT2-KAPLA2-SFS2-VLV2-VEY",
+      "price": 69000,
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá 21-spt..AK1-KAPLA1-SFS1-GRI",
+      "price": 57000,
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-21",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá 22 sept. GLT2-KAPLA2-SFS2-VLV2",
+      "price": 57000,
+      "start_date": "2026-09-22",
+      "end_date": "2026-09-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá 23-sept. GRI-AK2-BT-KV2",
+      "price": 52000,
+      "start_date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá 25-sept..AK1-KAPLA1-SFS1-GRI",
+      "price": 57000,
+      "start_date": "2026-09-25",
+      "end_date": "2026-09-25",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá 26 sept. GLT2-KAPLA2-KEV1-VLV2",
+      "price": 55000,
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá 28-sept. GRI-AK2-BT-SFS1",
+      "price": 54000,
+      "start_date": "2026-09-28",
+      "end_date": "2026-09-28",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá.30-sept. GLT-GRI-KAPLA3-KEV1",
+      "price": 55000,
+      "start_date": "2026-09-30",
+      "end_date": "2026-09-30",
       "seen_count": 1
     },
     {
