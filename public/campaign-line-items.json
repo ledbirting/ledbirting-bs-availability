@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08T23:11:54.847Z",
+  "generated_at": "2026-09-09T03:00:19.166Z",
   "scope": {
-    "report_start_date": "2026-09-08",
+    "report_start_date": "2026-09-09",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 429,
-    "unique_items": 235,
+    "items_seen": 430,
+    "unique_items": 234,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -175,7 +175,7 @@
       "price": 97500,
       "start_date": "2026-12-07",
       "end_date": "2026-12-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun-vogue-nóv-Glerártorg",
@@ -372,7 +372,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -380,7 +380,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -391,7 +391,7 @@
       "price": 178000,
       "start_date": "2026-10-08",
       "end_date": "2026-10-11",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Dressmann sept - okt.",
@@ -935,14 +935,6 @@
       "price": 27000,
       "start_date": "2026-09-30",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 8. sept / 4x1",
-      "price": 27500,
-      "start_date": "2026-09-08",
-      "end_date": "2026-09-08",
       "seen_count": 1
     },
     {
