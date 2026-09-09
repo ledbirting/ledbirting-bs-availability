@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T08:03:21.314Z",
+  "generated_at": "2026-09-09T13:22:05.033Z",
   "scope": {
     "report_start_date": "2026-09-09",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 430,
-    "unique_items": 234,
+    "items_seen": 439,
+    "unique_items": 241,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -199,6 +199,14 @@
       "price": 52000,
       "start_date": "2026-09-04",
       "end_date": "2026-09-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bílapunkturinn - September 2026",
+      "line_item_name": "9.-30. sept 2026",
+      "price": 345000,
+      "start_date": "2026-09-09",
+      "end_date": "2026-09-30",
       "seen_count": 1
     },
     {
@@ -620,7 +628,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 1
@@ -628,7 +636,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 1
@@ -964,18 +972,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 126000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 4
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 42000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 126000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 4
     },
     {
       "campaign_name": "Kavita - Nóvember (Uppfærsla á langtíma-samningnum))",
@@ -1146,6 +1154,38 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Menningarfélag Akureyrar.",
+      "line_item_name": "Menningarfélag Akureyrar. Þingvallastræti. og Glerártorg",
+      "price": 130000,
+      "start_date": "2026-09-16",
+      "end_date": "2026-10-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Menningarfélag Akureyrar.",
+      "line_item_name": "Menningarfélag Akureyrar. Þingvallastræti. og Glerártorg,",
+      "price": 78000,
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-18",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Menningarfélag Akureyrar.",
+      "line_item_name": "Menningarfélag Akureyrar. Þingvallstræti og Glerártorg.",
+      "price": 117000,
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-18",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Menningarfélag Akureyrar.",
+      "line_item_name": "Menningarfélag Akureyrar.Þingvallstraæti og Glerártorg.",
+      "price": 104000,
+      "start_date": "2026-09-16",
+      "end_date": "2026-10-03",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 468000,
@@ -1247,6 +1287,22 @@
       "price": 261000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nova 12 - 25 sept.",
+      "line_item_name": "Nova 12 - 25 sept.",
+      "price": 270900,
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nova 12 - 25 sept.",
+      "line_item_name": "Nova 12 - 25 sept.",
+      "price": 217200,
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-25",
       "seen_count": 1
     },
     {
