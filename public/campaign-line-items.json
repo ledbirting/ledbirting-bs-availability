@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T13:22:05.033Z",
+  "generated_at": "2026-09-09T18:17:43.389Z",
   "scope": {
     "report_start_date": "2026-09-09",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 439,
-    "unique_items": 241,
+    "items_seen": 443,
+    "unique_items": 245,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -218,6 +218,14 @@
       "seen_count": 4
     },
     {
+      "campaign_name": "Björgunarsveitin - 15. des - 31. des GRANDI",
+      "line_item_name": "Björgunarsveitin - 15. des - 31. des GRANDI",
+      "price": 127500,
+      "start_date": "2026-12-15",
+      "end_date": "2026-12-31",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Bónus / HN - sept 2026",
       "line_item_name": "Bónus 11. sept - Fös / 10x1",
       "price": 55000,
@@ -395,10 +403,10 @@
     },
     {
       "campaign_name": "Dressmann sept - okt.",
-      "line_item_name": "Dressmann  08-11 okt.",
+      "line_item_name": "Dressmann  07-10 okt.",
       "price": 178000,
-      "start_date": "2026-10-08",
-      "end_date": "2026-10-11",
+      "start_date": "2026-10-07",
+      "end_date": "2026-10-10",
       "seen_count": 2
     },
     {
@@ -420,7 +428,7 @@
     {
       "campaign_name": "Dressmann sept - okt.",
       "line_item_name": "Dressmann 18 sept.",
-      "price": 51300,
+      "price": 51800,
       "start_date": "2026-09-18",
       "end_date": "2026-09-18",
       "seen_count": 1
@@ -530,30 +538,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Forlagið - Bókamarkaður - 9. sept til 6.okt - Grandi",
-      "line_item_name": "Forlagið - Bókamarkaður - Grandi 17.til 23. sept",
-      "price": 50000,
-      "start_date": "2026-09-17",
-      "end_date": "2026-09-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Forlagið - Bókamarkaður - 9. sept til 6.okt - Grandi",
-      "line_item_name": "Forlagið - Bókamarkaður - Grandi 24. sept til 6. okt",
-      "price": 60000,
-      "start_date": "2026-09-24",
-      "end_date": "2026-10-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Forlagið - Bókamarkaður - 9. sept til 6.okt - Grandi",
-      "line_item_name": "Forlagið - Bókamarkaður - Grandi 9. til 15. sept",
-      "price": 77000,
-      "start_date": "2026-09-09",
-      "end_date": "2026-09-15",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Forlagið / HN - 1. til 21.des 2026",
       "line_item_name": "Forlagið - 1.des - 21.des - Lau, Sun, Mán - Höfðabakki2",
       "price": 45000,
@@ -599,6 +583,46 @@
       "price": 45000,
       "start_date": "2026-11-10",
       "end_date": "2026-11-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Forlagið Bókamarkaður - 10. sept til 4.okt - Grandi + dreifing",
+      "line_item_name": "Forlagið Bókamarkaður - 10. til 15. sept / GRA (1,5 hólf á dag)",
+      "price": 77000,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Forlagið Bókamarkaður - 10. sept til 4.okt - Grandi + dreifing",
+      "line_item_name": "Forlagið Bókamarkaður - 10. til 16. sept/ Mið, Fös / BORG, HÖF2",
+      "price": 23000,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Forlagið Bókamarkaður - 10. sept til 4.okt - Grandi + dreifing",
+      "line_item_name": "Forlagið Bókamarkaður - 16.til 23. sept / GRA (1,5 hólf á dag)",
+      "price": 81000,
+      "start_date": "2026-09-16",
+      "end_date": "2026-09-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Forlagið Bókamarkaður - 10. sept til 4.okt - Grandi + dreifing",
+      "line_item_name": "Forlagið Bókamarkaður - 17. sept til 4. okt / Lau, Sun / BRE2, EGI1, HÖF2, VES1, VES2",
+      "price": 183000,
+      "start_date": "2026-09-17",
+      "end_date": "2026-10-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Forlagið Bókamarkaður - 10. sept til 4.okt - Grandi + dreifing",
+      "line_item_name": "Forlagið Bókamarkaður - 24. sept til 4. okt / GRA (1 hólf á dag)",
+      "price": 82500,
+      "start_date": "2026-09-24",
+      "end_date": "2026-10-04",
       "seen_count": 1
     },
     {
@@ -972,18 +996,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 42000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 126000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 42000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Nóvember (Uppfærsla á langtíma-samningnum))",
@@ -1727,6 +1751,14 @@
       "price": 55000,
       "start_date": "2026-09-30",
       "end_date": "2026-09-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Skapa - Hafnartorg",
+      "line_item_name": "Skapa - Hafnartorg",
+      "price": 10000,
+      "start_date": "2026-09-16",
+      "end_date": "2026-09-16",
       "seen_count": 1
     },
     {
