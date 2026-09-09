@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T16:52:04.433Z",
+  "generated_at": "2026-09-09T21:34:26.110Z",
   "result": [
     {
       "date": "2026-09-09",
@@ -5090,8 +5090,8 @@
         {
           "id": 251695,
           "du_name": "Njarðarbraut #1",
-          "fill_rate": 0.3016666666666667,
-          "rows_seen": 6
+          "fill_rate": 0,
+          "error": "request to https://direct.broadsign.com/api/v1/reporting/fill_rate_breakdown failed, reason: read ETIMEDOUT"
         },
         {
           "id": 237872,
