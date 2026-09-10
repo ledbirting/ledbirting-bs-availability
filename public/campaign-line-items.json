@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-09T22:54:33.846Z",
+  "generated_at": "2026-09-10T03:00:55.922Z",
   "scope": {
-    "report_start_date": "2026-09-09",
+    "report_start_date": "2026-09-10",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 443,
-    "unique_items": 245,
+    "items_seen": 435,
+    "unique_items": 237,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -32,14 +32,6 @@
       "start_date": "2026-01-22",
       "end_date": "2027-01-22",
       "seen_count": 5
-    },
-    {
-      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
-      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x1 (alla daga)",
-      "price": 142200,
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-09",
-      "seen_count": 1
     },
     {
       "campaign_name": "Advania / Datera - Haustráðstefna 2026",
@@ -298,14 +290,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Bónus / HN - sept 2026",
-      "line_item_name": "Bónus 9. sept - Mið / 10x1",
-      "price": 63500,
-      "start_date": "2026-09-09",
-      "end_date": "2026-09-09",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Boozt - Sept til des",
       "line_item_name": "Boozt - Vika 39-40",
       "price": 616000,
@@ -388,7 +372,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -396,7 +380,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -463,14 +447,6 @@
       "price": 13000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-15",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Eldum rétt / Digido / sept 2026",
-      "line_item_name": "Eldum rétt - Heimshornadagar viðbót 9. sept / Digido / Mið",
-      "price": 81300,
-      "start_date": "2026-09-09",
-      "end_date": "2026-09-09",
       "seen_count": 1
     },
     {
@@ -652,7 +628,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 1
@@ -660,7 +636,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 1
@@ -970,14 +946,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 9. sept / 4x1",
-      "price": 25500,
-      "start_date": "2026-09-09",
-      "end_date": "2026-09-09",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Ilva lang tima AKU 1-GLE 2",
       "line_item_name": "Ilva lang tima AKU 1-GLE 2",
       "price": 0,
@@ -996,18 +964,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 126000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 4
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 42000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 126000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 4
     },
     {
       "campaign_name": "Kavita - Nóvember (Uppfærsla á langtíma-samningnum))",
@@ -1024,14 +992,6 @@
       "start_date": "2026-03-01",
       "end_date": "2026-12-31",
       "seen_count": 4
-    },
-    {
-      "campaign_name": "Landbjörg - Bakverðir",
-      "line_item_name": "3-9 Sept",
-      "price": 143500,
-      "start_date": "2026-09-03",
-      "end_date": "2026-09-09",
-      "seen_count": 1
     },
     {
       "campaign_name": "Landbjörg - Bakverðir",
@@ -1279,14 +1239,6 @@
       "price": 37500,
       "start_date": "2026-09-18",
       "end_date": "2026-09-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Myllan / Datera - sept 2026",
-      "line_item_name": "Myllan / Datera - 9. sept 2026 / 4x1",
-      "price": 27000,
-      "start_date": "2026-09-09",
-      "end_date": "2026-09-09",
       "seen_count": 1
     },
     {
@@ -1619,14 +1571,6 @@
     },
     {
       "campaign_name": "Sjóvá 05-18 sept.",
-      "line_item_name": "Sjóvá 09-spt..AK1-KAPLA1-SFS1-GRI",
-      "price": 57000,
-      "start_date": "2026-09-09",
-      "end_date": "2026-09-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá 05-18 sept.",
       "line_item_name": "Sjóvá 10 sept. GLT2-KAPLA2-KEV1-VLV2",
       "price": 55000,
       "start_date": "2026-09-10",
@@ -1823,7 +1767,7 @@
       "price": 26000,
       "start_date": "2026-11-08",
       "end_date": "2026-11-11",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Tónhylur Long term",
@@ -1832,14 +1776,6 @@
       "start_date": "2026-03-05",
       "end_date": "2028-04-05",
       "seen_count": 18
-    },
-    {
-      "campaign_name": "Toyota sýning 12 sept.",
-      "line_item_name": "Toyota sýning 09 sept. AK1-GLT--GRI-KAPLA2-GB-VLV2-SFS1-KEV1",
-      "price": 53500,
-      "start_date": "2026-09-09",
-      "end_date": "2026-09-09",
-      "seen_count": 1
     },
     {
       "campaign_name": "Toyota sýning 12 sept.",
