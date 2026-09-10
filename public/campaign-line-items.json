@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:34:27.495Z",
+  "generated_at": "2026-09-10T15:48:33.662Z",
   "scope": {
     "report_start_date": "2026-09-10",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 444,
-    "unique_items": 245,
+    "items_seen": 463,
+    "unique_items": 259,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -692,7 +692,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 1
@@ -700,7 +700,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 1
@@ -1042,6 +1042,54 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Kavita - 2027 árssamningur",
+      "line_item_name": "Kavita - Ágúst",
+      "price": 155000,
+      "start_date": "2027-08-09",
+      "end_date": "2027-08-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kavita - 2027 árssamningur",
+      "line_item_name": "Kavita - Apríl",
+      "price": 155000,
+      "start_date": "2027-04-05",
+      "end_date": "2027-04-09",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Kavita - 2027 árssamningur",
+      "line_item_name": "Kavita - Janúar",
+      "price": 155000,
+      "start_date": "2027-01-04",
+      "end_date": "2027-01-08",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Kavita - 2027 árssamningur",
+      "line_item_name": "Kavita - Júlí",
+      "price": 155000,
+      "start_date": "2027-07-05",
+      "end_date": "2027-07-09",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Kavita - 2027 árssamningur",
+      "line_item_name": "Kavita - Júní",
+      "price": 155000,
+      "start_date": "2027-06-07",
+      "end_date": "2027-06-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kavita - 2027 árssamningur",
+      "line_item_name": "Kavita - Nóvember",
+      "price": 155000,
+      "start_date": "2027-11-08",
+      "end_date": "2027-11-12",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Kavita - Nóvember (Uppfærsla á langtíma-samningnum))",
       "line_item_name": "Kavita - Nóvember",
       "price": 127500,
@@ -1130,6 +1178,54 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Lyfja Akureyri. 14 sept. - 02 okt.",
+      "line_item_name": "Lyfja Akureyri. 02 okt.  3 x birtingar. GLT 1 og 2",
+      "price": 39000,
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lyfja Akureyri. 14 sept. - 02 okt.",
+      "line_item_name": "Lyfja Akureyri. 14 - 20 sept. GLT 1",
+      "price": 19500,
+      "start_date": "2026-09-14",
+      "end_date": "2026-09-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lyfja Akureyri. 14 sept. - 02 okt.",
+      "line_item_name": "Lyfja Akureyri. 14 - 20 sept. GLT 2",
+      "price": 26000,
+      "start_date": "2026-09-14",
+      "end_date": "2026-09-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lyfja Akureyri. 14 sept. - 02 okt.",
+      "line_item_name": "Lyfja Akureyri. 21 - 27 sept. GLT 1",
+      "price": 26000,
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lyfja Akureyri. 14 sept. - 02 okt.",
+      "line_item_name": "Lyfja Akureyri. 21 - 27 sept. GLT 2",
+      "price": 19500,
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lyfja Akureyri. 14 sept. - 02 okt.",
+      "line_item_name": "Lyfja Akureyri. 28 sept. - 01 okt. GLT 1 og 2",
+      "price": 52000,
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-01",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Lyfjaval- okt    2026",
       "line_item_name": "Höfuðborgarsvæði",
       "price": 390000,
@@ -1191,6 +1287,22 @@
       "price": 27000,
       "start_date": "2026-09-17",
       "end_date": "2026-09-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Magnus / Augljós - Hæðasmári - sept,okt,nóv",
+      "line_item_name": "Magnus / Augljós - Hæðasmári",
+      "price": 451000,
+      "start_date": "2026-09-10",
+      "end_date": "2026-11-30",
+      "seen_count": 3
+    },
+    {
+      "campaign_name": "Magnus / Augljós - Hæðasmári - sept,okt,nóv",
+      "line_item_name": "Magnus / Augljós - Hæðasmári - sept,okt,nóv AUKA",
+      "price": 55000,
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-19",
       "seen_count": 1
     },
     {
@@ -1316,7 +1428,7 @@
     {
       "campaign_name": "Nathan Til hamingju.",
       "line_item_name": "Nathan Til hamingju",
-      "price": 368000,
+      "price": 261000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-14",
       "seen_count": 1
@@ -1324,7 +1436,7 @@
     {
       "campaign_name": "Nathan Til hamingju.",
       "line_item_name": "Nathan Til hamingju",
-      "price": 261000,
+      "price": 368000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-14",
       "seen_count": 1
