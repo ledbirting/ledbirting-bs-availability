@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T07:49:44.691Z",
+  "generated_at": "2026-09-11T13:12:57.260Z",
   "scope": {
     "report_start_date": "2026-09-11",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 454,
-    "unique_items": 250,
+    "items_seen": 449,
+    "unique_items": 247,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1147,17 +1147,17 @@
     },
     {
       "campaign_name": "Lyfja Akureyri. 14 sept. - 02 okt.",
-      "line_item_name": "Lyfja Akureyri. 14 - 20 sept. GLT 1",
-      "price": 19500,
-      "start_date": "2026-09-14",
+      "line_item_name": "Lyfja Akureyri. 15 - 20 sept. GLT 1",
+      "price": 13000,
+      "start_date": "2026-09-15",
       "end_date": "2026-09-20",
       "seen_count": 1
     },
     {
       "campaign_name": "Lyfja Akureyri. 14 sept. - 02 okt.",
-      "line_item_name": "Lyfja Akureyri. 14 - 20 sept. GLT 2",
+      "line_item_name": "Lyfja Akureyri. 15 - 20 sept. GLT 2",
       "price": 26000,
-      "start_date": "2026-09-14",
+      "start_date": "2026-09-15",
       "end_date": "2026-09-20",
       "seen_count": 1
     },
@@ -1271,38 +1271,6 @@
       "price": 117000,
       "start_date": "2026-10-23",
       "end_date": "2026-11-05",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Menningarfélag Akureyrar.",
-      "line_item_name": "Menningarfélag Akureyrar. Þingvallastræti. og Glerártorg",
-      "price": 130000,
-      "start_date": "2026-09-16",
-      "end_date": "2026-10-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Menningarfélag Akureyrar.",
-      "line_item_name": "Menningarfélag Akureyrar. Þingvallastræti. og Glerártorg,",
-      "price": 78000,
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-18",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Menningarfélag Akureyrar.",
-      "line_item_name": "Menningarfélag Akureyrar. Þingvallstræti og Glerártorg.",
-      "price": 117000,
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-18",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Menningarfélag Akureyrar.",
-      "line_item_name": "Menningarfélag Akureyrar.Þingvallstraæti og Glerártorg.",
-      "price": 104000,
-      "start_date": "2026-09-16",
-      "end_date": "2026-10-03",
       "seen_count": 1
     },
     {
@@ -1903,6 +1871,14 @@
       "price": 45500,
       "start_date": "2026-09-12",
       "end_date": "2026-09-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Umami sushi höfðatorg",
+      "line_item_name": "Umami Sushi - Höfðatorg 1 mán",
+      "price": 201600,
+      "start_date": "2026-09-12",
+      "end_date": "2026-10-09",
       "seen_count": 1
     },
     {
