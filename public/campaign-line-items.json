@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T22:55:29.860Z",
+  "generated_at": "2026-09-11T02:56:18.971Z",
   "scope": {
-    "report_start_date": "2026-09-10",
+    "report_start_date": "2026-09-11",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 463,
-    "unique_items": 259,
+    "items_seen": 454,
+    "unique_items": 250,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -32,14 +32,6 @@
       "start_date": "2026-01-22",
       "end_date": "2027-01-22",
       "seen_count": 5
-    },
-    {
-      "campaign_name": "Advania / Datera - Haustráðstefna 2026",
-      "line_item_name": "Advania / Datera - Haustráðstefna 2025 - 9x2 (síðasta daginn)",
-      "price": 47400,
-      "start_date": "2026-09-10",
-      "end_date": "2026-09-10",
-      "seen_count": 1
     },
     {
       "campaign_name": "Alvogen - samningur / jan til des 2026",
@@ -327,7 +319,7 @@
       "price": 350000,
       "start_date": "2026-11-09",
       "end_date": "2026-11-15",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Boozt - Sept til des",
@@ -455,7 +447,7 @@
       "price": 178000,
       "start_date": "2026-10-07",
       "end_date": "2026-10-10",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Dressmann sept - okt.",
@@ -674,22 +666,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Hagkaup Akureyri.",
-      "line_item_name": "#  Hagkaup Akureyri. GLT 06/08/10 sept.",
-      "price": 19500,
-      "start_date": "2026-09-06",
-      "end_date": "2026-09-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hagkaup Akureyri.",
-      "line_item_name": "#  Hagkaup Akureyri. GLT 16-10 sep",
-      "price": 19500,
-      "start_date": "2026-09-06",
-      "end_date": "2026-09-10",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
       "price": 264000,
@@ -735,14 +711,6 @@
       "price": 30000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - ágúst '26",
-      "line_item_name": "Hreyfing / 10. sept / BORG, GRA, GBR Litlatún / 3x1",
-      "price": 19500,
-      "start_date": "2026-09-10",
-      "end_date": "2026-09-10",
       "seen_count": 1
     },
     {
@@ -1028,18 +996,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 126000,
+      "price": 42000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
-      "seen_count": 4
+      "seen_count": 1
     },
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 42000,
+      "price": 126000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
-      "seen_count": 2
+      "seen_count": 4
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1063,7 +1031,7 @@
       "price": 155000,
       "start_date": "2027-01-04",
       "end_date": "2027-01-08",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1079,7 +1047,7 @@
       "price": 155000,
       "start_date": "2027-06-07",
       "end_date": "2027-06-11",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1151,14 +1119,6 @@
       "price": 240000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lottó 90M - Getspá  / Ennemm - 10. til 12. sept 2026",
-      "line_item_name": "Lottó 90M - Getspá  / Ennemm - 10. sept",
-      "price": 69960,
-      "start_date": "2026-09-10",
-      "end_date": "2026-09-10",
       "seen_count": 1
     },
     {
@@ -1371,14 +1331,6 @@
     },
     {
       "campaign_name": "Myllan / Datera - sept 2026",
-      "line_item_name": "Myllan / Datera - 10. sept 2026 / 5x1",
-      "price": 35000,
-      "start_date": "2026-09-10",
-      "end_date": "2026-09-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Myllan / Datera - sept 2026",
       "line_item_name": "Myllan / Datera - 11. sept 2026 / 4x1",
       "price": 29500,
       "start_date": "2026-09-11",
@@ -1428,7 +1380,7 @@
     {
       "campaign_name": "Nathan Til hamingju.",
       "line_item_name": "Nathan Til hamingju",
-      "price": 261000,
+      "price": 368000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-14",
       "seen_count": 1
@@ -1436,7 +1388,7 @@
     {
       "campaign_name": "Nathan Til hamingju.",
       "line_item_name": "Nathan Til hamingju",
-      "price": 368000,
+      "price": 261000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-14",
       "seen_count": 1
@@ -1551,15 +1503,7 @@
       "price": 86400,
       "start_date": "2026-11-09",
       "end_date": "2026-11-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Pólóborg birtingarplan.",
-      "line_item_name": "Pólóborg ehf",
-      "price": 104000,
-      "start_date": "2026-08-28",
-      "end_date": "2026-09-10",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Pólóborg birtingarplan.",
@@ -1744,14 +1688,6 @@
       "start_date": "2026-10-01",
       "end_date": "2026-10-15",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Sjóvá 05-18 sept.",
-      "line_item_name": "Sjóvá 10 sept. GLT2-KAPLA2-KEV1-VLV2",
-      "price": 55000,
-      "start_date": "2026-09-10",
-      "end_date": "2026-09-10",
-      "seen_count": 1
     },
     {
       "campaign_name": "Sjóvá 05-18 sept.",
@@ -1952,14 +1888,6 @@
       "start_date": "2026-03-05",
       "end_date": "2028-04-05",
       "seen_count": 18
-    },
-    {
-      "campaign_name": "Toyota sýning 12 sept.",
-      "line_item_name": "Toyota sýning 10 sept. AK2-EH1-GLT2-KAPLA1-KEV2-SFS2-VLV1",
-      "price": 45500,
-      "start_date": "2026-09-10",
-      "end_date": "2026-09-10",
-      "seen_count": 1
     },
     {
       "campaign_name": "Toyota sýning 12 sept.",
