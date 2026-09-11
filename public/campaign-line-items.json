@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T13:12:57.260Z",
+  "generated_at": "2026-09-11T18:09:15.207Z",
   "scope": {
     "report_start_date": "2026-09-11",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 449,
-    "unique_items": 247,
+    "items_seen": 456,
+    "unique_items": 251,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -138,12 +138,36 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Bestun -Ali-Des",
+      "line_item_name": "Bestun -Ali-Des",
+      "price": 399000,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Bestun -Ali-nóv",
+      "line_item_name": "Bestun -Ali-nóv",
+      "price": 402000,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-30",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Bestun -icetranssport feb-des-2026",
       "line_item_name": "Bestun -icetranssport feb-des-2026",
-      "price": 357000,
+      "price": 187000,
       "start_date": "2026-09-01",
       "end_date": "2026-12-31",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Bestun Ali-okt-Haust Tækifærið 2026 pakki B",
+      "line_item_name": "Bestun Ali-okt-Haust Tækifærið 2026 pakki B",
+      "price": 550200,
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-31",
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun Kjarnafæði -mars-31 des 2026",
@@ -428,7 +452,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -436,7 +460,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -619,17 +643,17 @@
     },
     {
       "campaign_name": "Forlagið Bókamarkaður - 10. sept til 4.okt - Grandi + dreifing",
-      "line_item_name": "Forlagið Bókamarkaður - 10. til 15. sept / GRA (1,5 hólf á dag)",
+      "line_item_name": "Forlagið Bókamarkaður - 11. til 15. sept / GRA (1,5 hólf á dag)",
       "price": 77000,
-      "start_date": "2026-09-10",
+      "start_date": "2026-09-11",
       "end_date": "2026-09-15",
       "seen_count": 1
     },
     {
       "campaign_name": "Forlagið Bókamarkaður - 10. sept til 4.okt - Grandi + dreifing",
-      "line_item_name": "Forlagið Bókamarkaður - 10. til 16. sept/ Mið, Fös / BORG, HÖF2",
+      "line_item_name": "Forlagið Bókamarkaður - 11. til 16. sept/ Mið, Fös / BORG, HÖF2",
       "price": 23000,
-      "start_date": "2026-09-10",
+      "start_date": "2026-09-11",
       "end_date": "2026-09-16",
       "seen_count": 1
     },
@@ -668,7 +692,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 264000,
+      "price": 294400,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 1
@@ -676,7 +700,7 @@
     {
       "campaign_name": "Háskóli Íslands Endurmenntun",
       "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
+      "price": 264000,
       "start_date": "2026-08-31",
       "end_date": "2026-09-13",
       "seen_count": 1
@@ -996,18 +1020,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 42000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 126000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 42000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1063,6 +1087,14 @@
       "price": 127500,
       "start_date": "2026-11-24",
       "end_date": "2026-11-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kringlan - 12-28 Sept",
+      "line_item_name": "Kringlan - Fjarðarhraun, Kaplakriki, Hagasmári - fim",
+      "price": 38600,
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-28",
       "seen_count": 1
     },
     {
@@ -1132,7 +1164,7 @@
     {
       "campaign_name": "Lottó 90M - Getspá  / Ennemm - 10. til 12. sept 2026",
       "line_item_name": "Lottó 90M - Getspá  / Ennemm - 12. sept til kl. 18",
-      "price": 80250,
+      "price": 76500,
       "start_date": "2026-09-12",
       "end_date": "2026-09-12",
       "seen_count": 1
@@ -1460,7 +1492,7 @@
     {
       "campaign_name": "Pollýanna - Nóv-Des 2026",
       "line_item_name": "Pollýanna - 27-31Nóv - Egilshöll, Hagasmári, Kaplakriki, Litlatún, Sæbraut, Smáratorg",
-      "price": 137200,
+      "price": 117200,
       "start_date": "2026-11-27",
       "end_date": "2026-11-30",
       "seen_count": 1
@@ -1468,7 +1500,7 @@
     {
       "campaign_name": "Pollýanna - Nóv-Des 2026",
       "line_item_name": "Pollýanna - 9-11Nóv - Egilshöll, Hagasmári, Litlatún, Sæbraut, Vesturlandsvegur",
-      "price": 86400,
+      "price": 71400,
       "start_date": "2026-11-09",
       "end_date": "2026-11-11",
       "seen_count": 2
