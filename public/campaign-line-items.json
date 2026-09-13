@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T22:49:32.139Z",
+  "generated_at": "2026-09-13T03:03:57.107Z",
   "scope": {
-    "report_start_date": "2026-09-12",
+    "report_start_date": "2026-09-13",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 448,
-    "unique_items": 242,
+    "items_seen": 437,
+    "unique_items": 237,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -367,7 +367,7 @@
       "price": 99600,
       "start_date": "2026-11-10",
       "end_date": "2026-11-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "BY-Lovisa inneign",
@@ -436,7 +436,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -444,7 +444,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -711,14 +711,6 @@
       "price": 30000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - ágúst '26",
-      "line_item_name": "Hreyfing / 12. sept / GRA / 1x1",
-      "price": 7500,
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
       "seen_count": 1
     },
     {
@@ -1007,7 +999,7 @@
       "price": 126000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
-      "seen_count": 3
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1039,7 +1031,7 @@
       "price": 155000,
       "start_date": "2027-07-05",
       "end_date": "2027-07-09",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1127,14 +1119,6 @@
       "price": 240000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lottó 90M - Getspá  / Ennemm - 10. til 12. sept 2026",
-      "line_item_name": "Lottó 90M - Getspá  / Ennemm - 12. sept til kl. 18",
-      "price": 76500,
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
       "seen_count": 1
     },
     {
@@ -1299,14 +1283,6 @@
     },
     {
       "campaign_name": "Myllan / Datera - sept 2026",
-      "line_item_name": "Myllan / Datera - 12. sept 2026 / 5x1",
-      "price": 37500,
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Myllan / Datera - sept 2026",
       "line_item_name": "Myllan / Datera - 16. sept 2026 / 4x1",
       "price": 29500,
       "start_date": "2026-09-16",
@@ -1340,7 +1316,7 @@
     {
       "campaign_name": "Nathan Til hamingju.",
       "line_item_name": "Nathan Til hamingju",
-      "price": 261000,
+      "price": 368000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-14",
       "seen_count": 1
@@ -1348,7 +1324,7 @@
     {
       "campaign_name": "Nathan Til hamingju.",
       "line_item_name": "Nathan Til hamingju",
-      "price": 368000,
+      "price": 261000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-14",
       "seen_count": 1
@@ -1392,14 +1368,6 @@
       "start_date": "2026-07-13",
       "end_date": "2027-09-14",
       "seen_count": 13
-    },
-    {
-      "campaign_name": "Orkan - Ágúst 2026",
-      "line_item_name": "V37",
-      "price": 438900,
-      "start_date": "2026-09-06",
-      "end_date": "2026-09-12",
-      "seen_count": 1
     },
     {
       "campaign_name": "Orkan - Ágúst 2026",
@@ -1455,7 +1423,7 @@
       "price": 71400,
       "start_date": "2026-11-09",
       "end_date": "2026-11-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Pris - September",
@@ -1615,7 +1583,7 @@
       "price": 78000,
       "start_date": "2026-11-30",
       "end_date": "2026-12-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Sérefni (okt , nóv og des)",
@@ -1815,7 +1783,7 @@
       "price": 26000,
       "start_date": "2026-11-08",
       "end_date": "2026-11-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Tónhylur Long term",
@@ -1824,14 +1792,6 @@
       "start_date": "2026-03-05",
       "end_date": "2028-04-05",
       "seen_count": 18
-    },
-    {
-      "campaign_name": "Toyota sýning 12 sept.",
-      "line_item_name": "Toyota sýning 12 sept. AK2-EH1-GLT2-KAPLA1-KEV2-SFS2-VLV1",
-      "price": 45500,
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
-      "seen_count": 1
     },
     {
       "campaign_name": "Umami sushi höfðatorg",
