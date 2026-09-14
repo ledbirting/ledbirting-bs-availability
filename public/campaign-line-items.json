@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T22:50:58.267Z",
+  "generated_at": "2026-09-14T03:17:46.625Z",
   "scope": {
-    "report_start_date": "2026-09-13",
+    "report_start_date": "2026-09-14",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 437,
-    "unique_items": 237,
+    "items_seen": 433,
+    "unique_items": 232,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -335,7 +335,7 @@
       "price": 1335700,
       "start_date": "2026-11-12",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Boozt - Sept til des",
@@ -375,7 +375,7 @@
       "price": 149400,
       "start_date": "2026-12-10",
       "end_date": "2026-12-30",
-      "seen_count": 3
+      "seen_count": 2
     },
     {
       "campaign_name": "BY-Lovisa inneign",
@@ -436,7 +436,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -444,7 +444,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -663,22 +663,6 @@
       "price": 82500,
       "start_date": "2026-09-24",
       "end_date": "2026-10-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Gildi/optima C-þéttur pakki",
-      "line_item_name": "Gildi/optima C-þéttur pakki",
-      "price": 1050000,
-      "start_date": "2026-08-31",
-      "end_date": "2026-09-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Háskóli Íslands Endurmenntun",
-      "line_item_name": "Háskóli Íslands Endurmenntun",
-      "price": 294400,
-      "start_date": "2026-08-31",
-      "end_date": "2026-09-13",
       "seen_count": 1
     },
     {
@@ -983,15 +967,7 @@
       "price": 117000,
       "start_date": "2026-11-20",
       "end_date": "2026-12-12",
-      "seen_count": 3
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 42000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
@@ -1002,12 +978,20 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 42000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Kavita - 2027 árssamningur",
       "line_item_name": "Kavita - Ágúst",
       "price": 155000,
       "start_date": "2027-08-09",
       "end_date": "2027-08-13",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1316,14 +1300,6 @@
     {
       "campaign_name": "Nathan Til hamingju.",
       "line_item_name": "Nathan Til hamingju",
-      "price": 368000,
-      "start_date": "2026-09-01",
-      "end_date": "2026-09-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Nathan Til hamingju.",
-      "line_item_name": "Nathan Til hamingju",
       "price": 261000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-14",
@@ -1522,14 +1498,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Sahara/ Auðkenni",
-      "line_item_name": "Sahara/ Auðkenni",
-      "price": 204000,
-      "start_date": "2026-08-31",
-      "end_date": "2026-09-14",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Samkaup / Nettó - jan 2026",
       "line_item_name": "Samkaup - Nettó - samningur - Glerártorg",
       "price": 1235325,
@@ -1623,14 +1591,6 @@
       "price": 69000,
       "start_date": "2026-09-18",
       "end_date": "2026-09-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá 05-18 sept.",
-      "line_item_name": "Sjóvá.13-sept. GLT-GRI-KAPLA3-KEV1",
-      "price": 55000,
-      "start_date": "2026-09-13",
-      "end_date": "2026-09-13",
       "seen_count": 1
     },
     {
@@ -1759,7 +1719,7 @@
       "price": 19500,
       "start_date": "2026-11-12",
       "end_date": "2026-11-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Tölvutek Akureyri",
