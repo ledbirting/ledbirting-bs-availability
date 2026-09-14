@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:44:45.122Z",
+  "generated_at": "2026-09-14T17:39:18.959Z",
   "scope": {
     "report_start_date": "2026-09-14",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 430,
-    "unique_items": 227,
+    "items_seen": 448,
+    "unique_items": 245,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -972,18 +972,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 42000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 126000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 42000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1098,11 +1098,51 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Lindex - S4S / Sahara - sept 2026",
+      "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
+      "price": 139800,
+      "start_date": "2026-09-15",
+      "end_date": "2026-09-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lindex - S4S / Sahara - sept 2026",
+      "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
+      "price": 195000,
+      "start_date": "2026-09-15",
+      "end_date": "2026-09-28",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Löður - Ágúst 2026",
       "line_item_name": "BRG, BRE1, HÖF2, KAP3, SMÁ1, VES2",
       "price": 240000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lottó 130M - Getspá  / Ennemm - 17. til 19. sept 2026",
+      "line_item_name": "Lottó 130M - Getspá  / Ennemm - 17. sept",
+      "price": 84150,
+      "start_date": "2026-09-17",
+      "end_date": "2026-09-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lottó 130M - Getspá  / Ennemm - 17. til 19. sept 2026",
+      "line_item_name": "Lottó 130M - Getspá  / Ennemm - 18. sept",
+      "price": 97800,
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lottó 130M - Getspá  / Ennemm - 17. til 19. sept 2026",
+      "line_item_name": "Lottó 130M - Getspá  / Ennemm - 19. sept til kl. 18",
+      "price": 76500,
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-19",
       "seen_count": 1
     },
     {
@@ -1335,6 +1375,38 @@
       "price": 261000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nathan. Crosta Mollica",
+      "line_item_name": "Nathan. Crosta Mollica Grandi",
+      "price": 45000,
+      "start_date": "2026-09-15",
+      "end_date": "2026-09-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nathan. Crosta Mollica",
+      "line_item_name": "Nathan. Crosta Mollica. GLT2-KAPLA1-SMT:",
+      "price": 78000,
+      "start_date": "2026-09-15",
+      "end_date": "2026-09-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nathan. Crosta Mollica",
+      "line_item_name": "Nathan. Crosta Mollica. HB2-GB-BT",
+      "price": 51000,
+      "start_date": "2026-09-22",
+      "end_date": "2026-09-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nathan. Crosta Mollica",
+      "line_item_name": "Nathan. Crosta Mollica. SFS-HSMI.",
+      "price": 36900,
+      "start_date": "2026-09-22",
+      "end_date": "2026-09-28",
       "seen_count": 1
     },
     {
@@ -1639,6 +1711,78 @@
       "price": 69000,
       "start_date": "2026-09-18",
       "end_date": "2026-09-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá 01 okt...AK1-KAPLA1-SFS1-GRI",
+      "price": 57000,
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá 02 okt.. GRI-AK2-BT-KV2",
+      "price": 64000,
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá 03 okt. GLT2-KAPLA2-SFS2-VLV2-VEY",
+      "price": 69000,
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá 22 sept. GLT2-KAPLA2-SFS2-VLV2",
+      "price": 57000,
+      "start_date": "2026-09-22",
+      "end_date": "2026-09-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá 23-sept. GRI-AK2-BT-KV2",
+      "price": 52000,
+      "start_date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá 25-sept..AK1-KAPLA1-SFS1-GRI",
+      "price": 57000,
+      "start_date": "2026-09-25",
+      "end_date": "2026-09-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá 26 sept. GLT2-KAPLA2-KEV1-VLV2",
+      "price": 55000,
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá 28-sept. GRI-AK2-BT-SFS1",
+      "price": 54000,
+      "start_date": "2026-09-28",
+      "end_date": "2026-09-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sjóvá 21 sept. -03 okt..",
+      "line_item_name": "Sjóvá.30-sept. GLT-GRI-KAPLA3-KEV1",
+      "price": 55000,
+      "start_date": "2026-09-30",
+      "end_date": "2026-09-30",
       "seen_count": 1
     },
     {
