@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T03:17:46.625Z",
+  "generated_at": "2026-09-14T11:44:45.122Z",
   "scope": {
     "report_start_date": "2026-09-14",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 433,
-    "unique_items": 232,
+    "items_seen": 430,
+    "unique_items": 227,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -972,18 +972,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 126000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 42000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 126000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1242,6 +1242,38 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Menningarfélag Akureyrar.",
+      "line_item_name": "Menningarfélag Akureyrar. Þingvallastræti. og Glerártorg",
+      "price": 130000,
+      "start_date": "2026-09-16",
+      "end_date": "2026-10-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Menningarfélag Akureyrar.",
+      "line_item_name": "Menningarfélag Akureyrar. Þingvallastræti. og Glerártorg,",
+      "price": 78000,
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-18",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Menningarfélag Akureyrar.",
+      "line_item_name": "Menningarfélag Akureyrar. Þingvallstræti og Glerártorg.",
+      "price": 117000,
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-18",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Menningarfélag Akureyrar.",
+      "line_item_name": "Menningarfélag Akureyrar.Þingvallstraæti og Glerártorg.",
+      "price": 104000,
+      "start_date": "2026-09-16",
+      "end_date": "2026-10-03",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Minjasafnið á Akureyri - Langtíma",
       "line_item_name": "Minjasafnið á Akureyri - Langtíma",
       "price": 468000,
@@ -1344,6 +1376,22 @@
       "start_date": "2026-07-13",
       "end_date": "2027-09-14",
       "seen_count": 13
+    },
+    {
+      "campaign_name": "Orka Náttúrunnar ( ON ) - Appið  / Digido - sept 2026",
+      "line_item_name": "Orka Náttúrunnar ON - Lau / GLER1, NJA1 (19. sept)",
+      "price": 12000,
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orka Náttúrunnar ( ON ) - Appið  / Digido - sept 2026",
+      "line_item_name": "Orka Náttúrunnar ON - Þri og Mið / BORG, FJK, GLER1, KAP1, NJA2 (15. sept frá kl. 7)",
+      "price": 22644.44,
+      "start_date": "2026-09-15",
+      "end_date": "2026-09-15",
+      "seen_count": 1
     },
     {
       "campaign_name": "Orkan - Ágúst 2026",
@@ -1594,86 +1642,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Sjóvá 21 sept. -03 okt..",
-      "line_item_name": "Sjóvá 01 okt...AK1-KAPLA1-SFS1-GRI",
-      "price": 57000,
-      "start_date": "2026-10-01",
-      "end_date": "2026-10-01",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá 21 sept. -03 okt..",
-      "line_item_name": "Sjóvá 02 okt.. GRI-AK2-BT-KV2",
-      "price": 64000,
-      "start_date": "2026-10-02",
-      "end_date": "2026-10-02",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá 21 sept. -03 okt..",
-      "line_item_name": "Sjóvá 03 okt. GLT2-KAPLA2-SFS2-VLV2-VEY",
-      "price": 69000,
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá 21 sept. -03 okt..",
-      "line_item_name": "Sjóvá 21-spt..AK1-KAPLA1-SFS1-GRI",
-      "price": 57000,
-      "start_date": "2026-09-21",
-      "end_date": "2026-09-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá 21 sept. -03 okt..",
-      "line_item_name": "Sjóvá 22 sept. GLT2-KAPLA2-SFS2-VLV2",
-      "price": 57000,
-      "start_date": "2026-09-22",
-      "end_date": "2026-09-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá 21 sept. -03 okt..",
-      "line_item_name": "Sjóvá 23-sept. GRI-AK2-BT-KV2",
-      "price": 52000,
-      "start_date": "2026-09-23",
-      "end_date": "2026-09-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá 21 sept. -03 okt..",
-      "line_item_name": "Sjóvá 25-sept..AK1-KAPLA1-SFS1-GRI",
-      "price": 57000,
-      "start_date": "2026-09-25",
-      "end_date": "2026-09-25",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá 21 sept. -03 okt..",
-      "line_item_name": "Sjóvá 26 sept. GLT2-KAPLA2-KEV1-VLV2",
-      "price": 55000,
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá 21 sept. -03 okt..",
-      "line_item_name": "Sjóvá 28-sept. GRI-AK2-BT-SFS1",
-      "price": 54000,
-      "start_date": "2026-09-28",
-      "end_date": "2026-09-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá 21 sept. -03 okt..",
-      "line_item_name": "Sjóvá.30-sept. GLT-GRI-KAPLA3-KEV1",
-      "price": 55000,
-      "start_date": "2026-09-30",
-      "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Skapa - Hafnartorg",
       "line_item_name": "Skapa - Hafnartorg",
       "price": 10000,
@@ -1752,14 +1720,6 @@
       "start_date": "2026-03-05",
       "end_date": "2028-04-05",
       "seen_count": 18
-    },
-    {
-      "campaign_name": "Umami sushi höfðatorg",
-      "line_item_name": "Umami Sushi - Höfðatorg 1 mán",
-      "price": 201600,
-      "start_date": "2026-09-12",
-      "end_date": "2026-10-09",
-      "seen_count": 1
     },
     {
       "campaign_name": "Varmi - Águst, sept og okt",
