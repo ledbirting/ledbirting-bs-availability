@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T21:26:51.421Z",
+  "generated_at": "2026-09-15T03:19:48.687Z",
   "scope": {
-    "report_start_date": "2026-09-14",
+    "report_start_date": "2026-09-15",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 448,
-    "unique_items": 245,
+    "items_seen": 441,
+    "unique_items": 238,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -223,14 +223,6 @@
       "price": 127500,
       "start_date": "2026-12-15",
       "end_date": "2026-12-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - sept 2026",
-      "line_item_name": "Bónus 14. sept - Mán / 10x1",
-      "price": 62500,
-      "start_date": "2026-09-14",
-      "end_date": "2026-09-14",
       "seen_count": 1
     },
     {
@@ -835,14 +827,6 @@
     },
     {
       "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 14. sept / 4x1",
-      "price": 26000,
-      "start_date": "2026-09-14",
-      "end_date": "2026-09-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 15. sept / 4x1",
       "price": 25500,
       "start_date": "2026-09-15",
@@ -1023,7 +1007,7 @@
       "price": 155000,
       "start_date": "2027-06-07",
       "end_date": "2027-06-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1031,7 +1015,7 @@
       "price": 155000,
       "start_date": "2027-11-08",
       "end_date": "2027-11-12",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Nóvember (Uppfærsla á langtíma-samningnum))",
@@ -1090,17 +1074,9 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Landsbankinn - Tvist - Sept",
-      "line_item_name": "Höfuðborgarsvæðið",
-      "price": 187800,
-      "start_date": "2026-09-02",
-      "end_date": "2026-09-15",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 139800,
+      "price": 195000,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
@@ -1108,7 +1084,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 195000,
+      "price": 139800,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
@@ -1370,14 +1346,6 @@
       "seen_count": 5
     },
     {
-      "campaign_name": "Nathan Til hamingju.",
-      "line_item_name": "Nathan Til hamingju",
-      "price": 261000,
-      "start_date": "2026-09-01",
-      "end_date": "2026-09-14",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Nathan. Crosta Mollica",
       "line_item_name": "Nathan. Crosta Mollica Grandi",
       "price": 45000,
@@ -1578,14 +1546,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Saffran - Vika - Akureyri",
-      "line_item_name": "Saffran - Vika - Glerártorg 8-14 sept",
-      "price": 45500,
-      "start_date": "2026-09-08",
-      "end_date": "2026-09-14",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Sahara-Earth Lagoon -Desember",
       "line_item_name": "Sahara-Earth Lagoon -Desember",
       "price": 377000,
@@ -1688,14 +1648,6 @@
       "start_date": "2026-10-01",
       "end_date": "2026-10-15",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Sjóvá 05-18 sept.",
-      "line_item_name": "Sjóvá 14-sept..AK1-KAPLA1-SFS1-GRI",
-      "price": 57000,
-      "start_date": "2026-09-14",
-      "end_date": "2026-09-14",
-      "seen_count": 1
     },
     {
       "campaign_name": "Sjóvá 05-18 sept.",
@@ -1951,14 +1903,6 @@
       "price": 32500,
       "start_date": "2026-09-22",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "VÍS / Datera Landsbyggðin - sept '26",
-      "line_item_name": "VÍS Akureyri 8.9 til 14.9 / Mán, Mið, Fös / AKU2, GLER1",
-      "price": 19500,
-      "start_date": "2026-09-08",
-      "end_date": "2026-09-14",
       "seen_count": 1
     },
     {
