@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T03:19:48.687Z",
+  "generated_at": "2026-09-15T11:02:13.933Z",
   "scope": {
     "report_start_date": "2026-09-15",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 441,
-    "unique_items": 238,
+    "items_seen": 453,
+    "unique_items": 248,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -428,7 +428,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -436,7 +436,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -655,6 +655,14 @@
       "price": 82500,
       "start_date": "2026-09-24",
       "end_date": "2026-10-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hagkaup Akureyri.",
+      "line_item_name": "Copy_of_#  Hagkaup Akureyri. KA 13/15 sept.",
+      "price": 32500,
+      "start_date": "2026-09-15",
+      "end_date": "2026-09-19",
       "seen_count": 1
     },
     {
@@ -970,6 +978,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Kave home - Caravan - 1 okt - Haustpakki",
+      "line_item_name": "Kave home - Caravan - 1 okt",
+      "price": 298200,
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-14",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Kavita - 2027 árssamningur",
       "line_item_name": "Kavita - Ágúst",
       "price": 155000,
@@ -1076,7 +1092,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 195000,
+      "price": 139800,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
@@ -1084,7 +1100,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 139800,
+      "price": 195000,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
@@ -1375,6 +1391,70 @@
       "price": 36900,
       "start_date": "2026-09-22",
       "end_date": "2026-09-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nova 05-31 okt.",
+      "line_item_name": "Nova 05/07/09.. BT-HSMI-SFS1-SMT1-VLV1-KAPLA2-VMEY-HÆSMI",
+      "price": 152400,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nova 05-31 okt.",
+      "line_item_name": "Nova 06/08/10/11 okt. AK1-BH2-EH1-GRI-HB1KAPLA1-HÆSMi-HAFT1",
+      "price": 182000,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nova 05-31 okt.",
+      "line_item_name": "Nova 12/14/16 okt BT-HSMI-SFS1-SMT1-VLV1-KAPLA2-GB-BH1-FJH",
+      "price": 167400,
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-18",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Nova 05-31 okt.",
+      "line_item_name": "Nova 13/15/17/18 okt. AK1-BH2-EH1-GRI-HB2-KAPLA1-KEV1-VLV1",
+      "price": 202000,
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-18",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Nova 05-31 okt.",
+      "line_item_name": "Nova 19/21/23 okt BT-HSMI-SFS2-SMT1-VLV1-KAPLA3-GB-HÖFT1-BH1",
+      "price": 156300,
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nova 05-31 okt.",
+      "line_item_name": "Nova 22/24/25/26 okt. AK1-BH2-EH1-GRI-HB2-KAPLA1-KEV2-VLV2-HSMI",
+      "price": 225200,
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nova 05-31 okt.",
+      "line_item_name": "Nova 26/28/30 okt BT-HSMI-SFS2-SMT1-VLV1-KAPLA3-GB-HÖFT1-BH1",
+      "price": 156300,
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nova 05-31 okt.",
+      "line_item_name": "Nova 27/29/31 okt. AK1-BH2-EH1-GRI-HB2-KAPLA1-KEV1-VLV2",
+      "price": 159000,
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-31",
       "seen_count": 1
     },
     {
