@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T23:24:07.018Z",
+  "generated_at": "2026-09-16T03:15:50.334Z",
   "scope": {
-    "report_start_date": "2026-09-15",
+    "report_start_date": "2026-09-16",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 462,
-    "unique_items": 254,
+    "items_seen": 456,
+    "unique_items": 249,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -436,18 +436,18 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Deloitte 05-17 okt.",
-      "line_item_name": "Deloitte 05-17 okt.",
       "price": 336000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
+      "price": 83000,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-17",
+      "seen_count": 1
     },
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
@@ -623,7 +623,7 @@
       "price": 45000,
       "start_date": "2026-11-10",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Forlagið / HN - 10.  til 30.nóv 2026",
@@ -640,14 +640,6 @@
       "start_date": "2026-11-10",
       "end_date": "2026-11-30",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Forlagið Bókamarkaður - 10. sept til 4.okt - Grandi + dreifing",
-      "line_item_name": "Forlagið Bókamarkaður - 11. til 15. sept / GRA (1,5 hólf á dag)",
-      "price": 77000,
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-15",
-      "seen_count": 1
     },
     {
       "campaign_name": "Forlagið Bókamarkaður - 10. sept til 4.okt - Grandi + dreifing",
@@ -719,14 +711,6 @@
       "price": 30000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - ágúst '26",
-      "line_item_name": "Hreyfing / 15.sept / BORG, GRA / 2x1",
-      "price": 14000,
-      "start_date": "2026-09-15",
-      "end_date": "2026-09-15",
       "seen_count": 1
     },
     {
@@ -859,14 +843,6 @@
     },
     {
       "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 15. sept / 4x1",
-      "price": 25500,
-      "start_date": "2026-09-15",
-      "end_date": "2026-09-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 16. sept / 4x1",
       "price": 26500,
       "start_date": "2026-09-16",
@@ -988,18 +964,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 42000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 126000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 42000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 1
     },
     {
       "campaign_name": "Kave home - Caravan - 1 okt - Haustpakki",
@@ -1215,7 +1191,7 @@
       "price": 390000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-15",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Lyfjaval- okt    2026",
@@ -1231,14 +1207,6 @@
       "price": 390000,
       "start_date": "2026-09-16",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lyfjaval- sept   2026",
-      "line_item_name": "Höfuðborgarsvæði - 2",
-      "price": 130800,
-      "start_date": "2026-09-07",
-      "end_date": "2026-09-15",
       "seen_count": 1
     },
     {
@@ -1546,14 +1514,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Orka Náttúrunnar ( ON ) - Appið  / Digido - sept 2026",
-      "line_item_name": "Orka Náttúrunnar ON - Þri og Mið / BORG, FJK, GLER1, KAP1, NJA2 (15. sept frá kl. 7)",
-      "price": 22644.44,
-      "start_date": "2026-09-15",
-      "end_date": "2026-09-15",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Orkan - Ágúst 2026",
       "line_item_name": "V38",
       "price": 173478.26,
@@ -1767,7 +1727,7 @@
       "price": 97500,
       "start_date": "2026-10-01",
       "end_date": "2026-10-15",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Sjóvá 05-18 sept.",
