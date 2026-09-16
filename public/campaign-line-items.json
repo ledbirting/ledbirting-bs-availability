@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T16:05:54.636Z",
+  "generated_at": "2026-09-16T20:51:13.844Z",
   "scope": {
     "report_start_date": "2026-09-16",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 459,
-    "unique_items": 250,
+    "items_seen": 460,
+    "unique_items": 251,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -40,6 +40,14 @@
       "start_date": "2026-01-05",
       "end_date": "2026-12-31",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Arion banki - Konur fjárfestum / Digido - sept 2026",
+      "line_item_name": "Arion banki - Konur fjárfestum / Digido - Mið",
+      "price": 41000,
+      "start_date": "2026-09-17",
+      "end_date": "2026-09-30",
+      "seen_count": 1
     },
     {
       "campaign_name": "Artasan - GUM - október - Signý",
@@ -444,10 +452,10 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 166000,
+      "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Deloitte 05-17 okt.",
@@ -460,15 +468,15 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
+      "price": 166000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -476,7 +484,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -980,18 +988,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 42000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 126000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 42000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 1
     },
     {
       "campaign_name": "Kave home - Caravan - 1 okt - Haustpakki",
