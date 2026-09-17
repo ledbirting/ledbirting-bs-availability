@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T23:31:51.441Z",
+  "generated_at": "2026-09-17T03:21:33.488Z",
   "scope": {
-    "report_start_date": "2026-09-16",
+    "report_start_date": "2026-09-17",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 460,
-    "unique_items": 251,
+    "items_seen": 450,
+    "unique_items": 244,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -247,15 +247,7 @@
       "price": 127500,
       "start_date": "2026-12-15",
       "end_date": "2026-12-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - sept 2026",
-      "line_item_name": "Bónus 16. sept - Mið / 10x1",
-      "price": 65000,
-      "start_date": "2026-09-16",
-      "end_date": "2026-09-16",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bónus / HN - sept 2026",
@@ -343,7 +335,7 @@
       "price": 350000,
       "start_date": "2026-11-09",
       "end_date": "2026-11-15",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Boozt - Sept til des",
@@ -452,6 +444,14 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
+      "price": 166000,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
       "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
@@ -461,14 +461,6 @@
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
       "price": 336000,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-17",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Deloitte 05-17 okt.",
-      "line_item_name": "Deloitte 05-17 okt.",
-      "price": 166000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 2
@@ -667,14 +659,6 @@
     },
     {
       "campaign_name": "Forlagið Bókamarkaður - 10. sept til 4.okt - Grandi + dreifing",
-      "line_item_name": "Forlagið Bókamarkaður - 11. til 16. sept/ Mið, Fös / BORG, HÖF2",
-      "price": 23000,
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Forlagið Bókamarkaður - 10. sept til 4.okt - Grandi + dreifing",
       "line_item_name": "Forlagið Bókamarkaður - 16.til 23. sept / GRA (1,5 hólf á dag)",
       "price": 81000,
       "start_date": "2026-09-16",
@@ -735,14 +719,6 @@
       "price": 30000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - ágúst '26",
-      "line_item_name": "Hreyfing / 16. sept / GRA / 1x1",
-      "price": 7500,
-      "start_date": "2026-09-16",
-      "end_date": "2026-09-16",
       "seen_count": 1
     },
     {
@@ -867,14 +843,6 @@
     },
     {
       "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 16. sept / 4x1",
-      "price": 26500,
-      "start_date": "2026-09-16",
-      "end_date": "2026-09-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 17. sept / 4x1",
       "price": 27500,
       "start_date": "2026-09-17",
@@ -988,18 +956,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 126000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 42000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 126000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 2
     },
     {
       "campaign_name": "Kave home - Caravan - 1 okt - Haustpakki",
@@ -1111,7 +1079,7 @@
       "price": 187800,
       "start_date": "2026-10-05",
       "end_date": "2026-10-18",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Landsbankinn - Tvist - Sept",
@@ -1124,7 +1092,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 195000,
+      "price": 139800,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
@@ -1132,7 +1100,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 139800,
+      "price": 195000,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
@@ -1323,14 +1291,6 @@
     },
     {
       "campaign_name": "Myllan / Datera - sept 2026",
-      "line_item_name": "Myllan / Datera - 16. sept 2026 / 4x1",
-      "price": 29500,
-      "start_date": "2026-09-16",
-      "end_date": "2026-09-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Myllan / Datera - sept 2026",
       "line_item_name": "Myllan / Datera - 17. sept 2026 / 5x1",
       "price": 37500,
       "start_date": "2026-09-17",
@@ -1407,7 +1367,7 @@
       "price": 167400,
       "start_date": "2026-10-12",
       "end_date": "2026-10-18",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Nova 05-31 okt.",
@@ -1755,14 +1715,6 @@
     },
     {
       "campaign_name": "Sjóvá 05-18 sept.",
-      "line_item_name": "Sjóvá 16-sept. GRI-AK2-BT-KV2",
-      "price": 64000,
-      "start_date": "2026-09-16",
-      "end_date": "2026-09-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá 05-18 sept.",
       "line_item_name": "Sjóvá 18 sept. GLT2-KAPLA2-SFS2-VLV2-VEY",
       "price": 69000,
       "start_date": "2026-09-18",
@@ -1831,14 +1783,6 @@
       "price": 55000,
       "start_date": "2026-09-30",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Skapa - Hafnartorg",
-      "line_item_name": "Skapa - Hafnartorg",
-      "price": 10000,
-      "start_date": "2026-09-16",
-      "end_date": "2026-09-16",
       "seen_count": 1
     },
     {
