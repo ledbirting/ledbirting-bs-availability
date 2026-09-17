@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T10:55:51.578Z",
+  "generated_at": "2026-09-17T16:12:24.139Z",
   "scope": {
     "report_start_date": "2026-09-17",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 450,
-    "unique_items": 244,
+    "items_seen": 451,
+    "unique_items": 245,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -452,23 +452,23 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Deloitte 05-17 okt.",
-      "line_item_name": "Deloitte 05-17 okt.",
       "price": 336000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 2
     },
     {
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
+      "price": 83000,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-17",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -476,7 +476,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -525,8 +525,8 @@
       "campaign_name": "Dressmann sept - okt.",
       "line_item_name": "Dressmann 25 sept.",
       "price": 32500,
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
+      "start_date": "2026-09-25",
+      "end_date": "2026-09-25",
       "seen_count": 1
     },
     {
@@ -1058,6 +1058,14 @@
       "seen_count": 4
     },
     {
+      "campaign_name": "Krónan Breyttar dagsetningar,.",
+      "line_item_name": "Krónan 20/22 sept. GRA",
+      "price": 30000,
+      "start_date": "2026-09-20",
+      "end_date": "2026-09-22",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Landbjörg - Bakverðir",
       "line_item_name": "9-18 Sept",
       "price": 190000,
@@ -1092,7 +1100,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 139800,
+      "price": 195000,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
@@ -1100,7 +1108,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 195000,
+      "price": 139800,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
