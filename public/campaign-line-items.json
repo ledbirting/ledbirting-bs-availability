@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:32:07.267Z",
+  "generated_at": "2026-09-18T15:47:44.391Z",
   "scope": {
     "report_start_date": "2026-09-18",
     "report_end_date": "2099-12-31",
@@ -1739,16 +1739,16 @@
     },
     {
       "campaign_name": "Sjóvá 21 sept. -03 okt..",
-      "line_item_name": "Sjóvá 02 okt.. GRI-AK2-BT-KV2-VMEY",
-      "price": 64000,
+      "line_item_name": "Sjóvá 02 okt.. GRI-AK2-BT-KV2.",
+      "price": 52000,
       "start_date": "2026-10-02",
       "end_date": "2026-10-02",
       "seen_count": 1
     },
     {
       "campaign_name": "Sjóvá 21 sept. -03 okt..",
-      "line_item_name": "Sjóvá 03 okt. GLT2-KAPLA2-SFS2-VLV2-VEY",
-      "price": 69000,
+      "line_item_name": "Sjóvá 03 okt. GLT2-KAPLA2-SFS2-VLV2.",
+      "price": 57000,
       "start_date": "2026-10-03",
       "end_date": "2026-10-03",
       "seen_count": 1
