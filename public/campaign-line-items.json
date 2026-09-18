@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T23:22:38.570Z",
+  "generated_at": "2026-09-18T03:07:37.723Z",
   "scope": {
-    "report_start_date": "2026-09-17",
+    "report_start_date": "2026-09-18",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 451,
-    "unique_items": 245,
+    "items_seen": 444,
+    "unique_items": 240,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -127,14 +127,6 @@
       "price": 121000,
       "start_date": "2026-08-20",
       "end_date": "2026-09-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bestun - Epli - 10 til 17 sept",
-      "line_item_name": "Bestun - Epli - 10 til 17 sept",
-      "price": 517800,
-      "start_date": "2026-09-10",
-      "end_date": "2026-09-17",
       "seen_count": 1
     },
     {
@@ -455,7 +447,7 @@
       "price": 336000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Deloitte 05-17 okt.",
@@ -723,14 +715,6 @@
     },
     {
       "campaign_name": "Hreyfing / HN - ágúst '26",
-      "line_item_name": "Hreyfing / 17. sept / GRA, GBR Litlatún / 2x1",
-      "price": 13000,
-      "start_date": "2026-09-17",
-      "end_date": "2026-09-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - ágúst '26",
       "line_item_name": "Hreyfing / 19.sept / GRA, GBR Litlatún / 2x1",
       "price": 13000,
       "start_date": "2026-09-19",
@@ -839,14 +823,6 @@
       "price": 510000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 17. sept / 4x1",
-      "price": 27500,
-      "start_date": "2026-09-17",
-      "end_date": "2026-09-17",
       "seen_count": 1
     },
     {
@@ -991,7 +967,7 @@
       "price": 155000,
       "start_date": "2027-08-09",
       "end_date": "2027-08-13",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1123,14 +1099,6 @@
     },
     {
       "campaign_name": "Lottó 130M - Getspá  / Ennemm - 17. til 19. sept 2026",
-      "line_item_name": "Lottó 130M - Getspá  / Ennemm - 17. sept",
-      "price": 84150,
-      "start_date": "2026-09-17",
-      "end_date": "2026-09-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lottó 130M - Getspá  / Ennemm - 17. til 19. sept 2026",
       "line_item_name": "Lottó 130M - Getspá  / Ennemm - 18. sept",
       "price": 97800,
       "start_date": "2026-09-18",
@@ -1207,7 +1175,7 @@
       "price": 196200,
       "start_date": "2026-10-16",
       "end_date": "2026-10-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Lyfjaval- sept   2026",
@@ -1296,14 +1264,6 @@
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Myllan / Datera - sept 2026",
-      "line_item_name": "Myllan / Datera - 17. sept 2026 / 5x1",
-      "price": 37500,
-      "start_date": "2026-09-17",
-      "end_date": "2026-09-17",
-      "seen_count": 1
     },
     {
       "campaign_name": "Myllan / Datera - sept 2026",
@@ -1711,7 +1671,7 @@
       "price": 97500,
       "start_date": "2026-11-02",
       "end_date": "2026-11-16",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Sérefni (okt , nóv og des)",
