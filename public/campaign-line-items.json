@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T03:07:37.723Z",
+  "generated_at": "2026-09-18T10:32:07.267Z",
   "scope": {
     "report_start_date": "2026-09-18",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 444,
-    "unique_items": 240,
+    "items_seen": 452,
+    "unique_items": 245,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -224,6 +224,14 @@
       "start_date": "2026-09-09",
       "end_date": "2026-09-30",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Bílasala Akureyri - Okt,nóv",
+      "line_item_name": "Bílasala Akureyri - Okt,nóv",
+      "price": 396500,
+      "start_date": "2026-10-01",
+      "end_date": "2026-11-30",
+      "seen_count": 3
     },
     {
       "campaign_name": "Birtingahúsið Glerátorg ELKO.",
@@ -436,6 +444,14 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
+      "price": 83000,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
       "price": 166000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
@@ -450,17 +466,9 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Deloitte 05-17 okt.",
-      "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-17",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -468,7 +476,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -1239,6 +1247,38 @@
       "price": 117000,
       "start_date": "2026-10-23",
       "end_date": "2026-11-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Menningarfélag Akureyrar.",
+      "line_item_name": "Menningarfélag Akureyrar. Þingvallastræti. og Glerártorg",
+      "price": 130000,
+      "start_date": "2026-09-16",
+      "end_date": "2026-10-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Menningarfélag Akureyrar.",
+      "line_item_name": "Menningarfélag Akureyrar. Þingvallastræti. og Glerártorg,",
+      "price": 78000,
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Menningarfélag Akureyrar.",
+      "line_item_name": "Menningarfélag Akureyrar. Þingvallstræti og Glerártorg.",
+      "price": 117000,
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-18",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Menningarfélag Akureyrar.",
+      "line_item_name": "Menningarfélag Akureyrar.Þingvallstraæti og Glerártorg.",
+      "price": 104000,
+      "start_date": "2026-09-16",
+      "end_date": "2026-10-03",
       "seen_count": 1
     },
     {
