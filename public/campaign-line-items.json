@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T23:00:11.537Z",
+  "generated_at": "2026-09-19T03:03:39.172Z",
   "scope": {
-    "report_start_date": "2026-09-18",
+    "report_start_date": "2026-09-19",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 452,
-    "unique_items": 245,
+    "items_seen": 438,
+    "unique_items": 236,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -248,14 +248,6 @@
       "start_date": "2026-12-15",
       "end_date": "2026-12-31",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Bónus / HN - sept 2026",
-      "line_item_name": "Bónus 18. sept - Fös / 10x1",
-      "price": 63000,
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
-      "seen_count": 1
     },
     {
       "campaign_name": "Bónus / HN - sept 2026",
@@ -507,14 +499,6 @@
     },
     {
       "campaign_name": "Dressmann sept - okt.",
-      "line_item_name": "Dressmann 18 sept.",
-      "price": 51800,
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Dressmann sept - okt.",
       "line_item_name": "Dressmann 24-26 sept.",
       "price": 62000,
       "start_date": "2026-09-24",
@@ -623,7 +607,7 @@
       "price": 45000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-21",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Forlagið / HN - 1. til 21.des 2026",
@@ -835,14 +819,6 @@
     },
     {
       "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 18. sept / 5x1",
-      "price": 32000,
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 19. sept / 4x1",
       "price": 26000,
       "start_date": "2026-09-19",
@@ -1015,7 +991,7 @@
       "price": 155000,
       "start_date": "2027-11-08",
       "end_date": "2027-11-12",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Nóvember (Uppfærsla á langtíma-samningnum))",
@@ -1050,14 +1026,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Landbjörg - Bakverðir",
-      "line_item_name": "9-18 Sept",
-      "price": 190000,
-      "start_date": "2026-09-09",
-      "end_date": "2026-09-18",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Landsbankinn - Tvist - Okt",
       "line_item_name": "Landsbankinn - Tvist - Sept - Akureyri og Selfoss",
       "price": 292500,
@@ -1084,7 +1052,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 195000,
+      "price": 139800,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
@@ -1092,7 +1060,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 139800,
+      "price": 195000,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
@@ -1103,14 +1071,6 @@
       "price": 240000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lottó 130M - Getspá  / Ennemm - 17. til 19. sept 2026",
-      "line_item_name": "Lottó 130M - Getspá  / Ennemm - 18. sept",
-      "price": 97800,
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
       "seen_count": 1
     },
     {
@@ -1127,14 +1087,6 @@
       "price": 39000,
       "start_date": "2026-10-02",
       "end_date": "2026-10-02",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lyfja Akureyri. 14 sept. - 02 okt.",
-      "line_item_name": "Lyfja Akureyri. 15 - 20 sept. GLT 1",
-      "price": 13000,
-      "start_date": "2026-09-15",
-      "end_date": "2026-09-20",
       "seen_count": 1
     },
     {
@@ -1271,7 +1223,7 @@
       "price": 117000,
       "start_date": "2026-10-04",
       "end_date": "2026-10-18",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Menningarfélag Akureyrar.",
@@ -1295,7 +1247,7 @@
       "price": 736100,
       "start_date": "2026-12-01",
       "end_date": "2026-12-17",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Minstur/Mediacom Bjartur nóvember 1-30 2026",
@@ -1304,14 +1256,6 @@
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Myllan / Datera - sept 2026",
-      "line_item_name": "Myllan / Datera - 18. sept 2026 / 5x1",
-      "price": 37500,
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
-      "seen_count": 1
     },
     {
       "campaign_name": "N1 árssamingur Glerártorg.",
@@ -1383,7 +1327,7 @@
       "price": 202000,
       "start_date": "2026-10-12",
       "end_date": "2026-10-18",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Nova 05-31 okt.",
@@ -1415,14 +1359,6 @@
       "price": 159000,
       "start_date": "2026-10-26",
       "end_date": "2026-10-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Nova 12 - 25 sept.",
-      "line_item_name": "Nova 12 - 25 sept.",
-      "price": 270900,
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-18",
       "seen_count": 1
     },
     {
@@ -1719,14 +1655,6 @@
       "price": 97500,
       "start_date": "2026-10-01",
       "end_date": "2026-10-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá 05-18 sept.",
-      "line_item_name": "Sjóvá 18 sept. GLT2-KAPLA2-SFS2-VLV2-VEY",
-      "price": 69000,
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
       "seen_count": 1
     },
     {
