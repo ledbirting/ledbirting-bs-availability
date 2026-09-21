@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T22:57:27.851Z",
+  "generated_at": "2026-09-21T03:15:03.972Z",
   "scope": {
-    "report_start_date": "2026-09-20",
+    "report_start_date": "2026-09-21",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 430,
-    "unique_items": 226,
+    "items_seen": 424,
+    "unique_items": 221,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -88,14 +88,6 @@
       "start_date": "2026-10-01",
       "end_date": "2026-10-31",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Artasan - Heiða - Biokult - Hæðasmári",
-      "line_item_name": "20 ágúst til 20 sept",
-      "price": 176000,
-      "start_date": "2026-08-20",
-      "end_date": "2026-09-20",
-      "seen_count": 1
     },
     {
       "campaign_name": "Artasan -Sóley - Hæðasmári - 2026",
@@ -383,7 +375,7 @@
       "price": 99600,
       "start_date": "2026-11-19",
       "end_date": "2026-11-20",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "BY-Lovisa inneign",
@@ -428,14 +420,6 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 336000,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Deloitte 05-17 okt.",
-      "line_item_name": "Deloitte 05-17 okt.",
       "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
@@ -445,6 +429,14 @@
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
       "price": 166000,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
+      "price": 336000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -599,7 +591,7 @@
       "price": 112500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-21",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Forlagið / HN - 10.  til 30.nóv 2026",
@@ -787,14 +779,6 @@
     },
     {
       "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 20. sept / 4x1",
-      "price": 26000,
-      "start_date": "2026-09-20",
-      "end_date": "2026-09-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 21. sept / 4x1",
       "price": 28500,
       "start_date": "2026-09-21",
@@ -876,18 +860,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 42000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 126000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 42000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 1
     },
     {
       "campaign_name": "Kave home - Caravan - 1 okt - Haustpakki",
@@ -903,7 +887,7 @@
       "price": 111000,
       "start_date": "2026-11-02",
       "end_date": "2026-11-20",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1012,7 +996,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 195000,
+      "price": 139800,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
@@ -1020,7 +1004,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 139800,
+      "price": 195000,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
@@ -1039,14 +1023,6 @@
       "price": 39000,
       "start_date": "2026-10-02",
       "end_date": "2026-10-02",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lyfja Akureyri. 14 sept. - 02 okt.",
-      "line_item_name": "Lyfja Akureyri. 15 - 20 sept. GLT 2",
-      "price": 26000,
-      "start_date": "2026-09-15",
-      "end_date": "2026-09-20",
       "seen_count": 1
     },
     {
@@ -1095,14 +1071,6 @@
       "price": 390000,
       "start_date": "2026-09-16",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lýsi - sept 2026",
-      "line_item_name": "Lýsi -  10.9 til 23.9 / EGI1, GRA, KAP1, SEL1, VES1, VES2 (sun)",
-      "price": 84000,
-      "start_date": "2026-09-10",
-      "end_date": "2026-09-23",
       "seen_count": 1
     },
     {
@@ -1219,14 +1187,6 @@
     },
     {
       "campaign_name": "Nathan. Crosta Mollica",
-      "line_item_name": "Nathan. Crosta Mollica. GLT2-KAPLA1-SMT:",
-      "price": 78000,
-      "start_date": "2026-09-15",
-      "end_date": "2026-09-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Nathan. Crosta Mollica",
       "line_item_name": "Nathan. Crosta Mollica. HB2-GB-BT",
       "price": 51000,
       "start_date": "2026-09-22",
@@ -1287,7 +1247,7 @@
       "price": 225200,
       "start_date": "2026-10-19",
       "end_date": "2026-10-25",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Nova 05-31 okt.",
@@ -1687,7 +1647,7 @@
       "price": 19500,
       "start_date": "2026-11-12",
       "end_date": "2026-11-21",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Tölvutek Akureyri",
