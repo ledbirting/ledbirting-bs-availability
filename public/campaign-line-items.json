@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T03:15:03.972Z",
+  "generated_at": "2026-09-21T11:57:30.829Z",
   "scope": {
     "report_start_date": "2026-09-21",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 424,
-    "unique_items": 221,
+    "items_seen": 438,
+    "unique_items": 231,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -234,6 +234,62 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
+      "line_item_name": "Bleika slaufan 30. sept til 7. okt / Þri, Fös, Lau",
+      "price": 83700,
+      "start_date": "2026-09-30",
+      "end_date": "2026-10-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
+      "line_item_name": "Bleika slaufan 30. sept til 7.okt / Mið og Fös",
+      "price": 129600,
+      "start_date": "2026-09-30",
+      "end_date": "2026-10-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
+      "line_item_name": "Bleika slaufan 30. sept til. 7. okt / Mán, Fim og Lau",
+      "price": 82350,
+      "start_date": "2026-09-30",
+      "end_date": "2026-10-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
+      "line_item_name": "Bleika slaufan 8. til 31. okt / Mán, Mið",
+      "price": 54810,
+      "start_date": "2026-10-08",
+      "end_date": "2026-10-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
+      "line_item_name": "Bleika slaufan 8. til 31. okt / Mán, Þri og Lau",
+      "price": 89250,
+      "start_date": "2026-10-08",
+      "end_date": "2026-10-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
+      "line_item_name": "Bleika slaufan 8. til 31. okt / Sun",
+      "price": 37485,
+      "start_date": "2026-10-08",
+      "end_date": "2026-10-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
+      "line_item_name": "Bleiki dagurinn 21. okt - Bleiki dagurinn",
+      "price": 69480,
+      "start_date": "2026-10-21",
+      "end_date": "2026-10-21",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Bónus / HN - sept 2026",
       "line_item_name": "Bónus 21. sept - Mán / 10x1",
       "price": 62500,
@@ -423,6 +479,14 @@
       "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
+      "price": 124500,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-10",
       "seen_count": 1
     },
     {
@@ -442,9 +506,25 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
+      "price": 96000,
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
+      "price": 144000,
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-17",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -452,7 +532,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -996,7 +1076,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 139800,
+      "price": 195000,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
@@ -1004,7 +1084,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 195000,
+      "price": 139800,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
