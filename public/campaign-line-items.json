@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T23:48:29.109Z",
+  "generated_at": "2026-09-22T03:14:34.052Z",
   "scope": {
-    "report_start_date": "2026-09-21",
+    "report_start_date": "2026-09-22",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 438,
-    "unique_items": 231,
+    "items_seen": 431,
+    "unique_items": 224,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -291,14 +291,6 @@
     },
     {
       "campaign_name": "Bónus / HN - sept 2026",
-      "line_item_name": "Bónus 21. sept - Mán / 10x1",
-      "price": 62500,
-      "start_date": "2026-09-21",
-      "end_date": "2026-09-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - sept 2026",
       "line_item_name": "Bónus 23. sept - Mið / 10x1",
       "price": 67500,
       "start_date": "2026-09-23",
@@ -431,7 +423,7 @@
       "price": 99600,
       "start_date": "2026-11-19",
       "end_date": "2026-11-20",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "BY-Lovisa inneign",
@@ -476,14 +468,6 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-17",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Deloitte 05-17 okt.",
-      "line_item_name": "Deloitte 05-17 okt.",
       "price": 124500,
       "start_date": "2026-10-05",
       "end_date": "2026-10-10",
@@ -492,7 +476,15 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 166000,
+      "price": 83000,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-17",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
+      "price": 336000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -500,7 +492,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 336000,
+      "price": 166000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -524,7 +516,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -532,7 +524,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -724,14 +716,6 @@
     {
       "campaign_name": "Háskólinn Akueyri Stjórnenda nám",
       "line_item_name": "Háskólinn Akueyri Stjórnenda nám",
-      "price": 96600,
-      "start_date": "2026-09-16",
-      "end_date": "2026-09-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Háskólinn Akueyri Stjórnenda nám",
-      "line_item_name": "Háskólinn Akueyri Stjórnenda nám",
       "price": 97500,
       "start_date": "2026-09-25",
       "end_date": "2026-10-02",
@@ -751,14 +735,6 @@
       "price": 30000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - ágúst '26",
-      "line_item_name": "Hreyfing / 21. sept / BORG, GRA / 2x1",
-      "price": 14000,
-      "start_date": "2026-09-21",
-      "end_date": "2026-09-21",
       "seen_count": 1
     },
     {
@@ -859,14 +835,6 @@
     },
     {
       "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 21. sept / 4x1",
-      "price": 28500,
-      "start_date": "2026-09-21",
-      "end_date": "2026-09-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 22. sept / 4x1",
       "price": 26000,
       "start_date": "2026-09-22",
@@ -935,15 +903,7 @@
       "price": 117000,
       "start_date": "2026-11-20",
       "end_date": "2026-12-12",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 126000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
@@ -952,6 +912,14 @@
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 126000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 2
     },
     {
       "campaign_name": "Kave home - Caravan - 1 okt - Haustpakki",
@@ -1076,7 +1044,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 195000,
+      "price": 139800,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
@@ -1084,7 +1052,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 139800,
+      "price": 195000,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
@@ -1386,14 +1354,6 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Optima/sjávarútvegssyning",
-      "line_item_name": "Optima/sjávarútvegssyning",
-      "price": 102000,
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-21",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Orkan - Ágúst 2026",
       "line_item_name": "V39",
       "price": 173478.26,
@@ -1584,14 +1544,6 @@
       "start_date": "2023-09-12",
       "end_date": "2028-12-31",
       "seen_count": 18
-    },
-    {
-      "campaign_name": "Sérefni (7-21 sept) viðbót á langtíma",
-      "line_item_name": "Sérefni (7-21 sept)",
-      "price": 97500,
-      "start_date": "2026-09-07",
-      "end_date": "2026-09-21",
-      "seen_count": 1
     },
     {
       "campaign_name": "Sérefni (okt , nóv og des)",
@@ -1831,14 +1783,6 @@
       "price": 401700,
       "start_date": "2026-08-19",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "VÍS / Datera Landsbyggðin - sept '26",
-      "line_item_name": "VÍS Akureyri 15.9 til 21.9 / Mán, Mið, Fim / AKU1, GLER2",
-      "price": 19500,
-      "start_date": "2026-09-15",
-      "end_date": "2026-09-21",
       "seen_count": 1
     },
     {
