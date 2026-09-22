@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:14:47.893Z",
+  "generated_at": "2026-09-22T20:52:01.037Z",
   "scope": {
     "report_start_date": "2026-09-22",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 456,
-    "unique_items": 247,
+    "items_seen": 457,
+    "unique_items": 249,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -468,7 +468,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
+      "price": 166000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -476,7 +476,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 166000,
+      "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -492,7 +492,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -500,7 +500,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -908,18 +908,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 126000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 42000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 126000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 2
     },
     {
       "campaign_name": "Kave home - Caravan - 1 okt - Haustpakki",
@@ -1675,14 +1675,6 @@
     },
     {
       "campaign_name": "Securitas / Datera - sept 2026",
-      "line_item_name": "Securitas / Datera - sept 2026 / GLER1, KAP3 - (mán, fös, lau)",
-      "price": 188500,
-      "start_date": "2026-09-25",
-      "end_date": "2026-10-23",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Securitas / Datera - sept 2026",
       "line_item_name": "Securitas / Datera - sept 2026 / HÖF1, KAP2, VES2 - (þri, fim)",
       "price": 240000,
       "start_date": "2026-09-25",
@@ -1991,6 +1983,30 @@
       "price": 100000,
       "start_date": "2026-09-09",
       "end_date": "2026-09-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Weetos / Danól - Ennemm / sept 2026",
+      "line_item_name": "Weetos / Danól - Fim 24. sept",
+      "price": 52000,
+      "start_date": "2026-09-24",
+      "end_date": "2026-09-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Weetos / Danól - Ennemm / sept 2026",
+      "line_item_name": "Weetos / Danól - Fös 25. sept",
+      "price": 59500,
+      "start_date": "2026-09-25",
+      "end_date": "2026-09-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Weetos / Danól - Ennemm / sept 2026",
+      "line_item_name": "Weetos / Danól - Lau 26. sept",
+      "price": 44000,
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26",
       "seen_count": 1
     },
     {
