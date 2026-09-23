@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:44:43.072Z",
+  "generated_at": "2026-09-23T16:04:12.064Z",
   "scope": {
     "report_start_date": "2026-09-23",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 442,
-    "unique_items": 238,
+    "items_seen": 448,
+    "unique_items": 241,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -83,7 +83,7 @@
     },
     {
       "campaign_name": "Artasan - Gunnar - Hæðasmári",
-      "line_item_name": "Okt",
+      "line_item_name": "ótrivin - Okt",
       "price": 170500,
       "start_date": "2026-10-01",
       "end_date": "2026-10-31",
@@ -412,14 +412,6 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 336000,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Deloitte 05-17 okt.",
-      "line_item_name": "Deloitte 05-17 okt.",
       "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
@@ -434,11 +426,11 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Dominos Megavika. 21-27 sept.",
-      "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
-      "start_date": "2026-09-21",
-      "end_date": "2026-09-27",
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
+      "price": 336000,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-17",
       "seen_count": 1
     },
     {
@@ -448,6 +440,30 @@
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Dominos Megavika. 21-27 sept.",
+      "line_item_name": "Dominos Megavika. 21-27 sept.",
+      "price": 274000,
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Dominos Ostóber.",
+      "line_item_name": "Dominos Megavika. 09/16/23 okt.",
+      "price": 222000,
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-23",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dominos Ostóber.",
+      "line_item_name": "Dominos Ostóber. 10/17/24 okt. .",
+      "price": 231900,
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-24",
+      "seen_count": 2
     },
     {
       "campaign_name": "Dressmann sept - okt.",
@@ -844,18 +860,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 42000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 126000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 42000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 1
     },
     {
       "campaign_name": "Kave home - Caravan - 1 okt - Haustpakki",
@@ -1508,8 +1524,8 @@
     {
       "campaign_name": "Reykjalundur /landssöfnun",
       "line_item_name": "Reykjalundur /landssöfnun",
-      "price": 474000,
-      "start_date": "2026-09-28",
+      "price": 853200,
+      "start_date": "2026-09-24",
       "end_date": "2026-10-02",
       "seen_count": 1
     },
@@ -1888,6 +1904,14 @@
       "start_date": "2027-06-30",
       "end_date": "2027-07-03",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Vistor - Coldzyme - des 2026",
+      "line_item_name": "ColdZyme - HÆÐ",
+      "price": 170500,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-31",
+      "seen_count": 2
     },
     {
       "campaign_name": "Vörður / Digido  - Létt kaskótrygging - sept 2026",
