@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T03:14:48.836Z",
+  "generated_at": "2026-09-23T10:44:43.072Z",
   "scope": {
     "report_start_date": "2026-09-23",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 452,
-    "unique_items": 245,
+    "items_seen": 442,
+    "unique_items": 238,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -226,62 +226,6 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
-      "line_item_name": "Bleika slaufan 30. sept til 7. okt / Þri, Fös, Lau",
-      "price": 83700,
-      "start_date": "2026-09-30",
-      "end_date": "2026-10-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
-      "line_item_name": "Bleika slaufan 30. sept til 7.okt / Mið og Fös",
-      "price": 129600,
-      "start_date": "2026-09-30",
-      "end_date": "2026-10-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
-      "line_item_name": "Bleika slaufan 30. sept til. 7. okt / Mán, Fim og Lau",
-      "price": 82350,
-      "start_date": "2026-09-30",
-      "end_date": "2026-10-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
-      "line_item_name": "Bleika slaufan 8. til 31. okt / Mán, Mið",
-      "price": 54810,
-      "start_date": "2026-10-08",
-      "end_date": "2026-10-31",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
-      "line_item_name": "Bleika slaufan 8. til 31. okt / Mán, Þri og Lau",
-      "price": 89250,
-      "start_date": "2026-10-08",
-      "end_date": "2026-10-31",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
-      "line_item_name": "Bleika slaufan 8. til 31. okt / Sun",
-      "price": 37485,
-      "start_date": "2026-10-08",
-      "end_date": "2026-10-31",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
-      "line_item_name": "Bleiki dagurinn 21. okt - Bleiki dagurinn",
-      "price": 69480,
-      "start_date": "2026-10-21",
-      "end_date": "2026-10-21",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Bónus / HN - sept 2026",
       "line_item_name": "Bónus 23. sept - Mið / 10x1",
       "price": 67500,
@@ -468,14 +412,6 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 166000,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Deloitte 05-17 okt.",
-      "line_item_name": "Deloitte 05-17 okt.",
       "price": 336000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
@@ -490,9 +426,17 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
+      "price": 166000,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-17",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -500,7 +444,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -900,18 +844,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 126000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 42000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 126000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 2
     },
     {
       "campaign_name": "Kave home - Caravan - 1 okt - Haustpakki",
