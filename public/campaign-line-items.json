@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:05:12.614Z",
+  "generated_at": "2026-09-24T16:28:31.627Z",
   "scope": {
     "report_start_date": "2026-09-24",
     "report_end_date": "2099-12-31",
@@ -18,7 +18,7 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 457,
+    "items_seen": 458,
     "unique_items": 248,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
@@ -186,6 +186,14 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Bestun /Epli nóv 2026",
+      "line_item_name": "Bestun /Epli nóv 2026",
+      "price": 274000,
+      "start_date": "2026-11-25",
+      "end_date": "2026-11-29",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Bestun Kjarnafæði -mars-31 des 2026",
       "line_item_name": "Bestun Kjarnafæði -mars-31 des 2026",
       "price": 3335000,
@@ -216,6 +224,22 @@
       "start_date": "2026-10-01",
       "end_date": "2026-10-31",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Bestun/Epli  -Des",
+      "line_item_name": "Bestun/Epli  -Des",
+      "price": 164400,
+      "start_date": "2026-12-10",
+      "end_date": "2026-12-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bestun/Epli  -Des",
+      "line_item_name": "Bestun/Epli  -Des",
+      "price": 149400,
+      "start_date": "2026-12-17",
+      "end_date": "2026-12-19",
+      "seen_count": 1
     },
     {
       "campaign_name": "Bílapunkturinn - September 2026",
@@ -420,7 +444,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 336000,
+      "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -436,7 +460,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
+      "price": 336000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -444,7 +468,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -452,7 +476,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -528,30 +552,6 @@
       "start_date": "2026-03-01",
       "end_date": "2027-02-28",
       "seen_count": 6
-    },
-    {
-      "campaign_name": "Eyesland - Singles day - Black Friday - Cyber Monday - 1 hólf pr flöt",
-      "line_item_name": "Eyesland - Black Friday 27. nóv - 1 hólf pr flöt",
-      "price": 91000,
-      "start_date": "2026-11-27",
-      "end_date": "2026-11-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Eyesland - Singles day - Black Friday - Cyber Monday - 1 hólf pr flöt",
-      "line_item_name": "Eyesland - Cyber Monday 27. nóv - 1 hólf pr flöt",
-      "price": 91000,
-      "start_date": "2026-11-27",
-      "end_date": "2026-11-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Eyesland - Singles day - Black Friday - Cyber Monday - 1 hólf pr flöt",
-      "line_item_name": "Eyesland - Singles Day 11. nóv - 1 hólf pr flöt",
-      "price": 91000,
-      "start_date": "2026-11-11",
-      "end_date": "2026-11-11",
-      "seen_count": 1
     },
     {
       "campaign_name": "Eyesland (samningur) - mars '26 til feb '27",
@@ -844,18 +844,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 126000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 42000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 126000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 2
     },
     {
       "campaign_name": "Kave home - Caravan - 1 okt - Haustpakki",
@@ -1899,11 +1899,11 @@
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - okt '26",
-      "line_item_name": "VÍS Akureyri 22.10 til 30.10 / Mán, Þri, Fim, Lau / AKU1, GLER1",
-      "price": 32500,
-      "start_date": "2026-09-24",
-      "end_date": "2026-10-02",
-      "seen_count": 1
+      "line_item_name": "VÍS Akureyri 22.10 til 31.10 / Mán, Þri, Fim, Lau / AKU1, GLER1",
+      "price": 39000,
+      "start_date": "2026-10-22",
+      "end_date": "2026-10-31",
+      "seen_count": 2
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - okt '26",
@@ -1988,7 +1988,7 @@
     {
       "campaign_name": "Þjóðleikhúsið sept- okt.",
       "line_item_name": "Þjóðleikhúsið sept- okt.",
-      "price": 120900,
+      "price": 22500,
       "start_date": "2026-10-05",
       "end_date": "2026-10-11",
       "seen_count": 1
@@ -1996,7 +1996,7 @@
     {
       "campaign_name": "Þjóðleikhúsið sept- okt.",
       "line_item_name": "Þjóðleikhúsið sept- okt.",
-      "price": 22500,
+      "price": 120900,
       "start_date": "2026-10-05",
       "end_date": "2026-10-11",
       "seen_count": 1
