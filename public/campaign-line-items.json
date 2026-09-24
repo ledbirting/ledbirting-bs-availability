@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-23T21:03:25.466Z",
+  "generated_at": "2026-09-24T03:04:45.165Z",
   "scope": {
-    "report_start_date": "2026-09-23",
+    "report_start_date": "2026-09-24",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 448,
-    "unique_items": 241,
+    "items_seen": 439,
+    "unique_items": 234,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -55,7 +55,7 @@
       "price": 693500,
       "start_date": "2026-10-05",
       "end_date": "2026-10-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Artasan - Gunnar - Hæðasmári",
@@ -227,14 +227,6 @@
     },
     {
       "campaign_name": "Bónus / HN - sept 2026",
-      "line_item_name": "Bónus 23. sept - Mið / 10x1",
-      "price": 67500,
-      "start_date": "2026-09-23",
-      "end_date": "2026-09-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - sept 2026",
       "line_item_name": "Bónus 25. sept - Fös / 10x1",
       "price": 62500,
       "start_date": "2026-09-25",
@@ -399,7 +391,7 @@
       "price": 60000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-25",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Collab 22 - 28 okt.",
@@ -436,7 +428,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
+      "price": 274000,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -444,7 +436,7 @@
     {
       "campaign_name": "Dominos Megavika. 21-27 sept.",
       "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 274000,
+      "price": 177900,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -455,7 +447,7 @@
       "price": 222000,
       "start_date": "2026-10-09",
       "end_date": "2026-10-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Dominos Ostóber.",
@@ -651,14 +643,6 @@
     },
     {
       "campaign_name": "Forlagið Bókamarkaður - 10. sept til 4.okt - Grandi + dreifing",
-      "line_item_name": "Forlagið Bókamarkaður - 16.til 23. sept / GRA (1,5 hólf á dag)",
-      "price": 81000,
-      "start_date": "2026-09-16",
-      "end_date": "2026-09-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Forlagið Bókamarkaður - 10. sept til 4.okt - Grandi + dreifing",
       "line_item_name": "Forlagið Bókamarkaður - 17. sept til 4. okt / Lau, Sun / BRE2, EGI1, HÖF2, VES1, VES2",
       "price": 183000,
       "start_date": "2026-09-17",
@@ -695,14 +679,6 @@
       "price": 30000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - ágúst '26",
-      "line_item_name": "Hreyfing / 23 .sept / GRA, GBR Litlatún / 2x1",
-      "price": 13000,
-      "start_date": "2026-09-23",
-      "end_date": "2026-09-23",
       "seen_count": 1
     },
     {
@@ -791,14 +767,6 @@
       "price": 510000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 23. sept / 4x1",
-      "price": 28500,
-      "start_date": "2026-09-23",
-      "end_date": "2026-09-23",
       "seen_count": 1
     },
     {
@@ -1028,7 +996,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 195000,
+      "price": 139800,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
@@ -1036,7 +1004,7 @@
     {
       "campaign_name": "Lindex - S4S / Sahara - sept 2026",
       "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 139800,
+      "price": 195000,
       "start_date": "2026-09-15",
       "end_date": "2026-09-28",
       "seen_count": 1
@@ -1106,22 +1074,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Lýsi - sept 2026",
-      "line_item_name": "Lýsi - 10.9 til 23.9 / BORG, GLER1, GRA, KAP3, SEL1, VES1 (mán, mið)",
-      "price": 170000,
-      "start_date": "2026-09-10",
-      "end_date": "2026-09-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lýsi - sept 2026",
-      "line_item_name": "Lýsi - 17.9 til 23.9 / GRA (mán, mið, fös)",
-      "price": 27000,
-      "start_date": "2026-09-17",
-      "end_date": "2026-09-23",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Magnus / Augljós - Hæðasmári - sept,okt,nóv",
       "line_item_name": "Magnus / Augljós - Hæðasmári",
       "price": 451000,
@@ -1135,7 +1087,7 @@
       "price": 117000,
       "start_date": "2026-10-23",
       "end_date": "2026-11-05",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Menningarfélag Akureyrar.",
@@ -1263,7 +1215,7 @@
       "price": 156300,
       "start_date": "2026-10-19",
       "end_date": "2026-10-25",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Nova 05-31 okt.",
@@ -1675,14 +1627,6 @@
     },
     {
       "campaign_name": "Sjóvá 21 sept. -03 okt..",
-      "line_item_name": "Sjóvá 23-sept. GRI-AK2-BT-KV2",
-      "price": 52000,
-      "start_date": "2026-09-23",
-      "end_date": "2026-09-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá 21 sept. -03 okt..",
       "line_item_name": "Sjóvá 25-sept..AK1-KAPLA1-SFS1-GRI",
       "price": 57000,
       "start_date": "2026-09-25",
@@ -1791,7 +1735,7 @@
       "price": 104000,
       "start_date": "2026-11-22",
       "end_date": "2026-11-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Tölvutek Akureyri",
