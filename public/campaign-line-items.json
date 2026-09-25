@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T03:22:21.332Z",
+  "generated_at": "2026-09-25T11:06:19.642Z",
   "scope": {
     "report_start_date": "2026-09-25",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 447,
-    "unique_items": 243,
+    "items_seen": 450,
+    "unique_items": 246,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -836,25 +836,25 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 126000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 42000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 1
     },
     {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 126000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Kave home - Caravan - 1 okt - Haustpakki",
       "line_item_name": "Kave home - Caravan - 1 okt",
       "price": 298200,
-      "start_date": "2026-10-01",
-      "end_date": "2026-10-14",
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-24",
       "seen_count": 1
     },
     {
@@ -1015,6 +1015,22 @@
       "price": 240000,
       "start_date": "2026-09-01",
       "end_date": "2026-09-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Löður - Október 2026",
+      "line_item_name": "V40 og V41",
+      "price": 39333.33,
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Löður - Október 2026",
+      "line_item_name": "V44 - Halloween",
+      "price": 140000,
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-31",
       "seen_count": 1
     },
     {
@@ -1494,6 +1510,14 @@
       "line_item_name": "Ratsjá -Gildi",
       "price": 666400,
       "start_date": "2026-09-23",
+      "end_date": "2026-10-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá/66 nord útsala",
+      "line_item_name": "Ratsjá/66 nord útsala",
+      "price": 310500,
+      "start_date": "2026-09-30",
       "end_date": "2026-10-08",
       "seen_count": 1
     },
