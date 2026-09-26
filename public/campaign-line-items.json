@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T21:04:40.508Z",
+  "generated_at": "2026-09-26T03:26:54.935Z",
   "scope": {
-    "report_start_date": "2026-09-25",
+    "report_start_date": "2026-09-26",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 450,
-    "unique_items": 246,
+    "items_seen": 443,
+    "unique_items": 240,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -267,14 +267,6 @@
     },
     {
       "campaign_name": "Bónus / HN - sept 2026",
-      "line_item_name": "Bónus 25. sept - Fös / 10x1",
-      "price": 62500,
-      "start_date": "2026-09-25",
-      "end_date": "2026-09-25",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - sept 2026",
       "line_item_name": "Bónus 28. sept - Mán / 10x1",
       "price": 64000,
       "start_date": "2026-09-28",
@@ -311,7 +303,7 @@
       "price": 327600,
       "start_date": "2026-10-19",
       "end_date": "2026-10-25",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Boozt - Sept til des",
@@ -474,14 +466,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Dominos Megavika. 21-27 sept.",
-      "line_item_name": "Dominos Megavika. 21-27 sept.",
-      "price": 177900,
-      "start_date": "2026-09-21",
-      "end_date": "2026-09-27",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Dominos Ostóber.",
       "line_item_name": "Dominos Megavika. 09/16/23 okt.",
       "price": 222000,
@@ -519,14 +503,6 @@
       "price": 62000,
       "start_date": "2026-09-24",
       "end_date": "2026-09-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Dressmann sept - okt.",
-      "line_item_name": "Dressmann 25 sept.",
-      "price": 32500,
-      "start_date": "2026-09-25",
-      "end_date": "2026-09-25",
       "seen_count": 1
     },
     {
@@ -836,18 +812,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 42000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 126000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 42000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 1
     },
     {
       "campaign_name": "Kave home - Caravan - 1 okt - Haustpakki",
@@ -919,7 +895,7 @@
       "price": 127500,
       "start_date": "2026-11-24",
       "end_date": "2026-11-28",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kringlan - 1-5 okt",
@@ -1045,14 +1021,6 @@
       "campaign_name": "Lyfja Akureyri. 14 sept. - 02 okt.",
       "line_item_name": "Lyfja Akureyri. 21 - 27 sept. GLT 1",
       "price": 26000,
-      "start_date": "2026-09-21",
-      "end_date": "2026-09-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lyfja Akureyri. 14 sept. - 02 okt.",
-      "line_item_name": "Lyfja Akureyri. 21 - 27 sept. GLT 2",
-      "price": 19500,
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "seen_count": 1
@@ -1239,7 +1207,7 @@
       "price": 225200,
       "start_date": "2026-10-19",
       "end_date": "2026-10-25",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Nova 05-31 okt.",
@@ -1343,7 +1311,7 @@
       "price": 173478.26,
       "start_date": "2026-10-25",
       "end_date": "2026-10-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Óskaskrín - 9 til 30 nóv",
@@ -1667,14 +1635,6 @@
     },
     {
       "campaign_name": "Sjóvá 21 sept. -03 okt..",
-      "line_item_name": "Sjóvá 25-sept..AK1-KAPLA1-SFS1-GRI",
-      "price": 57000,
-      "start_date": "2026-09-25",
-      "end_date": "2026-09-25",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá 21 sept. -03 okt..",
       "line_item_name": "Sjóvá 28-sept. GRI-AK2-BT-SFS1",
       "price": 54000,
       "start_date": "2026-09-28",
@@ -1759,7 +1719,7 @@
       "price": 156000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-24",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Tölvutek Akureyri",
@@ -1935,14 +1895,6 @@
       "price": 100000,
       "start_date": "2026-09-09",
       "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Weetos / Danól - Ennemm / sept 2026",
-      "line_item_name": "Weetos / Danól - Fös 25. sept",
-      "price": 59500,
-      "start_date": "2026-09-25",
-      "end_date": "2026-09-25",
       "seen_count": 1
     },
     {
