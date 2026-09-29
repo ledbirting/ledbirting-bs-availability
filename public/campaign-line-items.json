@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T21:03:11.551Z",
+  "generated_at": "2026-09-29T04:09:06.956Z",
   "scope": {
-    "report_start_date": "2026-09-28",
+    "report_start_date": "2026-09-29",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 476,
-    "unique_items": 270,
+    "items_seen": 462,
+    "unique_items": 258,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -116,17 +116,17 @@
     {
       "campaign_name": "Beiersdorf. Eucerin Elasticity.",
       "line_item_name": "Beiersdorf. Eucerin Elasticity.",
-      "price": 97500,
+      "price": 187200,
       "start_date": "2026-09-29",
-      "end_date": "2026-10-31",
+      "end_date": "2026-10-05",
       "seen_count": 1
     },
     {
       "campaign_name": "Beiersdorf. Eucerin Elasticity.",
       "line_item_name": "Beiersdorf. Eucerin Elasticity.",
-      "price": 187200,
+      "price": 97500,
       "start_date": "2026-09-29",
-      "end_date": "2026-10-05",
+      "end_date": "2026-10-31",
       "seen_count": 1
     },
     {
@@ -167,7 +167,7 @@
       "price": 59000,
       "start_date": "2026-11-26",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
@@ -199,7 +199,7 @@
       "price": 273200,
       "start_date": "2026-11-27",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Berjaya - Gjafabréf / Ennemm / SD, BF og CM - nóv 2026",
@@ -231,7 +231,7 @@
       "price": 402000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Bestun -icetranssport feb-des-2026",
@@ -451,14 +451,6 @@
     },
     {
       "campaign_name": "Bónus / HN - sept 2026",
-      "line_item_name": "Bónus 28. sept - Mán / 10x1",
-      "price": 64000,
-      "start_date": "2026-09-28",
-      "end_date": "2026-09-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - sept 2026",
       "line_item_name": "Bónus 30. sept - Mið / 10x1",
       "price": 67500,
       "start_date": "2026-09-30",
@@ -599,7 +591,7 @@
       "price": 272000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Byko - Samningur - 2026",
@@ -615,12 +607,12 @@
       "price": 182000,
       "start_date": "2026-10-22",
       "end_date": "2026-10-28",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
+      "price": 166000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -636,7 +628,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 166000,
+      "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -823,14 +815,6 @@
       "price": 97500,
       "start_date": "2026-09-25",
       "end_date": "2026-10-02",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Híbýli september.",
-      "line_item_name": "Híbýli september.Mánudagar Grandi",
-      "price": 30000,
-      "start_date": "2026-09-01",
-      "end_date": "2026-09-30",
       "seen_count": 1
     },
     {
@@ -1075,14 +1059,6 @@
     },
     {
       "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 28. sept / 4x1",
-      "price": 25500,
-      "start_date": "2026-09-28",
-      "end_date": "2026-09-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - september 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 29. sept / 5x1",
       "price": 32000,
       "start_date": "2026-09-29",
@@ -1103,7 +1079,7 @@
       "price": 0,
       "start_date": "2026-06-12",
       "end_date": "2026-12-31",
-      "seen_count": 4
+      "seen_count": 3
     },
     {
       "campaign_name": "Jb úr og skart - Nóv og des",
@@ -1116,18 +1092,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 42000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 126000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 42000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 1
     },
     {
       "campaign_name": "Kave home - Caravan - 1 okt - Haustpakki",
@@ -1290,35 +1266,11 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Landsbankinn - Tvist - Sept",
-      "line_item_name": "Akureyri og Selfoss",
-      "price": 273000,
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-29",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Landsbjörg - Neyðarkall",
       "line_item_name": "Akureyri",
       "price": 91000,
       "start_date": "2026-11-02",
       "end_date": "2026-11-08",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lindex - S4S / Sahara - sept 2026",
-      "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 195000,
-      "start_date": "2026-09-15",
-      "end_date": "2026-09-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Lindex - S4S / Sahara - sept 2026",
-      "line_item_name": "Lindex S4S / Sahara - 15. til 28. sept",
-      "price": 139800,
-      "start_date": "2026-09-15",
-      "end_date": "2026-09-28",
       "seen_count": 1
     },
     {
@@ -1456,22 +1408,6 @@
       "start_date": "2026-01-21",
       "end_date": "2027-01-20",
       "seen_count": 4
-    },
-    {
-      "campaign_name": "Nathan. Crosta Mollica",
-      "line_item_name": "Nathan. Crosta Mollica Grandi",
-      "price": 45000,
-      "start_date": "2026-09-15",
-      "end_date": "2026-09-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Nathan. Crosta Mollica",
-      "line_item_name": "Nathan. Crosta Mollica. HB2-GB-BT",
-      "price": 51000,
-      "start_date": "2026-09-22",
-      "end_date": "2026-09-28",
-      "seen_count": 1
     },
     {
       "campaign_name": "Nova 05-31 okt.",
@@ -1711,7 +1647,7 @@
       "price": 117200,
       "start_date": "2026-11-27",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Pollýanna - Nóv-Des 2026",
@@ -1915,14 +1851,6 @@
     },
     {
       "campaign_name": "Sjóvá 21 sept. -03 okt..",
-      "line_item_name": "Sjóvá 28-sept. GRI-AK2-BT-SFS1",
-      "price": 54000,
-      "start_date": "2026-09-28",
-      "end_date": "2026-09-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá 21 sept. -03 okt..",
       "line_item_name": "Sjóvá.30-sept. GLT-GRI-KAPLA3-KEV1",
       "price": 55000,
       "start_date": "2026-09-30",
@@ -2050,20 +1978,12 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Varmi - Águst, sept og okt",
-      "line_item_name": "Varmi - Sept",
-      "price": 162400,
-      "start_date": "2026-09-01",
-      "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Varmi - Nóv og des",
       "line_item_name": "Varmi - Ágúst",
       "price": 144800,
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Varmi - Nóv og des",
@@ -2080,22 +2000,6 @@
       "start_date": "2026-08-01",
       "end_date": "2026-12-31",
       "seen_count": 4
-    },
-    {
-      "campaign_name": "VIRK / Hvíta húsið - ágúst til sept 2026",
-      "line_item_name": "VIRK / Mán og Fim / AKU1, EGI1, HÖF2, SEL2, VES2",
-      "price": 366000,
-      "start_date": "2026-08-19",
-      "end_date": "2026-09-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "VIRK / Hvíta húsið - ágúst til sept 2026",
-      "line_item_name": "VIRK / Mán og Fim / GRA",
-      "price": 30000,
-      "start_date": "2026-09-15",
-      "end_date": "2026-09-30",
-      "seen_count": 1
     },
     {
       "campaign_name": "VIRK / Hvíta húsið - ágúst til sept 2026",
