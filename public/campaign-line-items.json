@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:17:52.314Z",
+  "generated_at": "2026-09-30T17:35:04.907Z",
   "scope": {
     "report_start_date": "2026-09-30",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 466,
-    "unique_items": 267,
+    "items_seen": 472,
+    "unique_items": 271,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -668,7 +668,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 336000,
+      "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -676,7 +676,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
+      "price": 336000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -840,6 +840,22 @@
       "start_date": "2026-09-24",
       "end_date": "2026-10-04",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Gæludýr / Hvíta húsið -  okt 2026",
+      "line_item_name": "Gæludýr / 1. til 30. okt / Þri, Mið, Fös, Lau / GLER1",
+      "price": 110500,
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-30",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Gæludýr / Hvíta húsið -  okt 2026",
+      "line_item_name": "Gæludýr / 1. til 30. okt / Þri, Mið, Lau / GRA",
+      "price": 97500,
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-31",
+      "seen_count": 2
     },
     {
       "campaign_name": "Hagkaup Akureyri. okt.",
@@ -1234,14 +1250,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Kosmos - Caravan - Haustpakki",
-      "line_item_name": "Kosmos - Caravan - Haustpakki",
-      "price": 364000,
-      "start_date": "2026-09-30",
-      "end_date": "2026-10-13",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Kringlan - 1-5 okt",
       "line_item_name": "Kringlan - 1 okt",
       "price": 46300,
@@ -1292,7 +1300,7 @@
     {
       "campaign_name": "Krónan breyting okt.",
       "line_item_name": "Krónan breyting okt.",
-      "price": 105000,
+      "price": 52500,
       "start_date": "2026-10-01",
       "end_date": "2026-10-18",
       "seen_count": 1
@@ -1538,12 +1546,36 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Nova afmæli 27 nóv.",
+      "line_item_name": "Nova afmæli 27 nóv.",
+      "price": 172300,
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Nova. Glerártorg árssamningu.",
       "line_item_name": "Nova. Glerártorg árssamningu.",
       "price": 2340000,
       "start_date": "2026-01-06",
       "end_date": "2026-12-31",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Ölgerðin Mix ennemm",
+      "line_item_name": "Ölgerðin Mix ennemm GLT1",
+      "price": 26000,
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ölgerðin Mix ennemm",
+      "line_item_name": "Ölgerðin Mix ennemm GLT2",
+      "price": 26000,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-11",
+      "seen_count": 1
     },
     {
       "campaign_name": "Optical - Hæðasmári",
@@ -2140,7 +2172,7 @@
     {
       "campaign_name": "Þjóðleikhúsið sept- okt.",
       "line_item_name": "Þjóðleikhúsið sept- okt.",
-      "price": 120900,
+      "price": 22500,
       "start_date": "2026-10-05",
       "end_date": "2026-10-11",
       "seen_count": 1
@@ -2148,7 +2180,7 @@
     {
       "campaign_name": "Þjóðleikhúsið sept- okt.",
       "line_item_name": "Þjóðleikhúsið sept- okt.",
-      "price": 22500,
+      "price": 120900,
       "start_date": "2026-10-05",
       "end_date": "2026-10-11",
       "seen_count": 1
