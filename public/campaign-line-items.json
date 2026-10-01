@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:24:36.680Z",
+  "generated_at": "2026-10-01T20:05:31.351Z",
   "scope": {
     "report_start_date": "2026-10-01",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 440,
-    "unique_items": 250,
+    "items_seen": 444,
+    "unique_items": 254,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -618,6 +618,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Dekkjahöllin á Akureyri / Askja - Október 2026",
+      "line_item_name": "Dekkjahöllin - Mán, Mið, Fös",
+      "price": 39000,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Dekkjahöllin á Akureyri / Askja - Október 2026",
+      "line_item_name": "Dekkjahöllin - Þri, Fim, Lau",
+      "price": 39000,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-20",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
       "price": 336000,
@@ -628,7 +644,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 166000,
+      "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -636,7 +652,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
+      "price": 166000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -816,6 +832,30 @@
       "start_date": "2026-10-01",
       "end_date": "2026-10-31",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "GER samningur.",
+      "line_item_name": "GER samningur. okt. GLT 1 og 2 KA 1 og 2",
+      "price": 52000,
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "GER samningur.",
+      "line_item_name": "GER samningur. okt. GLT1 Föstudagar.",
+      "price": 26000,
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "GER samningur.",
+      "line_item_name": "GER samningur. okt. GLT2 Fimmtudagar..",
+      "price": 26000,
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-31",
+      "seen_count": 1
     },
     {
       "campaign_name": "Hagkaup Akureyri. okt.",
@@ -1175,6 +1215,14 @@
       "price": 127500,
       "start_date": "2026-11-24",
       "end_date": "2026-11-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kosmos - Caravan - Haustpakki",
+      "line_item_name": "Kosmos - Caravan - Haustpakki",
+      "price": 354200,
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-14",
       "seen_count": 1
     },
     {
@@ -1858,6 +1906,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Tölum saman Ennemm. Góðgerða verkefni.",
+      "line_item_name": "Tölum saman Ennemm.",
+      "price": 192500,
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tölum saman Ennemm. Góðgerða verkefni.",
+      "line_item_name": "Tölum saman Ennemm.",
+      "price": 154000,
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-10",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Tölvutek Akureyri",
       "line_item_name": "Tölvutek - 1-24DES Glerártorg #1",
       "price": 156000,
@@ -1992,38 +2056,6 @@
       "start_date": "2026-04-15",
       "end_date": "2027-02-01",
       "seen_count": 5
-    },
-    {
-      "campaign_name": "Þjóðleikhúsið sept- okt.",
-      "line_item_name": "Þjóðleikhúsið sept- okt.",
-      "price": 137400,
-      "start_date": "2026-09-30",
-      "end_date": "2026-10-05",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Þjóðleikhúsið sept- okt.",
-      "line_item_name": "Þjóðleikhúsið sept- okt.",
-      "price": 120900,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Þjóðleikhúsið sept- okt.",
-      "line_item_name": "Þjóðleikhúsið sept- okt.",
-      "price": 22500,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Þjóðleikhúsið sept- okt.",
-      "line_item_name": "Þjóðleikhúsið sept- okt.",
-      "price": 221200,
-      "start_date": "2026-10-12",
-      "end_date": "2026-10-18",
-      "seen_count": 1
     }
   ]
 }
