@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T04:04:11.032Z",
+  "generated_at": "2026-10-01T12:24:36.680Z",
   "scope": {
     "report_start_date": "2026-10-01",
     "report_end_date": "2099-12-31",
@@ -196,7 +196,7 @@
     {
       "campaign_name": "Bestun -Ali-nóv",
       "line_item_name": "Bestun -Ali-nóv",
-      "price": 402000,
+      "price": 342000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
       "seen_count": 1
@@ -1196,7 +1196,7 @@
     {
       "campaign_name": "Kringlan - 1-5 okt",
       "line_item_name": "Kringlan - 3 okt",
-      "price": 53500,
+      "price": 48500,
       "start_date": "2026-10-03",
       "end_date": "2026-10-03",
       "seen_count": 1
@@ -1212,7 +1212,7 @@
     {
       "campaign_name": "Kringlan - 1-5 okt",
       "line_item_name": "Kringlan - 5 okt",
-      "price": 58300,
+      "price": 53300,
       "start_date": "2026-10-05",
       "end_date": "2026-10-05",
       "seen_count": 1
@@ -1308,7 +1308,7 @@
     {
       "campaign_name": "Lyfjaval- okt    2026",
       "line_item_name": "Höfuðborgarsvæði",
-      "price": 390000,
+      "price": 315000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-15",
       "seen_count": 1
@@ -1316,7 +1316,7 @@
     {
       "campaign_name": "Lyfjaval- okt    2026",
       "line_item_name": "Höfuðborgarsvæði - 2",
-      "price": 196200,
+      "price": 151200,
       "start_date": "2026-10-16",
       "end_date": "2026-10-31",
       "seen_count": 2
@@ -1460,7 +1460,7 @@
     {
       "campaign_name": "Nova afmæli 27 nóv.",
       "line_item_name": "Nova afmæli 27 nóv.",
-      "price": 172300,
+      "price": 167300,
       "start_date": "2026-11-27",
       "end_date": "2026-11-27",
       "seen_count": 1
@@ -1500,7 +1500,7 @@
     {
       "campaign_name": "Optima/pei nóv 2026",
       "line_item_name": "Optima/pei nóv 2026",
-      "price": 728000,
+      "price": 648000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
       "seen_count": 1
@@ -1676,7 +1676,7 @@
     {
       "campaign_name": "Reykjalundur /landssöfnun",
       "line_item_name": "Reykjalundur /landssöfnun",
-      "price": 853200,
+      "price": 808200,
       "start_date": "2026-09-24",
       "end_date": "2026-10-02",
       "seen_count": 1
