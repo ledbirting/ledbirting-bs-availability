@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:19:45.963Z",
+  "generated_at": "2026-10-02T17:25:40.459Z",
   "scope": {
     "report_start_date": "2026-10-02",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 405,
-    "unique_items": 250,
+    "items_seen": 417,
+    "unique_items": 261,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -92,17 +92,17 @@
     {
       "campaign_name": "Beiersdorf. Eucerin Elasticity.",
       "line_item_name": "Beiersdorf. Eucerin Elasticity.",
-      "price": 187200,
+      "price": 97500,
       "start_date": "2026-09-29",
-      "end_date": "2026-10-05",
+      "end_date": "2026-10-31",
       "seen_count": 1
     },
     {
       "campaign_name": "Beiersdorf. Eucerin Elasticity.",
       "line_item_name": "Beiersdorf. Eucerin Elasticity.",
-      "price": 97500,
+      "price": 187200,
       "start_date": "2026-09-29",
-      "end_date": "2026-10-31",
+      "end_date": "2026-10-05",
       "seen_count": 1
     },
     {
@@ -296,6 +296,30 @@
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Björgun 26",
+      "line_item_name": "Björgun 26",
+      "price": 22500,
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-13",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Björgun 26",
+      "line_item_name": "Björgun 26",
+      "price": 15000,
+      "start_date": "2026-10-06",
+      "end_date": "2026-10-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Björgun 26",
+      "line_item_name": "Björgun 26",
+      "price": 7500,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-14",
+      "seen_count": 1
     },
     {
       "campaign_name": "Björgunarsveitin - 15. des - 31. des GRANDI",
@@ -586,30 +610,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Byko - Samningur - 2026",
-      "line_item_name": "Byko - Desember- Fim,Fös - GRA, KAP1,LIT,VLV1,BREI1",
-      "price": 272000,
-      "start_date": "2026-12-01",
-      "end_date": "2026-12-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Byko - Samningur - 2026",
-      "line_item_name": "Byko - Nóvember- Fim,Fös - GRA, KAP1,LIT,VLV1,BREI1",
-      "price": 272000,
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Byko - Samningur - 2026",
-      "line_item_name": "Byko - Október - Fim,Fös - GRA",
-      "price": 60000,
-      "start_date": "2026-10-01",
-      "end_date": "2026-10-25",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Collab 22 - 28 okt.",
       "line_item_name": "Collaba Akueyri 22-28 okt.",
       "price": 182000,
@@ -636,6 +636,14 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
+      "price": 166000,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
       "price": 336000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
@@ -645,14 +653,6 @@
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
       "price": 83000,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Deloitte 05-17 okt.",
-      "line_item_name": "Deloitte 05-17 okt.",
-      "price": 166000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -835,7 +835,47 @@
     },
     {
       "campaign_name": "GER samningur.",
-      "line_item_name": "GER samningur. okt. GLT 1 og 2 KA 1 og 2",
+      "line_item_name": "GER samningur. des 01-18 des.. KA2 og GLT2 laugardagar.",
+      "price": 39000,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "GER samningur.",
+      "line_item_name": "GER samningur. des 20-30 des.. KA2 og GLT2 þriðjudagar",
+      "price": 26000,
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "GER samningur.",
+      "line_item_name": "GER samningur. nóv. GLT2 miðvikudagar",
+      "price": 6500,
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "GER samningur.",
+      "line_item_name": "GER samningur. nóv. KA1 og GLT1 föstudagar",
+      "price": 52000,
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "GER samningur.",
+      "line_item_name": "GER samningur. nóv. KA2 og GLT2 laugardagar.",
+      "price": 52000,
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "GER samningur.",
+      "line_item_name": "GER samningur. okt. GLT 1 og 2 KA 1 og 2 Miðvikudagar",
       "price": 52000,
       "start_date": "2026-10-03",
       "end_date": "2026-10-31",
@@ -855,6 +895,22 @@
       "price": 26000,
       "start_date": "2026-10-03",
       "end_date": "2026-10-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "GER samningur.",
+      "line_item_name": "samningur. .01- 18 des. KA1 og GLT1 föstudagar",
+      "price": 39000,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "GER samningur.",
+      "line_item_name": "samningur. .21 des. KA1 og GLT1 mánudagur",
+      "price": 13000,
+      "start_date": "2026-12-21",
+      "end_date": "2026-12-21",
       "seen_count": 1
     },
     {
@@ -879,6 +935,14 @@
       "price": 13000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hallór úrsmiður Akureyri.",
+      "line_item_name": "Hallór úrsmiður Akureyri.",
+      "price": 84500,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-23",
       "seen_count": 1
     },
     {
@@ -1068,7 +1132,7 @@
     {
       "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 3. okt / 4x1",
-      "price": 25500,
+      "price": 23000,
       "start_date": "2026-10-03",
       "end_date": "2026-10-03",
       "seen_count": 1
@@ -1122,6 +1186,30 @@
       "seen_count": 3
     },
     {
+      "campaign_name": "Íslandshótel - DOM og Lauf / Datera - okt 2026",
+      "line_item_name": "Íslandshótel - DOM og Lauf / Datera - okt 2026 / GRA (Sun, Mán, Mið)",
+      "price": 45000,
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandshótel - DOM og Lauf / Datera - okt 2026",
+      "line_item_name": "Íslandshótel - DOM og Lauf / Datera - okt 2026 / HÖF1 (Fim)",
+      "price": 10000,
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandshótel - DOM og Lauf / Datera - okt 2026",
+      "line_item_name": "Íslandshótel - DOM og Lauf / Datera - okt 2026 / HÖF2 (Þri, Fös)",
+      "price": 20000,
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-15",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Jb úr og skart - Nóv og des",
       "line_item_name": "Jb úr og skart - Nóv og des",
       "price": 117000,
@@ -1132,18 +1220,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 126000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 42000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 126000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 2
     },
     {
       "campaign_name": "Kave home - Caravan - 1 okt - Haustpakki",
@@ -1506,7 +1594,7 @@
       "seen_count": 4
     },
     {
-      "campaign_name": "Ölgerðin Mix ennemm",
+      "campaign_name": "Ölgerðin Mix ennemm 06-18 okt.",
       "line_item_name": "Ölgerðin Mix ennemm GLT1",
       "price": 26000,
       "start_date": "2026-10-12",
@@ -1514,10 +1602,10 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Ölgerðin Mix ennemm",
+      "campaign_name": "Ölgerðin Mix ennemm 06-18 okt.",
       "line_item_name": "Ölgerðin Mix ennemm GLT2",
-      "price": 26000,
-      "start_date": "2026-10-05",
+      "price": 32500,
+      "start_date": "2026-10-06",
       "end_date": "2026-10-11",
       "seen_count": 1
     },
