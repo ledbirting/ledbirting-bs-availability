@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-03T23:30:12.071Z",
+  "generated_at": "2026-10-04T04:14:29.285Z",
   "scope": {
-    "report_start_date": "2026-10-03",
+    "report_start_date": "2026-10-04",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 413,
-    "unique_items": 252,
+    "items_seen": 411,
+    "unique_items": 244,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -92,17 +92,17 @@
     {
       "campaign_name": "Beiersdorf. Eucerin Elasticity.",
       "line_item_name": "Beiersdorf. Eucerin Elasticity.",
-      "price": 187200,
+      "price": 97500,
       "start_date": "2026-09-29",
-      "end_date": "2026-10-05",
+      "end_date": "2026-10-31",
       "seen_count": 1
     },
     {
       "campaign_name": "Beiersdorf. Eucerin Elasticity.",
       "line_item_name": "Beiersdorf. Eucerin Elasticity.",
-      "price": 97500,
+      "price": 187200,
       "start_date": "2026-09-29",
-      "end_date": "2026-10-31",
+      "end_date": "2026-10-05",
       "seen_count": 1
     },
     {
@@ -191,7 +191,7 @@
       "price": 399000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun -Ali-nóv",
@@ -208,14 +208,6 @@
       "start_date": "2026-09-01",
       "end_date": "2026-12-31",
       "seen_count": 3
-    },
-    {
-      "campaign_name": "Bestun /Ali okt Tækifærispakki",
-      "line_item_name": "Bestun /Ali okt Tækifærispakki",
-      "price": 97500,
-      "start_date": "2026-10-01",
-      "end_date": "2026-10-03",
-      "seen_count": 1
     },
     {
       "campaign_name": "Bestun /Ali okt Tækifærispakki",
@@ -539,14 +531,6 @@
     },
     {
       "campaign_name": "BY-Lovisa inneign",
-      "line_item_name": "BY-Lovisa inneign 02/03 okt.",
-      "price": 99600,
-      "start_date": "2026-10-01",
-      "end_date": "2026-10-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "BY-Lovisa inneign",
       "line_item_name": "BY-Lovisa inneign 1/3 okt.",
       "price": 99600,
       "start_date": "2026-10-01",
@@ -628,14 +612,6 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Deloitte 05-17 okt.",
-      "line_item_name": "Deloitte 05-17 okt.",
       "price": 166000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
@@ -645,6 +621,14 @@
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
       "price": 336000,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
+      "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -671,14 +655,6 @@
       "price": 178000,
       "start_date": "2026-10-07",
       "end_date": "2026-10-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Dressmann sept - okt.",
-      "line_item_name": "Dressmann 30 sept - 03 okt.",
-      "price": 74600,
-      "start_date": "2026-09-30",
-      "end_date": "2026-10-03",
       "seen_count": 1
     },
     {
@@ -914,20 +890,12 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Hagkaup Akureyri. okt.",
-      "line_item_name": "Hagkaup Akureyri. okt. 01/03 okt GLT.",
-      "price": 13000,
-      "start_date": "2026-10-01",
-      "end_date": "2026-10-03",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Hallór úrsmiður Akureyri.",
       "line_item_name": "Hallór úrsmiður Akureyri.",
       "price": 84500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-23",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Híbýli október.",
@@ -1103,14 +1071,6 @@
       "price": 27000,
       "start_date": "2026-10-29",
       "end_date": "2026-10-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 3. okt / 4x1",
-      "price": 23000,
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-03",
       "seen_count": 1
     },
     {
@@ -1291,14 +1251,6 @@
     },
     {
       "campaign_name": "Kringlan - 1-5 okt",
-      "line_item_name": "Kringlan - 3 okt",
-      "price": 48500,
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kringlan - 1-5 okt",
       "line_item_name": "Kringlan - 4 okt",
       "price": 54300,
       "start_date": "2026-10-04",
@@ -1367,7 +1319,7 @@
       "price": 91000,
       "start_date": "2026-11-02",
       "end_date": "2026-11-08",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Löður - Október 2026",
@@ -1416,14 +1368,6 @@
       "start_date": "2026-10-23",
       "end_date": "2026-11-05",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Menningarfélag Akureyrar.",
-      "line_item_name": "Menningarfélag Akureyrar. Þingvallastræti. og Glerártorg",
-      "price": 78000,
-      "start_date": "2026-09-24",
-      "end_date": "2026-10-03",
-      "seen_count": 1
     },
     {
       "campaign_name": "Menningarfélag Akureyrar.",
@@ -1839,7 +1783,7 @@
       "price": 97500,
       "start_date": "2026-11-02",
       "end_date": "2026-11-16",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Sérefni (okt , nóv og des)",
@@ -1847,14 +1791,6 @@
       "price": 97500,
       "start_date": "2026-10-01",
       "end_date": "2026-10-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sjóvá 21 sept. -03 okt..",
-      "line_item_name": "Sjóvá 03 okt. GLT2-KAPLA2-SFS2-VLV2.",
-      "price": 57000,
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-03",
       "seen_count": 1
     },
     {
@@ -1967,7 +1903,7 @@
       "price": 144800,
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Varmi - Nóv og des",
@@ -2023,7 +1959,7 @@
       "price": 520000,
       "start_date": "2027-06-30",
       "end_date": "2027-07-03",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Vistor - Coldzyme - des 2026",
