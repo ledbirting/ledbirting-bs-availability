@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T13:33:47.556Z",
+  "generated_at": "2026-10-05T21:48:15.324Z",
   "scope": {
     "report_start_date": "2026-10-05",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 410,
-    "unique_items": 243,
+    "items_seen": 413,
+    "unique_items": 246,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -100,7 +100,7 @@
     {
       "campaign_name": "Beiersdorf. Eucerin Elasticity.",
       "line_item_name": "Beiersdorf. Eucerin Elasticity.",
-      "price": 174900,
+      "price": 194400,
       "start_date": "2026-10-06",
       "end_date": "2026-10-12",
       "seen_count": 1
@@ -277,17 +277,17 @@
       "campaign_name": "Bestun/Freyja konfekt",
       "line_item_name": "Bestun/Freyja konfekt",
       "price": 137500,
-      "start_date": "2026-10-13",
-      "end_date": "2026-10-17",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
       "seen_count": 1
     },
     {
       "campaign_name": "Bestun/Freyja konfekt",
       "line_item_name": "Bestun/Freyja konfekt",
       "price": 110000,
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-05",
-      "seen_count": 2
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-17",
+      "seen_count": 1
     },
     {
       "campaign_name": "Bestun/Freyja konfekt",
@@ -620,7 +620,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 336000,
+      "price": 166000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -636,7 +636,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 166000,
+      "price": 336000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -1130,6 +1130,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Íslandshótel - Jólahlaðborð / Datera - okt til nóv 2026",
+      "line_item_name": "Íslandshótel - Jólahlaðborð / 1. til 18. nóv / GRA (Mið)",
+      "price": 22500,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandshótel - Jólahlaðborð / Datera - okt til nóv 2026",
+      "line_item_name": "Íslandshótel - Jólahlaðborð / 8. til 31. okt / GRA (Mán)",
+      "price": 22500,
+      "start_date": "2026-10-08",
+      "end_date": "2026-10-31",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Jb úr og skart - Nóv og des",
       "line_item_name": "Jb úr og skart - Nóv og des",
       "price": 117000,
@@ -1360,6 +1376,14 @@
       "start_date": "2026-10-04",
       "end_date": "2026-10-18",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Míla 14-23 okt.",
+      "line_item_name": "Míla 14-23 okt.",
+      "price": 50000,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-23",
+      "seen_count": 2
     },
     {
       "campaign_name": "Míla 14-23 okt.",
@@ -1820,7 +1844,7 @@
     {
       "campaign_name": "Tölum saman Ennemm. Góðgerða verkefni.",
       "line_item_name": "Tölum saman Ennemm.",
-      "price": 192500,
+      "price": 154000,
       "start_date": "2026-10-02",
       "end_date": "2026-10-10",
       "seen_count": 1
@@ -1828,7 +1852,7 @@
     {
       "campaign_name": "Tölum saman Ennemm. Góðgerða verkefni.",
       "line_item_name": "Tölum saman Ennemm.",
-      "price": 154000,
+      "price": 192500,
       "start_date": "2026-10-02",
       "end_date": "2026-10-10",
       "seen_count": 1
