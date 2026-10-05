@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T23:48:35.922Z",
+  "generated_at": "2026-10-05T03:58:32.071Z",
   "scope": {
-    "report_start_date": "2026-10-04",
+    "report_start_date": "2026-10-05",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 411,
-    "unique_items": 244,
+    "items_seen": 402,
+    "unique_items": 237,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -95,14 +95,6 @@
       "price": 97500,
       "start_date": "2026-09-29",
       "end_date": "2026-10-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Beiersdorf. Eucerin Elasticity.",
-      "line_item_name": "Beiersdorf. Eucerin Elasticity.",
-      "price": 187200,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-05",
       "seen_count": 1
     },
     {
@@ -475,14 +467,6 @@
     },
     {
       "campaign_name": "Boozt - Sept til des",
-      "line_item_name": "Boozt - Vika 39-40",
-      "price": 616000,
-      "start_date": "2026-09-21",
-      "end_date": "2026-10-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Boozt - Sept til des",
       "line_item_name": "Boozt - Vika 41",
       "price": 310100,
       "start_date": "2026-10-05",
@@ -528,14 +512,6 @@
       "start_date": "2026-11-30",
       "end_date": "2026-12-06",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "BY-Lovisa inneign",
-      "line_item_name": "BY-Lovisa inneign 1/3 okt.",
-      "price": 99600,
-      "start_date": "2026-10-01",
-      "end_date": "2026-10-04",
-      "seen_count": 1
     },
     {
       "campaign_name": "BY-Lovisa inneign",
@@ -759,22 +735,6 @@
       "price": 45000,
       "start_date": "2026-11-10",
       "end_date": "2026-11-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Forlagið Bókamarkaður - 10. sept til 4.okt - Grandi + dreifing",
-      "line_item_name": "Forlagið Bókamarkaður - 17. sept til 4. okt / Lau, Sun / BRE2, EGI1, HÖF2, VES1, VES2",
-      "price": 183000,
-      "start_date": "2026-09-17",
-      "end_date": "2026-10-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Forlagið Bókamarkaður - 10. sept til 4.okt - Grandi + dreifing",
-      "line_item_name": "Forlagið Bókamarkaður - 24. sept til 4. okt / GRA (1 hólf á dag)",
-      "price": 82500,
-      "start_date": "2026-09-24",
-      "end_date": "2026-10-04",
       "seen_count": 1
     },
     {
@@ -1083,14 +1043,6 @@
     },
     {
       "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 4. okt / 5x1",
-      "price": 39000,
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 5. okt / 5x1",
       "price": 28500,
       "start_date": "2026-10-05",
@@ -1247,14 +1199,6 @@
       "price": 354200,
       "start_date": "2026-10-01",
       "end_date": "2026-10-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kringlan - 1-5 okt",
-      "line_item_name": "Kringlan - 4 okt",
-      "price": 54300,
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-04",
       "seen_count": 1
     },
     {
@@ -1519,7 +1463,7 @@
       "price": 648000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Orkan - oktober - 2026",
@@ -1703,7 +1647,7 @@
       "price": 377000,
       "start_date": "2026-12-03",
       "end_date": "2026-12-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "sahara-Earth Lagoon -nóv",
@@ -1727,7 +1671,7 @@
       "price": 1235325,
       "start_date": "2026-01-06",
       "end_date": "2027-01-02",
-      "seen_count": 4
+      "seen_count": 3
     },
     {
       "campaign_name": "Samkaup / Nettó - jan 2026",
@@ -1735,7 +1679,7 @@
       "price": 1441125,
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
-      "seen_count": 4
+      "seen_count": 3
     },
     {
       "campaign_name": "Samkaup / Nettó - jan 2026",
@@ -1743,7 +1687,7 @@
       "price": 960750,
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
-      "seen_count": 4
+      "seen_count": 3
     },
     {
       "campaign_name": "Securitas / Datera - sept 2026",
@@ -1975,7 +1919,7 @@
       "price": 0,
       "start_date": "2026-04-15",
       "end_date": "2027-02-01",
-      "seen_count": 5
+      "seen_count": 4
     }
   ]
 }
