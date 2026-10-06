@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T12:43:24.364Z",
+  "generated_at": "2026-10-06T19:57:59.620Z",
   "scope": {
     "report_start_date": "2026-10-06",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 423,
-    "unique_items": 251,
+    "items_seen": 447,
+    "unique_items": 273,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -87,6 +87,14 @@
       "price": 159500,
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Beiersdorf - Eucerin - Hæ-P",
+      "line_item_name": "Beiersdorf - Eucerin - Hæ-P",
+      "price": 0,
+      "start_date": "2026-10-06",
+      "end_date": "2026-11-12",
       "seen_count": 2
     },
     {
@@ -314,6 +322,30 @@
       "seen_count": 3
     },
     {
+      "campaign_name": "Birtingahúsið SS.",
+      "line_item_name": "Birtingahúsið SS 15/17/19. nóv. AK2-GRI-KAPLA1-GB-SFS1/SMT1-VLV1",
+      "price": 139500,
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Birtingahúsið SS.",
+      "line_item_name": "Birtingahúsið SS. 01/03/05/07 nóv. FJH-GLT2-GRI-KEV-VLV2",
+      "price": 121500,
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Birtingahúsið SS.",
+      "line_item_name": "Birtingahúsið SS. 09/12/13 nóv. FJK-GLT1-GRI-KAPLA2-KEV-SFS2-SMT1-VLV2",
+      "price": 156000,
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-14",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Björgun 26",
       "line_item_name": "Björgun 26",
       "price": 15000,
@@ -391,6 +423,30 @@
       "price": 69480,
       "start_date": "2026-10-21",
       "end_date": "2026-10-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "BM Vallá / Datera - október 2026",
+      "line_item_name": "BM Vallá / Datera / Mán, Mið og Fös / Akureyri 1 og Höfðabakki 1",
+      "price": 69000,
+      "start_date": "2026-10-19",
+      "end_date": "2026-11-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "BM Vallá / Datera - október 2026",
+      "line_item_name": "BM Vallá / Datera / Sun, Mán, Mið og Fös / Höfðabakki 2 og Egilshöll 1",
+      "price": 80000,
+      "start_date": "2026-10-19",
+      "end_date": "2026-11-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "BM Vallá / Datera - október 2026",
+      "line_item_name": "BM Vallá / Datera / Þri, Mið, Fim og Lau / Glerártorg 1 og Kaplakriki 1",
+      "price": 116000,
+      "start_date": "2026-10-19",
+      "end_date": "2026-11-01",
       "seen_count": 1
     },
     {
@@ -516,7 +572,7 @@
     {
       "campaign_name": "Boozt - Sept til des",
       "line_item_name": "Boozt - Vika 46-48",
-      "price": 1335700,
+      "price": 1193200,
       "start_date": "2026-11-12",
       "end_date": "2026-11-30",
       "seen_count": 1
@@ -604,7 +660,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 336000,
+      "price": 166000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -612,7 +668,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 166000,
+      "price": 336000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -664,6 +720,14 @@
       "start_date": "2026-03-01",
       "end_date": "2027-02-28",
       "seen_count": 5
+    },
+    {
+      "campaign_name": "ENNEMM SÝN 09 okt.",
+      "line_item_name": "ENNEMM SÝN 09 okt.",
+      "price": 153400,
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-09",
+      "seen_count": 1
     },
     {
       "campaign_name": "Eyesland (samningur) - mars '26 til feb '27",
@@ -866,14 +930,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Hallór úrsmiður Akureyri.",
-      "line_item_name": "Hallór úrsmiður Akureyri.",
-      "price": 84500,
-      "start_date": "2026-12-01",
-      "end_date": "2026-12-23",
-      "seen_count": 2
-    },
-    {
       "campaign_name": "Happdrætti DAS / Datera - okt 2026",
       "line_item_name": "DAS / Datera - 12. okt / 5x1",
       "price": 31000,
@@ -927,6 +983,102 @@
       "price": 175500,
       "start_date": "2026-10-06",
       "end_date": "2026-10-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - okt '26",
+      "line_item_name": "Hreyfing / 11. okt / GRA / 1x1",
+      "price": 7500,
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - okt '26",
+      "line_item_name": "Hreyfing / 13. okt / GRA, GBR Litlatún / 2x1",
+      "price": 13000,
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - okt '26",
+      "line_item_name": "Hreyfing / 14. okt / BORG, GRA / 2x1",
+      "price": 14000,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - okt '26",
+      "line_item_name": "Hreyfing / 15. okt / GRA / 1x1",
+      "price": 7500,
+      "start_date": "2026-10-15",
+      "end_date": "2026-10-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - okt '26",
+      "line_item_name": "Hreyfing / 19. okt / BORG, GRA / 2x1",
+      "price": 14000,
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - okt '26",
+      "line_item_name": "Hreyfing / 20. okt / GRA / 1x1",
+      "price": 7500,
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - okt '26",
+      "line_item_name": "Hreyfing / 22. okt / BORG, GRA, GBR Litlatún / 3x1",
+      "price": 19500,
+      "start_date": "2026-10-22",
+      "end_date": "2026-10-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - okt '26",
+      "line_item_name": "Hreyfing / 24. okt / BORG, GRA / 2x1",
+      "price": 14000,
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - okt '26",
+      "line_item_name": "Hreyfing / 25. okt / GRA, GBR Litlatún / 2x1",
+      "price": 13000,
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - okt '26",
+      "line_item_name": "Hreyfing / 28. okt / GRA / 1x1",
+      "price": 7500,
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - okt '26",
+      "line_item_name": "Hreyfing / 31. okt / BORG, GRA / 2x1",
+      "price": 14000,
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreyfing / HN - okt '26",
+      "line_item_name": "Hreyfing / 8. okt / GRA, BORG / 2x1",
+      "price": 14000,
+      "start_date": "2026-10-08",
+      "end_date": "2026-10-08",
       "seen_count": 1
     },
     {
@@ -1362,6 +1514,30 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Mars Media Payday. nóv og des.",
+      "line_item_name": "Mars Media Payday. des . BT-GLT1",
+      "price": 13000,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mars Media Payday. nóv og des.",
+      "line_item_name": "Mars Media Payday. nóv . BT-GLT1",
+      "price": 52000,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-14",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Mars Media Payday. nóv og des.",
+      "line_item_name": "Mars Media Payday. nóv . GRANDI",
+      "price": 30000,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-14",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Mars Media Trefjar.",
       "line_item_name": "Mars Media Trefjar.Tækifærispakki. BT-GRI-GB. 23 okt- 05 nóv",
       "price": 117000,
@@ -1388,18 +1564,18 @@
     {
       "campaign_name": "Míla 14-23 okt.",
       "line_item_name": "Míla 14-23 okt.",
-      "price": 37500,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Míla 14-23 okt.",
-      "line_item_name": "Míla 14-23 okt.",
       "price": 50000,
       "start_date": "2026-10-14",
       "end_date": "2026-10-23",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Míla 14-23 okt.",
+      "line_item_name": "Míla 14-23 okt.",
+      "price": 37500,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-23",
+      "seen_count": 1
     },
     {
       "campaign_name": "Minstur Mediacom Bjartur 1-17 des 2026",
@@ -1884,7 +2060,7 @@
     {
       "campaign_name": "Tölum saman Ennemm. Góðgerða verkefni.",
       "line_item_name": "Tölum saman Ennemm.",
-      "price": 192500,
+      "price": 154000,
       "start_date": "2026-10-02",
       "end_date": "2026-10-10",
       "seen_count": 1
@@ -1892,7 +2068,7 @@
     {
       "campaign_name": "Tölum saman Ennemm. Góðgerða verkefni.",
       "line_item_name": "Tölum saman Ennemm.",
-      "price": 154000,
+      "price": 192500,
       "start_date": "2026-10-02",
       "end_date": "2026-10-10",
       "seen_count": 1
