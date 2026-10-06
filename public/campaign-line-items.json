@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T04:47:48.739Z",
+  "generated_at": "2026-10-06T12:43:24.364Z",
   "scope": {
     "report_start_date": "2026-10-06",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 412,
-    "unique_items": 242,
+    "items_seen": 423,
+    "unique_items": 251,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -874,6 +874,38 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Happdrætti DAS / Datera - okt 2026",
+      "line_item_name": "DAS / Datera - 12. okt / 5x1",
+      "price": 31000,
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Happdrætti DAS / Datera - okt 2026",
+      "line_item_name": "DAS / Datera - 13. okt / 5x1",
+      "price": 31500,
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Happdrætti DAS / Datera - okt 2026",
+      "line_item_name": "DAS / Datera - 20. okt / 5x1",
+      "price": 37500,
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Happdrætti DAS / Datera - okt 2026",
+      "line_item_name": "DAS / Datera - 26. okt / 5x1",
+      "price": 31800,
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-26",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Híbýli október.",
       "line_item_name": "Híbýli október.Mánudagar Grandi",
       "price": 30000,
@@ -887,6 +919,14 @@
       "price": 37500,
       "start_date": "2026-10-01",
       "end_date": "2026-10-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Höldur /Dekk",
+      "line_item_name": "Höldur /Dekk",
+      "price": 175500,
+      "start_date": "2026-10-06",
+      "end_date": "2026-10-14",
       "seen_count": 1
     },
     {
@@ -1146,9 +1186,9 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Kave home - Caravan - 1 okt - Haustpakki",
-      "line_item_name": "Kave home - Caravan - 1 okt",
-      "price": 298200,
+      "campaign_name": "Kave home - Caravan - 15 okt - Haustpakki",
+      "line_item_name": "Kave home - Caravan - 15 okt",
+      "price": 284200,
       "start_date": "2026-10-11",
       "end_date": "2026-10-24",
       "seen_count": 1
@@ -1348,18 +1388,18 @@
     {
       "campaign_name": "Míla 14-23 okt.",
       "line_item_name": "Míla 14-23 okt.",
-      "price": 50000,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-23",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Míla 14-23 okt.",
-      "line_item_name": "Míla 14-23 okt.",
       "price": 37500,
       "start_date": "2026-10-14",
       "end_date": "2026-10-23",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Míla 14-23 okt.",
+      "line_item_name": "Míla 14-23 okt.",
+      "price": 50000,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-23",
+      "seen_count": 2
     },
     {
       "campaign_name": "Minstur Mediacom Bjartur 1-17 des 2026",
@@ -1810,9 +1850,41 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Spesía - Caravan - Haustpakki",
+      "line_item_name": "Grandi 25-28",
+      "price": 30000,
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Spesía - Caravan - Haustpakki",
+      "line_item_name": "Grandi og Litlatún 4-7 nóv",
+      "price": 52000,
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-07",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Spesía - Caravan - Haustpakki",
+      "line_item_name": "Spesía - Caravan - Haustpakki Grandi 31-3",
+      "price": 30000,
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "TENGI. föstudaga og laugardaga.",
+      "line_item_name": "TENGI. föstudaga og laugardaga. GLT1-AK1-HAGASM-HÆÐASM-SMARAT.",
+      "price": 234400,
+      "start_date": "2026-10-16",
+      "end_date": "2026-11-07",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Tölum saman Ennemm. Góðgerða verkefni.",
       "line_item_name": "Tölum saman Ennemm.",
-      "price": 154000,
+      "price": 192500,
       "start_date": "2026-10-02",
       "end_date": "2026-10-10",
       "seen_count": 1
@@ -1820,7 +1892,7 @@
     {
       "campaign_name": "Tölum saman Ennemm. Góðgerða verkefni.",
       "line_item_name": "Tölum saman Ennemm.",
-      "price": 192500,
+      "price": 154000,
       "start_date": "2026-10-02",
       "end_date": "2026-10-10",
       "seen_count": 1
