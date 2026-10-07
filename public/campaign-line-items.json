@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T19:57:59.620Z",
+  "generated_at": "2026-10-07T00:20:32.582Z",
   "scope": {
-    "report_start_date": "2026-10-06",
+    "report_start_date": "2026-10-07",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 447,
-    "unique_items": 273,
+    "items_seen": 443,
+    "unique_items": 269,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -303,7 +303,7 @@
       "price": 197500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-05",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Bestun/Freyja konfekt",
@@ -375,14 +375,6 @@
       "price": 127500,
       "start_date": "2026-12-15",
       "end_date": "2026-12-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
-      "line_item_name": "Bleika slaufan 30. sept til 7. okt / Þri, Fös, Lau",
-      "price": 83700,
-      "start_date": "2026-09-30",
-      "end_date": "2026-10-07",
       "seen_count": 1
     },
     {
@@ -660,7 +652,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 166000,
+      "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -676,7 +668,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
+      "price": 166000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -775,7 +767,7 @@
       "price": 45000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Forlagið / HN - 1. til 21.des 2026",
@@ -839,7 +831,7 @@
       "price": 39000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-19",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "GER samningur.",
@@ -1251,14 +1243,6 @@
     },
     {
       "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 6. okt / 5x1",
-      "price": 31000,
-      "start_date": "2026-10-06",
-      "end_date": "2026-10-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 7. okt / 4x1",
       "price": 27000,
       "start_date": "2026-10-07",
@@ -1375,7 +1359,7 @@
       "price": 155000,
       "start_date": "2027-01-04",
       "end_date": "2027-01-08",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1866,14 +1850,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Ratsjá -Gildi",
-      "line_item_name": "Ratsjá -Gildi",
-      "price": 666400,
-      "start_date": "2026-09-23",
-      "end_date": "2026-10-08",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Ratsjá/66 nord útsala",
       "line_item_name": "Ratsjá/66 nord útsala",
       "price": 310500,
@@ -1986,14 +1962,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Skapa - Hafnartorg",
-      "line_item_name": "Skapa - Hafnartorg",
-      "price": 10000,
-      "start_date": "2026-10-06",
-      "end_date": "2026-10-06",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Skógarböðin - Glerártorg - Árssamningur",
       "line_item_name": "Skógarböðin - Glerártorg",
       "price": 2372500,
@@ -2060,7 +2028,7 @@
     {
       "campaign_name": "Tölum saman Ennemm. Góðgerða verkefni.",
       "line_item_name": "Tölum saman Ennemm.",
-      "price": 154000,
+      "price": 192500,
       "start_date": "2026-10-02",
       "end_date": "2026-10-10",
       "seen_count": 1
@@ -2068,7 +2036,7 @@
     {
       "campaign_name": "Tölum saman Ennemm. Góðgerða verkefni.",
       "line_item_name": "Tölum saman Ennemm.",
-      "price": 192500,
+      "price": 154000,
       "start_date": "2026-10-02",
       "end_date": "2026-10-10",
       "seen_count": 1
@@ -2103,7 +2071,7 @@
       "price": 117000,
       "start_date": "2026-09-06",
       "end_date": "2026-11-07",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Tölvutek Akureyri",
@@ -2191,7 +2159,7 @@
       "price": 520000,
       "start_date": "2027-06-30",
       "end_date": "2027-07-03",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Vistor - Coldzyme - des 2026",
