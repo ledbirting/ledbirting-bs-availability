@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T09:46:30.597Z",
+  "generated_at": "2026-10-07T18:24:44.036Z",
   "scope": {
     "report_start_date": "2026-10-07",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 443,
-    "unique_items": 269,
+    "items_seen": 458,
+    "unique_items": 283,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -282,44 +282,68 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Bestun/Freyja konfekt",
-      "line_item_name": "Bestun/Freyja konfekt",
-      "price": 137500,
-      "start_date": "2026-11-09",
-      "end_date": "2026-11-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bestun/Freyja konfekt",
-      "line_item_name": "Bestun/Freyja konfekt",
-      "price": 110000,
-      "start_date": "2026-11-13",
-      "end_date": "2026-11-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bestun/Freyja konfekt",
-      "line_item_name": "Bestun/Freyja konfekt",
-      "price": 197500,
-      "start_date": "2026-12-01",
-      "end_date": "2026-12-05",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bestun/Freyja konfekt",
-      "line_item_name": "Bestun/Freyja konfekt",
-      "price": 102000,
-      "start_date": "2026-12-20",
-      "end_date": "2026-12-22",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Birtingahúsið Glerátorg ELKO.",
       "line_item_name": "Birtingahúsið Glerátorg ELKO.árssamningur.",
       "price": 2372500,
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "seen_count": 3
+    },
+    {
+      "campaign_name": "Birtingahúsið Indó pakki B.",
+      "line_item_name": "Birtingahúsið Indó 02-03 nóv.",
+      "price": 85000,
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Birtingahúsið Indó pakki B.",
+      "line_item_name": "Birtingahúsið Indó 05 nóv.",
+      "price": 42500,
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Birtingahúsið Indó pakki B.",
+      "line_item_name": "Birtingahúsið Indó 17/19/21 okt.",
+      "price": 129000,
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Birtingahúsið Indó pakki B.",
+      "line_item_name": "Birtingahúsið Indó 18-21 okt. Grandi.",
+      "price": 30000,
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Birtingahúsið Indó pakki B.",
+      "line_item_name": "Birtingahúsið Indó 18/20/22 okt.",
+      "price": 105000,
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Birtingahúsið Indó pakki B.",
+      "line_item_name": "Birtingahúsið Indó 27-27 okt.",
+      "price": 101000,
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Birtingahúsið Indó pakki B.",
+      "line_item_name": "Birtingahúsið Indó 29-30 okt.",
+      "price": 86000,
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-30",
+      "seen_count": 1
     },
     {
       "campaign_name": "Birtingahúsið SS.",
@@ -380,7 +404,7 @@
     {
       "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
       "line_item_name": "Bleika slaufan 30. sept til 7.okt / Mið og Fös",
-      "price": 129600,
+      "price": 138375,
       "start_date": "2026-09-30",
       "end_date": "2026-10-07",
       "seen_count": 1
@@ -388,7 +412,7 @@
     {
       "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
       "line_item_name": "Bleika slaufan 8. til 31. okt / Mán, Mið",
-      "price": 54810,
+      "price": 63585,
       "start_date": "2026-10-08",
       "end_date": "2026-10-31",
       "seen_count": 1
@@ -404,7 +428,7 @@
     {
       "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
       "line_item_name": "Bleika slaufan 8. til 31. okt / Sun",
-      "price": 37485,
+      "price": 42457.5,
       "start_date": "2026-10-08",
       "end_date": "2026-10-31",
       "seen_count": 1
@@ -412,9 +436,17 @@
     {
       "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
       "line_item_name": "Bleiki dagurinn 21. okt - Bleiki dagurinn",
-      "price": 69480,
+      "price": 71430,
       "start_date": "2026-10-21",
       "end_date": "2026-10-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026 - Bleika slaufan - HAE-P extra",
+      "line_item_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026 - Bleika slaufan - HAE-P extra",
+      "price": 0,
+      "start_date": "2026-10-07",
+      "end_date": "2026-10-31",
       "seen_count": 1
     },
     {
@@ -652,7 +684,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
+      "price": 166000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -668,7 +700,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 166000,
+      "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -920,6 +952,14 @@
       "start_date": "2026-10-25",
       "end_date": "2026-10-31",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Halldór úrsmiður Akureyri.",
+      "line_item_name": "Halldór úrsmiður Akureyri.",
+      "price": 84500,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-23",
+      "seen_count": 2
     },
     {
       "campaign_name": "Happdrætti DAS / Datera - okt 2026",
@@ -1548,18 +1588,18 @@
     {
       "campaign_name": "Míla 14-23 okt.",
       "line_item_name": "Míla 14-23 okt.",
-      "price": 50000,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-23",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Míla 14-23 okt.",
-      "line_item_name": "Míla 14-23 okt.",
       "price": 37500,
       "start_date": "2026-10-14",
       "end_date": "2026-10-23",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Míla 14-23 okt.",
+      "line_item_name": "Míla 14-23 okt.",
+      "price": 50000,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-23",
+      "seen_count": 2
     },
     {
       "campaign_name": "Minstur Mediacom Bjartur 1-17 des 2026",
@@ -2024,6 +2064,78 @@
       "start_date": "2026-10-16",
       "end_date": "2026-11-07",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "TM okt. pakki B.",
+      "line_item_name": "TM okt. pakki B. 20 okt. BT-AK1-GLT1-GRI-HAFT-HÖFT-SMT-VMEY-VLV1-HB1-SMT1.",
+      "price": 69600,
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "TM okt. pakki B.",
+      "line_item_name": "TM okt. pakki B. 20 okt. BT-AK1-GLT1-GRI-HAFT-HÖFT-SMT-VMEY.-HB2-KAPLA2-SFS1",
+      "price": 69100,
+      "start_date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "TM okt. pakki B.",
+      "line_item_name": "TM okt. pakki B. 21 okt. AK2-BT-GLT2-GRI-HAFT-HÖFT-KEV-SFS-SMT.",
+      "price": 57600,
+      "start_date": "2026-10-21",
+      "end_date": "2026-10-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "TM okt. pakki B.",
+      "line_item_name": "TM okt. pakki B. 22 okt. AK2-BT-GLT2-HAFT-HÖFT-HB1-KAPLA1--SMT1",
+      "price": 51100,
+      "start_date": "2026-10-22",
+      "end_date": "2026-10-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "TM okt. pakki B.",
+      "line_item_name": "TM okt. pakki B. 23 okt. AK1-GLT2-HAFT-HÖFT-HB1KEV-SFS1-SMT1-VMEY",
+      "price": 54600,
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "TM okt. pakki B.",
+      "line_item_name": "TM okt. pakki B. 26 okt. AK2-GLT-GRI-HAFT-HÖFT-HB2-GB-VLV2-SFS1-SMT-KEV-KAPLA3",
+      "price": 77100,
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "TM okt. pakki B.",
+      "line_item_name": "TM okt. pakki B. 27 okt. AK2-GLT-GRI-HAFT-HÖFT-HB2-GB-VLV2-KEV2-SMT.",
+      "price": 69100,
+      "start_date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "TM okt. pakki B.",
+      "line_item_name": "TM okt. pakki B. 28 okt. BT-GLT2-GRAI-HAFT-HÖFT-GB-KEV-SFS2-SMT-VMEY-VLV2",
+      "price": 70100,
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "TM okt. pakki B.",
+      "line_item_name": "TM okt. pakki B. 29 okt. AK2-BT-GLT2-HAFT-HÖFT-HB1-KAPLA1-VLV1-SMT1",
+      "price": 58600,
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "seen_count": 1
     },
     {
       "campaign_name": "Tölum saman Ennemm. Góðgerða verkefni.",
