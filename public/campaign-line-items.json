@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T09:57:08.320Z",
+  "generated_at": "2026-10-08T18:24:02.320Z",
   "scope": {
     "report_start_date": "2026-10-08",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 454,
-    "unique_items": 278,
+    "items_seen": 455,
+    "unique_items": 279,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -116,7 +116,7 @@
     {
       "campaign_name": "Beiersdorf. Eucerin Elasticity.",
       "line_item_name": "Beiersdorf. Eucerin Elasticity.",
-      "price": 243200,
+      "price": 269200,
       "start_date": "2026-10-13",
       "end_date": "2026-10-19",
       "seen_count": 1
@@ -124,7 +124,7 @@
     {
       "campaign_name": "Beiersdorf. Eucerin Elasticity.",
       "line_item_name": "Beiersdorf. Eucerin Elasticity.",
-      "price": 253200,
+      "price": 227200,
       "start_date": "2026-10-20",
       "end_date": "2026-10-26",
       "seen_count": 1
@@ -232,6 +232,22 @@
       "start_date": "2026-11-25",
       "end_date": "2026-11-29",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Bestun 2027",
+      "line_item_name": "Bestun 2027 - Janúar  SEL - VES - GRA",
+      "price": 193500,
+      "start_date": "2027-01-01",
+      "end_date": "2027-01-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Bestun 2027",
+      "line_item_name": "Bestun 2027 - Janúar EGI - NJA - AKU - GLE (1/2)",
+      "price": 105750,
+      "start_date": "2027-01-01",
+      "end_date": "2027-01-31",
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun Kjarnafæði -mars-31 des 2026",
@@ -660,14 +676,6 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Deloitte 05-17 okt.",
-      "line_item_name": "Deloitte 05-17 okt.",
       "price": 336000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
@@ -677,6 +685,14 @@
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
       "price": 166000,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
+      "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -1314,6 +1330,22 @@
       "seen_count": 3
     },
     {
+      "campaign_name": "Jysk  13- 26 okt.",
+      "line_item_name": "Jysk 13 - 26 okt.",
+      "price": 126000,
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-26",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Jysk  13- 26 okt.",
+      "line_item_name": "Jysk 13 - 26 okt.",
+      "price": 42000,
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-26",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 42000,
@@ -1506,30 +1538,6 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Mars Media Payday. nóv og des.",
-      "line_item_name": "Mars Media Payday. des . BT-GLT1",
-      "price": 13000,
-      "start_date": "2026-12-01",
-      "end_date": "2026-12-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Mars Media Payday. nóv og des.",
-      "line_item_name": "Mars Media Payday. nóv . BT-GLT1",
-      "price": 52000,
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-14",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Mars Media Payday. nóv og des.",
-      "line_item_name": "Mars Media Payday. nóv . GRANDI",
-      "price": 30000,
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-14",
-      "seen_count": 2
-    },
-    {
       "campaign_name": "Mars Media Trefjar.",
       "line_item_name": "Mars Media Trefjar.Tækifærispakki. BT-GRI-GB. 23 okt- 05 nóv",
       "price": 117000,
@@ -1556,18 +1564,18 @@
     {
       "campaign_name": "Míla 14-23 okt.",
       "line_item_name": "Míla 14-23 okt.",
-      "price": 37500,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Míla 14-23 okt.",
-      "line_item_name": "Míla 14-23 okt.",
       "price": 50000,
       "start_date": "2026-10-14",
       "end_date": "2026-10-23",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Míla 14-23 okt.",
+      "line_item_name": "Míla 14-23 okt.",
+      "price": 37500,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-23",
+      "seen_count": 1
     },
     {
       "campaign_name": "Minstur Mediacom Bjartur 1-17 des 2026",
@@ -1704,6 +1712,14 @@
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Orka Ventures",
+      "line_item_name": "Orka Ventures",
+      "price": 141000,
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-23",
+      "seen_count": 1
     },
     {
       "campaign_name": "Orkan - oktober - 2026",
@@ -2026,14 +2042,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "TENGI. föstudaga og laugardaga.",
-      "line_item_name": "TENGI. föstudaga og laugardaga. GLT1-AK1-HAGASM-HÆÐASM-SMARAT.",
-      "price": 234400,
-      "start_date": "2026-10-16",
-      "end_date": "2026-11-07",
-      "seen_count": 2
-    },
-    {
       "campaign_name": "TM okt. pakki B.",
       "line_item_name": "TM okt. pakki B. 20 okt. BT-AK1-GLT1-GRI-HAFT-HÖFT-SMT-VMEY-VLV1-HB1-SMT1.",
       "price": 69600,
@@ -2108,7 +2116,7 @@
     {
       "campaign_name": "Tölum saman Ennemm. Góðgerða verkefni.",
       "line_item_name": "Tölum saman Ennemm.",
-      "price": 192500,
+      "price": 154000,
       "start_date": "2026-10-02",
       "end_date": "2026-10-10",
       "seen_count": 1
@@ -2116,7 +2124,7 @@
     {
       "campaign_name": "Tölum saman Ennemm. Góðgerða verkefni.",
       "line_item_name": "Tölum saman Ennemm.",
-      "price": 154000,
+      "price": 192500,
       "start_date": "2026-10-02",
       "end_date": "2026-10-10",
       "seen_count": 1
