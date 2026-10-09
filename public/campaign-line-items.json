@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T18:24:02.320Z",
+  "generated_at": "2026-10-09T00:57:29.757Z",
   "scope": {
-    "report_start_date": "2026-10-08",
+    "report_start_date": "2026-10-09",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -19,7 +19,7 @@
   "stats": {
     "api_calls": 96,
     "items_seen": 455,
-    "unique_items": 279,
+    "unique_items": 276,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -167,7 +167,7 @@
       "price": 88500,
       "start_date": "2026-11-06",
       "end_date": "2026-11-11",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Berjaya - Gjafabréf / Ennemm / SD, BF og CM - nóv 2026",
@@ -263,7 +263,7 @@
       "price": 97500,
       "start_date": "2026-12-07",
       "end_date": "2026-12-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun-vogue-nóv-Glerártorg",
@@ -684,7 +684,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 166000,
+      "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -692,7 +692,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
+      "price": 166000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -887,7 +887,7 @@
       "price": 52000,
       "start_date": "2026-11-05",
       "end_date": "2026-11-28",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "GER samningur.",
@@ -1095,14 +1095,6 @@
       "price": 14000,
       "start_date": "2026-10-31",
       "end_date": "2026-10-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - okt '26",
-      "line_item_name": "Hreyfing / 8. okt / GRA, BORG / 2x1",
-      "price": 14000,
-      "start_date": "2026-10-08",
-      "end_date": "2026-10-08",
       "seen_count": 1
     },
     {
@@ -1348,18 +1340,18 @@
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
       "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 42000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
       "price": 126000,
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 42000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 1
     },
     {
       "campaign_name": "Kave home - Caravan - 15 okt - Haustpakki",
@@ -1407,7 +1399,7 @@
       "price": 155000,
       "start_date": "2027-07-05",
       "end_date": "2027-07-09",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1455,14 +1447,6 @@
       "price": 52500,
       "start_date": "2026-10-01",
       "end_date": "2026-10-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Landbúnaðarsýningin. 2026",
-      "line_item_name": "Birtingar 06/08 okt.. Akureyri, Kaplakrika, Selfoss, Vestmannaeyjar. Vesturlandsvegur,",
-      "price": 69000,
-      "start_date": "2026-10-06",
-      "end_date": "2026-10-09",
       "seen_count": 1
     },
     {
@@ -1874,14 +1858,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Ratsjá/66 nord útsala",
-      "line_item_name": "Ratsjá/66 nord útsala",
-      "price": 310500,
-      "start_date": "2026-09-30",
-      "end_date": "2026-10-08",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Reykjastræti - Fast í Hafnartorgi",
       "line_item_name": "Reykjastræti - Fast í Hafnartorgi",
       "price": 0,
@@ -2031,7 +2007,7 @@
       "price": 52000,
       "start_date": "2026-11-04",
       "end_date": "2026-11-07",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Spesía - Caravan - Haustpakki",
@@ -2116,7 +2092,7 @@
     {
       "campaign_name": "Tölum saman Ennemm. Góðgerða verkefni.",
       "line_item_name": "Tölum saman Ennemm.",
-      "price": 154000,
+      "price": 192500,
       "start_date": "2026-10-02",
       "end_date": "2026-10-10",
       "seen_count": 1
@@ -2124,7 +2100,7 @@
     {
       "campaign_name": "Tölum saman Ennemm. Góðgerða verkefni.",
       "line_item_name": "Tölum saman Ennemm.",
-      "price": 192500,
+      "price": 154000,
       "start_date": "2026-10-02",
       "end_date": "2026-10-10",
       "seen_count": 1
