@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T00:57:29.757Z",
+  "generated_at": "2026-10-09T10:00:50.210Z",
   "scope": {
     "report_start_date": "2026-10-09",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 455,
-    "unique_items": 276,
+    "items_seen": 458,
+    "unique_items": 279,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -139,6 +139,14 @@
     },
     {
       "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
+      "line_item_name": "Auður Ava - 18. nóv til 4. des 2026 (Mið, Lau)",
+      "price": 103000,
+      "start_date": "2026-11-18",
+      "end_date": "2026-12-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
       "line_item_name": "Benedikt bókaútgáfa / Datera - 26. til 30. nóv 2026 (Mán, Mið, Fös)",
       "price": 59000,
       "start_date": "2026-11-26",
@@ -168,6 +176,22 @@
       "start_date": "2026-11-06",
       "end_date": "2026-11-11",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
+      "line_item_name": "Jón Kalman - 18. nóv til 7. des 2026 (Þri, Fös)",
+      "price": 100000,
+      "start_date": "2026-11-18",
+      "end_date": "2026-12-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
+      "line_item_name": "María Elísabet - 16. til 22. nóv 2026 (Mán, Fim)",
+      "price": 53000,
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-22",
+      "seen_count": 1
     },
     {
       "campaign_name": "Berjaya - Gjafabréf / Ennemm / SD, BF og CM - nóv 2026",
