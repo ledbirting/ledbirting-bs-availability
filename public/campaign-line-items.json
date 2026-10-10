@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T22:22:19.605Z",
+  "generated_at": "2026-10-10T04:15:38.321Z",
   "scope": {
-    "report_start_date": "2026-10-09",
+    "report_start_date": "2026-10-10",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 455,
-    "unique_items": 276,
+    "items_seen": 446,
+    "unique_items": 267,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -232,14 +232,6 @@
       "start_date": "2026-09-01",
       "end_date": "2026-12-31",
       "seen_count": 3
-    },
-    {
-      "campaign_name": "Bestun /Ali okt Tækifærispakki",
-      "line_item_name": "Bestun /Ali okt Tækifærispakki",
-      "price": 57000,
-      "start_date": "2026-10-08",
-      "end_date": "2026-10-10",
-      "seen_count": 1
     },
     {
       "campaign_name": "Bestun /Ali okt Tækifærispakki",
@@ -546,14 +538,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Bónus / HN - okt 2026",
-      "line_item_name": "Bónus 9. okt - Fös / 9x1",
-      "price": 57500,
-      "start_date": "2026-10-09",
-      "end_date": "2026-10-09",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Boozt - Sept til des",
       "line_item_name": "Boozt - Vika 41",
       "price": 310100,
@@ -676,6 +660,14 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
+      "price": 83000,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
       "price": 336000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
@@ -685,14 +677,6 @@
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
       "price": 166000,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Deloitte 05-17 okt.",
-      "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -722,28 +706,12 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Duty Free - Heinemann  / Datera - okt 2026",
-      "line_item_name": "Duty Free - Heinemann / GLER2 (fös)",
-      "price": 13000,
-      "start_date": "2026-10-01",
-      "end_date": "2026-10-15",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "ELKO árssamningur",
       "line_item_name": "ELKO árssamningur 01 mars 2026 - 28 feb. 2027",
       "price": 3198000,
       "start_date": "2026-03-01",
       "end_date": "2027-02-28",
       "seen_count": 5
-    },
-    {
-      "campaign_name": "ENNEMM SÝN 09 okt.",
-      "line_item_name": "ENNEMM SÝN 09 okt.",
-      "price": 153400,
-      "start_date": "2026-10-09",
-      "end_date": "2026-10-09",
-      "seen_count": 1
     },
     {
       "campaign_name": "Eyesland (samningur) - mars '26 til feb '27",
@@ -1324,25 +1292,17 @@
     {
       "campaign_name": "Jysk  13- 26 okt.",
       "line_item_name": "Jysk 13 - 26 okt.",
-      "price": 126000,
+      "price": 42000,
       "start_date": "2026-10-13",
       "end_date": "2026-10-26",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Jysk  13- 26 okt.",
       "line_item_name": "Jysk 13 - 26 okt.",
-      "price": 42000,
+      "price": 126000,
       "start_date": "2026-10-13",
       "end_date": "2026-10-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 126000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
       "seen_count": 2
     },
     {
@@ -1352,6 +1312,14 @@
       "start_date": "2026-09-29",
       "end_date": "2026-10-12",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Jysk 29 sept. - 12 okt.",
+      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "price": 126000,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-12",
+      "seen_count": 2
     },
     {
       "campaign_name": "Kave home - Caravan - 15 okt - Haustpakki",
@@ -1450,14 +1418,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Landbúnaðarsýningin. 2026",
-      "line_item_name": "Birtingar 0709 okt.. Akureyri, Selfoss,. Vesturlandsvegur, Reykjanesbær, Höfðabakki.",
-      "price": 71000,
-      "start_date": "2026-10-06",
-      "end_date": "2026-10-09",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Landsbankinn - Tvist - Okt",
       "line_item_name": "Landsbankinn - Tvist - Sept - Akureyri og Selfoss",
       "price": 292500,
@@ -1479,14 +1439,6 @@
       "price": 91000,
       "start_date": "2026-11-02",
       "end_date": "2026-11-08",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Löður - Október 2026",
-      "line_item_name": "V40 og V41",
-      "price": 39333.33,
-      "start_date": "2026-10-01",
-      "end_date": "2026-10-10",
       "seen_count": 1
     },
     {
@@ -1548,18 +1500,18 @@
     {
       "campaign_name": "Míla 14-23 okt.",
       "line_item_name": "Míla 14-23 okt.",
-      "price": 37500,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Míla 14-23 okt.",
-      "line_item_name": "Míla 14-23 okt.",
       "price": 50000,
       "start_date": "2026-10-14",
       "end_date": "2026-10-23",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Míla 14-23 okt.",
+      "line_item_name": "Míla 14-23 okt.",
+      "price": 37500,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-23",
+      "seen_count": 1
     },
     {
       "campaign_name": "Minstur Mediacom Bjartur 1-17 des 2026",
@@ -1584,14 +1536,6 @@
       "start_date": "2026-01-21",
       "end_date": "2027-01-20",
       "seen_count": 4
-    },
-    {
-      "campaign_name": "Nova 05-31 okt.",
-      "line_item_name": "Nova 05/07/09.. BT-HSMI-SFS1-SMT1-VLV1-KAPLA2-VMEY-HÆSMI",
-      "price": 152400,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-11",
-      "seen_count": 1
     },
     {
       "campaign_name": "Nova 05-31 okt.",
@@ -1986,14 +1930,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Sólar",
-      "line_item_name": "Sólar. BT-BH\"-HB2KAPLA2-GB 05/07/09 okt.",
-      "price": 91500,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-11",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Spesía - Caravan - Haustpakki",
       "line_item_name": "Grandi 25-28",
       "price": 30000,
@@ -2098,14 +2034,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Tölum saman Ennemm. Góðgerða verkefni.",
-      "line_item_name": "Tölum saman Ennemm.",
-      "price": 154000,
-      "start_date": "2026-10-02",
-      "end_date": "2026-10-10",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Tölvutek Akureyri",
       "line_item_name": "Tölvutek - 1-24DES Glerártorg #1",
       "price": 156000,
@@ -2143,7 +2071,7 @@
       "price": 26000,
       "start_date": "2026-11-08",
       "end_date": "2026-11-11",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Tónhylur Long term",
