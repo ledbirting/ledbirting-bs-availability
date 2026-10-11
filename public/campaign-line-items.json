@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T21:07:59.993Z",
+  "generated_at": "2026-10-11T03:54:17.619Z",
   "scope": {
-    "report_start_date": "2026-10-10",
+    "report_start_date": "2026-10-11",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -19,7 +19,7 @@
   "stats": {
     "api_calls": 96,
     "items_seen": 446,
-    "unique_items": 267,
+    "unique_items": 263,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -399,7 +399,7 @@
       "price": 156000,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Björgun 26",
@@ -567,7 +567,7 @@
       "price": 350000,
       "start_date": "2026-11-09",
       "end_date": "2026-11-15",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Boozt - Sept til des",
@@ -695,14 +695,6 @@
       "price": 231900,
       "start_date": "2026-10-09",
       "end_date": "2026-10-24",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Dressmann sept - okt.",
-      "line_item_name": "Dressmann  07-10 okt.",
-      "price": 178000,
-      "start_date": "2026-10-07",
-      "end_date": "2026-10-10",
       "seen_count": 1
     },
     {
@@ -1292,25 +1284,17 @@
     {
       "campaign_name": "Jysk  13- 26 okt.",
       "line_item_name": "Jysk 13 - 26 okt.",
-      "price": 42000,
-      "start_date": "2026-10-13",
-      "end_date": "2026-10-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Jysk  13- 26 okt.",
-      "line_item_name": "Jysk 13 - 26 okt.",
       "price": 126000,
       "start_date": "2026-10-13",
       "end_date": "2026-10-26",
       "seen_count": 2
     },
     {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
+      "campaign_name": "Jysk  13- 26 okt.",
+      "line_item_name": "Jysk 13 - 26 okt.",
       "price": 42000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-26",
       "seen_count": 1
     },
     {
@@ -1359,7 +1343,7 @@
       "price": 155000,
       "start_date": "2027-01-04",
       "end_date": "2027-01-08",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1375,7 +1359,7 @@
       "price": 155000,
       "start_date": "2027-06-07",
       "end_date": "2027-06-11",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1651,14 +1635,6 @@
     },
     {
       "campaign_name": "Orkan - oktober - 2026",
-      "line_item_name": "Vika 41 - A",
-      "price": 367500,
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Orkan - oktober - 2026",
       "line_item_name": "Vika 42 - B",
       "price": 176750,
       "start_date": "2026-10-11",
@@ -1711,7 +1687,7 @@
       "price": 117600,
       "start_date": "2026-11-09",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Óskaskrín - 9 til 30 nóv",
@@ -1775,7 +1751,7 @@
       "price": 71400,
       "start_date": "2026-11-09",
       "end_date": "2026-11-11",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Pris - október",
@@ -2023,14 +1999,6 @@
       "price": 58600,
       "start_date": "2026-10-29",
       "end_date": "2026-10-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Tölum saman Ennemm. Góðgerða verkefni.",
-      "line_item_name": "Tölum saman Ennemm.",
-      "price": 192500,
-      "start_date": "2026-10-02",
-      "end_date": "2026-10-10",
       "seen_count": 1
     },
     {
