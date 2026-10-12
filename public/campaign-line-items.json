@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T10:11:50.337Z",
+  "generated_at": "2026-10-12T20:52:53.725Z",
   "scope": {
     "report_start_date": "2026-10-12",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 453,
-    "unique_items": 265,
+    "items_seen": 474,
+    "unique_items": 285,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -250,22 +250,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Bestun 2027",
-      "line_item_name": "Bestun 2027 - Janúar  SEL - VES - GRA",
-      "price": 193500,
-      "start_date": "2027-01-01",
-      "end_date": "2027-01-31",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Bestun 2027",
-      "line_item_name": "Bestun 2027 - Janúar EGI - NJA - AKU - GLE (1/2)",
-      "price": 105750,
-      "start_date": "2027-01-01",
-      "end_date": "2027-01-31",
-      "seen_count": 2
-    },
-    {
       "campaign_name": "Bestun Kjarnafæði -mars-31 des 2026",
       "line_item_name": "Bestun Kjarnafæði -mars-31 des 2026",
       "price": 3335000,
@@ -402,6 +386,30 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Birtingahúsið SS. des.",
+      "line_item_name": "Birtingahúsið SS  16/18/21/23 des.. AK2-GRI-KAPLA1-GB-SFS1/SMT1-VLV1",
+      "price": 186000,
+      "start_date": "2026-12-15",
+      "end_date": "2026-12-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Birtingahúsið SS. des.",
+      "line_item_name": "Birtingahúsið SS. 01/03/05/07 nóv. FJH-GLT2-KEV2-GB-SMT-KAPLA2",
+      "price": 108000,
+      "start_date": "2026-12-15",
+      "end_date": "2026-12-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Birtingahúsið SS. des.",
+      "line_item_name": "Birtingahúsið SS. 09/11/13 nóv. FJK-GLT1-GRI-KAPLA2-KEV-SFS2-SMT1-VLV2-BT-BH2-GB",
+      "price": 139000,
+      "start_date": "2026-12-08",
+      "end_date": "2026-12-14",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Björgun 26",
       "line_item_name": "Björgun 26",
       "price": 22500,
@@ -427,6 +435,14 @@
     },
     {
       "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
+      "line_item_name": "Bleika slaufan - Bleiki dagurinn 21. okt",
+      "price": 71430,
+      "start_date": "2026-10-21",
+      "end_date": "2026-10-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
       "line_item_name": "Bleika slaufan 8. til 31. okt / Mán, Mið",
       "price": 63585,
       "start_date": "2026-10-08",
@@ -447,14 +463,6 @@
       "price": 42457.5,
       "start_date": "2026-10-08",
       "end_date": "2026-10-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
-      "line_item_name": "Bleiki dagurinn 21. okt - Bleiki dagurinn",
-      "price": 71430,
-      "start_date": "2026-10-21",
-      "end_date": "2026-10-21",
       "seen_count": 1
     },
     {
@@ -531,14 +539,6 @@
     },
     {
       "campaign_name": "Bónus / HN - okt 2026",
-      "line_item_name": "Bónus 23. okt - Fös / 10x1",
-      "price": 61500,
-      "start_date": "2026-10-23",
-      "end_date": "2026-10-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - okt 2026",
       "line_item_name": "Bónus 26. okt - Mán / 9x1",
       "price": 56500,
       "start_date": "2026-10-26",
@@ -564,9 +564,9 @@
     {
       "campaign_name": "Boozt - Sept til des",
       "line_item_name": "Boozt - Vika 43",
-      "price": 327600,
+      "price": 234000,
       "start_date": "2026-10-19",
-      "end_date": "2026-10-25",
+      "end_date": "2026-10-23",
       "seen_count": 1
     },
     {
@@ -906,6 +906,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Hagkaup Akureyri nóv.",
+      "line_item_name": "Hagkaup Akureyri nóv.",
+      "price": 32500,
+      "start_date": "2026-10-29",
+      "end_date": "2026-11-12",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Hagkaup Akureyri nóv.",
+      "line_item_name": "Hagkaup Akureyri nóv.",
+      "price": 26000,
+      "start_date": "2026-10-29",
+      "end_date": "2026-11-12",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Hagkaup Akureyri. okt.",
       "line_item_name": "Hagkaup Akureyri. 11/14/17 okt. okt.GLT.",
       "price": 19500,
@@ -959,6 +975,46 @@
       "price": 31800,
       "start_date": "2026-10-26",
       "end_date": "2026-10-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskólinn á Bifröst. 20 okt- 1 des.",
+      "line_item_name": "Háskólinn á Bifröst. 04. nóv. BT-GLT-GRI-GB-SMT.",
+      "price": 31000,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskólinn á Bifröst. 20 okt- 1 des.",
+      "line_item_name": "Háskólinn á Bifröst. 13. nóv. BT-GLT-GRI-GB-SMT.",
+      "price": 31000,
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskólinn á Bifröst. 20 okt- 1 des.",
+      "line_item_name": "Háskólinn á Bifröst. 18/25.. nóv. AK1-BH2-EH1-HB1-KAPLA2-KEV-SFS",
+      "price": 84000,
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskólinn á Bifröst. 20 okt- 1 des.",
+      "line_item_name": "Háskólinn á Bifröst. 28/29.. nóv. BH2-EH1-HB1-KAPLA3-KEV2-SFS2",
+      "price": 86000,
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskólinn á Bifröst. 20 okt- 1 des.",
+      "line_item_name": "Háskólinn á Bifröst. 30.nóv. 01 des. BT-GLT-GRI-HB2-KAPLA1-GB-SMT1VLV2.",
+      "price": 103000,
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-01",
       "seen_count": 1
     },
     {
@@ -1063,6 +1119,70 @@
       "price": 14000,
       "start_date": "2026-10-31",
       "end_date": "2026-10-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "ICEBOX - 2026",
+      "line_item_name": "ICEBOX - 1 nóv",
+      "price": 30000,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "ICEBOX - 2026",
+      "line_item_name": "ICEBOX - 28 okt",
+      "price": 16000,
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "ICEBOX - 2026",
+      "line_item_name": "ICEBOX - 29 okt",
+      "price": 20500,
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "ICEBOX - 2026",
+      "line_item_name": "ICEBOX - 30 okt",
+      "price": 11300,
+      "start_date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "ICEBOX - 2026",
+      "line_item_name": "ICEBOX - 31 okt",
+      "price": 11300,
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "ICEBOX - 2026",
+      "line_item_name": "ICEBOX - 4 nóv",
+      "price": 18800,
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "ICEBOX - 2026",
+      "line_item_name": "ICEBOX - 5 nóv",
+      "price": 13300,
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "ICEBOX - 2026",
+      "line_item_name": "ICEBOX - 6 nóv",
+      "price": 20500,
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-06",
       "seen_count": 1
     },
     {
@@ -1386,6 +1506,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Klettur / Digido / okt til nóv 2026",
+      "line_item_name": "Klettur - 19. okt til 13. nóv / Digido / Fim, Fös, Lau / Hafnartorg",
+      "price": 55000,
+      "start_date": "2026-10-19",
+      "end_date": "2026-11-13",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Kosmos - Caravan - Haustpakki",
       "line_item_name": "Kosmos - Caravan - Haustpakki",
       "price": 354200,
@@ -1516,18 +1644,18 @@
     {
       "campaign_name": "Míla 14-23 okt.",
       "line_item_name": "Míla 14-23 okt.",
-      "price": 50000,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-23",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Míla 14-23 okt.",
-      "line_item_name": "Míla 14-23 okt.",
       "price": 37500,
       "start_date": "2026-10-14",
       "end_date": "2026-10-23",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Míla 14-23 okt.",
+      "line_item_name": "Míla 14-23 okt.",
+      "price": 50000,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-23",
+      "seen_count": 2
     },
     {
       "campaign_name": "Minstur Mediacom Bjartur 1-17 des 2026",
@@ -1544,6 +1672,14 @@
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Myllan - jólatertudagurinn / Datera - 24. okt 2026",
+      "line_item_name": "Myllan - jólatertudagurinn / Datera / 24. okt",
+      "price": 100000,
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "seen_count": 1
     },
     {
       "campaign_name": "N1 árssamingur Glerártorg.",
@@ -1895,6 +2031,30 @@
       "price": 97500,
       "start_date": "2026-10-01",
       "end_date": "2026-10-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Skátarnir - Jólatré - 26 október til 5 nóvember",
+      "line_item_name": "Skátarnir - Jólatré - Glerártorg (27 okt)",
+      "price": 6500,
+      "start_date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Skátarnir - Jólatré - 26 október til 5 nóvember",
+      "line_item_name": "Skátarnir - Jólatré - Glerártorg (28 okt til 5 nóv)",
+      "price": 58500,
+      "start_date": "2026-10-28",
+      "end_date": "2026-11-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Skátarnir- Jólatré - 27 nóvember til 6 desember",
+      "line_item_name": "Skátarnir - Jólatré - Glerártorg",
+      "price": 65000,
+      "start_date": "2026-11-27",
+      "end_date": "2026-12-06",
       "seen_count": 1
     },
     {
