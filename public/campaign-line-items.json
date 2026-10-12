@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T00:12:22.337Z",
+  "generated_at": "2026-10-12T10:11:50.337Z",
   "scope": {
     "report_start_date": "2026-10-12",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 445,
-    "unique_items": 259,
+    "items_seen": 453,
+    "unique_items": 265,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -466,6 +466,30 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "BM Vallá / Datera - október 2026",
+      "line_item_name": "BM Vallá / Datera / Mán, Mið og Fös / Akureyri 1 og Höfðabakki 1",
+      "price": 69000,
+      "start_date": "2026-10-19",
+      "end_date": "2026-11-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "BM Vallá / Datera - október 2026",
+      "line_item_name": "BM Vallá / Datera / Sun, Mán, Mið og Fös / Höfðabakki 2 og Egilshöll 1",
+      "price": 80000,
+      "start_date": "2026-10-19",
+      "end_date": "2026-11-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "BM Vallá / Datera - október 2026",
+      "line_item_name": "BM Vallá / Datera / Þri, Mið, Fim og Lau / Glerártorg 1 og Kaplakriki 1",
+      "price": 116000,
+      "start_date": "2026-10-19",
+      "end_date": "2026-11-01",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Bónus / HN - okt 2026",
       "line_item_name": "Bónus 12. okt - Mán / 9x1",
       "price": 62500,
@@ -652,14 +676,6 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Deloitte 05-17 okt.",
-      "line_item_name": "Deloitte 05-17 okt.",
       "price": 336000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
@@ -669,6 +685,14 @@
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
       "price": 166000,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
+      "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -1268,18 +1292,18 @@
     {
       "campaign_name": "Jysk  13- 26 okt.",
       "line_item_name": "Jysk 13 - 26 okt.",
-      "price": 42000,
-      "start_date": "2026-10-13",
-      "end_date": "2026-10-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Jysk  13- 26 okt.",
-      "line_item_name": "Jysk 13 - 26 okt.",
       "price": 126000,
       "start_date": "2026-10-13",
       "end_date": "2026-10-26",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Jysk  13- 26 okt.",
+      "line_item_name": "Jysk 13 - 26 okt.",
+      "price": 42000,
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-26",
+      "seen_count": 1
     },
     {
       "campaign_name": "Jysk 29 sept. - 12 okt.",
@@ -1442,6 +1466,30 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Mars Media Payday. nóv og des.",
+      "line_item_name": "Mars Media Payday. des . BT-GLT1",
+      "price": 13000,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mars Media Payday. nóv og des.",
+      "line_item_name": "Mars Media Payday. nóv . BT-GLT1",
+      "price": 52000,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-14",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Mars Media Payday. nóv og des.",
+      "line_item_name": "Mars Media Payday. nóv . GRANDI",
+      "price": 30000,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-14",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Mars Media Trefjar.",
       "line_item_name": "Mars Media Trefjar.Tækifærispakki. BT-GRI-GB. 23 okt- 05 nóv",
       "price": 117000,
@@ -1468,18 +1516,18 @@
     {
       "campaign_name": "Míla 14-23 okt.",
       "line_item_name": "Míla 14-23 okt.",
-      "price": 37500,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Míla 14-23 okt.",
-      "line_item_name": "Míla 14-23 okt.",
       "price": 50000,
       "start_date": "2026-10-14",
       "end_date": "2026-10-23",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Míla 14-23 okt.",
+      "line_item_name": "Míla 14-23 okt.",
+      "price": 37500,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-23",
+      "seen_count": 1
     },
     {
       "campaign_name": "Minstur Mediacom Bjartur 1-17 des 2026",
