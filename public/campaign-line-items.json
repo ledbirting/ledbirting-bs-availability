@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T20:52:53.725Z",
+  "generated_at": "2026-10-13T02:24:22.735Z",
   "scope": {
-    "report_start_date": "2026-10-12",
+    "report_start_date": "2026-10-13",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 474,
-    "unique_items": 285,
+    "items_seen": 463,
+    "unique_items": 281,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -108,14 +108,6 @@
     {
       "campaign_name": "Beiersdorf. Eucerin Elasticity.",
       "line_item_name": "Beiersdorf. Eucerin Elasticity.",
-      "price": 194400,
-      "start_date": "2026-10-06",
-      "end_date": "2026-10-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Beiersdorf. Eucerin Elasticity.",
-      "line_item_name": "Beiersdorf. Eucerin Elasticity.",
       "price": 269200,
       "start_date": "2026-10-13",
       "end_date": "2026-10-19",
@@ -167,7 +159,7 @@
       "price": 64500,
       "start_date": "2026-11-06",
       "end_date": "2026-11-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
@@ -175,7 +167,7 @@
       "price": 88500,
       "start_date": "2026-11-06",
       "end_date": "2026-11-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
@@ -407,7 +399,7 @@
       "price": 139000,
       "start_date": "2026-12-08",
       "end_date": "2026-12-14",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Björgun 26",
@@ -495,14 +487,6 @@
       "price": 116000,
       "start_date": "2026-10-19",
       "end_date": "2026-11-01",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - okt 2026",
-      "line_item_name": "Bónus 12. okt - Mán / 9x1",
-      "price": 62500,
-      "start_date": "2026-10-12",
-      "end_date": "2026-10-12",
       "seen_count": 1
     },
     {
@@ -607,7 +591,7 @@
       "price": 99600,
       "start_date": "2026-11-10",
       "end_date": "2026-11-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "BY-Lovisa inneign",
@@ -919,7 +903,7 @@
       "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Hagkaup Akureyri. okt.",
@@ -944,14 +928,6 @@
       "start_date": "2026-12-01",
       "end_date": "2026-12-23",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Happdrætti DAS / Datera - okt 2026",
-      "line_item_name": "DAS / Datera - 12. okt / 5x1",
-      "price": 31000,
-      "start_date": "2026-10-12",
-      "end_date": "2026-10-12",
-      "seen_count": 1
     },
     {
       "campaign_name": "Happdrætti DAS / Datera - okt 2026",
@@ -1426,14 +1402,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Jysk 29 sept. - 12 okt.",
-      "line_item_name": "Jysk 29 sept. - 12 okt.",
-      "price": 126000,
-      "start_date": "2026-09-29",
-      "end_date": "2026-10-12",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Kave home - Caravan - 15 okt - Haustpakki",
       "line_item_name": "Kave home - Caravan - 15 okt",
       "price": 284200,
@@ -1479,7 +1447,7 @@
       "price": 155000,
       "start_date": "2027-07-05",
       "end_date": "2027-07-09",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1607,7 +1575,7 @@
       "price": 52000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-14",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Mars Media Payday. nóv og des.",
@@ -1644,18 +1612,18 @@
     {
       "campaign_name": "Míla 14-23 okt.",
       "line_item_name": "Míla 14-23 okt.",
-      "price": 37500,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Míla 14-23 okt.",
-      "line_item_name": "Míla 14-23 okt.",
       "price": 50000,
       "start_date": "2026-10-14",
       "end_date": "2026-10-23",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Míla 14-23 okt.",
+      "line_item_name": "Míla 14-23 okt.",
+      "price": 37500,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-23",
+      "seen_count": 1
     },
     {
       "campaign_name": "Minstur Mediacom Bjartur 1-17 des 2026",
@@ -1847,7 +1815,7 @@
       "price": 43500,
       "start_date": "2026-11-09",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Partbúðin - 22 til 31 okt",
@@ -1903,7 +1871,7 @@
       "price": 71400,
       "start_date": "2026-11-09",
       "end_date": "2026-11-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Pris - október",
@@ -2015,7 +1983,7 @@
       "price": 78000,
       "start_date": "2026-11-30",
       "end_date": "2026-12-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Sérefni (okt , nóv og des)",
@@ -2215,7 +2183,7 @@
       "price": 26000,
       "start_date": "2026-11-08",
       "end_date": "2026-11-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Tónhylur Long term",
