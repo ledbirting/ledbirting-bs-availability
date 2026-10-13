@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T02:24:22.735Z",
+  "generated_at": "2026-10-13T10:04:37.719Z",
   "scope": {
     "report_start_date": "2026-10-13",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 463,
-    "unique_items": 281,
+    "items_seen": 460,
+    "unique_items": 278,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -131,14 +131,6 @@
     },
     {
       "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
-      "line_item_name": "Auður Ava - 18. nóv til 4. des 2026 (Mið, Lau)",
-      "price": 103000,
-      "start_date": "2026-11-18",
-      "end_date": "2026-12-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
       "line_item_name": "Benedikt bókaútgáfa / Datera - 26. til 30. nóv 2026 (Mán, Mið, Fös)",
       "price": 59000,
       "start_date": "2026-11-26",
@@ -167,22 +159,6 @@
       "price": 88500,
       "start_date": "2026-11-06",
       "end_date": "2026-11-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
-      "line_item_name": "Jón Kalman - 18. nóv til 7. des 2026 (Þri, Fös)",
-      "price": 100000,
-      "start_date": "2026-11-18",
-      "end_date": "2026-12-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
-      "line_item_name": "María Elísabet - 16. til 22. nóv 2026 (Mán, Fim)",
-      "price": 53000,
-      "start_date": "2026-11-16",
-      "end_date": "2026-11-22",
       "seen_count": 1
     },
     {
@@ -660,6 +636,14 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
+      "price": 83000,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
       "price": 336000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
@@ -669,14 +653,6 @@
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
       "price": 166000,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Deloitte 05-17 okt.",
-      "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -1405,8 +1381,8 @@
       "campaign_name": "Kave home - Caravan - 15 okt - Haustpakki",
       "line_item_name": "Kave home - Caravan - 15 okt",
       "price": 284200,
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-24",
+      "start_date": "2026-10-22",
+      "end_date": "2026-11-04",
       "seen_count": 1
     },
     {
