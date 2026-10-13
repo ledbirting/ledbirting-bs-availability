@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T10:04:37.719Z",
+  "generated_at": "2026-10-13T18:51:03.654Z",
   "scope": {
     "report_start_date": "2026-10-13",
     "report_end_date": "2099-12-31",
@@ -18,13 +18,125 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 460,
-    "unique_items": 278,
+    "items_seen": 482,
+    "unique_items": 297,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
   },
   "items": [
+    {
+      "campaign_name": "A4  -  Des 2026",
+      "line_item_name": "A4  - 17. des / 7x1",
+      "price": 44000,
+      "start_date": "2026-12-17",
+      "end_date": "2026-12-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "A4  -  Des 2026",
+      "line_item_name": "A4  - 18. des / 8x1",
+      "price": 50800,
+      "start_date": "2026-12-18",
+      "end_date": "2026-12-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "A4  -  Des 2026",
+      "line_item_name": "A4  - 19. des / 8x1",
+      "price": 54500,
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "A4  -  Des 2026",
+      "line_item_name": "A4  - 20. des / 7x1",
+      "price": 44800,
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "A4  -  Des 2026",
+      "line_item_name": "A4  - 21. des / 8x1",
+      "price": 52300,
+      "start_date": "2026-12-21",
+      "end_date": "2026-12-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "A4  -  Des 2026",
+      "line_item_name": "A4  - 22. des / 9x1",
+      "price": 56300,
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "A4  -  Des 2026",
+      "line_item_name": "A4  - 23. des / 8x1",
+      "price": 53000,
+      "start_date": "2026-12-23",
+      "end_date": "2026-12-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "A4  -  Des 2026",
+      "line_item_name": "A4  - 3. des / 7x1",
+      "price": 44000,
+      "start_date": "2026-12-03",
+      "end_date": "2026-12-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "A4  -  Des 2026",
+      "line_item_name": "A4  - 4. des / 7x1",
+      "price": 45800,
+      "start_date": "2026-12-04",
+      "end_date": "2026-12-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "A4  -  Des 2026",
+      "line_item_name": "A4  - 5. des / 7x1",
+      "price": 46500,
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "A4  -  Des 2026",
+      "line_item_name": "A4  - 6. des / 8x1",
+      "price": 49800,
+      "start_date": "2026-12-06",
+      "end_date": "2026-12-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "A4  -  Des 2026",
+      "line_item_name": "A4  - 7. des / 8x1",
+      "price": 50800,
+      "start_date": "2026-12-07",
+      "end_date": "2026-12-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "A4  -  Des 2026",
+      "line_item_name": "A4  - 8. des / 7x1",
+      "price": 45500,
+      "start_date": "2026-12-08",
+      "end_date": "2026-12-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "A4  -  Des 2026",
+      "line_item_name": "A4  - 9. des / 7x1",
+      "price": 44300,
+      "start_date": "2026-12-09",
+      "end_date": "2026-12-09",
+      "seen_count": 1
+    },
     {
       "campaign_name": "A4 / Datera - Langtímasamningur 2026 (frh. á samningi)",
       "line_item_name": "A4 / Glerártorg 1 - frh á samningi",
@@ -131,6 +243,14 @@
     },
     {
       "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
+      "line_item_name": "Auður Ava - 18. nóv til 4. des 2026 (Mið, Lau)",
+      "price": 103000,
+      "start_date": "2026-11-18",
+      "end_date": "2026-12-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
       "line_item_name": "Benedikt bókaútgáfa / Datera - 26. til 30. nóv 2026 (Mán, Mið, Fös)",
       "price": 59000,
       "start_date": "2026-11-26",
@@ -159,6 +279,22 @@
       "price": 88500,
       "start_date": "2026-11-06",
       "end_date": "2026-11-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
+      "line_item_name": "Jón Kalman - 18. nóv til 7. des 2026 (Þri, Fös)",
+      "price": 100000,
+      "start_date": "2026-11-18",
+      "end_date": "2026-12-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
+      "line_item_name": "María Elísabet - 16. til 22. nóv 2026 (Mán, Fim)",
+      "price": 53000,
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-22",
       "seen_count": 1
     },
     {
@@ -636,7 +772,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
+      "price": 166000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -652,7 +788,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 166000,
+      "price": 83000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -1364,18 +1500,18 @@
     {
       "campaign_name": "Jysk  13- 26 okt.",
       "line_item_name": "Jysk 13 - 26 okt.",
-      "price": 126000,
-      "start_date": "2026-10-13",
-      "end_date": "2026-10-26",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Jysk  13- 26 okt.",
-      "line_item_name": "Jysk 13 - 26 okt.",
       "price": 42000,
       "start_date": "2026-10-13",
       "end_date": "2026-10-26",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Jysk  13- 26 okt.",
+      "line_item_name": "Jysk 13 - 26 okt.",
+      "price": 126000,
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-26",
+      "seen_count": 2
     },
     {
       "campaign_name": "Kave home - Caravan - 15 okt - Haustpakki",
@@ -1588,18 +1724,18 @@
     {
       "campaign_name": "Míla 14-23 okt.",
       "line_item_name": "Míla 14-23 okt.",
-      "price": 50000,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-23",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Míla 14-23 okt.",
-      "line_item_name": "Míla 14-23 okt.",
       "price": 37500,
       "start_date": "2026-10-14",
       "end_date": "2026-10-23",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Míla 14-23 okt.",
+      "line_item_name": "Míla 14-23 okt.",
+      "price": 50000,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-23",
+      "seen_count": 2
     },
     {
       "campaign_name": "Minstur Mediacom Bjartur 1-17 des 2026",
@@ -1632,6 +1768,22 @@
       "start_date": "2026-01-21",
       "end_date": "2027-01-20",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Nova 01-25 nóv.",
+      "line_item_name": "Nova 01-25 nóv.",
+      "price": 271200,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-21",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Nova 01-25 nóv.",
+      "line_item_name": "Nova 01-25 nóv.",
+      "price": 172500,
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-25",
+      "seen_count": 3
     },
     {
       "campaign_name": "Nova 05-31 okt.",
