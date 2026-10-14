@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:22:06.305Z",
+  "generated_at": "2026-10-14T14:19:07.195Z",
   "scope": {
     "report_start_date": "2026-10-14",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 475,
-    "unique_items": 292,
+    "items_seen": 503,
+    "unique_items": 319,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -571,8 +571,8 @@
     },
     {
       "campaign_name": "BM Vallá / Datera - október 2026",
-      "line_item_name": "BM Vallá / Datera / Mán, Mið og Fös / Akureyri 1 og Höfðabakki 1",
-      "price": 69000,
+      "line_item_name": "BM Vallá / Datera / Mán, Mið og Fös / Breiðholt 1 og Höfðabakki 1",
+      "price": 63000,
       "start_date": "2026-10-19",
       "end_date": "2026-11-01",
       "seen_count": 1
@@ -586,11 +586,99 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "BM Vallá / Datera - október 2026",
-      "line_item_name": "BM Vallá / Datera / Þri, Mið, Fim og Lau / Glerártorg 1 og Kaplakriki 1",
-      "price": 116000,
-      "start_date": "2026-10-19",
-      "end_date": "2026-11-01",
+      "campaign_name": "Bónus / HN - nóv 2026",
+      "line_item_name": "Bónus 11. nóv - Mið / 9x1",
+      "price": 57000,
+      "start_date": "2026-11-11",
+      "end_date": "2026-11-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - nóv 2026",
+      "line_item_name": "Bónus 13. nóv - Fös / 9x1",
+      "price": 56000,
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - nóv 2026",
+      "line_item_name": "Bónus 16. nóv - Mán / 9x1",
+      "price": 57500,
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - nóv 2026",
+      "line_item_name": "Bónus 18. nóv - Mið / 9x1",
+      "price": 56000,
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - nóv 2026",
+      "line_item_name": "Bónus 2. nóv - Mán / 10x1",
+      "price": 66000,
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - nóv 2026",
+      "line_item_name": "Bónus 20. nóv - Fös / 9x1",
+      "price": 56000,
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - nóv 2026",
+      "line_item_name": "Bónus 25. nóv - Mið / 9x1",
+      "price": 56500,
+      "start_date": "2026-11-25",
+      "end_date": "2026-11-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - nóv 2026",
+      "line_item_name": "Bónus 27. nóv - Fös / 9x1",
+      "price": 56000,
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - nóv 2026",
+      "line_item_name": "Bónus 30. nóv - Mán / 10x1",
+      "price": 66000,
+      "start_date": "2026-11-30",
+      "end_date": "2026-11-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - nóv 2026",
+      "line_item_name": "Bónus 4. nóv - Mið / 10x1",
+      "price": 62500,
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - nóv 2026",
+      "line_item_name": "Bónus 6. nóv - Fös / 9x1",
+      "price": 62000,
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - nóv 2026",
+      "line_item_name": "Bónus 9. nóv - Mán / 9x1",
+      "price": 57500,
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-09",
       "seen_count": 1
     },
     {
@@ -764,7 +852,7 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 336000,
+      "price": 166000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -780,9 +868,25 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 166000,
+      "price": 336000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Dominos GTA.",
+      "line_item_name": "Dominos GTA. GLT1",
+      "price": 26000,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-15",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Dominos GTA.",
+      "line_item_name": "Dominos GTA. GLT2",
+      "price": 26000,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-15",
       "seen_count": 1
     },
     {
@@ -996,7 +1100,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1004,7 +1108,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1047,46 +1151,6 @@
       "price": 31800,
       "start_date": "2026-10-26",
       "end_date": "2026-10-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Háskólinn á Bifröst. 20 okt- 1 des.",
-      "line_item_name": "Háskólinn á Bifröst. 04. nóv. BT-GLT-GRI-GB-SMT.",
-      "price": 31000,
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Háskólinn á Bifröst. 20 okt- 1 des.",
-      "line_item_name": "Háskólinn á Bifröst. 13. nóv. BT-GLT-GRI-GB-SMT.",
-      "price": 31000,
-      "start_date": "2026-11-13",
-      "end_date": "2026-11-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Háskólinn á Bifröst. 20 okt- 1 des.",
-      "line_item_name": "Háskólinn á Bifröst. 18/25.. nóv. AK1-BH2-EH1-HB1-KAPLA2-KEV-SFS",
-      "price": 84000,
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Háskólinn á Bifröst. 20 okt- 1 des.",
-      "line_item_name": "Háskólinn á Bifröst. 28/29.. nóv. BH2-EH1-HB1-KAPLA3-KEV2-SFS2",
-      "price": 86000,
-      "start_date": "2026-11-27",
-      "end_date": "2026-11-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Háskólinn á Bifröst. 20 okt- 1 des.",
-      "line_item_name": "Háskólinn á Bifröst. 30.nóv. 01 des. BT-GLT-GRI-HB2-KAPLA1-GB-SMT1VLV2.",
-      "price": 103000,
-      "start_date": "2026-11-30",
-      "end_date": "2026-12-01",
       "seen_count": 1
     },
     {
@@ -1295,6 +1359,166 @@
       "price": 527000,
       "start_date": "2026-10-01",
       "end_date": "2026-10-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 1. nóv / 5x1",
+      "price": 33500,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 10. nóv / 4x1",
+      "price": 26000,
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 13. nóv / 4x1",
+      "price": 26000,
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 14. nóv / 4x1",
+      "price": 26000,
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 15. nóv / 4x1",
+      "price": 25500,
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 16. nóv / 4x1",
+      "price": 24000,
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 17. nóv / 4x1",
+      "price": 27500,
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 18. nóv / 5x1",
+      "price": 32000,
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 19. nóv / 4x1",
+      "price": 23500,
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 20. nóv / 4x1",
+      "price": 26000,
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 21. nóv / 4x1",
+      "price": 28500,
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 22. nóv / 4x1",
+      "price": 26000,
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 24. nóv / 4x1",
+      "price": 28500,
+      "start_date": "2026-11-24",
+      "end_date": "2026-11-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 27. nóv / 5x1",
+      "price": 31000,
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 28. nóv / 4x1",
+      "price": 25500,
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 29. nóv / 4x1",
+      "price": 27000,
+      "start_date": "2026-11-29",
+      "end_date": "2026-11-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 3. nóv / 4x1",
+      "price": 23000,
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 30. nóv / 4x1",
+      "price": 27000,
+      "start_date": "2026-11-30",
+      "end_date": "2026-11-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 4. nóv / 4x1",
+      "price": 23500,
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
+      "line_item_name": "IKEA - 7. nóv / 4x1",
+      "price": 27000,
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
       "seen_count": 1
     },
     {
@@ -1712,14 +1936,6 @@
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Myllan - jólatertudagurinn / Datera - 24. okt 2026",
-      "line_item_name": "Myllan - jólatertudagurinn / Datera / 24. okt",
-      "price": 100000,
-      "start_date": "2026-10-24",
-      "end_date": "2026-10-24",
-      "seen_count": 1
     },
     {
       "campaign_name": "N1 árssamingur Glerártorg.",
