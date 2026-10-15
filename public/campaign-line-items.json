@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T23:39:36.996Z",
+  "generated_at": "2026-10-15T03:07:39.238Z",
   "scope": {
-    "report_start_date": "2026-10-14",
+    "report_start_date": "2026-10-15",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 505,
-    "unique_items": 320,
+    "items_seen": 493,
+    "unique_items": 311,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -487,7 +487,7 @@
       "price": 156000,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Birtingahúsið SS. des.",
@@ -512,14 +512,6 @@
       "start_date": "2026-12-08",
       "end_date": "2026-12-14",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Björgun 26",
-      "line_item_name": "Björgun 26",
-      "price": 7500,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-14",
-      "seen_count": 1
     },
     {
       "campaign_name": "Björgunarsveitin - 15. des - 31. des GRANDI",
@@ -679,14 +671,6 @@
       "price": 57500,
       "start_date": "2026-11-09",
       "end_date": "2026-11-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - okt 2026",
-      "line_item_name": "Bónus 14. okt - Mið / 10x1",
-      "price": 65000,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-14",
       "seen_count": 1
     },
     {
@@ -852,23 +836,15 @@
     {
       "campaign_name": "Deloitte 05-17 okt.",
       "line_item_name": "Deloitte 05-17 okt.",
-      "price": 166000,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Deloitte 05-17 okt.",
-      "line_item_name": "Deloitte 05-17 okt.",
-      "price": 83000,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Deloitte 05-17 okt.",
-      "line_item_name": "Deloitte 05-17 okt.",
       "price": 336000,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Deloitte 05-17 okt.",
+      "line_item_name": "Deloitte 05-17 okt.",
+      "price": 166000,
       "start_date": "2026-10-05",
       "end_date": "2026-10-17",
       "seen_count": 1
@@ -887,7 +863,7 @@
       "price": 26000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-15",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Dominos GTA.",
@@ -1175,22 +1151,6 @@
       "price": 37500,
       "start_date": "2026-10-01",
       "end_date": "2026-10-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Höldur /Dekk",
-      "line_item_name": "Höldur /Dekk",
-      "price": 175500,
-      "start_date": "2026-10-06",
-      "end_date": "2026-10-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - okt '26",
-      "line_item_name": "Hreyfing / 14. okt / BORG, GRA / 2x1",
-      "price": 14000,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-14",
       "seen_count": 1
     },
     {
@@ -1531,14 +1491,6 @@
     },
     {
       "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 14. okt / 4x1",
-      "price": 26000,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 15. okt / 4x1",
       "price": 25500,
       "start_date": "2026-10-15",
@@ -1651,14 +1603,6 @@
     },
     {
       "campaign_name": "Íslandshótel - DOM og Lauf / Datera - okt 2026",
-      "line_item_name": "Íslandshótel - DOM og Lauf / Datera - okt 2026 / GRA (Sun, Mán, Mið)",
-      "price": 45000,
-      "start_date": "2026-10-02",
-      "end_date": "2026-10-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Íslandshótel - DOM og Lauf / Datera - okt 2026",
       "line_item_name": "Íslandshótel - DOM og Lauf / Datera - okt 2026 / HÖF1 (Fim)",
       "price": 10000,
       "start_date": "2026-10-02",
@@ -1692,18 +1636,18 @@
     {
       "campaign_name": "Jysk  13- 26 okt.",
       "line_item_name": "Jysk 13 - 26 okt.",
-      "price": 126000,
-      "start_date": "2026-10-13",
-      "end_date": "2026-10-26",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Jysk  13- 26 okt.",
-      "line_item_name": "Jysk 13 - 26 okt.",
       "price": 42000,
       "start_date": "2026-10-13",
       "end_date": "2026-10-26",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Jysk  13- 26 okt.",
+      "line_item_name": "Jysk 13 - 26 okt.",
+      "price": 126000,
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-26",
+      "seen_count": 2
     },
     {
       "campaign_name": "Kave home - Caravan - 15 okt - Haustpakki",
@@ -1759,7 +1703,7 @@
       "price": 155000,
       "start_date": "2027-06-07",
       "end_date": "2027-06-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1767,7 +1711,7 @@
       "price": 155000,
       "start_date": "2027-11-08",
       "end_date": "2027-11-12",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - Nóvember (Uppfærsla á langtíma-samningnum))",
@@ -1783,14 +1727,6 @@
       "price": 55000,
       "start_date": "2026-10-19",
       "end_date": "2026-11-13",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Kosmos - Caravan - Haustpakki",
-      "line_item_name": "Kosmos - Caravan - Haustpakki",
-      "price": 354200,
-      "start_date": "2026-10-01",
-      "end_date": "2026-10-14",
       "seen_count": 1
     },
     {
@@ -1916,18 +1852,18 @@
     {
       "campaign_name": "Míla 14-23 okt.",
       "line_item_name": "Míla 14-23 okt.",
-      "price": 50000,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-23",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Míla 14-23 okt.",
-      "line_item_name": "Míla 14-23 okt.",
       "price": 37500,
       "start_date": "2026-10-14",
       "end_date": "2026-10-23",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Míla 14-23 okt.",
+      "line_item_name": "Míla 14-23 okt.",
+      "price": 50000,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-23",
+      "seen_count": 2
     },
     {
       "campaign_name": "Minstur Mediacom Bjartur 1-17 des 2026",
@@ -1967,7 +1903,7 @@
       "price": 172500,
       "start_date": "2026-11-08",
       "end_date": "2026-11-25",
-      "seen_count": 3
+      "seen_count": 2
     },
     {
       "campaign_name": "Nova 05-31 okt.",
@@ -2111,7 +2047,7 @@
       "price": 97800,
       "start_date": "2026-11-09",
       "end_date": "2026-11-30",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Óskaskrín - 9 til 30 nóv",
@@ -2551,14 +2487,6 @@
       "price": 39000,
       "start_date": "2026-10-22",
       "end_date": "2026-10-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "VÍS / Datera Landsbyggðin - okt '26",
-      "line_item_name": "VÍS Akureyri 8.10 til 14.10 / Mán, Mið, Fös / AKU2, GLER1",
-      "price": 19500,
-      "start_date": "2026-10-08",
-      "end_date": "2026-10-14",
       "seen_count": 1
     },
     {
