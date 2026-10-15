@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T03:07:39.238Z",
+  "generated_at": "2026-10-15T10:49:59.674Z",
   "scope": {
     "report_start_date": "2026-10-15",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 493,
-    "unique_items": 311,
+    "items_seen": 494,
+    "unique_items": 312,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1084,7 +1084,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1092,7 +1092,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1326,6 +1326,14 @@
       "line_item_name": "Icepharma / Digido  - okt",
       "price": 527000,
       "start_date": "2026-10-01",
+      "end_date": "2026-10-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Icepharma - Hafnartorg",
+      "line_item_name": "Icepharma - Hafnartorg",
+      "price": 20000,
+      "start_date": "2026-10-30",
       "end_date": "2026-10-31",
       "seen_count": 1
     },
@@ -1852,18 +1860,18 @@
     {
       "campaign_name": "Míla 14-23 okt.",
       "line_item_name": "Míla 14-23 okt.",
-      "price": 37500,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Míla 14-23 okt.",
-      "line_item_name": "Míla 14-23 okt.",
       "price": 50000,
       "start_date": "2026-10-14",
       "end_date": "2026-10-23",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Míla 14-23 okt.",
+      "line_item_name": "Míla 14-23 okt.",
+      "price": 37500,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-23",
+      "seen_count": 1
     },
     {
       "campaign_name": "Minstur Mediacom Bjartur 1-17 des 2026",
