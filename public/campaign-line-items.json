@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:39:42.747Z",
+  "generated_at": "2026-10-16T16:03:05.933Z",
   "scope": {
     "report_start_date": "2026-10-16",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 491,
-    "unique_items": 305,
+    "items_seen": 490,
+    "unique_items": 302,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -43,10 +43,18 @@
     },
     {
       "campaign_name": "Arna Nettur pakki.",
+      "line_item_name": "Arna 01/02 nóv.. AK1-EH1-HB2-KAPLA1-SFS1-VLV1",
+      "price": 77000,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Arna Nettur pakki.",
       "line_item_name": "Arna 17/18/20/22 okt.. AK1-EH1-HB2-KAPLA1-SFS1-VLV1",
-      "price": 154000,
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-23",
+      "price": 77000,
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-22",
       "seen_count": 1
     },
     {
@@ -338,6 +346,38 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Bestun/Freyja konfekt",
+      "line_item_name": "Bestun/Freyja konfekt",
+      "price": 137500,
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bestun/Freyja konfekt",
+      "line_item_name": "Bestun/Freyja konfekt",
+      "price": 110000,
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-17",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Bestun/Freyja konfekt",
+      "line_item_name": "Bestun/Freyja konfekt",
+      "price": 197500,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bestun/Freyja konfekt",
+      "line_item_name": "Bestun/Freyja konfekt",
+      "price": 102000,
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-22",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Birtingahúsið Glerátorg ELKO.",
       "line_item_name": "Birtingahúsið Glerátorg ELKO.árssamningur.",
       "price": 2372500,
@@ -519,102 +559,6 @@
       "price": 80000,
       "start_date": "2026-10-19",
       "end_date": "2026-11-01",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - nóv 2026",
-      "line_item_name": "Bónus 11. nóv - Mið / 9x1",
-      "price": 57000,
-      "start_date": "2026-11-11",
-      "end_date": "2026-11-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - nóv 2026",
-      "line_item_name": "Bónus 13. nóv - Fös / 9x1",
-      "price": 56000,
-      "start_date": "2026-11-13",
-      "end_date": "2026-11-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - nóv 2026",
-      "line_item_name": "Bónus 16. nóv - Mán / 9x1",
-      "price": 57500,
-      "start_date": "2026-11-16",
-      "end_date": "2026-11-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - nóv 2026",
-      "line_item_name": "Bónus 18. nóv - Mið / 9x1",
-      "price": 56000,
-      "start_date": "2026-11-18",
-      "end_date": "2026-11-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - nóv 2026",
-      "line_item_name": "Bónus 2. nóv - Mán / 10x1",
-      "price": 66000,
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-02",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - nóv 2026",
-      "line_item_name": "Bónus 20. nóv - Fös / 9x1",
-      "price": 56000,
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - nóv 2026",
-      "line_item_name": "Bónus 25. nóv - Mið / 9x1",
-      "price": 56500,
-      "start_date": "2026-11-25",
-      "end_date": "2026-11-25",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - nóv 2026",
-      "line_item_name": "Bónus 27. nóv - Fös / 9x1",
-      "price": 56000,
-      "start_date": "2026-11-27",
-      "end_date": "2026-11-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - nóv 2026",
-      "line_item_name": "Bónus 30. nóv - Mán / 10x1",
-      "price": 66000,
-      "start_date": "2026-11-30",
-      "end_date": "2026-11-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - nóv 2026",
-      "line_item_name": "Bónus 4. nóv - Mið / 10x1",
-      "price": 62500,
-      "start_date": "2026-11-04",
-      "end_date": "2026-11-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - nóv 2026",
-      "line_item_name": "Bónus 6. nóv - Fös / 9x1",
-      "price": 62000,
-      "start_date": "2026-11-06",
-      "end_date": "2026-11-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - nóv 2026",
-      "line_item_name": "Bónus 9. nóv - Mán / 9x1",
-      "price": 57500,
-      "start_date": "2026-11-09",
-      "end_date": "2026-11-09",
       "seen_count": 1
     },
     {
@@ -836,7 +780,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -844,7 +788,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -1044,7 +988,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1052,7 +996,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1290,166 +1234,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 1. nóv / 5x1",
-      "price": 33500,
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-01",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 10. nóv / 4x1",
-      "price": 26000,
-      "start_date": "2026-11-10",
-      "end_date": "2026-11-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 13. nóv / 4x1",
-      "price": 26000,
-      "start_date": "2026-11-13",
-      "end_date": "2026-11-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 14. nóv / 4x1",
-      "price": 26000,
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 15. nóv / 4x1",
-      "price": 25500,
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 16. nóv / 4x1",
-      "price": 24000,
-      "start_date": "2026-11-16",
-      "end_date": "2026-11-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 17. nóv / 4x1",
-      "price": 27500,
-      "start_date": "2026-11-17",
-      "end_date": "2026-11-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 18. nóv / 5x1",
-      "price": 32000,
-      "start_date": "2026-11-18",
-      "end_date": "2026-11-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 19. nóv / 4x1",
-      "price": 23500,
-      "start_date": "2026-11-19",
-      "end_date": "2026-11-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 20. nóv / 4x1",
-      "price": 26000,
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 21. nóv / 4x1",
-      "price": 28500,
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 22. nóv / 4x1",
-      "price": 26000,
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 24. nóv / 4x1",
-      "price": 28500,
-      "start_date": "2026-11-24",
-      "end_date": "2026-11-24",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 27. nóv / 5x1",
-      "price": 31000,
-      "start_date": "2026-11-27",
-      "end_date": "2026-11-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 28. nóv / 4x1",
-      "price": 25500,
-      "start_date": "2026-11-28",
-      "end_date": "2026-11-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 29. nóv / 4x1",
-      "price": 27000,
-      "start_date": "2026-11-29",
-      "end_date": "2026-11-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 3. nóv / 4x1",
-      "price": 23000,
-      "start_date": "2026-11-03",
-      "end_date": "2026-11-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 30. nóv / 4x1",
-      "price": 27000,
-      "start_date": "2026-11-30",
-      "end_date": "2026-11-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 4. nóv / 4x1",
-      "price": 23500,
-      "start_date": "2026-11-04",
-      "end_date": "2026-11-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 7. nóv / 4x1",
-      "price": 27000,
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 16. okt / 4x1",
       "price": 29000,
@@ -1580,18 +1364,18 @@
     {
       "campaign_name": "Jysk  13- 26 okt.",
       "line_item_name": "Jysk 13 - 26 okt.",
-      "price": 126000,
-      "start_date": "2026-10-13",
-      "end_date": "2026-10-26",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Jysk  13- 26 okt.",
-      "line_item_name": "Jysk 13 - 26 okt.",
       "price": 42000,
       "start_date": "2026-10-13",
       "end_date": "2026-10-26",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Jysk  13- 26 okt.",
+      "line_item_name": "Jysk 13 - 26 okt.",
+      "price": 126000,
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-26",
+      "seen_count": 2
     },
     {
       "campaign_name": "Kave home - Caravan - 15 okt - Haustpakki",
@@ -2114,6 +1898,22 @@
       "seen_count": 18
     },
     {
+      "campaign_name": "SÁÁ. des. 2026",
+      "line_item_name": "SÁÁ. des. 2026",
+      "price": 272400,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "SÁÁ. des. 2026",
+      "line_item_name": "SÁÁ. des. 2026",
+      "price": 168000,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-06",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Sahara-Earth Lagoon -Desember",
       "line_item_name": "Sahara-Earth Lagoon -Desember",
       "price": 377000,
@@ -2234,6 +2034,158 @@
       "seen_count": 12
     },
     {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 10. nóv / 6x1",
+      "price": 23000,
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 11. nóv / 6x1",
+      "price": 27250,
+      "start_date": "2026-11-11",
+      "end_date": "2026-11-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 12. nóv / 5x1",
+      "price": 25750,
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 13. nóv / 6x1",
+      "price": 26250,
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 16. nóv / 6x1",
+      "price": 25750,
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 17. nóv / 5x1",
+      "price": 24750,
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 18. nóv / 6x1",
+      "price": 28250,
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 19. nóv / 6x1",
+      "price": 25750,
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 2. nóv / 6x1",
+      "price": 31250,
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 20. nóv / 5x1",
+      "price": 21750,
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 27. okt / 6x1",
+      "price": 25750,
+      "start_date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 28. okt / 5x1",
+      "price": 25750,
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 29. okt / 6x1",
+      "price": 28250,
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 3. nóv / 5x1",
+      "price": 28250,
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 30. okt / 6x1",
+      "price": 21500,
+      "start_date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 4. nóv / 5x1",
+      "price": 19250,
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 5. nóv / 6x1",
+      "price": 28250,
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 6. nóv / 6x1",
+      "price": 38750,
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
+      "line_item_name": "Smáralind - B2B / Datera / 9. nóv / 6x1",
+      "price": 33250,
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-09",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Sólar",
       "line_item_name": "Sólar BT-BH2HB2KAPLAGB 27/28 okt.",
       "price": 61000,
@@ -2274,6 +2226,30 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "SS. Des.",
+      "line_item_name": "SS. Des.",
+      "price": 207200,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-21",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "SS. Des.",
+      "line_item_name": "SS. Des.",
+      "price": 186900,
+      "start_date": "2026-12-08",
+      "end_date": "2026-12-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "SS. Des.",
+      "line_item_name": "SS. Des.",
+      "price": 149600,
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-23",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "TM okt. pakki B.",
       "line_item_name": "TM okt. pakki B. 02 nóv. AK2-BT-GLT2-GRI-HAFT-HÖFT-KEV-SFS-SMT.",
       "price": 56500,
@@ -2287,14 +2263,6 @@
       "price": 50000,
       "start_date": "2026-11-03",
       "end_date": "2026-11-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "TM okt. pakki B.",
-      "line_item_name": "TM okt. pakki B. 20 okt. BT-AK1-GLT1-GRI-HAFT-HÖFT-SMT-VMEY.-HB2-KAPLA2-SFS1",
-      "price": 69100,
-      "start_date": "2026-10-30",
-      "end_date": "2026-10-30",
       "seen_count": 1
     },
     {
@@ -2339,10 +2307,18 @@
     },
     {
       "campaign_name": "TM okt. pakki B.",
-      "line_item_name": "TM okt. pakki B. 30 okt. BT-AK1-GLT1-GRI-HAFT-HÖFT-SMT-VMEY-VLV1-HB1-SMT1.",
-      "price": 68500,
+      "line_item_name": "TM okt. pakki B. 30 okt. BT-AK1-GLT1-GRI-HAFT-HÖFT-SMT-VMEY.-HB2-KAPLA2-SFS1",
+      "price": 73000,
       "start_date": "2026-10-30",
       "end_date": "2026-10-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "TM okt. pakki B.",
+      "line_item_name": "TM okt. pakki B.04 nóv. BT-AK1-GLT1-GRI-HAFT-HÖFT-SMT-VMEY-VLV1-HB1-SMT1.",
+      "price": 68500,
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-04",
       "seen_count": 1
     },
     {
