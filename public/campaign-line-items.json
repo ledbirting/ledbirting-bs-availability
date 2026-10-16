@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:03:05.933Z",
+  "generated_at": "2026-10-16T20:28:53.599Z",
   "scope": {
     "report_start_date": "2026-10-16",
     "report_end_date": "2099-12-31",
@@ -508,7 +508,7 @@
     {
       "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
       "line_item_name": "Bleika slaufan - Bleiki dagurinn 21. okt",
-      "price": 71430,
+      "price": 81180,
       "start_date": "2026-10-21",
       "end_date": "2026-10-21",
       "seen_count": 1
@@ -516,7 +516,7 @@
     {
       "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
       "line_item_name": "Bleika slaufan 8. til 31. okt / Mán, Mið",
-      "price": 63585,
+      "price": 107460,
       "start_date": "2026-10-08",
       "end_date": "2026-10-31",
       "seen_count": 1
@@ -1644,7 +1644,7 @@
     {
       "campaign_name": "Nova 05-31 okt.",
       "line_item_name": "Nova 19/21/23 okt BT-HSMI-SFS2-SMT1-VLV1-KAPLA3-GB-HÖFT1-BH1",
-      "price": 156300,
+      "price": 154650,
       "start_date": "2026-10-19",
       "end_date": "2026-10-25",
       "seen_count": 1
@@ -1660,7 +1660,7 @@
     {
       "campaign_name": "Nova 05-31 okt.",
       "line_item_name": "Nova 26/28/30 okt BT-HSMI-SFS2-SMT1-VLV1-KAPLA3-GB-HÖFT1-BH1",
-      "price": 156300,
+      "price": 154650,
       "start_date": "2026-10-26",
       "end_date": "2026-10-31",
       "seen_count": 1
@@ -2292,7 +2292,7 @@
     {
       "campaign_name": "TM okt. pakki B.",
       "line_item_name": "TM okt. pakki B. 28 okt. BT-GLT2-GRAI-HAFT-HÖFT-GB-KEV-SFS2-SMT-VMEY-VLV2",
-      "price": 70100,
+      "price": 69000,
       "start_date": "2026-10-28",
       "end_date": "2026-10-28",
       "seen_count": 1
