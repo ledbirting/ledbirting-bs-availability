@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T03:03:59.551Z",
+  "generated_at": "2026-10-16T10:39:42.747Z",
   "scope": {
     "report_start_date": "2026-10-16",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 480,
-    "unique_items": 297,
+    "items_seen": 491,
+    "unique_items": 305,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -363,9 +363,17 @@
     },
     {
       "campaign_name": "Birtingahúsið Indó pakki B.",
+      "line_item_name": "Birtingahúsið Indó 05 nóv.",
+      "price": 127500,
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Birtingahúsið Indó pakki B.",
       "line_item_name": "Birtingahúsið Indó 18-21 okt. Grandi.",
-      "price": 30000,
-      "start_date": "2026-10-18",
+      "price": 7500,
+      "start_date": "2026-10-21",
       "end_date": "2026-10-21",
       "seen_count": 1
     },
@@ -826,6 +834,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
+      "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
+      "price": 39000,
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
+      "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
+      "price": 52000,
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-29",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "ELKO árssamningur",
       "line_item_name": "ELKO árssamningur 01 mars 2026 - 28 feb. 2027",
       "price": 3198000,
@@ -1020,7 +1044,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1028,7 +1052,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1764,18 +1788,18 @@
     {
       "campaign_name": "Míla 14-23 okt.",
       "line_item_name": "Míla 14-23 okt.",
-      "price": 50000,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-23",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Míla 14-23 okt.",
-      "line_item_name": "Míla 14-23 okt.",
       "price": 37500,
       "start_date": "2026-10-14",
       "end_date": "2026-10-23",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Míla 14-23 okt.",
+      "line_item_name": "Míla 14-23 okt.",
+      "price": 50000,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-23",
+      "seen_count": 2
     },
     {
       "campaign_name": "Minstur Mediacom Bjartur 1-17 des 2026",
@@ -1800,6 +1824,22 @@
       "start_date": "2026-01-21",
       "end_date": "2027-01-20",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Nova 01-25 nóv.",
+      "line_item_name": "Nova 01-25 nóv.",
+      "price": 271200,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-21",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Nova 01-25 nóv.",
+      "line_item_name": "Nova 01-25 nóv.",
+      "price": 172500,
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-25",
+      "seen_count": 2
     },
     {
       "campaign_name": "Nova 05-31 okt.",
@@ -2042,6 +2082,30 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Reykjagarður. nóv.",
+      "line_item_name": "Reykjagarður. nóv.",
+      "price": 215200,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-21",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Reykjagarður. nóv.",
+      "line_item_name": "Reykjagarður. nóv.",
+      "price": 171900,
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Reykjagarður. nóv.",
+      "line_item_name": "Reykjagarður. nóv.",
+      "price": 193500,
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-14",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Reykjastræti - Fast í Hafnartorgi",
       "line_item_name": "Reykjastræti - Fast í Hafnartorgi",
       "price": 0,
@@ -2211,10 +2275,18 @@
     },
     {
       "campaign_name": "TM okt. pakki B.",
-      "line_item_name": "TM okt. pakki B. 20 okt. BT-AK1-GLT1-GRI-HAFT-HÖFT-SMT-VMEY-VLV1-HB1-SMT1.",
-      "price": 69600,
-      "start_date": "2026-10-20",
-      "end_date": "2026-10-20",
+      "line_item_name": "TM okt. pakki B. 02 nóv. AK2-BT-GLT2-GRI-HAFT-HÖFT-KEV-SFS-SMT.",
+      "price": 56500,
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "TM okt. pakki B.",
+      "line_item_name": "TM okt. pakki B. 03 nóv. AK2-BT-GLT2-HAFT-HÖFT-HB1-KAPLA1--SMT1",
+      "price": 50000,
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
       "seen_count": 1
     },
     {
@@ -2223,22 +2295,6 @@
       "price": 69100,
       "start_date": "2026-10-30",
       "end_date": "2026-10-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "TM okt. pakki B.",
-      "line_item_name": "TM okt. pakki B. 21 okt. AK2-BT-GLT2-GRI-HAFT-HÖFT-KEV-SFS-SMT.",
-      "price": 57600,
-      "start_date": "2026-10-21",
-      "end_date": "2026-10-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "TM okt. pakki B.",
-      "line_item_name": "TM okt. pakki B. 22 okt. AK2-BT-GLT2-HAFT-HÖFT-HB1-KAPLA1--SMT1",
-      "price": 51100,
-      "start_date": "2026-10-22",
-      "end_date": "2026-10-22",
       "seen_count": 1
     },
     {
@@ -2279,6 +2335,14 @@
       "price": 58600,
       "start_date": "2026-10-29",
       "end_date": "2026-10-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "TM okt. pakki B.",
+      "line_item_name": "TM okt. pakki B. 30 okt. BT-AK1-GLT1-GRI-HAFT-HÖFT-SMT-VMEY-VLV1-HB1-SMT1.",
+      "price": 68500,
+      "start_date": "2026-10-30",
+      "end_date": "2026-10-30",
       "seen_count": 1
     },
     {
