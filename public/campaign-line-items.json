@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T22:52:01.211Z",
+  "generated_at": "2026-10-18T02:57:56.870Z",
   "scope": {
-    "report_start_date": "2026-10-17",
+    "report_start_date": "2026-10-18",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 487,
-    "unique_items": 294,
+    "items_seen": 482,
+    "unique_items": 289,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -223,7 +223,7 @@
       "price": 53000,
       "start_date": "2026-11-16",
       "end_date": "2026-11-22",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Berjaya - Gjafabréf / Ennemm / SD, BF og CM - nóv 2026",
@@ -479,7 +479,7 @@
       "price": 186000,
       "start_date": "2026-12-15",
       "end_date": "2026-12-23",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Birtingahúsið SS. des.",
@@ -714,14 +714,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Deloitte 05-17 okt.",
-      "line_item_name": "Deloitte 05-17 okt.",
-      "price": 336000,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-17",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Dominos GTA.",
       "line_item_name": "Dominos Grandi.",
       "price": 15000,
@@ -764,7 +756,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -772,7 +764,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -972,7 +964,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -980,17 +972,9 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hagkaup Akureyri. okt.",
-      "line_item_name": "Hagkaup Akureyri. 11/14/17 okt. okt.GLT.",
-      "price": 19500,
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-17",
       "seen_count": 1
     },
     {
@@ -1219,14 +1203,6 @@
     },
     {
       "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 17. okt / 4x1",
-      "price": 27500,
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 18. okt / 5x1",
       "price": 32000,
       "start_date": "2026-10-18",
@@ -1375,7 +1351,7 @@
       "price": 155000,
       "start_date": "2027-08-09",
       "end_date": "2027-08-13",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1667,14 +1643,6 @@
     },
     {
       "campaign_name": "Orkan - oktober - 2026",
-      "line_item_name": "Vika 42 - B",
-      "price": 176750,
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Orkan - oktober - 2026",
       "line_item_name": "Vika 43-1 - A",
       "price": 372000,
       "start_date": "2026-10-18",
@@ -1759,14 +1727,6 @@
       "price": 144000,
       "start_date": "2026-10-25",
       "end_date": "2026-10-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Partyland - 8 til 31 okt",
-      "line_item_name": "Partyland - 8 til 17 okt",
-      "price": 224000,
-      "start_date": "2026-10-08",
-      "end_date": "2026-10-17",
       "seen_count": 1
     },
     {
@@ -1943,7 +1903,7 @@
       "price": 97500,
       "start_date": "2026-11-02",
       "end_date": "2026-11-16",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Skátarnir - Jólatré - 26 október til 5 nóvember",
