@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T03:11:39.023Z",
+  "generated_at": "2026-10-19T12:04:35.862Z",
   "scope": {
     "report_start_date": "2026-10-19",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 474,
-    "unique_items": 284,
+    "items_seen": 479,
+    "unique_items": 289,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -500,7 +500,7 @@
     {
       "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
       "line_item_name": "Bleika slaufan - Bleiki dagurinn 21. okt",
-      "price": 81180,
+      "price": 69480,
       "start_date": "2026-10-21",
       "end_date": "2026-10-21",
       "seen_count": 1
@@ -508,7 +508,7 @@
     {
       "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
       "line_item_name": "Bleika slaufan 8. til 31. okt / Mán, Mið",
-      "price": 107460,
+      "price": 54810,
       "start_date": "2026-10-08",
       "end_date": "2026-10-31",
       "seen_count": 1
@@ -748,7 +748,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -756,7 +756,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -956,7 +956,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -964,7 +964,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -999,6 +999,46 @@
       "price": 31800,
       "start_date": "2026-10-26",
       "end_date": "2026-10-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskólinn á Bifröst. 20 okt- 1 des.",
+      "line_item_name": "Háskólinn á Bifröst. 04. nóv. BT-GLT-GRI-GB-SMT.",
+      "price": 31000,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskólinn á Bifröst. 20 okt- 1 des.",
+      "line_item_name": "Háskólinn á Bifröst. 13. nóv. BT-GLT-GRI-GB-SMT.",
+      "price": 31000,
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskólinn á Bifröst. 20 okt- 1 des.",
+      "line_item_name": "Háskólinn á Bifröst. 18/25.. nóv. AK1-BH2-EH1-HB1-KAPLA2-KEV-SFS",
+      "price": 84000,
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskólinn á Bifröst. 20 okt- 1 des.",
+      "line_item_name": "Háskólinn á Bifröst. 28/29.. nóv. BH2-EH1-HB1-KAPLA3-KEV2-SFS2",
+      "price": 86000,
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskólinn á Bifröst. 20 okt- 1 des.",
+      "line_item_name": "Háskólinn á Bifröst. 30.nóv. 01 des. BT-GLT-GRI-HB2-KAPLA1-GB-SMT1VLV2.",
+      "price": 103000,
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-01",
       "seen_count": 1
     },
     {
@@ -1071,6 +1111,14 @@
       "price": 14000,
       "start_date": "2026-10-31",
       "end_date": "2026-10-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "HSÍ leikur 04 nóv..",
+      "line_item_name": "HSÍ leikur 04 nóv..",
+      "price": 78000,
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-24",
       "seen_count": 1
     },
     {
@@ -1182,14 +1230,6 @@
       "line_item_name": "Icepharma / Digido  - okt",
       "price": 527000,
       "start_date": "2026-10-01",
-      "end_date": "2026-10-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Icepharma - Hafnartorg",
-      "line_item_name": "Icepharma - Hafnartorg",
-      "price": 20000,
-      "start_date": "2026-10-30",
       "end_date": "2026-10-31",
       "seen_count": 1
     },
@@ -1764,7 +1804,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 168000,
+      "price": 272400,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
@@ -1772,7 +1812,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 272400,
+      "price": 168000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
