@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T22:44:53.562Z",
+  "generated_at": "2026-10-19T03:11:39.023Z",
   "scope": {
-    "report_start_date": "2026-10-18",
+    "report_start_date": "2026-10-19",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 482,
-    "unique_items": 289,
+    "items_seen": 474,
+    "unique_items": 284,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -143,14 +143,6 @@
       "price": 97500,
       "start_date": "2026-09-29",
       "end_date": "2026-10-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Beiersdorf. Eucerin Elasticity.",
-      "line_item_name": "Beiersdorf. Eucerin Elasticity.",
-      "price": 269200,
-      "start_date": "2026-10-13",
-      "end_date": "2026-10-19",
       "seen_count": 1
     },
     {
@@ -343,7 +335,7 @@
       "price": 149400,
       "start_date": "2026-12-17",
       "end_date": "2026-12-19",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun/Freyja konfekt",
@@ -359,7 +351,7 @@
       "price": 110000,
       "start_date": "2026-11-13",
       "end_date": "2026-11-17",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Bestun/Freyja konfekt",
@@ -831,7 +823,7 @@
       "price": 45000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-21",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Forlagið / HN - 1. til 21.des 2026",
@@ -964,7 +956,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -972,7 +964,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1203,14 +1195,6 @@
     },
     {
       "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 18. okt / 5x1",
-      "price": 32000,
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 19. okt / 4x1",
       "price": 26000,
       "start_date": "2026-10-19",
@@ -1316,18 +1300,18 @@
     {
       "campaign_name": "Jysk  13- 26 okt.",
       "line_item_name": "Jysk 13 - 26 okt.",
-      "price": 126000,
-      "start_date": "2026-10-13",
-      "end_date": "2026-10-26",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Jysk  13- 26 okt.",
-      "line_item_name": "Jysk 13 - 26 okt.",
       "price": 42000,
       "start_date": "2026-10-13",
       "end_date": "2026-10-26",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Jysk  13- 26 okt.",
+      "line_item_name": "Jysk 13 - 26 okt.",
+      "price": 126000,
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-26",
+      "seen_count": 2
     },
     {
       "campaign_name": "Kave home - Caravan - 15 okt - Haustpakki",
@@ -1391,7 +1375,7 @@
       "price": 155000,
       "start_date": "2027-11-08",
       "end_date": "2027-11-12",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - Nóvember (Uppfærsla á langtíma-samningnum))",
@@ -1416,14 +1400,6 @@
       "start_date": "2026-03-01",
       "end_date": "2026-12-31",
       "seen_count": 3
-    },
-    {
-      "campaign_name": "Krónan breyting okt.",
-      "line_item_name": "Krónan breyting okt.",
-      "price": 52500,
-      "start_date": "2026-10-01",
-      "end_date": "2026-10-18",
-      "seen_count": 1
     },
     {
       "campaign_name": "Landsbankinn - Tvist - Okt",
@@ -1498,11 +1474,11 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Menningarfélag Akureyrar.",
-      "line_item_name": "Menningarfélag Akureyrar. Þingvallstræti og Glerártorg.",
-      "price": 117000,
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-18",
+      "campaign_name": "Míla 14-23 okt.",
+      "line_item_name": "Míla 14-23 okt.",
+      "price": 37500,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-23",
       "seen_count": 1
     },
     {
@@ -1514,20 +1490,12 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Míla 14-23 okt.",
-      "line_item_name": "Míla 14-23 okt.",
-      "price": 37500,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-23",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Minstur Mediacom Bjartur 1-17 des 2026",
       "line_item_name": "Mediacom Bjartur 1-17 des 2026",
       "price": 736100,
       "start_date": "2026-12-01",
       "end_date": "2026-12-17",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Minstur/Mediacom Bjartur nóvember 1-30 2026",
@@ -1560,14 +1528,6 @@
       "start_date": "2026-11-08",
       "end_date": "2026-11-25",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Nova 05-31 okt.",
-      "line_item_name": "Nova 13/15/17/18 okt. AK1-BH2-EH1-GRI-HB2-KAPLA1-KEV1-VLV1",
-      "price": 222000,
-      "start_date": "2026-10-12",
-      "end_date": "2026-10-18",
-      "seen_count": 1
     },
     {
       "campaign_name": "Nova 05-31 okt.",
@@ -1804,7 +1764,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 272400,
+      "price": 168000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
@@ -1812,7 +1772,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 168000,
+      "price": 272400,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
