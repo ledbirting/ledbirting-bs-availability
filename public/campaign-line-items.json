@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-19T20:20:46.956Z",
+  "generated_at": "2026-10-20T00:05:35.719Z",
   "scope": {
-    "report_start_date": "2026-10-19",
+    "report_start_date": "2026-10-20",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 470,
-    "unique_items": 284,
+    "items_seen": 465,
+    "unique_items": 280,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -167,7 +167,7 @@
       "price": 103000,
       "start_date": "2026-11-18",
       "end_date": "2026-12-04",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
@@ -499,14 +499,6 @@
     },
     {
       "campaign_name": "Bónus / HN - okt 2026",
-      "line_item_name": "Bónus 19. okt - Mán / 10x1",
-      "price": 67500,
-      "start_date": "2026-10-19",
-      "end_date": "2026-10-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - okt 2026",
       "line_item_name": "Bónus 21. okt - Mið / 9x1",
       "price": 62500,
       "start_date": "2026-10-21",
@@ -599,7 +591,7 @@
       "price": 298800,
       "start_date": "2026-12-18",
       "end_date": "2026-12-23",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "BY-Lovisa inneign",
@@ -631,14 +623,6 @@
       "price": 182000,
       "start_date": "2026-10-22",
       "end_date": "2026-10-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Dekkjahöllin á Akureyri / Askja - Október 2026",
-      "line_item_name": "Dekkjahöllin - Mán, Mið, Fös",
-      "price": 39000,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-20",
       "seen_count": 1
     },
     {
@@ -692,7 +676,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -700,7 +684,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -887,7 +871,7 @@
       "price": 39000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-19",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "GER samningur.",
@@ -967,7 +951,7 @@
       "price": 84000,
       "start_date": "2026-11-15",
       "end_date": "2026-11-28",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Háskólinn á Bifröst. 20 okt- 1 des.",
@@ -999,14 +983,6 @@
       "price": 37500,
       "start_date": "2026-10-01",
       "end_date": "2026-10-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - okt '26",
-      "line_item_name": "Hreyfing / 19. okt / BORG, GRA / 2x1",
-      "price": 14000,
-      "start_date": "2026-10-19",
-      "end_date": "2026-10-19",
       "seen_count": 1
     },
     {
@@ -1179,14 +1155,6 @@
     },
     {
       "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 19. okt / 4x1",
-      "price": 26000,
-      "start_date": "2026-10-19",
-      "end_date": "2026-10-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 20. okt / 4x1",
       "price": 26000,
       "start_date": "2026-10-20",
@@ -1263,7 +1231,7 @@
       "price": 22500,
       "start_date": "2026-11-01",
       "end_date": "2026-11-18",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Íslandshótel - Jólahlaðborð / Datera - okt til nóv 2026",
@@ -1460,16 +1428,16 @@
     {
       "campaign_name": "Míla 14-23 okt.",
       "line_item_name": "Míla 14-23 okt.",
-      "price": 50000,
+      "price": 37500,
       "start_date": "2026-10-14",
       "end_date": "2026-10-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Míla 14-23 okt.",
       "line_item_name": "Míla 14-23 okt.",
-      "price": 37500,
-      "start_date": "2026-10-14",
+      "price": 50000,
+      "start_date": "2026-10-21",
       "end_date": "2026-10-23",
       "seen_count": 1
     },
@@ -1567,7 +1535,7 @@
       "price": 4290000,
       "start_date": "2026-07-13",
       "end_date": "2027-09-14",
-      "seen_count": 12
+      "seen_count": 11
     },
     {
       "campaign_name": "Optima/pei nóv 2026",
@@ -1724,7 +1692,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 171900,
+      "price": 193500,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -1732,7 +1700,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 193500,
+      "price": 171900,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -1748,7 +1716,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 272400,
+      "price": 168000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
@@ -1756,7 +1724,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 168000,
+      "price": 272400,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
@@ -2092,7 +2060,7 @@
     {
       "campaign_name": "Sýn 20-25 okt.",
       "line_item_name": "Sýn 20-25 okt.",
-      "price": 15000,
+      "price": 114000,
       "start_date": "2026-10-20",
       "end_date": "2026-10-25",
       "seen_count": 1
@@ -2100,7 +2068,7 @@
     {
       "campaign_name": "Sýn 20-25 okt.",
       "line_item_name": "Sýn 20-25 okt.",
-      "price": 114000,
+      "price": 15000,
       "start_date": "2026-10-20",
       "end_date": "2026-10-25",
       "seen_count": 1
