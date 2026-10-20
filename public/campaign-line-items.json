@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T08:10:12.671Z",
+  "generated_at": "2026-10-20T14:04:44.691Z",
   "scope": {
     "report_start_date": "2026-10-20",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 465,
-    "unique_items": 280,
+    "items_seen": 473,
+    "unique_items": 288,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -634,27 +634,35 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Dominos GTA.",
+      "campaign_name": "Dominos GTA. 04-17 nóv.",
       "line_item_name": "Dominos Grandi.",
       "price": 15000,
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-15",
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-17",
       "seen_count": 1
     },
     {
-      "campaign_name": "Dominos GTA.",
+      "campaign_name": "Dominos GTA. 04-17 nóv.",
       "line_item_name": "Dominos GTA. GLT1",
       "price": 26000,
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-15",
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-17",
       "seen_count": 1
     },
     {
-      "campaign_name": "Dominos GTA.",
+      "campaign_name": "Dominos GTA. 04-17 nóv.",
       "line_item_name": "Dominos GTA. HB1",
       "price": 10000,
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-15",
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Dominos GTA. 04-17 nóv.",
+      "line_item_name": "Dominos GTA. HB2",
+      "price": 5000,
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-04",
       "seen_count": 1
     },
     {
@@ -732,9 +740,9 @@
     {
       "campaign_name": "Farmers Market - 2026 - Grandi",
       "line_item_name": "Október - 29 dagar",
-      "price": 217500,
+      "price": 210000,
       "start_date": "2026-10-01",
-      "end_date": "2026-10-29",
+      "end_date": "2026-10-28",
       "seen_count": 1
     },
     {
@@ -884,7 +892,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -892,7 +900,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1224,6 +1232,22 @@
       "start_date": "2026-06-12",
       "end_date": "2026-12-31",
       "seen_count": 3
+    },
+    {
+      "campaign_name": "Ísband bílasýning / HN - 28. til 31. okt 2026",
+      "line_item_name": "Ísband bílasýning -  Fim 29. okt - 1 ¼ hólf",
+      "price": 59375,
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ísband bílasýning / HN - 28. til 31. okt 2026",
+      "line_item_name": "Ísband bílasýning -  Lau 31. okt til kl. 16 - 1 ¼ hólf",
+      "price": 57500,
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "seen_count": 1
     },
     {
       "campaign_name": "Íslandshótel - Jólahlaðborð / Datera - okt til nóv 2026",
@@ -1682,6 +1706,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Ratsjá -Gildi",
+      "line_item_name": "Ratsjá -Gildi",
+      "price": 524000,
+      "start_date": "2026-10-20",
+      "end_date": "2026-11-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Ratsjá -Gildi",
+      "line_item_name": "Ratsjá -Gildi",
+      "price": 105000,
+      "start_date": "2026-10-29",
+      "end_date": "2026-11-02",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
       "price": 215200,
@@ -1692,7 +1732,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 193500,
+      "price": 171900,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -1700,7 +1740,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 171900,
+      "price": 193500,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -1712,22 +1752,6 @@
       "start_date": "2026-03-05",
       "end_date": "2030-09-30",
       "seen_count": 18
-    },
-    {
-      "campaign_name": "SÁÁ. des. 2026",
-      "line_item_name": "SÁÁ. des. 2026",
-      "price": 168000,
-      "start_date": "2026-12-01",
-      "end_date": "2026-12-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "SÁÁ. des. 2026",
-      "line_item_name": "SÁÁ. des. 2026",
-      "price": 272400,
-      "start_date": "2026-12-01",
-      "end_date": "2026-12-06",
-      "seen_count": 1
     },
     {
       "campaign_name": "Sahara-Earth Lagoon -Desember",
@@ -2002,6 +2026,30 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Snilldarvörur nóv og des.",
+      "line_item_name": "Snilldarvörur 03/07/10 nóv. HB1-GRI-EH1",
+      "price": 52500,
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Snilldarvörur nóv og des.",
+      "line_item_name": "Snilldarvörur 07/09 des. BH2-EH1-GRI.",
+      "price": 36000,
+      "start_date": "2026-12-07",
+      "end_date": "2026-12-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Snilldarvörur nóv og des.",
+      "line_item_name": "Snilldarvörur 15/17 des. HSMI-KAPLA1-GB.",
+      "price": 38600,
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-19",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Sólar",
       "line_item_name": "Sólar BT-BH2HB2KAPLAGB 27/28 okt.",
       "price": 61000,
@@ -2060,7 +2108,7 @@
     {
       "campaign_name": "Sýn 20-25 okt.",
       "line_item_name": "Sýn 20-25 okt.",
-      "price": 114000,
+      "price": 133500,
       "start_date": "2026-10-20",
       "end_date": "2026-10-25",
       "seen_count": 1
@@ -2071,6 +2119,22 @@
       "price": 15000,
       "start_date": "2026-10-20",
       "end_date": "2026-10-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tekk pakki",
+      "line_item_name": "Tekk pakki HÆSMI-SMT-KAPLA1",
+      "price": 74000,
+      "start_date": "2026-10-21",
+      "end_date": "2026-10-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tekk pakki",
+      "line_item_name": "Tekk pakki VLV2-HAGSMI-BH2",
+      "price": 56400,
+      "start_date": "2026-10-21",
+      "end_date": "2026-10-30",
       "seen_count": 1
     },
     {
