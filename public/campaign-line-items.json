@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T14:04:44.691Z",
+  "generated_at": "2026-10-20T18:53:23.417Z",
   "scope": {
     "report_start_date": "2026-10-20",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 473,
-    "unique_items": 288,
+    "items_seen": 477,
+    "unique_items": 293,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -322,6 +322,30 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Bílvirkinn tilboð",
+      "line_item_name": "Bílvirkinn. BH1-HB1-KAPLA1. 23/26/28 okt.",
+      "price": 55500,
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bílvirkinn tilboð",
+      "line_item_name": "Bílvirkinn. BH2-EH1-HB2-KAPLA3-VLV1. 31 okt. 01/03 nóv.",
+      "price": 93000,
+      "start_date": "2026-10-30",
+      "end_date": "2026-11-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bílvirkinn tilboð",
+      "line_item_name": "Copy_of_Bílvirkinn. BH1-HB1-VLV2 30 okt. 02 nóv.",
+      "price": 36000,
+      "start_date": "2026-10-30",
+      "end_date": "2026-11-03",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Birtingahúsið Glerátorg ELKO.",
       "line_item_name": "Birtingahúsið Glerátorg ELKO.árssamningur.",
       "price": 2372500,
@@ -359,6 +383,14 @@
       "price": 7500,
       "start_date": "2026-10-21",
       "end_date": "2026-10-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Birtingahúsið Indó pakki B.",
+      "line_item_name": "Birtingahúsið Indó 20/22 okt.",
+      "price": 70000,
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-22",
       "seen_count": 1
     },
     {
@@ -570,6 +602,30 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Borgarleikhúsið - Kortasala / Datera - október 2026",
+      "line_item_name": "Borgarleikhúsið - Kortasala - Mán 26. okt",
+      "price": 51000,
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Borgarleikhúsið - Kortasala / Datera - október 2026",
+      "line_item_name": "Borgarleikhúsið - Kortasala / Mán 27. okt",
+      "price": 64500,
+      "start_date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Borgarleikhúsið - Kortasala / Datera - október 2026",
+      "line_item_name": "Borgarleikhúsið / Kortasala - Fös 23. okt",
+      "price": 44000,
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "BY-Lovisa inneign",
       "line_item_name": "BY-Lovisa inneign 10-11 nóv",
       "price": 99600,
@@ -684,7 +740,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -692,7 +748,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -892,7 +948,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -900,7 +956,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1276,18 +1332,18 @@
     {
       "campaign_name": "Jysk  13- 26 okt.",
       "line_item_name": "Jysk 13 - 26 okt.",
-      "price": 126000,
-      "start_date": "2026-10-13",
-      "end_date": "2026-10-26",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Jysk  13- 26 okt.",
-      "line_item_name": "Jysk 13 - 26 okt.",
       "price": 42000,
       "start_date": "2026-10-13",
       "end_date": "2026-10-26",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Jysk  13- 26 okt.",
+      "line_item_name": "Jysk 13 - 26 okt.",
+      "price": 126000,
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-26",
+      "seen_count": 2
     },
     {
       "campaign_name": "Kave home - Caravan - 15 okt - Haustpakki",
@@ -1732,7 +1788,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 171900,
+      "price": 193500,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -1740,7 +1796,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 193500,
+      "price": 171900,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -1840,6 +1896,14 @@
       "start_date": "2026-11-02",
       "end_date": "2026-11-16",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Skanva 03 nóv - 01 des.",
+      "line_item_name": "Skanva 03 nóv - 01 des.GLT1-KEV1-SFS1. alla mánudaga og föstudaga.",
+      "price": 148000,
+      "start_date": "2026-11-03",
+      "end_date": "2026-12-01",
+      "seen_count": 2
     },
     {
       "campaign_name": "Skátarnir - Jólatré - 26 október til 5 nóvember",
@@ -2082,33 +2146,9 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "SS. Des.",
-      "line_item_name": "SS. Des.",
-      "price": 207200,
-      "start_date": "2026-12-01",
-      "end_date": "2026-12-21",
-      "seen_count": 3
-    },
-    {
-      "campaign_name": "SS. Des.",
-      "line_item_name": "SS. Des.",
-      "price": 186900,
-      "start_date": "2026-12-08",
-      "end_date": "2026-12-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "SS. Des.",
-      "line_item_name": "SS. Des.",
-      "price": 149600,
-      "start_date": "2026-12-22",
-      "end_date": "2026-12-23",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Sýn 20-25 okt.",
       "line_item_name": "Sýn 20-25 okt.",
-      "price": 133500,
+      "price": 15000,
       "start_date": "2026-10-20",
       "end_date": "2026-10-25",
       "seen_count": 1
@@ -2116,7 +2156,7 @@
     {
       "campaign_name": "Sýn 20-25 okt.",
       "line_item_name": "Sýn 20-25 okt.",
-      "price": 15000,
+      "price": 133500,
       "start_date": "2026-10-20",
       "end_date": "2026-10-25",
       "seen_count": 1
