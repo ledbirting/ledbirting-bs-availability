@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T23:36:32.346Z",
+  "generated_at": "2026-10-21T03:15:02.993Z",
   "scope": {
-    "report_start_date": "2026-10-20",
+    "report_start_date": "2026-10-21",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 477,
-    "unique_items": 293,
+    "items_seen": 466,
+    "unique_items": 288,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -47,14 +47,6 @@
       "price": 77000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-02",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Arna Nettur pakki.",
-      "line_item_name": "Arna 19/20 okt GRI",
-      "price": 15000,
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-23",
       "seen_count": 1
     },
     {
@@ -183,7 +175,7 @@
       "price": 53000,
       "start_date": "2026-11-16",
       "end_date": "2026-11-22",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Berjaya - Gjafabréf / Ennemm / SD, BF og CM - nóv 2026",
@@ -287,7 +279,7 @@
       "price": 149400,
       "start_date": "2026-12-17",
       "end_date": "2026-12-19",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Bestun/Freyja konfekt",
@@ -423,7 +415,7 @@
       "price": 139500,
       "start_date": "2026-11-15",
       "end_date": "2026-11-21",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Birtingahúsið SS.",
@@ -655,7 +647,7 @@
       "price": 99600,
       "start_date": "2026-11-19",
       "end_date": "2026-11-20",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "BY-Lovisa inneign",
@@ -679,14 +671,6 @@
       "price": 182000,
       "start_date": "2026-10-22",
       "end_date": "2026-10-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Dekkjahöllin á Akureyri / Askja - Október 2026",
-      "line_item_name": "Dekkjahöllin - Þri, Fim, Lau",
-      "price": 39000,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-20",
       "seen_count": 1
     },
     {
@@ -823,7 +807,7 @@
       "price": 112500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-21",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Forlagið / HN - 10.  til 30.nóv 2026",
@@ -871,7 +855,7 @@
       "price": 39000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-19",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "GER samningur.",
@@ -948,7 +932,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -956,7 +940,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -976,14 +960,6 @@
       "start_date": "2026-12-01",
       "end_date": "2026-12-23",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Happdrætti DAS / Datera - okt 2026",
-      "line_item_name": "DAS / Datera - 20. okt / 5x1",
-      "price": 42500,
-      "start_date": "2026-10-20",
-      "end_date": "2026-10-20",
-      "seen_count": 1
     },
     {
       "campaign_name": "Happdrætti DAS / Datera - okt 2026",
@@ -1047,14 +1023,6 @@
       "price": 37500,
       "start_date": "2026-10-01",
       "end_date": "2026-10-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - okt '26",
-      "line_item_name": "Hreyfing / 20. okt / GRA / 1x1",
-      "price": 7500,
-      "start_date": "2026-10-20",
-      "end_date": "2026-10-20",
       "seen_count": 1
     },
     {
@@ -1219,14 +1187,6 @@
     },
     {
       "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 20. okt / 4x1",
-      "price": 26000,
-      "start_date": "2026-10-20",
-      "end_date": "2026-10-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 21. okt / 4x1",
       "price": 28500,
       "start_date": "2026-10-21",
@@ -1332,18 +1292,18 @@
     {
       "campaign_name": "Jysk  13- 26 okt.",
       "line_item_name": "Jysk 13 - 26 okt.",
-      "price": 42000,
-      "start_date": "2026-10-13",
-      "end_date": "2026-10-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Jysk  13- 26 okt.",
-      "line_item_name": "Jysk 13 - 26 okt.",
       "price": 126000,
       "start_date": "2026-10-13",
       "end_date": "2026-10-26",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Jysk  13- 26 okt.",
+      "line_item_name": "Jysk 13 - 26 okt.",
+      "price": 42000,
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-26",
+      "seen_count": 1
     },
     {
       "campaign_name": "Kave home - Caravan - 15 okt - Haustpakki",
@@ -1359,7 +1319,7 @@
       "price": 111000,
       "start_date": "2026-11-02",
       "end_date": "2026-11-20",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1788,7 +1748,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 193500,
+      "price": 171900,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -1796,7 +1756,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 171900,
+      "price": 193500,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -2263,7 +2223,7 @@
       "price": 19500,
       "start_date": "2026-11-12",
       "end_date": "2026-11-21",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Tölvutek Akureyri",
