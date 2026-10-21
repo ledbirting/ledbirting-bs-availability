@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:08:04.229Z",
+  "generated_at": "2026-10-21T16:35:01.471Z",
   "scope": {
     "report_start_date": "2026-10-21",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 477,
-    "unique_items": 299,
+    "items_seen": 497,
+    "unique_items": 316,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -340,7 +340,15 @@
     {
       "campaign_name": "Bílvirkinn tilboð",
       "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-KAPLA3 30 okt. 02 nóv.",
-      "price": 52000,
+      "price": 26000,
+      "start_date": "2026-10-30",
+      "end_date": "2026-11-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bílvirkinn tilboð",
+      "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-KAPLA3 30 okt. 02 nóv.",
+      "price": 26500,
       "start_date": "2026-10-30",
       "end_date": "2026-11-03",
       "seen_count": 1
@@ -682,11 +690,51 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Chitocare - október tilboð",
+      "line_item_name": "Chitocare - nóvembertilboð",
+      "price": 129600,
+      "start_date": "2026-10-24",
+      "end_date": "2026-11-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Chitocare - október tilboð",
+      "line_item_name": "Chitocare - nóvembertilboð",
+      "price": 73500,
+      "start_date": "2026-10-24",
+      "end_date": "2026-11-04",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Collab 22 - 28 okt.",
       "line_item_name": "Collaba Akueyri 22-28 okt.",
       "price": 182000,
       "start_date": "2026-10-22",
       "end_date": "2026-10-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Define The Line - október tilboð",
+      "line_item_name": "Define The Line 26.10 til 5.11 - Mán, Mið, Fös, Lau - Breiðholt 2, Hagasmári, Kaplakriki 3",
+      "price": 115800,
+      "start_date": "2026-10-26",
+      "end_date": "2026-11-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Define The Line - október tilboð",
+      "line_item_name": "Define The Line 26.10 til 5.11 - Þri, Fim - Glerártorg 2, Selfoss 1, Njarðarbraut 1",
+      "price": 74000,
+      "start_date": "2026-10-26",
+      "end_date": "2026-11-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Define The Line - október tilboð",
+      "line_item_name": "Define The Line 26.10 til 5.11 - Þri, Fim, Lau - Höfðabakki 2, Egilshöll 1, Smáratorg 1",
+      "price": 66000,
+      "start_date": "2026-10-26",
+      "end_date": "2026-11-05",
       "seen_count": 1
     },
     {
@@ -740,7 +788,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -748,7 +796,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -1010,6 +1058,46 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Háskóli Íslands Val rannsókn",
+      "line_item_name": "Háskóli Íslands. 01 nóv",
+      "price": 44500,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskóli Íslands Val rannsókn",
+      "line_item_name": "Háskóli Íslands. 02 nóv",
+      "price": 36500,
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskóli Íslands Val rannsókn",
+      "line_item_name": "Háskóli Íslands. 03 nóv",
+      "price": 36500,
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskóli Íslands Val rannsókn",
+      "line_item_name": "Háskóli Íslands. 04 nóv",
+      "price": 28500,
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskóli Íslands Val rannsókn",
+      "line_item_name": "Háskóli Íslands. 06 nóv",
+      "price": 28500,
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Háskólinn á Bifröst. 20 okt- 1 des.",
       "line_item_name": "Háskólinn á Bifröst. 04. nóv. BT-GLT-GRI-GB-SMT.",
       "price": 31000,
@@ -1064,6 +1152,14 @@
       "start_date": "2026-10-01",
       "end_date": "2026-10-31",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Hreppamjólk - Nóv og Des",
+      "line_item_name": "Hreppamjólk - Nóv og Des",
+      "price": 390000,
+      "start_date": "2026-11-15",
+      "end_date": "2026-12-31",
+      "seen_count": 3
     },
     {
       "campaign_name": "Hreyfing / HN - okt '26",
@@ -1828,7 +1924,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 171900,
+      "price": 193500,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -1836,7 +1932,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 193500,
+      "price": 171900,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -1904,6 +2000,22 @@
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
       "seen_count": 3
+    },
+    {
+      "campaign_name": "Sassy - október tilboð",
+      "line_item_name": "Sassy",
+      "price": 117500,
+      "start_date": "2026-10-26",
+      "end_date": "2026-11-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Sassy - október tilboð",
+      "line_item_name": "Sassy",
+      "price": 145800,
+      "start_date": "2026-10-26",
+      "end_date": "2026-11-05",
+      "seen_count": 1
     },
     {
       "campaign_name": "Securitas / Datera - sept 2026",
@@ -2196,7 +2308,7 @@
     {
       "campaign_name": "Sýn 20-25 okt.",
       "line_item_name": "Sýn 20-25 okt.",
-      "price": 15000,
+      "price": 133500,
       "start_date": "2026-10-20",
       "end_date": "2026-10-25",
       "seen_count": 1
@@ -2204,7 +2316,7 @@
     {
       "campaign_name": "Sýn 20-25 okt.",
       "line_item_name": "Sýn 20-25 okt.",
-      "price": 133500,
+      "price": 15000,
       "start_date": "2026-10-20",
       "end_date": "2026-10-25",
       "seen_count": 1
@@ -2336,6 +2448,30 @@
       "start_date": "2026-11-08",
       "end_date": "2026-11-11",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Tómas Nathan.",
+      "line_item_name": "Tómas Nathan. 10/12/14/15 nóv. GRI-EH1-HB1-KAPlA1-GB-BH1",
+      "price": 146000,
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tómas Nathan.",
+      "line_item_name": "Tómas Nathan. 24/26/28/29 nóv. GRI-EH1-GRI-HB1-KAPlA1-GB-VMEY-SMT-AK1",
+      "price": 194000,
+      "start_date": "2026-11-24",
+      "end_date": "2026-11-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tómas Nathan.",
+      "line_item_name": "Tómas Nathan.18/20/23 nóv. BT-BH2-FJH-GLT-KEV-SFS-SMT-VLV1",
+      "price": 145500,
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-23",
+      "seen_count": 2
     },
     {
       "campaign_name": "Tónhylur Long term",
