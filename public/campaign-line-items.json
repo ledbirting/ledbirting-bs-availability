@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T21:13:57.865Z",
+  "generated_at": "2026-10-22T03:13:21.242Z",
   "scope": {
-    "report_start_date": "2026-10-21",
+    "report_start_date": "2026-10-22",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 497,
-    "unique_items": 316,
+    "items_seen": 491,
+    "unique_items": 308,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -167,7 +167,7 @@
       "price": 100000,
       "start_date": "2026-11-18",
       "end_date": "2026-12-07",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
@@ -311,7 +311,7 @@
       "price": 102000,
       "start_date": "2026-12-20",
       "end_date": "2026-12-22",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bílasalan Akureyri - Tilboð",
@@ -395,26 +395,10 @@
     },
     {
       "campaign_name": "Birtingahúsið Indó pakki B.",
-      "line_item_name": "Birtingahúsið Indó 18-21 okt. Grandi.",
-      "price": 7500,
-      "start_date": "2026-10-21",
-      "end_date": "2026-10-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Indó pakki B.",
       "line_item_name": "Birtingahúsið Indó 20/22 okt.",
       "price": 70000,
       "start_date": "2026-10-20",
       "end_date": "2026-10-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Birtingahúsið Indó pakki B.",
-      "line_item_name": "Birtingahúsið Indó 21 okt.",
-      "price": 43000,
-      "start_date": "2026-10-21",
-      "end_date": "2026-10-23",
       "seen_count": 1
     },
     {
@@ -491,14 +475,6 @@
     },
     {
       "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
-      "line_item_name": "Bleika slaufan - Bleiki dagurinn 21. okt",
-      "price": 69480,
-      "start_date": "2026-10-21",
-      "end_date": "2026-10-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
       "line_item_name": "Bleika slaufan 8. til 31. okt / Mán, Mið",
       "price": 54810,
       "start_date": "2026-10-08",
@@ -543,14 +519,6 @@
       "price": 80000,
       "start_date": "2026-10-19",
       "end_date": "2026-11-01",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - okt 2026",
-      "line_item_name": "Bónus 21. okt - Mið / 9x1",
-      "price": 62500,
-      "start_date": "2026-10-21",
-      "end_date": "2026-10-21",
       "seen_count": 1
     },
     {
@@ -671,7 +639,7 @@
       "price": 99600,
       "start_date": "2026-11-19",
       "end_date": "2026-11-20",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "BY-Lovisa inneign",
@@ -916,7 +884,7 @@
     {
       "campaign_name": "Garðlist - Nóvember tilboð",
       "line_item_name": "Garðlist - jólaseríur og fl",
-      "price": 148000,
+      "price": 243000,
       "start_date": "2026-10-23",
       "end_date": "2026-11-05",
       "seen_count": 1
@@ -924,7 +892,7 @@
     {
       "campaign_name": "Garðlist - Nóvember tilboð",
       "line_item_name": "Garðlist - jólaseríur og fl",
-      "price": 243000,
+      "price": 148000,
       "start_date": "2026-10-23",
       "end_date": "2026-11-05",
       "seen_count": 1
@@ -1020,7 +988,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1028,7 +996,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1323,14 +1291,6 @@
     },
     {
       "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 21. okt / 4x1",
-      "price": 28500,
-      "start_date": "2026-10-21",
-      "end_date": "2026-10-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - október 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 22. okt / 4x1",
       "price": 26000,
       "start_date": "2026-10-22",
@@ -1423,7 +1383,7 @@
       "price": 117000,
       "start_date": "2026-11-20",
       "end_date": "2026-12-12",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "campaign_name": "Jysk  13- 26 okt.",
@@ -1771,14 +1731,6 @@
     },
     {
       "campaign_name": "Orkan - oktober - 2026",
-      "line_item_name": "Vika 43-1 - A",
-      "price": 372000,
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Orkan - oktober - 2026",
       "line_item_name": "Vika 43-2 - A",
       "price": 85500,
       "start_date": "2026-10-22",
@@ -1924,7 +1876,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 193500,
+      "price": 171900,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -1932,7 +1884,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 171900,
+      "price": 193500,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -2004,7 +1956,7 @@
     {
       "campaign_name": "Sassy - október tilboð",
       "line_item_name": "Sassy",
-      "price": 117500,
+      "price": 145800,
       "start_date": "2026-10-26",
       "end_date": "2026-11-05",
       "seen_count": 1
@@ -2012,7 +1964,7 @@
     {
       "campaign_name": "Sassy - október tilboð",
       "line_item_name": "Sassy",
-      "price": 145800,
+      "price": 117500,
       "start_date": "2026-10-26",
       "end_date": "2026-11-05",
       "seen_count": 1
@@ -2314,14 +2266,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Sýn 20-25 okt.",
-      "line_item_name": "Sýn 20-25 okt.",
-      "price": 15000,
-      "start_date": "2026-10-20",
-      "end_date": "2026-10-25",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Tekk pakki",
       "line_item_name": "Tekk pakki HÆSMI-SMT-KAPLA1",
       "price": 75200,
@@ -2512,14 +2456,6 @@
       "start_date": "2026-08-01",
       "end_date": "2026-12-31",
       "seen_count": 3
-    },
-    {
-      "campaign_name": "VÍS / Datera Landsbyggðin - okt '26",
-      "line_item_name": "VÍS Akureyri 15.10 til 21.10 / Mán, Mið, Fim / AKU1, GLER2",
-      "price": 19500,
-      "start_date": "2026-10-15",
-      "end_date": "2026-10-21",
-      "seen_count": 1
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - okt '26",
