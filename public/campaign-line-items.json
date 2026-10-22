@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T03:13:21.242Z",
+  "generated_at": "2026-10-22T11:07:51.383Z",
   "scope": {
     "report_start_date": "2026-10-22",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 491,
-    "unique_items": 308,
+    "items_seen": 488,
+    "unique_items": 305,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -340,7 +340,7 @@
     {
       "campaign_name": "Bílvirkinn tilboð",
       "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-KAPLA3 30 okt. 02 nóv.",
-      "price": 26000,
+      "price": 26500,
       "start_date": "2026-10-30",
       "end_date": "2026-11-03",
       "seen_count": 1
@@ -348,7 +348,7 @@
     {
       "campaign_name": "Bílvirkinn tilboð",
       "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-KAPLA3 30 okt. 02 nóv.",
-      "price": 26500,
+      "price": 26000,
       "start_date": "2026-10-30",
       "end_date": "2026-11-03",
       "seen_count": 1
@@ -882,15 +882,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Garðlist - Nóvember tilboð",
-      "line_item_name": "Garðlist - jólaseríur og fl",
-      "price": 243000,
-      "start_date": "2026-10-23",
-      "end_date": "2026-11-05",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Garðlist - Nóvember tilboð",
+      "campaign_name": "Garðlist - Október tilboð",
       "line_item_name": "Garðlist - jólaseríur og fl",
       "price": 148000,
       "start_date": "2026-10-23",
@@ -898,7 +890,15 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Garðlist - Nóvember tilboð",
+      "campaign_name": "Garðlist - Október tilboð",
+      "line_item_name": "Garðlist - jólaseríur og fl",
+      "price": 243000,
+      "start_date": "2026-10-23",
+      "end_date": "2026-11-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Garðlist - Október tilboð",
       "line_item_name": "Garðlist - jólaseríur og fl.",
       "price": 126000,
       "start_date": "2026-10-23",
@@ -988,7 +988,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -996,7 +996,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1900,7 +1900,7 @@
     {
       "campaign_name": "Saffran - Akureyri",
       "line_item_name": "Saffran - Akureyri",
-      "price": 182000,
+      "price": 91000,
       "start_date": "2026-10-22",
       "end_date": "2026-11-04",
       "seen_count": 1
@@ -1956,7 +1956,7 @@
     {
       "campaign_name": "Sassy - október tilboð",
       "line_item_name": "Sassy",
-      "price": 145800,
+      "price": 117500,
       "start_date": "2026-10-26",
       "end_date": "2026-11-05",
       "seen_count": 1
@@ -1964,7 +1964,7 @@
     {
       "campaign_name": "Sassy - október tilboð",
       "line_item_name": "Sassy",
-      "price": 117500,
+      "price": 145800,
       "start_date": "2026-10-26",
       "end_date": "2026-11-05",
       "seen_count": 1
@@ -2202,30 +2202,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Snilldarvörur nóv og des.",
-      "line_item_name": "Snilldarvörur 03/07/10 nóv. HB1-GRI-EH1",
-      "price": 52500,
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Snilldarvörur nóv og des.",
-      "line_item_name": "Snilldarvörur 07/09 des. BH2-EH1-GRI.",
-      "price": 36000,
-      "start_date": "2026-12-07",
-      "end_date": "2026-12-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Snilldarvörur nóv og des.",
-      "line_item_name": "Snilldarvörur 15/17 des. HSMI-KAPLA1-GB.",
-      "price": 38600,
-      "start_date": "2026-12-13",
-      "end_date": "2026-12-19",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Sólar",
       "line_item_name": "Sólar BT-BH2HB2KAPLAGB 27/28 okt.",
       "price": 61000,
@@ -2299,50 +2275,50 @@
     },
     {
       "campaign_name": "TM okt. pakki B.",
-      "line_item_name": "TM okt. pakki B. 23 okt. AK1-GLT2-HAFT-HÖFT-HB1KEV-SFS1-SMT1-VMEY",
-      "price": 54600,
-      "start_date": "2026-10-23",
-      "end_date": "2026-10-23",
+      "line_item_name": "TM okt. pakki B. 05 nóv. AK1-GLT2-HAFT-HÖFT-HB1KEV-SFS1-SMT1-VMEY",
+      "price": 53500,
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-05",
       "seen_count": 1
     },
     {
       "campaign_name": "TM okt. pakki B.",
-      "line_item_name": "TM okt. pakki B. 26 okt. AK2-GLT-GRI-HAFT-HÖFT-HB2-GB-VLV2-SFS1-SMT-KEV-KAPLA3",
-      "price": 77100,
-      "start_date": "2026-10-26",
-      "end_date": "2026-10-26",
+      "line_item_name": "TM okt. pakki B. 06 nóv AK2-GLT-GRI-HAFT-HÖFT-HB2-GB-VLV2-SFS1-SMT-KEV-KAPLA3",
+      "price": 76000,
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-06",
       "seen_count": 1
     },
     {
       "campaign_name": "TM okt. pakki B.",
-      "line_item_name": "TM okt. pakki B. 27 okt. AK2-GLT-GRI-HAFT-HÖFT-HB2-GB-VLV2-KEV2-SMT.",
-      "price": 69100,
-      "start_date": "2026-10-27",
-      "end_date": "2026-10-27",
+      "line_item_name": "TM okt. pakki B. 09 nóv. AK2-GLT-GRI-HAFT-HÖFT-HB2-GB-VLV2-KEV2-SMT.",
+      "price": 68000,
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-09",
       "seen_count": 1
     },
     {
       "campaign_name": "TM okt. pakki B.",
-      "line_item_name": "TM okt. pakki B. 28 okt. BT-GLT2-GRAI-HAFT-HÖFT-GB-KEV-SFS2-SMT-VMEY-VLV2",
+      "line_item_name": "TM okt. pakki B. 10 nóv. BT-GLT2-GRAI-HAFT-HÖFT-GB-KEV-SFS2-SMT-VMEY-VLV2",
       "price": 69000,
-      "start_date": "2026-10-28",
-      "end_date": "2026-10-28",
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-10",
       "seen_count": 1
     },
     {
       "campaign_name": "TM okt. pakki B.",
-      "line_item_name": "TM okt. pakki B. 29 okt. AK2-BT-GLT2-HAFT-HÖFT-HB1-KAPLA1-VLV1-SMT1",
-      "price": 58600,
-      "start_date": "2026-10-29",
-      "end_date": "2026-10-29",
+      "line_item_name": "TM okt. pakki B. 11 nóv. AK2-BT-GLT2-HAFT-HÖFT-HB1-KAPLA1-VLV1-SMT1",
+      "price": 57500,
+      "start_date": "2026-11-11",
+      "end_date": "2026-11-11",
       "seen_count": 1
     },
     {
       "campaign_name": "TM okt. pakki B.",
-      "line_item_name": "TM okt. pakki B. 30 okt. BT-AK1-GLT1-GRI-HAFT-HÖFT-SMT-VMEY.-HB2-KAPLA2-SFS1",
+      "line_item_name": "TM okt. pakki B. 12 nóv. BT-AK1-GLT1-GRI-HAFT-HÖFT-SMT-VMEY.-HB2-KAPLA2-SFS1",
       "price": 73000,
-      "start_date": "2026-10-30",
-      "end_date": "2026-10-30",
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-12",
       "seen_count": 1
     },
     {
