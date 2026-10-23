@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T03:19:16.076Z",
+  "generated_at": "2026-10-23T10:59:00.687Z",
   "scope": {
     "report_start_date": "2026-10-23",
     "report_end_date": "2099-12-31",
@@ -332,7 +332,7 @@
     {
       "campaign_name": "Bílvirkinn tilboð",
       "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-KAPLA3 30 okt. 02 nóv.",
-      "price": 26500,
+      "price": 26000,
       "start_date": "2026-10-30",
       "end_date": "2026-11-03",
       "seen_count": 1
@@ -340,7 +340,7 @@
     {
       "campaign_name": "Bílvirkinn tilboð",
       "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-KAPLA3 30 okt. 02 nóv.",
-      "price": 26000,
+      "price": 26500,
       "start_date": "2026-10-30",
       "end_date": "2026-11-03",
       "seen_count": 1
@@ -740,7 +740,7 @@
     {
       "campaign_name": "Chitocare - október tilboð",
       "line_item_name": "Chitocare - nóvembertilboð",
-      "price": 73500,
+      "price": 129600,
       "start_date": "2026-10-24",
       "end_date": "2026-11-04",
       "seen_count": 1
@@ -748,7 +748,7 @@
     {
       "campaign_name": "Chitocare - október tilboð",
       "line_item_name": "Chitocare - nóvembertilboð",
-      "price": 129600,
+      "price": 73500,
       "start_date": "2026-10-24",
       "end_date": "2026-11-04",
       "seen_count": 1
@@ -1036,7 +1036,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1044,7 +1044,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1075,8 +1075,16 @@
     },
     {
       "campaign_name": "Háskóli Íslands Val rannsókn",
+      "line_item_name": "_Háskóli Íslands. 27 okt.",
+      "price": 28500,
+      "start_date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Háskóli Íslands Val rannsókn",
       "line_item_name": "Háskóli Íslands. 01 nóv",
-      "price": 44500,
+      "price": 36500,
       "start_date": "2026-11-01",
       "end_date": "2026-11-01",
       "seen_count": 1
@@ -1084,7 +1092,7 @@
     {
       "campaign_name": "Háskóli Íslands Val rannsókn",
       "line_item_name": "Háskóli Íslands. 02 nóv",
-      "price": 36500,
+      "price": 44000,
       "start_date": "2026-11-02",
       "end_date": "2026-11-02",
       "seen_count": 1
@@ -1717,14 +1725,6 @@
       "campaign_name": "LOVA Iceland tilboð.",
       "line_item_name": "LOVAICELAND AK1-BH2-GLT1-KAPLA2-KEV1-SFS1",
       "price": 154000,
-      "start_date": "2026-10-23",
-      "end_date": "2026-10-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "LOVA Iceland tilboð.",
-      "line_item_name": "LOVAICELAND BH1-GLT2-KAPLA3-SFS2-KEV2",
-      "price": 96000,
       "start_date": "2026-10-23",
       "end_date": "2026-10-29",
       "seen_count": 1
