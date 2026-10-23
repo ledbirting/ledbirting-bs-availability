@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:59:00.687Z",
+  "generated_at": "2026-10-23T16:25:41.088Z",
   "scope": {
     "report_start_date": "2026-10-23",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 519,
-    "unique_items": 341,
+    "items_seen": 525,
+    "unique_items": 349,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -306,6 +306,14 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Better you - Artasan - Heiða - Hæðasmári",
+      "line_item_name": "Better you - Artasan - Heiða - Hæðasmári",
+      "price": 121000,
+      "start_date": "2026-10-23",
+      "end_date": "2026-11-13",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Bílasalan Akureyri - Tilboð",
       "line_item_name": "Bílasalan Akureyri - Tilboð",
       "price": 208000,
@@ -332,7 +340,7 @@
     {
       "campaign_name": "Bílvirkinn tilboð",
       "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-KAPLA3 30 okt. 02 nóv.",
-      "price": 26000,
+      "price": 26500,
       "start_date": "2026-10-30",
       "end_date": "2026-11-03",
       "seen_count": 1
@@ -340,7 +348,7 @@
     {
       "campaign_name": "Bílvirkinn tilboð",
       "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-KAPLA3 30 okt. 02 nóv.",
-      "price": 26500,
+      "price": 26000,
       "start_date": "2026-10-30",
       "end_date": "2026-11-03",
       "seen_count": 1
@@ -459,34 +467,18 @@
     },
     {
       "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
-      "line_item_name": "Bleika slaufan 8. til 31. okt / Mán, Mið",
-      "price": 54810,
+      "line_item_name": "#  Bleika slaufan 8. til 24. okt / Lau og Sun",
+      "price": 28305,
       "start_date": "2026-10-08",
-      "end_date": "2026-10-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
-      "line_item_name": "Bleika slaufan 8. til 31. okt / Mán, Þri og Lau",
-      "price": 89250,
-      "start_date": "2026-10-08",
-      "end_date": "2026-10-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026",
-      "line_item_name": "Bleika slaufan 8. til 31. okt / Sun",
-      "price": 42457.5,
-      "start_date": "2026-10-08",
-      "end_date": "2026-10-31",
+      "end_date": "2026-10-24",
       "seen_count": 1
     },
     {
       "campaign_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026 - Bleika slaufan - HAE-P extra",
-      "line_item_name": "Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026 - Bleika slaufan - HAE-P extra",
+      "line_item_name": "# Bleika slaufan - Krabbameinsfélagið / Digido - Okt 2026 - Bleika slaufan - HAE-P extra",
       "price": 0,
       "start_date": "2026-10-07",
-      "end_date": "2026-10-31",
+      "end_date": "2026-10-24",
       "seen_count": 1
     },
     {
@@ -738,51 +730,11 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Chitocare - október tilboð",
-      "line_item_name": "Chitocare - nóvembertilboð",
-      "price": 129600,
-      "start_date": "2026-10-24",
-      "end_date": "2026-11-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Chitocare - október tilboð",
-      "line_item_name": "Chitocare - nóvembertilboð",
-      "price": 73500,
-      "start_date": "2026-10-24",
-      "end_date": "2026-11-04",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Collab 22 - 28 okt.",
       "line_item_name": "Collaba Akueyri 22-28 okt.",
       "price": 182000,
       "start_date": "2026-10-22",
       "end_date": "2026-10-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Define The Line - október tilboð",
-      "line_item_name": "Define The Line 26.10 til 5.11 - Mán, Mið, Fös, Lau - Breiðholt 2, Hagasmári, Kaplakriki 3",
-      "price": 115800,
-      "start_date": "2026-10-26",
-      "end_date": "2026-11-05",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Define The Line - október tilboð",
-      "line_item_name": "Define The Line 26.10 til 5.11 - Þri, Fim - Glerártorg 2, Selfoss 1, Njarðarbraut 1",
-      "price": 74000,
-      "start_date": "2026-10-26",
-      "end_date": "2026-11-05",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Define The Line - október tilboð",
-      "line_item_name": "Define The Line 26.10 til 5.11 - Þri, Fim, Lau - Höfðabakki 2, Egilshöll 1, Smáratorg 1",
-      "price": 66000,
-      "start_date": "2026-10-26",
-      "end_date": "2026-11-05",
       "seen_count": 1
     },
     {
@@ -866,6 +818,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Flugger sértilboð",
+      "line_item_name": "Flugger sértilboð þriðjud. Föstud. AK1-EINH-HB2-KEV2-SFS2",
+      "price": 85500,
+      "start_date": "2026-10-24",
+      "end_date": "2026-11-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Flugger sértilboð",
+      "line_item_name": "Flugger sértilboð. Mánud, miðvikud.EINH-GLT2-HB1-KEV1-SFS1",
+      "price": 114000,
+      "start_date": "2026-10-24",
+      "end_date": "2026-11-05",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Forlagið / HN - 1. til 21.des 2026",
       "line_item_name": "Forlagið - 1.des - 21.des - Lau, Sun, Mán - Höfðabakki2",
       "price": 45000,
@@ -932,7 +900,7 @@
     {
       "campaign_name": "Garðlist - Október tilboð",
       "line_item_name": "Garðlist - jólaseríur og fl",
-      "price": 148000,
+      "price": 243000,
       "start_date": "2026-10-23",
       "end_date": "2026-11-05",
       "seen_count": 1
@@ -940,7 +908,7 @@
     {
       "campaign_name": "Garðlist - Október tilboð",
       "line_item_name": "Garðlist - jólaseríur og fl",
-      "price": 243000,
+      "price": 148000,
       "start_date": "2026-10-23",
       "end_date": "2026-11-05",
       "seen_count": 1
@@ -1036,7 +1004,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1044,7 +1012,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1176,14 +1144,6 @@
       "start_date": "2026-10-01",
       "end_date": "2026-10-31",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreppamjólk - Nóv og Des",
-      "line_item_name": "Hreppamjólk - Nóv og Des",
-      "price": 390000,
-      "start_date": "2026-11-15",
-      "end_date": "2026-12-31",
-      "seen_count": 3
     },
     {
       "campaign_name": "Hreyfing / HN - okt '26",
@@ -1580,7 +1540,7 @@
     {
       "campaign_name": "Jysk  13- 26 okt.",
       "line_item_name": "Jysk 13 - 26 okt.",
-      "price": 126000,
+      "price": 42000,
       "start_date": "2026-10-13",
       "end_date": "2026-10-26",
       "seen_count": 1
@@ -1588,7 +1548,7 @@
     {
       "campaign_name": "Jysk  13- 26 okt.",
       "line_item_name": "Jysk 13 - 26 okt.",
-      "price": 42000,
+      "price": 126000,
       "start_date": "2026-10-13",
       "end_date": "2026-10-26",
       "seen_count": 1
@@ -1714,6 +1674,102 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - október 2026",
+      "line_item_name": "LIVE - Fim 29. okt / 5x1",
+      "price": 32500,
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - október 2026",
+      "line_item_name": "LIVE - Fös 23. okt / 6x1",
+      "price": 37500,
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - október 2026",
+      "line_item_name": "LIVE - Fös 30. okt / 5x1",
+      "price": 32500,
+      "start_date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - október 2026",
+      "line_item_name": "LIVE - Fös 6. nóv / 5x1",
+      "price": 32500,
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - október 2026",
+      "line_item_name": "LIVE - Lau 24. okt / 6x1",
+      "price": 29500,
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - október 2026",
+      "line_item_name": "LIVE - Lau 31. okt / 6x1",
+      "price": 34500,
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - október 2026",
+      "line_item_name": "LIVE - Lau 7. nóv / 6x1",
+      "price": 39500,
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - október 2026",
+      "line_item_name": "LIVE - Mið 28. okt / 6x1",
+      "price": 33000,
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - október 2026",
+      "line_item_name": "LIVE - Mið 4. nóv / 6x1",
+      "price": 35000,
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - október 2026",
+      "line_item_name": "LIVE - Sun 1. nóv / 6x1",
+      "price": 32500,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - október 2026",
+      "line_item_name": "LIVE - Sun 25. okt / 5x1",
+      "price": 36000,
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - október 2026",
+      "line_item_name": "LIVE - Þri 3. nóv / 6x1",
+      "price": 36000,
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Löður - Október 2026",
       "line_item_name": "V44 - Halloween",
       "price": 140000,
@@ -1725,6 +1781,14 @@
       "campaign_name": "LOVA Iceland tilboð.",
       "line_item_name": "LOVAICELAND AK1-BH2-GLT1-KAPLA2-KEV1-SFS1",
       "price": 154000,
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "LOVA Iceland tilboð.",
+      "line_item_name": "LOVAICELAND BH1-GLT2-KAPLA3-SFS2-KEV2",
+      "price": 115500,
       "start_date": "2026-10-23",
       "end_date": "2026-10-29",
       "seen_count": 1
@@ -2050,6 +2114,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Polo Sértilboð 30 okt - 06 nóv.",
+      "line_item_name": "_Polo Sértilboð 30 okt. 02/04/06 nóv. HB1-KAPLA1-SFS 1 og 2",
+      "price": 78000,
+      "start_date": "2026-10-30",
+      "end_date": "2026-11-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Polo Sértilboð 30 okt - 06 nóv.",
+      "line_item_name": "Polo Sértilboð 31 okt. 01/03/05 nóv.. HB1-KAPLA2-SFS 1 og 2",
+      "price": 104000,
+      "start_date": "2026-10-30",
+      "end_date": "2026-11-06",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Pris - október",
       "line_item_name": "HAG",
       "price": 63800,
@@ -2192,22 +2272,6 @@
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
       "seen_count": 3
-    },
-    {
-      "campaign_name": "Sassy - október tilboð",
-      "line_item_name": "Sassy",
-      "price": 117500,
-      "start_date": "2026-10-26",
-      "end_date": "2026-11-05",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Sassy - október tilboð",
-      "line_item_name": "Sassy",
-      "price": 145800,
-      "start_date": "2026-10-26",
-      "end_date": "2026-11-05",
-      "seen_count": 1
     },
     {
       "campaign_name": "Securitas / Datera - sept 2026",
