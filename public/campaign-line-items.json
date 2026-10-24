@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23T23:46:58.230Z",
+  "generated_at": "2026-10-24T03:13:00.848Z",
   "scope": {
-    "report_start_date": "2026-10-23",
+    "report_start_date": "2026-10-24",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 525,
-    "unique_items": 349,
+    "items_seen": 513,
+    "unique_items": 337,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -51,26 +51,10 @@
     },
     {
       "campaign_name": "Arna Nettur pakki.",
-      "line_item_name": "Arna 19/21/23 okt. -BH2-GLT1-KAPLA2-KEV1-SMT1-VMEY.HB1",
-      "price": 124500,
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Arna Nettur pakki.",
       "line_item_name": "Arna 26/28/30  okt. BT-GLT2-HSMI.VLV2-FJH.",
       "price": 118500,
       "start_date": "2026-10-24",
       "end_date": "2026-10-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Artasan - GUM - október - Signý",
-      "line_item_name": "Artasan - GUM - október - Signý",
-      "price": 693500,
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-23",
       "seen_count": 1
     },
     {
@@ -303,7 +287,7 @@
       "price": 102000,
       "start_date": "2026-12-20",
       "end_date": "2026-12-22",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Better you - Artasan - Heiða - Hæðasmári",
@@ -340,7 +324,7 @@
     {
       "campaign_name": "Bílvirkinn tilboð",
       "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-KAPLA3 30 okt. 02 nóv.",
-      "price": 26500,
+      "price": 26000,
       "start_date": "2026-10-30",
       "end_date": "2026-11-03",
       "seen_count": 1
@@ -348,7 +332,7 @@
     {
       "campaign_name": "Bílvirkinn tilboð",
       "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-KAPLA3 30 okt. 02 nóv.",
-      "price": 26000,
+      "price": 26500,
       "start_date": "2026-10-30",
       "end_date": "2026-11-03",
       "seen_count": 1
@@ -447,7 +431,7 @@
       "price": 108000,
       "start_date": "2026-12-15",
       "end_date": "2026-12-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Birtingahúsið SS. des.",
@@ -619,14 +603,6 @@
     },
     {
       "campaign_name": "Boozt - Sept til des",
-      "line_item_name": "Boozt - Vika 43",
-      "price": 234000,
-      "start_date": "2026-10-19",
-      "end_date": "2026-10-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Boozt - Sept til des",
       "line_item_name": "Boozt - Vika 44",
       "price": 353700,
       "start_date": "2026-10-24",
@@ -671,14 +647,6 @@
       "price": 64500,
       "start_date": "2026-10-27",
       "end_date": "2026-10-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Borgarleikhúsið - Kortasala / Datera - október 2026",
-      "line_item_name": "Borgarleikhúsið / Kortasala - Fös 23. okt",
-      "price": 44000,
-      "start_date": "2026-10-23",
-      "end_date": "2026-10-23",
       "seen_count": 1
     },
     {
@@ -739,14 +707,6 @@
     },
     {
       "campaign_name": "Dominos Ostóber.",
-      "line_item_name": "Dominos Megavika. 09/16/23 okt.",
-      "price": 222000,
-      "start_date": "2026-10-09",
-      "end_date": "2026-10-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Dominos Ostóber.",
       "line_item_name": "Dominos Ostóber. 10/17/24 okt. .",
       "price": 231900,
       "start_date": "2026-10-09",
@@ -756,7 +716,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -764,7 +724,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -900,7 +860,7 @@
     {
       "campaign_name": "Garðlist - Október tilboð",
       "line_item_name": "Garðlist - jólaseríur og fl",
-      "price": 243000,
+      "price": 148000,
       "start_date": "2026-10-23",
       "end_date": "2026-11-05",
       "seen_count": 1
@@ -908,7 +868,7 @@
     {
       "campaign_name": "Garðlist - Október tilboð",
       "line_item_name": "Garðlist - jólaseríur og fl",
-      "price": 148000,
+      "price": 243000,
       "start_date": "2026-10-23",
       "end_date": "2026-11-05",
       "seen_count": 1
@@ -935,7 +895,7 @@
       "price": 26000,
       "start_date": "2026-12-20",
       "end_date": "2026-12-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "GER samningur.",
@@ -1004,7 +964,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1012,7 +972,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1175,14 +1135,6 @@
       "price": 14000,
       "start_date": "2026-10-31",
       "end_date": "2026-10-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "HSÍ leikur 04 nóv..",
-      "line_item_name": "HSÍ leikur 04 nóv..",
-      "price": 78000,
-      "start_date": "2026-10-20",
-      "end_date": "2026-10-24",
       "seen_count": 1
     },
     {
@@ -1540,14 +1492,6 @@
     {
       "campaign_name": "Jysk  13- 26 okt.",
       "line_item_name": "Jysk 13 - 26 okt.",
-      "price": 42000,
-      "start_date": "2026-10-13",
-      "end_date": "2026-10-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Jysk  13- 26 okt.",
-      "line_item_name": "Jysk 13 - 26 okt.",
       "price": 126000,
       "start_date": "2026-10-13",
       "end_date": "2026-10-26",
@@ -1679,14 +1623,6 @@
       "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-10-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - október 2026",
-      "line_item_name": "LIVE - Fös 23. okt / 6x1",
-      "price": 37500,
-      "start_date": "2026-10-23",
-      "end_date": "2026-10-23",
       "seen_count": 1
     },
     {
@@ -1850,14 +1786,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Míla 14-23 okt.",
-      "line_item_name": "Míla 14-23 okt.",
-      "price": 37500,
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-23",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Minstur Mediacom Bjartur 1-17 des 2026",
       "line_item_name": "Mediacom Bjartur 1-17 des 2026",
       "price": 736100,
@@ -1931,14 +1859,6 @@
     },
     {
       "campaign_name": "Nova 05-31 okt.",
-      "line_item_name": "Nova 19/21/23 okt BT-HSMI-SFS2-SMT1-VLV1-KAPLA3-GB-HÖFT1-BH1",
-      "price": 154650,
-      "start_date": "2026-10-19",
-      "end_date": "2026-10-25",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Nova 05-31 okt.",
       "line_item_name": "Nova 22/24/25/26 okt. AK1-BH2-EH1-GRI-HB2-KAPLA1-KEV2-VLV2-HSMI",
       "price": 245200,
       "start_date": "2026-10-19",
@@ -2008,14 +1928,6 @@
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Orka Ventures",
-      "line_item_name": "Orka Ventures",
-      "price": 141000,
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-23",
-      "seen_count": 1
     },
     {
       "campaign_name": "Orkan - oktober - 2026",
@@ -2319,14 +2231,6 @@
       "price": 39500,
       "start_date": "2026-11-02",
       "end_date": "2026-11-02",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Serrano",
-      "line_item_name": "Serrano 23 okt. EH1-GLT-HB2-KAPLA3-VLV2",
-      "price": 32000,
-      "start_date": "2026-10-23",
-      "end_date": "2026-10-23",
       "seen_count": 1
     },
     {
@@ -2727,7 +2631,7 @@
       "price": 104000,
       "start_date": "2026-11-22",
       "end_date": "2026-11-29",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Tölvutek Akureyri",
