@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T14:11:45.803Z",
+  "generated_at": "2026-10-26T20:06:56.655Z",
   "result": [
     {
       "date": "2026-10-26",
@@ -542,8 +542,8 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.8806521999999999,
-          "rows_seen": 14
+          "fill_rate": 0.9473188666666665,
+          "rows_seen": 15
         },
         {
           "id": 237865,
@@ -596,8 +596,8 @@
         {
           "id": 569050,
           "du_name": "Glerártorg #1",
-          "fill_rate": 0.7639855333333332,
-          "rows_seen": 16
+          "fill_rate": 0.8306522,
+          "rows_seen": 17
         },
         {
           "id": 569051,
@@ -872,8 +872,8 @@
         {
           "id": 237892,
           "du_name": "Hæðasmári #1",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.4666666666666666,
+          "rows_seen": 7
         },
         {
           "id": 331110,
@@ -926,8 +926,8 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.9183333333333332,
-          "rows_seen": 14
+          "fill_rate": 0.9849999999999999,
+          "rows_seen": 15
         },
         {
           "id": 237864,
@@ -1130,8 +1130,8 @@
         {
           "id": 237892,
           "du_name": "Hæðasmári #1",
-          "fill_rate": 0.5333333333333333,
-          "rows_seen": 8
+          "fill_rate": 0.6,
+          "rows_seen": 9
         },
         {
           "id": 331110,
@@ -1388,8 +1388,8 @@
         {
           "id": 237892,
           "du_name": "Hæðasmári #1",
-          "fill_rate": 0.4666666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.5333333333333333,
+          "rows_seen": 8
         },
         {
           "id": 331110,
@@ -2678,8 +2678,8 @@
         {
           "id": 237892,
           "du_name": "Hæðasmári #1",
-          "fill_rate": 0.5333333333333333,
-          "rows_seen": 8
+          "fill_rate": 0.6,
+          "rows_seen": 9
         },
         {
           "id": 331110,
@@ -2936,8 +2936,8 @@
         {
           "id": 237892,
           "du_name": "Hæðasmári #1",
-          "fill_rate": 0.6,
-          "rows_seen": 9
+          "fill_rate": 0.6666666666666666,
+          "rows_seen": 10
         },
         {
           "id": 331110,
@@ -3194,8 +3194,8 @@
         {
           "id": 237892,
           "du_name": "Hæðasmári #1",
-          "fill_rate": 0.5333333333333333,
-          "rows_seen": 8
+          "fill_rate": 0.6,
+          "rows_seen": 9
         },
         {
           "id": 331110,
@@ -4154,8 +4154,8 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.7683333333333333,
-          "rows_seen": 12
+          "fill_rate": 0.7016666666666667,
+          "rows_seen": 11
         },
         {
           "id": 237865,
@@ -4208,8 +4208,8 @@
         {
           "id": 569050,
           "du_name": "Glerártorg #1",
-          "fill_rate": 0.6683333333333332,
-          "rows_seen": 13
+          "fill_rate": 0.6016666666666666,
+          "rows_seen": 12
         },
         {
           "id": 569051,
@@ -4484,8 +4484,8 @@
         {
           "id": 237892,
           "du_name": "Hæðasmári #1",
-          "fill_rate": 0.5333333333333333,
-          "rows_seen": 8
+          "fill_rate": 0.6,
+          "rows_seen": 9
         },
         {
           "id": 331110,
@@ -4538,8 +4538,8 @@
         {
           "id": 235463,
           "du_name": "Kaplakriki #1",
-          "fill_rate": 0.8683333333333333,
-          "rows_seen": 14
+          "fill_rate": 0.8016666666666666,
+          "rows_seen": 13
         },
         {
           "id": 237864,
@@ -4742,8 +4742,8 @@
         {
           "id": 237892,
           "du_name": "Hæðasmári #1",
-          "fill_rate": 0.5333333333333333,
-          "rows_seen": 8
+          "fill_rate": 0.6,
+          "rows_seen": 9
         },
         {
           "id": 331110,
@@ -5000,8 +5000,8 @@
         {
           "id": 237892,
           "du_name": "Hæðasmári #1",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.4666666666666666,
+          "rows_seen": 7
         },
         {
           "id": 331110,
@@ -6290,8 +6290,8 @@
         {
           "id": 237892,
           "du_name": "Hæðasmári #1",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.4666666666666666,
+          "rows_seen": 7
         },
         {
           "id": 331110,
@@ -6548,8 +6548,8 @@
         {
           "id": 237892,
           "du_name": "Hæðasmári #1",
-          "fill_rate": 0.4666666666666666,
-          "rows_seen": 7
+          "fill_rate": 0.5333333333333333,
+          "rows_seen": 8
         },
         {
           "id": 331110,
@@ -6806,8 +6806,8 @@
         {
           "id": 237892,
           "du_name": "Hæðasmári #1",
-          "fill_rate": 0.39999999999999997,
-          "rows_seen": 6
+          "fill_rate": 0.4666666666666666,
+          "rows_seen": 7
         },
         {
           "id": 331110,
