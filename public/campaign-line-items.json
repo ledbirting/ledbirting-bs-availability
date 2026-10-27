@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:06:27.017Z",
+  "generated_at": "2026-10-27T21:48:03.048Z",
   "scope": {
     "report_start_date": "2026-10-27",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 529,
-    "unique_items": 345,
+    "items_seen": 534,
+    "unique_items": 350,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -340,7 +340,7 @@
     {
       "campaign_name": "Bílvirkinn tilboð",
       "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-KAPLA3 30 okt. 02 nóv.",
-      "price": 26000,
+      "price": 26500,
       "start_date": "2026-10-30",
       "end_date": "2026-11-03",
       "seen_count": 1
@@ -348,7 +348,7 @@
     {
       "campaign_name": "Bílvirkinn tilboð",
       "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-KAPLA3 30 okt. 02 nóv.",
-      "price": 26500,
+      "price": 26000,
       "start_date": "2026-10-30",
       "end_date": "2026-11-03",
       "seen_count": 1
@@ -988,7 +988,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -996,7 +996,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1587,7 +1587,7 @@
     },
     {
       "campaign_name": "Kjötkompaní nóv og des.",
-      "line_item_name": "Kjötkompaní Grandi  01- 19 des. miðvikudagar.",
+      "line_item_name": "Kjötkompaní Grandi  01- 16 des. miðvikudagar.",
       "price": 22500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-19",
@@ -1914,6 +1914,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "New Proposal-10/27/2026, 03:55:12 PM",
+      "line_item_name": "Ilva",
+      "price": 39000,
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Nova 01-25 nóv.",
       "line_item_name": "Nova 01-25 nóv.",
       "price": 271200,
@@ -2144,6 +2152,38 @@
       "start_date": "2026-11-15",
       "end_date": "2026-11-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Reykjagarður des.",
+      "line_item_name": "Reykjagarður des. 01-07",
+      "price": 175200,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Reykjagarður des.",
+      "line_item_name": "Reykjagarður des. 08-14",
+      "price": 198900,
+      "start_date": "2026-12-08",
+      "end_date": "2026-12-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Reykjagarður des.",
+      "line_item_name": "Reykjagarður des. 15-23",
+      "price": 294000,
+      "start_date": "2026-12-15",
+      "end_date": "2026-12-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Reykjagarður des.",
+      "line_item_name": "Reykjagarður des. Grandi mánud-þriðjud-miðvikud- laugard",
+      "price": 105000,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-23",
+      "seen_count": 1
     },
     {
       "campaign_name": "Reykjagarður. nóv.",
