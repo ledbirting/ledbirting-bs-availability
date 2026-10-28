@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:04:54.153Z",
+  "generated_at": "2026-10-28T20:03:24.490Z",
   "scope": {
     "report_start_date": "2026-10-28",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 525,
-    "unique_items": 342,
+    "items_seen": 539,
+    "unique_items": 352,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -114,6 +114,14 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Bauhaus nóv",
+      "line_item_name": "Bauhaus nóv",
+      "price": 476000,
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-28",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Beiersdorf - Eucerin - Hæ-P",
       "line_item_name": "Beiersdorf - Eucerin - Hæ-P",
       "price": 0,
@@ -205,7 +213,7 @@
       "campaign_name": "Bestun /Dekra",
       "line_item_name": "Bestun /Dekra",
       "price": 154000,
-      "start_date": "2026-10-29",
+      "start_date": "2026-10-28",
       "end_date": "2026-12-31",
       "seen_count": 3
     },
@@ -215,6 +223,14 @@
       "price": 274000,
       "start_date": "2026-11-25",
       "end_date": "2026-11-29",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Bestun Freyja /jól",
+      "line_item_name": "Bestun Freyja /jól",
+      "price": 228000,
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-30",
       "seen_count": 2
     },
     {
@@ -332,7 +348,7 @@
     {
       "campaign_name": "Bílvirkinn tilboð",
       "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-KAPLA3 30 okt. 02 nóv.",
-      "price": 26500,
+      "price": 18500,
       "start_date": "2026-10-30",
       "end_date": "2026-11-03",
       "seen_count": 1
@@ -340,7 +356,7 @@
     {
       "campaign_name": "Bílvirkinn tilboð",
       "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-KAPLA3 30 okt. 02 nóv.",
-      "price": 26000,
+      "price": 26500,
       "start_date": "2026-10-30",
       "end_date": "2026-11-03",
       "seen_count": 1
@@ -412,7 +428,7 @@
     {
       "campaign_name": "Birtingahúsið SS.",
       "line_item_name": "Birtingahúsið SS. 09/12/13 nóv. FJK-GLT1-GRI-KAPLA2-KEV-SFS2-SMT1-VLV2",
-      "price": 156000,
+      "price": 165000,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -700,7 +716,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 2
@@ -708,7 +724,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 2
@@ -1962,6 +1978,70 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Orkan - Desember - 2026",
+      "line_item_name": "Vika 49 - A",
+      "price": 374000,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orkan - Desember - 2026",
+      "line_item_name": "Vika 50 - B",
+      "price": 159600,
+      "start_date": "2026-12-09",
+      "end_date": "2026-12-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orkan - Desember - 2026",
+      "line_item_name": "Vika 51- C",
+      "price": 173478.26,
+      "start_date": "2026-12-16",
+      "end_date": "2026-12-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orkan - Desember - 2026",
+      "line_item_name": "Vika 52 (53)- A",
+      "price": 427500,
+      "start_date": "2026-12-23",
+      "end_date": "2026-12-27",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Orkan - November 2026",
+      "line_item_name": "Vika 45 - A",
+      "price": 367500,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orkan - November 2026",
+      "line_item_name": "Vika 46 - B",
+      "price": 199500,
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orkan - November 2026",
+      "line_item_name": "Vika 47 - C",
+      "price": 123913.04,
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orkan - November 2026",
+      "line_item_name": "Vika 48 - A",
+      "price": 513000,
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-28",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Orkan - oktober - 2026",
       "line_item_name": "Vika 44 - C",
       "price": 173478.26,
@@ -2156,7 +2236,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 171900,
+      "price": 193500,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -2164,7 +2244,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 193500,
+      "price": 171900,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
