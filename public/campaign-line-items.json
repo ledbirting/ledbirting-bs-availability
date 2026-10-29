@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:18:24.385Z",
+  "generated_at": "2026-10-29T18:00:00.860Z",
   "scope": {
     "report_start_date": "2026-10-29",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 524,
-    "unique_items": 338,
+    "items_seen": 571,
+    "unique_items": 384,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -59,7 +59,7 @@
     },
     {
       "campaign_name": "Artasan - Gunnar - Hæðasmári",
-      "line_item_name": "Artasan",
+      "line_item_name": "Artasan  Otrivin",
       "price": 165000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
@@ -91,7 +91,7 @@
     },
     {
       "campaign_name": "Artasan - panodil - gunnar - Hæðasmári (partur af apótekspakka)",
-      "line_item_name": "Artasan - panodil - gunnar - Hæðasmári (partur af apótekspakka)",
+      "line_item_name": "Artasan - Panodil - gunnar - Hæðasmári (partur af apótekspakka)",
       "price": 335500,
       "start_date": "2026-11-01",
       "end_date": "2026-12-31",
@@ -220,7 +220,7 @@
     {
       "campaign_name": "Bestun Freyja /jól",
       "line_item_name": "Bestun Freyja /jól",
-      "price": 228000,
+      "price": 227500,
       "start_date": "2026-11-15",
       "end_date": "2026-11-30",
       "seen_count": 2
@@ -333,14 +333,6 @@
       "campaign_name": "Bílvirkinn tilboð",
       "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-KAPLA3 30 okt. 02 nóv.",
       "price": 18500,
-      "start_date": "2026-10-30",
-      "end_date": "2026-11-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bílvirkinn tilboð",
-      "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-KAPLA3 30 okt. 02 nóv.",
-      "price": 26500,
       "start_date": "2026-10-30",
       "end_date": "2026-11-03",
       "seen_count": 1
@@ -463,6 +455,206 @@
       "price": 80000,
       "start_date": "2026-10-19",
       "end_date": "2026-11-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 1. des - Þri / 5x1",
+      "price": 35000,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 10. des - Fim / 6x1",
+      "price": 36500,
+      "start_date": "2026-12-10",
+      "end_date": "2026-12-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 11. des - Fös / 5x1",
+      "price": 32000,
+      "start_date": "2026-12-11",
+      "end_date": "2026-12-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 12. des - Lau / 5x1",
+      "price": 34000,
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 13. des - Sun / 5x1",
+      "price": 35000,
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 14. des - Mán / 5x1",
+      "price": 30000,
+      "start_date": "2026-12-14",
+      "end_date": "2026-12-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 15. des - Þri / 12x1",
+      "price": 78500,
+      "start_date": "2026-12-15",
+      "end_date": "2026-12-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 16. des - Mið / 12x1",
+      "price": 77500,
+      "start_date": "2026-12-16",
+      "end_date": "2026-12-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 17. des - Fim / 12x1",
+      "price": 76000,
+      "start_date": "2026-12-17",
+      "end_date": "2026-12-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 18. des - Fös / 12x1",
+      "price": 75500,
+      "start_date": "2026-12-18",
+      "end_date": "2026-12-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 19. des - Lau / 11x1",
+      "price": 74000,
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 20. des - Sun / 10x1",
+      "price": 62500,
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 21. des - Mán / 12x1",
+      "price": 78500,
+      "start_date": "2026-12-21",
+      "end_date": "2026-12-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 22. des - Þri / 12x1",
+      "price": 79000,
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 23. des - Mið / 13x1",
+      "price": 82500,
+      "start_date": "2026-12-23",
+      "end_date": "2026-12-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 24. des - Fim / 12x1",
+      "price": 77000,
+      "start_date": "2026-12-24",
+      "end_date": "2026-12-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 28. des - Mán / 12x1",
+      "price": 78000,
+      "start_date": "2026-12-28",
+      "end_date": "2026-12-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 29. des - Þri / 13x1",
+      "price": 83000,
+      "start_date": "2026-12-29",
+      "end_date": "2026-12-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 30. des - Fim / 13x1",
+      "price": 85000,
+      "start_date": "2026-12-30",
+      "end_date": "2026-12-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 31. des - Sun / 13x1",
+      "price": 84000,
+      "start_date": "2026-12-31",
+      "end_date": "2026-12-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 4. des - Fös / 5x1",
+      "price": 30000,
+      "start_date": "2026-12-04",
+      "end_date": "2026-12-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 5. des - Lau / 5x1",
+      "price": 33500,
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 6.des - Sun / 5x1",
+      "price": 32500,
+      "start_date": "2026-12-06",
+      "end_date": "2026-12-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 8. des - Þri / 5x1",
+      "price": 33500,
+      "start_date": "2026-12-08",
+      "end_date": "2026-12-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 9. des - Mið / 5x1",
+      "price": 31000,
+      "start_date": "2026-12-09",
+      "end_date": "2026-12-09",
       "seen_count": 1
     },
     {
@@ -684,18 +876,18 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
-      "start_date": "2026-11-23",
-      "end_date": "2026-11-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
-      "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
       "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
+      "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
+      "price": 39000,
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-29",
+      "seen_count": 1
     },
     {
       "campaign_name": "ELKO árssamningur",
@@ -736,6 +928,14 @@
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "FerroZink.",
+      "line_item_name": "FerroZink.",
+      "price": 104000,
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-07",
+      "seen_count": 1
     },
     {
       "campaign_name": "Flugger sértilboð",
@@ -892,7 +1092,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -900,7 +1100,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -944,6 +1144,30 @@
       "start_date": "2026-11-27",
       "end_date": "2026-11-30",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "Happdrætti DAS / Datera - nóv 2026",
+      "line_item_name": "DAS / Datera - 17. nóv / 5x1",
+      "price": 31800,
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Happdrætti DAS / Datera - nóv 2026",
+      "line_item_name": "DAS / Datera - 3. nóv / 5x1",
+      "price": 31000,
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Happdrætti DAS / Datera - nóv 2026",
+      "line_item_name": "DAS / Datera - 4. nóv / 5x1",
+      "price": 31500,
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-04",
+      "seen_count": 1
     },
     {
       "campaign_name": "Háskóli Íslands Val rannsókn",
@@ -1379,14 +1603,6 @@
     },
     {
       "campaign_name": "Jysk. okt. nóv.",
-      "line_item_name": "Jysk. 28-29 okt. Akueyri. AK. 1 og 2. GLT 1 og 2. Partý Akueyri",
-      "price": 52000,
-      "start_date": "2026-10-28",
-      "end_date": "2026-10-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Jysk. okt. nóv.",
       "line_item_name": "Jysk. Grandi 08/10/11  nóv.  Singles day.",
       "price": 22500,
       "start_date": "2026-11-05",
@@ -1699,6 +1915,14 @@
     },
     {
       "campaign_name": "Mars Media Payday. nóv og des.",
+      "line_item_name": "# -  Mars Media Payday. okt - nóv . BT-GLT1",
+      "price": 52000,
+      "start_date": "2026-10-28",
+      "end_date": "2026-11-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Mars Media Payday. nóv og des.",
       "line_item_name": "Mars Media Payday. des . BT-GLT1",
       "price": 13000,
       "start_date": "2026-12-01",
@@ -1711,14 +1935,6 @@
       "price": 30000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Mars Media Payday. nóv og des.",
-      "line_item_name": "Mars Media Payday. okt - nóv . BT-GLT1",
-      "price": 52000,
-      "start_date": "2026-10-28",
-      "end_date": "2026-11-10",
       "seen_count": 1
     },
     {
@@ -1891,16 +2107,16 @@
     },
     {
       "campaign_name": "Orkan - Desember - 2026",
-      "line_item_name": "Vika 49 - A",
-      "price": 374000,
+      "line_item_name": "Vika 49 - B",
+      "price": 182400,
       "start_date": "2026-12-01",
       "end_date": "2026-12-08",
       "seen_count": 1
     },
     {
       "campaign_name": "Orkan - Desember - 2026",
-      "line_item_name": "Vika 50 - B",
-      "price": 159600,
+      "line_item_name": "Vika 50- A",
+      "price": 327250,
       "start_date": "2026-12-09",
       "end_date": "2026-12-15",
       "seen_count": 1
@@ -1958,6 +2174,86 @@
       "line_item_name": "Vika 44 - C",
       "price": 173478.26,
       "start_date": "2026-10-25",
+      "end_date": "2026-10-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orkusalan pakki",
+      "line_item_name": "Orkusalan 01 nóv.  GRI-HB2-KAPLA3-GB-SFS2-VMEY.",
+      "price": 38500,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orkusalan pakki",
+      "line_item_name": "Orkusalan 02 nóv.  GRI-AK1-HAG-KEV-SMT-VLV1",
+      "price": 37800,
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-02",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orkusalan pakki",
+      "line_item_name": "Orkusalan 03 nóv. GLT-HB1-GB-SFS1-VLV2",
+      "price": 39000,
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orkusalan pakki",
+      "line_item_name": "Orkusalan 05 nóv. AK1-HAG-HB2-VMEY-VLV2",
+      "price": 37300,
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orkusalan pakki",
+      "line_item_name": "Orkusalan 07 nóv. GLT1-GRI-HB1-KAPLA2-GB-SFS1",
+      "price": 39000,
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orkusalan pakki",
+      "line_item_name": "Orkusalan 08 nóv.  EH-HAG-KAPLA1-KEV-VLV2-GB",
+      "price": 37300,
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orkusalan pakki",
+      "line_item_name": "Orkusalan 09 nóv.  GRI-HB2-KAPLA3-GB-SFS2-VMEY.",
+      "price": 38500,
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orkusalan pakki",
+      "line_item_name": "Orkusalan 10 nóv.  GRI-AK1-HAG-KEV-SMT-VLV1",
+      "price": 37800,
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orkusalan pakki",
+      "line_item_name": "Orkusalan 30 okt. GLT-HB1-KAPLA1-BT-SMT1",
+      "price": 37500,
+      "start_date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Orkusalan pakki",
+      "line_item_name": "Orkusalan 31 okt.  EH-HAG-KAPLA1-KEV-VLV2-GB",
+      "price": 37300,
+      "start_date": "2026-10-31",
       "end_date": "2026-10-31",
       "seen_count": 1
     },
@@ -2482,6 +2778,46 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Snilldarvörur nóv og des.",
+      "line_item_name": "Snilldarvörur 03/07/10 nóv. HB1-GRI-EH1",
+      "price": 52500,
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Snilldarvörur nóv og des.",
+      "line_item_name": "Snilldarvörur 04/. nóv. BH2-HSMI-KAPLA1-GB-VLV1",
+      "price": 33300,
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Snilldarvörur nóv og des.",
+      "line_item_name": "Snilldarvörur 06/. nóv. BH2-HSMI-KAPLA1-GB-VLV1",
+      "price": 31800,
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Snilldarvörur nóv og des.",
+      "line_item_name": "Snilldarvörur 07/09 des. BH2-EH1-GRI.",
+      "price": 36000,
+      "start_date": "2026-12-07",
+      "end_date": "2026-12-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Snilldarvörur nóv og des.",
+      "line_item_name": "Snilldarvörur 15/17 des. HSMI-KAPLA1-GB.",
+      "price": 38600,
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-19",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Sólar",
       "line_item_name": "Sólar BT-BH2HB2KAPLAGB 27/28 okt.",
       "price": 61000,
@@ -2696,6 +3032,38 @@
       "start_date": "2026-08-01",
       "end_date": "2026-12-31",
       "seen_count": 3
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - nóv '26",
+      "line_item_name": "VÍS Akureyri 1.11 til 7.11 / Sun, Mán, Mið /  AKU1, GLER2",
+      "price": 19500,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - nóv '26",
+      "line_item_name": "VÍS Akureyri 15.11 til 21.11 / Mán, Mið, Fim / AKU1, GLER2",
+      "price": 19500,
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - nóv '26",
+      "line_item_name": "VÍS Akureyri 22.11 til 30.11 / Mán, Þri, Fim, Lau / AKU1, GLER1",
+      "price": 32500,
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-30",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - nóv '26",
+      "line_item_name": "VÍS Akureyri 8.11 til 14.11 / Mán, Mið, Fös / AKU2, GLER1",
+      "price": 19500,
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-14",
+      "seen_count": 1
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - okt '26",
