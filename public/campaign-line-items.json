@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T04:18:42.837Z",
+  "generated_at": "2026-10-30T12:06:42.995Z",
   "scope": {
     "report_start_date": "2026-10-30",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 552,
-    "unique_items": 373,
+    "items_seen": 556,
+    "unique_items": 379,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -660,7 +660,7 @@
     {
       "campaign_name": "Bónus / HN - nóv 2026",
       "line_item_name": "Bónus 11. nóv - Mið / 9x1",
-      "price": 57000,
+      "price": 55000,
       "start_date": "2026-11-11",
       "end_date": "2026-11-11",
       "seen_count": 1
@@ -1002,6 +1002,38 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Gæludýr / Hvíta húsið -  nóv 2026",
+      "line_item_name": "Gæludýr / 15. til 30. nóv / Mán, Mið / GRA",
+      "price": 30000,
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Gæludýr / Hvíta húsið -  nóv 2026",
+      "line_item_name": "Gæludýr / 3. til 30. nóv / Þri, Mið, Lau / GLER1",
+      "price": 78000,
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Gæludýr / Hvíta húsið -  nóv 2026",
+      "line_item_name": "Gæludýr / 3. til 7. nóv / Þri, Lau / GRA",
+      "price": 15000,
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Gæludýr / Hvíta húsið -  nóv 2026",
+      "line_item_name": "Gæludýr / 8. til 14. nóv / Mán, Mið / GRA",
+      "price": 15000,
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-14",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Gæludýr / Hvíta húsið -  okt 2026",
       "line_item_name": "Gæludýr / 1. til 30. okt / Þri, Mið, Fös, Lau / GLER1",
       "price": 110500,
@@ -1084,7 +1116,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1092,7 +1124,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1147,10 +1179,10 @@
     },
     {
       "campaign_name": "Happdrætti DAS / Datera - nóv 2026",
-      "line_item_name": "DAS / Datera - 3. nóv / 5x1",
-      "price": 31000,
-      "start_date": "2026-11-03",
-      "end_date": "2026-11-03",
+      "line_item_name": "DAS / Datera - 2. nóv / 5x1",
+      "price": 36000,
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-02",
       "seen_count": 1
     },
     {
@@ -1554,6 +1586,30 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Jakob Birgis - uppistand - nóv 2026",
+      "line_item_name": "Jakob Birgis - uppistand / 1. til 12. nóv / þri og fim / HÖF2",
+      "price": 20000,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Jakob Birgis - uppistand - nóv 2026",
+      "line_item_name": "Jakob Birgis - uppistand / 1. til 7. nóv / sun, mán / GRA",
+      "price": 15000,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Jakob Birgis - uppistand - nóv 2026",
+      "line_item_name": "Jakob Birgis - uppistand / 8. til 12. nóv / mán og mið / GRA",
+      "price": 15000,
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-12",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Jb úr og skart - Nóv og des",
       "line_item_name": "Jb úr og skart - Nóv og des",
       "price": 117000,
@@ -1762,22 +1818,6 @@
       "seen_count": 3
     },
     {
-      "campaign_name": "Landsbankinn - Nóvember/Desember",
-      "line_item_name": "Landsbankinn - Akureyri",
-      "price": 65000,
-      "start_date": "2026-11-16",
-      "end_date": "2026-12-18",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Landsbankinn - Nóvember/Desember",
-      "line_item_name": "Landsbankinn - Nóvember/Desember",
-      "price": 265000,
-      "start_date": "2026-11-16",
-      "end_date": "2026-12-18",
-      "seen_count": 2
-    },
-    {
       "campaign_name": "Landsbjörg - Neyðarkall",
       "line_item_name": "Akureyri",
       "price": 91000,
@@ -1839,6 +1879,14 @@
       "price": 36000,
       "start_date": "2026-11-03",
       "end_date": "2026-11-03",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Löður - Nóvember 2026",
+      "line_item_name": "Vika 46",
+      "price": 35250,
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-14",
       "seen_count": 1
     },
     {
@@ -2396,7 +2444,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 171900,
+      "price": 193500,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -2404,7 +2452,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 193500,
+      "price": 171900,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
