@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:06:42.995Z",
+  "generated_at": "2026-10-30T19:50:05.205Z",
   "scope": {
     "report_start_date": "2026-10-30",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 556,
-    "unique_items": 379,
+    "items_seen": 555,
+    "unique_items": 378,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -112,14 +112,6 @@
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Bauhaus nóv",
-      "line_item_name": "Bauhaus nóv",
-      "price": 476000,
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-28",
-      "seen_count": 1
     },
     {
       "campaign_name": "Beiersdorf - Eucerin - Hæ-P",
@@ -1116,7 +1108,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1124,7 +1116,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1587,18 +1579,18 @@
     },
     {
       "campaign_name": "Jakob Birgis - uppistand - nóv 2026",
-      "line_item_name": "Jakob Birgis - uppistand / 1. til 12. nóv / þri og fim / HÖF2",
+      "line_item_name": "Jakob Birgis - uppistand / 2. til 12. nóv / þri og fim / HÖF2",
       "price": 20000,
-      "start_date": "2026-11-01",
+      "start_date": "2026-11-02",
       "end_date": "2026-11-12",
       "seen_count": 1
     },
     {
       "campaign_name": "Jakob Birgis - uppistand - nóv 2026",
-      "line_item_name": "Jakob Birgis - uppistand / 1. til 7. nóv / sun, mán / GRA",
+      "line_item_name": "Jakob Birgis - uppistand / 2. til 8. nóv / sun, mán / GRA",
       "price": 15000,
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-07",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-08",
       "seen_count": 1
     },
     {
@@ -1645,8 +1637,8 @@
       "campaign_name": "Kave home - Caravan - 15 okt - Haustpakki",
       "line_item_name": "Kave home - Caravan - 15 okt",
       "price": 284200,
-      "start_date": "2026-10-30",
-      "end_date": "2026-11-12",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-15",
       "seen_count": 1
     },
     {
@@ -2444,7 +2436,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 193500,
+      "price": 171900,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -2452,7 +2444,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 171900,
+      "price": 193500,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -2756,7 +2748,7 @@
     {
       "campaign_name": "Snilldarvörur nóv og des.",
       "line_item_name": "Snilldarvörur 03/07/10 nóv. HB1-GRI-EH1",
-      "price": 52500,
+      "price": 75000,
       "start_date": "2026-11-02",
       "end_date": "2026-11-13",
       "seen_count": 1
