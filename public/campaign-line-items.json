@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-02T21:22:51.954Z",
+  "generated_at": "2026-11-03T05:17:04.544Z",
   "scope": {
-    "report_start_date": "2026-11-02",
+    "report_start_date": "2026-11-03",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 454,
-    "unique_items": 312,
+    "items_seen": 448,
+    "unique_items": 303,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -40,14 +40,6 @@
       "start_date": "2026-01-05",
       "end_date": "2026-12-31",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Arna Nettur pakki.",
-      "line_item_name": "Arna 01/02 nóv.. AK1-EH1-HB2-KAPLA1-SFS1-VLV1",
-      "price": 77000,
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-02",
-      "seen_count": 1
     },
     {
       "campaign_name": "Artasan - Gunnar - Hæðasmári",
@@ -111,7 +103,7 @@
       "price": 103000,
       "start_date": "2026-11-18",
       "end_date": "2026-12-04",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
@@ -135,7 +127,7 @@
       "price": 399000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun -Ali-nóv",
@@ -271,14 +263,6 @@
       "price": 59000,
       "start_date": "2026-11-05",
       "end_date": "2026-11-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bílvirkinn tilboð",
-      "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-KAPLA3 30 okt. 02 nóv.",
-      "price": 18500,
-      "start_date": "2026-10-30",
-      "end_date": "2026-11-03",
       "seen_count": 1
     },
     {
@@ -607,14 +591,6 @@
       "price": 56000,
       "start_date": "2026-11-18",
       "end_date": "2026-11-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - nóv 2026",
-      "line_item_name": "Bónus 2. nóv - Mán / 10x1",
-      "price": 66000,
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-02",
       "seen_count": 1
     },
     {
@@ -1007,7 +983,7 @@
       "price": 84500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-23",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Happdrætti DAS / Datera - nóv 2026",
@@ -1019,26 +995,10 @@
     },
     {
       "campaign_name": "Happdrætti DAS / Datera - nóv 2026",
-      "line_item_name": "DAS / Datera - 2. nóv / 5x1",
-      "price": 36000,
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-02",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Happdrætti DAS / Datera - nóv 2026",
       "line_item_name": "DAS / Datera - 4. nóv / 5x1",
       "price": 31500,
       "start_date": "2026-11-04",
       "end_date": "2026-11-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Háskóli Íslands Val rannsókn",
-      "line_item_name": "Háskóli Íslands. 02 nóv",
-      "price": 44000,
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-02",
       "seen_count": 1
     },
     {
@@ -1858,14 +1818,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Ratsjá -Gildi",
-      "line_item_name": "Ratsjá -Gildi",
-      "price": 105000,
-      "start_date": "2026-10-29",
-      "end_date": "2026-11-02",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Reykhúsið Reykhólar",
       "line_item_name": "Desember",
       "price": 272000,
@@ -1887,7 +1839,7 @@
       "price": 175200,
       "start_date": "2026-12-01",
       "end_date": "2026-12-07",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Reykjagarður des.",
@@ -2015,14 +1967,6 @@
       "price": 97500,
       "start_date": "2026-11-02",
       "end_date": "2026-11-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Serrano",
-      "line_item_name": "Serrano 02 nóv. GLT1-HB1-KAPLA2-VLV1-GRI-SMT1",
-      "price": 39500,
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-02",
       "seen_count": 1
     },
     {
@@ -2155,14 +2099,6 @@
     },
     {
       "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
-      "line_item_name": "Smáralind - B2B / Datera / 2. nóv / 6x1",
-      "price": 31250,
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-02",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
       "line_item_name": "Smáralind - B2B / Datera / 20. nóv / 5x1",
       "price": 21750,
       "start_date": "2026-11-20",
@@ -2287,14 +2223,6 @@
       "price": 30000,
       "start_date": "2026-10-31",
       "end_date": "2026-11-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Tekk seinni hluti",
-      "line_item_name": "Tekk seinni hluti",
-      "price": 48800,
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-02",
       "seen_count": 1
     },
     {
@@ -2503,7 +2431,7 @@
       "price": 520000,
       "start_date": "2027-06-30",
       "end_date": "2027-07-03",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Vistor - Coldzyme - des 2026",
