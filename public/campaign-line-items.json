@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:36:13.937Z",
+  "generated_at": "2026-11-03T20:45:30.813Z",
   "scope": {
     "report_start_date": "2026-11-03",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 459,
-    "unique_items": 310,
+    "items_seen": 469,
+    "unique_items": 319,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -756,7 +756,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -764,7 +764,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -964,7 +964,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -972,7 +972,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1438,6 +1438,78 @@
       "line_item_name": "Kavita - Nóvember",
       "price": 127500,
       "start_date": "2026-11-24",
+      "end_date": "2026-11-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kjötkompaní nóv og des.",
+      "line_item_name": "Kjötkompaní Grandi  01 -  12 des.fimmtud-laugard.",
+      "price": 45000,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kjötkompaní nóv og des.",
+      "line_item_name": "Kjötkompaní Grandi  01- 16 des. miðvikudagar.",
+      "price": 22500,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-19",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Kjötkompaní nóv og des.",
+      "line_item_name": "Kjötkompaní Grandi  17/19 des.fimmtud/laugard.",
+      "price": 15000,
+      "start_date": "2026-12-17",
+      "end_date": "2026-12-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kjötkompaní nóv og des.",
+      "line_item_name": "Kjötkompaní Grandi 11-28 nóv. miðvikudagar.",
+      "price": 22500,
+      "start_date": "2026-11-11",
+      "end_date": "2026-11-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kjötkompaní nóv og des.",
+      "line_item_name": "Kjötkompaní Grandi 14 nóv. laugard.",
+      "price": 7500,
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kjötkompaní nóv og des.",
+      "line_item_name": "Kjötkompaní Grandi, Kaplakriki 22-23 des.",
+      "price": 31000,
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kjötkompaní nóv og des.",
+      "line_item_name": "Kjötkompaní Grandi, Kaplakriki 29-30 des.",
+      "price": 31000,
+      "start_date": "2026-12-29",
+      "end_date": "2026-12-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kjötkompaní nóv og des.",
+      "line_item_name": "Kjötkompaní Grandi. 20-21 nóv.föstud- laugard.",
+      "price": 15000,
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kjötkompaní nóv og des.",
+      "line_item_name": "Kjötkompaní Grandi. 26/28 nóv.fimmtud- laugard.",
+      "price": 15000,
+      "start_date": "2026-11-26",
       "end_date": "2026-11-28",
       "seen_count": 1
     },
@@ -1924,7 +1996,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 171900,
+      "price": 193500,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -1932,7 +2004,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 193500,
+      "price": 171900,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
