@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T20:45:30.813Z",
+  "generated_at": "2026-11-04T01:01:20.300Z",
   "scope": {
-    "report_start_date": "2026-11-03",
+    "report_start_date": "2026-11-04",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 469,
-    "unique_items": 319,
+    "items_seen": 457,
+    "unique_items": 309,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -280,14 +280,6 @@
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Birtingahúsið Indó pakki B.",
-      "line_item_name": "Birtingahúsið Indó 02-03 nóv.",
-      "price": 85000,
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-03",
-      "seen_count": 1
     },
     {
       "campaign_name": "Birtingahúsið Indó pakki B.",
@@ -756,7 +748,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -764,7 +756,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -807,14 +799,6 @@
       "price": 217500,
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Flugger sértilboð",
-      "line_item_name": "Flugger sértilboð þriðjud. Föstud. AK1-EINH-HB2-KEV2-SFS2",
-      "price": 85500,
-      "start_date": "2026-10-24",
-      "end_date": "2026-11-05",
       "seen_count": 1
     },
     {
@@ -1023,14 +1007,6 @@
       "price": 31500,
       "start_date": "2026-11-04",
       "end_date": "2026-11-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Háskóli Íslands Val rannsókn",
-      "line_item_name": "Háskóli Íslands. 03 nóv",
-      "price": 36500,
-      "start_date": "2026-11-03",
-      "end_date": "2026-11-03",
       "seen_count": 1
     },
     {
@@ -1259,14 +1235,6 @@
     },
     {
       "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 3. nóv / 4x1",
-      "price": 23000,
-      "start_date": "2026-11-03",
-      "end_date": "2026-11-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 30. nóv / 4x1",
       "price": 27000,
       "start_date": "2026-11-30",
@@ -1447,7 +1415,7 @@
       "price": 45000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-12",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kjötkompaní nóv og des.",
@@ -1591,14 +1559,6 @@
       "price": 35000,
       "start_date": "2026-11-04",
       "end_date": "2026-11-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - október 2026",
-      "line_item_name": "LIVE - Þri 3. nóv / 6x1",
-      "price": 36000,
-      "start_date": "2026-11-03",
-      "end_date": "2026-11-03",
       "seen_count": 1
     },
     {
@@ -1775,14 +1735,6 @@
       "price": 100300,
       "start_date": "2026-11-04",
       "end_date": "2026-11-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Optical - 2 til 4 Nóv",
-      "line_item_name": "Optical - 2-3 Nóv",
-      "price": 100300,
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-03",
       "seen_count": 1
     },
     {
@@ -1996,7 +1948,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 193500,
+      "price": 171900,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -2004,7 +1956,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 171900,
+      "price": 193500,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -2031,7 +1983,7 @@
       "price": 377000,
       "start_date": "2026-12-03",
       "end_date": "2026-12-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "sahara-Earth Lagoon -nóv",
@@ -2047,7 +1999,7 @@
       "price": 1235325,
       "start_date": "2026-01-06",
       "end_date": "2027-01-02",
-      "seen_count": 3
+      "seen_count": 2
     },
     {
       "campaign_name": "Samkaup / Nettó - jan 2026",
@@ -2055,7 +2007,7 @@
       "price": 1441125,
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
-      "seen_count": 3
+      "seen_count": 2
     },
     {
       "campaign_name": "Samkaup / Nettó - jan 2026",
@@ -2063,7 +2015,7 @@
       "price": 960750,
       "start_date": "2026-01-02",
       "end_date": "2027-01-02",
-      "seen_count": 3
+      "seen_count": 2
     },
     {
       "campaign_name": "Sep-12 Kaldalón Hæðasmári",
@@ -2235,14 +2187,6 @@
     },
     {
       "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
-      "line_item_name": "Smáralind - B2B / Datera / 3. nóv / 5x1",
-      "price": 28250,
-      "start_date": "2026-11-03",
-      "end_date": "2026-11-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
       "line_item_name": "Smáralind - B2B / Datera / 4. nóv / 5x1",
       "price": 19250,
       "start_date": "2026-11-04",
@@ -2346,22 +2290,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Spesía - Caravan - Haustpakki",
-      "line_item_name": "Spesía - Caravan - Haustpakki Grandi 31-3",
-      "price": 30000,
-      "start_date": "2026-10-31",
-      "end_date": "2026-11-03",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Tekk seinni hluti",
-      "line_item_name": "Tekk seinni hluti",
-      "price": 35500,
-      "start_date": "2026-11-03",
-      "end_date": "2026-11-03",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Tekk seinni hluti",
       "line_item_name": "Tekk seinni hluti",
       "price": 28800,
@@ -2375,14 +2303,6 @@
       "price": 21300,
       "start_date": "2026-11-05",
       "end_date": "2026-11-05",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "TM okt. pakki B.",
-      "line_item_name": "TM okt. pakki B. 03 nóv. AK2-BT-GLT2-HAFT-HÖFT-HB1-KAPLA1--SMT1",
-      "price": 50000,
-      "start_date": "2026-11-03",
-      "end_date": "2026-11-03",
       "seen_count": 1
     },
     {
@@ -2575,7 +2495,7 @@
       "price": 0,
       "start_date": "2026-04-15",
       "end_date": "2027-02-01",
-      "seen_count": 4
+      "seen_count": 3
     }
   ]
 }
