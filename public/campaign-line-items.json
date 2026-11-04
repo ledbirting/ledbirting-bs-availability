@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T10:26:15.137Z",
+  "generated_at": "2026-11-04T19:19:43.432Z",
   "scope": {
     "report_start_date": "2026-11-04",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 484,
-    "unique_items": 335,
+    "items_seen": 503,
+    "unique_items": 353,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -90,7 +90,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Bauhaus nóv",
+      "campaign_name": "Bauhaus 25-29 nóv",
       "line_item_name": "Bauhaus 25 nóv",
       "price": 101550,
       "start_date": "2026-11-25",
@@ -98,7 +98,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Bauhaus nóv",
+      "campaign_name": "Bauhaus 25-29 nóv",
       "line_item_name": "Bauhaus 26 nóv",
       "price": 97550,
       "start_date": "2026-11-26",
@@ -106,7 +106,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Bauhaus nóv",
+      "campaign_name": "Bauhaus 25-29 nóv",
       "line_item_name": "Bauhaus 27 nóv",
       "price": 90050,
       "start_date": "2026-11-27",
@@ -114,7 +114,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Bauhaus nóv",
+      "campaign_name": "Bauhaus 25-29 nóv",
       "line_item_name": "Bauhaus 28 nóv",
       "price": 89800,
       "start_date": "2026-11-28",
@@ -122,7 +122,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Bauhaus nóv",
+      "campaign_name": "Bauhaus 25-29 nóv",
       "line_item_name": "Bauhaus 29 nóv",
       "price": 64050,
       "start_date": "2026-11-29",
@@ -295,22 +295,6 @@
       "price": 208000,
       "start_date": "2026-10-22",
       "end_date": "2026-11-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bílvirkinn tilboð",
-      "line_item_name": "Bílvirkinn. BH1-HB1-VLV2-EH1-BT 05-06 nóv.",
-      "price": 59000,
-      "start_date": "2026-11-05",
-      "end_date": "2026-11-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bílvirkinn tilboð",
-      "line_item_name": "Bílvirkinn. BH2-EH1-HB2-KAPLA3-VLV1 03-05 nóv.",
-      "price": 62000,
-      "start_date": "2026-11-04",
-      "end_date": "2026-11-05",
       "seen_count": 1
     },
     {
@@ -754,7 +738,47 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Coca Cola Nóv.",
+      "campaign_name": "CCEP bjór",
+      "line_item_name": "CCEP bjór 12/14 nóv.",
+      "price": 90000,
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "CCEP bjór",
+      "line_item_name": "CCEP bjór 13 nóv.",
+      "price": 40500,
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "CCEP bjór",
+      "line_item_name": "CCEP bjór 19/21 nóv.",
+      "price": 101600,
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "CCEP bjór",
+      "line_item_name": "CCEP bjór 20 nóv.",
+      "price": 35000,
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "CCEP bjór",
+      "line_item_name": "CCEP bjór 26/28 nóv.",
+      "price": 80000,
+      "start_date": "2026-11-26",
+      "end_date": "2026-11-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Coca Cola Nóv. og des.",
       "line_item_name": "Coca Cola 02/04/07 des.",
       "price": 96000,
       "start_date": "2026-12-01",
@@ -762,7 +786,7 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Coca Cola Nóv.",
+      "campaign_name": "Coca Cola Nóv. og des.",
       "line_item_name": "Coca Cola 10/12 des.",
       "price": 110600,
       "start_date": "2026-12-08",
@@ -770,15 +794,15 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Coca Cola Nóv.",
+      "campaign_name": "Coca Cola Nóv. og des.",
       "line_item_name": "Coca Cola 20 nóv  Nóv.",
-      "price": 44000,
+      "price": 38500,
       "start_date": "2026-11-20",
       "end_date": "2026-11-26",
       "seen_count": 1
     },
     {
-      "campaign_name": "Coca Cola Nóv.",
+      "campaign_name": "Coca Cola Nóv. og des.",
       "line_item_name": "Coca Cola 21/23  des.",
       "price": 102600,
       "start_date": "2026-12-21",
@@ -786,15 +810,15 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Coca Cola Nóv.",
+      "campaign_name": "Coca Cola Nóv. og des.",
       "line_item_name": "Coca Cola 23/25  Nóv.",
-      "price": 127600,
+      "price": 116600,
       "start_date": "2026-11-20",
       "end_date": "2026-11-26",
       "seen_count": 1
     },
     {
-      "campaign_name": "Coca Cola Nóv.",
+      "campaign_name": "Coca Cola Nóv. og des.",
       "line_item_name": "Coca Cola 28/30 nóv.",
       "price": 70000,
       "start_date": "2026-11-28",
@@ -1036,7 +1060,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1044,7 +1068,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1554,14 +1578,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Kavita",
-      "line_item_name": "Kavita",
-      "price": 111000,
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-20",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Kavita - 2027 árssamningur",
       "line_item_name": "Kavita - Ágúst",
       "price": 155000,
@@ -1714,6 +1730,62 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Kringlan - Nóvember",
+      "line_item_name": "Kringlan - 20 Nóvember",
+      "price": 27000,
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kringlan - Nóvember",
+      "line_item_name": "Kringlan - 21 Nóvember",
+      "price": 32800,
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kringlan - Nóvember",
+      "line_item_name": "Kringlan - 22 Nóvember",
+      "price": 23500,
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kringlan - Nóvember",
+      "line_item_name": "Kringlan - 23-25 Nóvember",
+      "price": 66000,
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kringlan - Nóvember",
+      "line_item_name": "Kringlan - 26 Nóvember",
+      "price": 28000,
+      "start_date": "2026-11-26",
+      "end_date": "2026-11-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kringlan - Nóvember",
+      "line_item_name": "Kringlan - 28 Nóvember",
+      "price": 33300,
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kringlan - Nóvember",
+      "line_item_name": "Kringlan - 29 Nóvember",
+      "price": 36500,
+      "start_date": "2026-11-29",
+      "end_date": "2026-11-29",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Krónan 2 x faldar birtingar Grandi út árið 2025",
       "line_item_name": "Krónan 2 x faldar birtingar Grandi út árið 2025",
       "price": 2610000,
@@ -1775,6 +1847,22 @@
       "price": 35250,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lyfjaval- nóv    2026",
+      "line_item_name": "Höfuðborgarsvæði",
+      "price": 390000,
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lyfjaval- nóv    2026",
+      "line_item_name": "Höfuðborgarsvæði - 2",
+      "price": 146700,
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-19",
       "seen_count": 1
     },
     {
@@ -2098,6 +2186,30 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Pris - November",
+      "line_item_name": "HAG",
+      "price": 52200,
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Pris - November",
+      "line_item_name": "HOF 1",
+      "price": 115000,
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Pris - November",
+      "line_item_name": "HOF 2",
+      "price": 60000,
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-28",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Reykhúsið Reykhólar",
       "line_item_name": "Desember",
       "price": 272000,
@@ -2156,7 +2268,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 171900,
+      "price": 193500,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -2164,7 +2276,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 193500,
+      "price": 171900,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -2648,6 +2760,38 @@
       "start_date": "2026-08-01",
       "end_date": "2026-12-31",
       "seen_count": 2
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - des '26",
+      "line_item_name": "VÍS Akureyri 1.12 til 7.12 / Sun, Mán, Mið /  AKU1, GLER2",
+      "price": 19500,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-07",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - des '26",
+      "line_item_name": "VÍS Akureyri 15.12 til 21.12 / Mán, Mið, Fim / AKU1, GLER2",
+      "price": 19500,
+      "start_date": "2026-12-15",
+      "end_date": "2026-12-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - des '26",
+      "line_item_name": "VÍS Akureyri 22.12 til 31.12 / Mán, Þri, Fim, Lau / AKU1, GLER1",
+      "price": 39000,
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "VÍS / Datera Landsbyggðin - des '26",
+      "line_item_name": "VÍS Akureyri 8.12 til 14.12 / Mán, Mið, Fös / AKU2, GLER1",
+      "price": 19500,
+      "start_date": "2026-12-08",
+      "end_date": "2026-12-14",
+      "seen_count": 1
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - nóv '26",
