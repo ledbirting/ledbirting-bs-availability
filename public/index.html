@@ -134,6 +134,20 @@ html, body {
   position: relative;
   z-index: 1;
   opacity: 0.9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+  text-shadow:
+    -1px -1px 0 #000, 0 -1px 0 #000, 1px -1px 0 #000,
+    -1px  0   0 #000,                1px  0   0 #000,
+    -1px  1px 0 #000, 0  1px 0 #000, 1px  1px 0 #000;
+  user-select: none;
 }
 .cell:hover {
   transform: scale(1.05);
@@ -231,6 +245,12 @@ function colorFor(p){
   if (p >= 0.934) return "#000000"; // sold out threshold
   const idx = Math.min(COLORS.length - 1, Math.round(p * (COLORS.length - 1)));
   return COLORS[idx];
+}
+
+/** Free slots on a 0–15 scale, always rounded down: fill 0 → 15, fill 1 → 0. */
+const SLOT_SCALE = 15;
+function slotsFor(p){
+  return Math.floor((1 - p) * SLOT_SCALE + 1e-9);
 }
 
 // ====== DOM HOOKS ======
@@ -360,6 +380,7 @@ async function buildFromJSON(){
         if(typeof v==="number"){
           const val=Math.max(0,Math.min(1,v));
           cell.style.backgroundColor=colorFor(val);
+          cell.textContent=slotsFor(val);
           if (val <= BLINK_FILL_MAX) cell.classList.add("cell-blink");
         }
         grid.appendChild(cell);
