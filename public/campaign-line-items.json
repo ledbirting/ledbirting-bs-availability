@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T01:21:26.668Z",
+  "generated_at": "2026-11-06T10:22:03.193Z",
   "scope": {
     "report_start_date": "2026-11-06",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 494,
-    "unique_items": 339,
+    "items_seen": 454,
+    "unique_items": 301,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -370,206 +370,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 1. des - Þri / 5x1",
-      "price": 35000,
-      "start_date": "2026-12-01",
-      "end_date": "2026-12-01",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 10. des - Fim / 6x1",
-      "price": 36500,
-      "start_date": "2026-12-10",
-      "end_date": "2026-12-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 11. des - Fös / 5x1",
-      "price": 32000,
-      "start_date": "2026-12-11",
-      "end_date": "2026-12-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 12. des - Lau / 5x1",
-      "price": 34000,
-      "start_date": "2026-12-12",
-      "end_date": "2026-12-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 13. des - Sun / 5x1",
-      "price": 35000,
-      "start_date": "2026-12-13",
-      "end_date": "2026-12-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 14. des - Mán / 5x1",
-      "price": 30000,
-      "start_date": "2026-12-14",
-      "end_date": "2026-12-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 15. des - Þri / 12x1",
-      "price": 78500,
-      "start_date": "2026-12-15",
-      "end_date": "2026-12-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 16. des - Mið / 12x1",
-      "price": 77500,
-      "start_date": "2026-12-16",
-      "end_date": "2026-12-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 17. des - Fim / 12x1",
-      "price": 76000,
-      "start_date": "2026-12-17",
-      "end_date": "2026-12-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 18. des - Fös / 12x1",
-      "price": 75500,
-      "start_date": "2026-12-18",
-      "end_date": "2026-12-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 19. des - Lau / 11x1",
-      "price": 74000,
-      "start_date": "2026-12-19",
-      "end_date": "2026-12-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 20. des - Sun / 10x1",
-      "price": 62500,
-      "start_date": "2026-12-20",
-      "end_date": "2026-12-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 21. des - Mán / 12x1",
-      "price": 78500,
-      "start_date": "2026-12-21",
-      "end_date": "2026-12-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 22. des - Þri / 12x1",
-      "price": 79000,
-      "start_date": "2026-12-22",
-      "end_date": "2026-12-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 23. des - Mið / 13x1",
-      "price": 82500,
-      "start_date": "2026-12-23",
-      "end_date": "2026-12-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 24. des - Fim / 12x1",
-      "price": 77000,
-      "start_date": "2026-12-24",
-      "end_date": "2026-12-24",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 28. des - Mán / 12x1",
-      "price": 78000,
-      "start_date": "2026-12-28",
-      "end_date": "2026-12-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 29. des - Þri / 13x1",
-      "price": 83000,
-      "start_date": "2026-12-29",
-      "end_date": "2026-12-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 30. des - Fim / 13x1",
-      "price": 85000,
-      "start_date": "2026-12-30",
-      "end_date": "2026-12-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 31. des - Sun / 13x1",
-      "price": 84000,
-      "start_date": "2026-12-31",
-      "end_date": "2026-12-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 4. des - Fös / 5x1",
-      "price": 30000,
-      "start_date": "2026-12-04",
-      "end_date": "2026-12-04",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 5. des - Lau / 5x1",
-      "price": 33500,
-      "start_date": "2026-12-05",
-      "end_date": "2026-12-05",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 6.des - Sun / 5x1",
-      "price": 32500,
-      "start_date": "2026-12-06",
-      "end_date": "2026-12-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 8. des - Þri / 5x1",
-      "price": 33500,
-      "start_date": "2026-12-08",
-      "end_date": "2026-12-08",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - des 2026",
-      "line_item_name": "Bónus 9. des - Mið / 5x1",
-      "price": 31000,
-      "start_date": "2026-12-09",
-      "end_date": "2026-12-09",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Bónus / HN - nóv 2026",
       "line_item_name": "Bónus 11. nóv - Mið / 9x1",
       "price": 55000,
@@ -836,7 +636,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -844,7 +644,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -1028,7 +828,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1036,7 +836,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1159,126 +959,6 @@
       "price": 30000,
       "start_date": "2026-12-19",
       "end_date": "2026-12-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 10. nóv / GRA, GBR Litlatún / 3x1",
-      "price": 13000,
-      "start_date": "2026-11-10",
-      "end_date": "2026-11-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 14. nóv / GRA, GBR Litlaún / 2x1",
-      "price": 13000,
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 15. nóv / GRA / 1x1",
-      "price": 7500,
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 17. nóv / GRA, GBR Litlatún / 2x1",
-      "price": 13000,
-      "start_date": "2026-11-17",
-      "end_date": "2026-11-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 18. nóv / BORG, GRA, GBR Litlatún / 3x1",
-      "price": 19500,
-      "start_date": "2026-11-18",
-      "end_date": "2026-11-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 21. nóv / BORG, GRA / 2x1",
-      "price": 14000,
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 22. nóv / GRA / 1x1",
-      "price": 7500,
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 23. nóv / BORG, GRA / 2x1",
-      "price": 14000,
-      "start_date": "2026-11-23",
-      "end_date": "2026-11-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 24. nóv / GRA, GBR Litlatún / 2x1",
-      "price": 13000,
-      "start_date": "2026-11-24",
-      "end_date": "2026-11-24",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 25. nóv / GRA, GBR Litlaún / 2x1",
-      "price": 13000,
-      "start_date": "2026-11-25",
-      "end_date": "2026-11-25",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 28. nóv / BORG, GBR Litlatún / 2x1",
-      "price": 13000,
-      "start_date": "2026-11-28",
-      "end_date": "2026-11-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 29. nóv / GRA / 1x1",
-      "price": 7500,
-      "start_date": "2026-11-29",
-      "end_date": "2026-11-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 30. nóv / BORG, GRA / 2x1",
-      "price": 14000,
-      "start_date": "2026-11-30",
-      "end_date": "2026-11-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 7. nóv / GRA, GBR Litlatún / 3x1",
-      "price": 13000,
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 8. nóv / GRA, BORG / 2x1",
-      "price": 14000,
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-08",
       "seen_count": 1
     },
     {
@@ -1934,16 +1614,32 @@
       "line_item_name": "Nova 01-25 nóv.",
       "price": 271200,
       "start_date": "2026-11-01",
+      "end_date": "2026-11-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nova 01-25 nóv.",
+      "line_item_name": "Nova 01-25 nóv.",
+      "price": 187500,
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Nova 01-25 nóv.",
+      "line_item_name": "Nova 01-25 nóv.",
+      "price": 291200,
+      "start_date": "2026-11-15",
       "end_date": "2026-11-21",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Nova 01-25 nóv.",
       "line_item_name": "Nova 01-25 nóv.",
       "price": 172500,
-      "start_date": "2026-11-08",
+      "start_date": "2026-11-22",
       "end_date": "2026-11-25",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Nova afmæli 27 nóv.",
