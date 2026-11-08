@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T21:25:51.592Z",
+  "generated_at": "2026-11-08T04:22:03.472Z",
   "scope": {
-    "report_start_date": "2026-11-07",
+    "report_start_date": "2026-11-08",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 491,
-    "unique_items": 340,
+    "items_seen": 479,
+    "unique_items": 329,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -223,7 +223,7 @@
       "price": 97500,
       "start_date": "2026-12-07",
       "end_date": "2026-12-21",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun-vogue-nóv-Glerártorg",
@@ -659,14 +659,6 @@
     },
     {
       "campaign_name": "BY-Lovisa inneign",
-      "line_item_name": "BY-Lovisa inneign 07 nóv",
-      "price": 36800,
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "BY-Lovisa inneign",
       "line_item_name": "BY-Lovisa inneign 10-11 nóv",
       "price": 99600,
       "start_date": "2026-11-10",
@@ -719,7 +711,7 @@
       "price": 96000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-07",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Coca Cola Nóv. og des.",
@@ -903,14 +895,6 @@
       "price": 78000,
       "start_date": "2026-11-03",
       "end_date": "2026-11-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Gæludýr / Hvíta húsið -  nóv 2026",
-      "line_item_name": "Gæludýr / 3. til 7. nóv / Þri, Lau / GRA",
-      "price": 15000,
-      "start_date": "2026-11-03",
-      "end_date": "2026-11-07",
       "seen_count": 1
     },
     {
@@ -1378,28 +1362,12 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 7. nóv / 4x1",
-      "price": 27000,
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Ilva lang tima AKU 1-GLE 2",
       "line_item_name": "Ilva lang tima AKU 1-GLE 2",
       "price": 0,
       "start_date": "2026-06-12",
       "end_date": "2026-12-31",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Ilva sértilboð",
-      "line_item_name": "Ilva sértilboð",
-      "price": 229500,
-      "start_date": "2026-11-05",
-      "end_date": "2026-11-07",
-      "seen_count": 1
     },
     {
       "campaign_name": "Íslandshótel - Jólahlaðborð / Datera - okt til nóv 2026",
@@ -1503,7 +1471,7 @@
       "price": 155000,
       "start_date": "2027-07-05",
       "end_date": "2027-07-09",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1635,14 +1603,6 @@
     },
     {
       "campaign_name": "Krabbameinsfélagið Framför - Ennemm / nóv 2026",
-      "line_item_name": "Krabbameinsfélagið Framför - Blái trefillinn - Lau 7.11 / 10x1",
-      "price": 60000,
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Krabbameinsfélagið Framför - Ennemm / nóv 2026",
       "line_item_name": "Krabbameinsfélagið Framför - Blái Trefillinn - Mán 9.11 / 7x1",
       "price": 41500,
       "start_date": "2026-11-09",
@@ -1754,14 +1714,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "LIVE - Lífeyrissjóður Verslunarmanna / Datera - október 2026",
-      "line_item_name": "LIVE - Lau 7. nóv / 6x1",
-      "price": 39500,
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Löður - Nóvember 2026",
       "line_item_name": "Vika 46",
       "price": 35250,
@@ -1815,14 +1767,6 @@
       "price": 30000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Menningafélag Akureyrar Gjafakort.",
-      "line_item_name": "Menningafélag Akureyrar Gjafakort. 05-07 nóv AK1 og GLT1",
-      "price": 0,
-      "start_date": "2026-11-05",
-      "end_date": "2026-11-11",
       "seen_count": 1
     },
     {
@@ -1903,14 +1847,6 @@
       "price": 145500,
       "start_date": "2026-11-17",
       "end_date": "2026-11-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Nova 01-25 nóv.",
-      "line_item_name": "Nova 01-25 nóv.",
-      "price": 271200,
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-07",
       "seen_count": 1
     },
     {
@@ -2007,14 +1943,6 @@
       "price": 427500,
       "start_date": "2026-12-23",
       "end_date": "2026-12-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Orkan - November 2026",
-      "line_item_name": "Vika 45 - A",
-      "price": 367500,
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-07",
       "seen_count": 1
     },
     {
@@ -2143,7 +2071,7 @@
       "price": 175200,
       "start_date": "2026-12-01",
       "end_date": "2026-12-07",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Reykjagarður des.",
@@ -2172,10 +2100,10 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 215200,
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-21",
-      "seen_count": 2
+      "price": 171900,
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-14",
+      "seen_count": 1
     },
     {
       "campaign_name": "Reykjagarður. nóv.",
@@ -2188,9 +2116,9 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 171900,
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-14",
+      "price": 215200,
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-21",
       "seen_count": 1
     },
     {
@@ -2463,7 +2391,7 @@
       "price": 36000,
       "start_date": "2026-12-07",
       "end_date": "2026-12-09",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Snilldarvörur nóv og des.",
@@ -2487,14 +2415,6 @@
       "price": 94100,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Spesía - Caravan - Haustpakki",
-      "line_item_name": "Grandi og Litlatún 4-7 nóv",
-      "price": 52000,
-      "start_date": "2026-11-04",
-      "end_date": "2026-11-07",
       "seen_count": 1
     },
     {
@@ -2535,14 +2455,6 @@
       "price": 67800,
       "start_date": "2026-11-22",
       "end_date": "2026-11-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "TM okt. pakki B.",
-      "line_item_name": "TM okt. pakki B. 07 nóv. AK2-BT-GLT2-GRI-HAFT-HÖFT-KEV-SFS-SMT.",
-      "price": 56500,
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
       "seen_count": 1
     },
     {
@@ -2671,7 +2583,7 @@
       "price": 19500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-07",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - des '26",
