@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T10:53:01.318Z",
+  "generated_at": "2026-11-09T21:54:49.361Z",
   "scope": {
     "report_start_date": "2026-11-09",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 478,
-    "unique_items": 329,
+    "items_seen": 475,
+    "unique_items": 326,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1402,6 +1402,14 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Ísbúð Huppu nóv",
+      "line_item_name": "Ísbúð Huppu nóv",
+      "price": 94500,
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-12",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Íslandshótel - Jólahlaðborð / Datera - okt til nóv 2026",
       "line_item_name": "Íslandshótel - Jólahlaðborð / 1. til 18. nóv / GRA (Mið)",
       "price": 22500,
@@ -1639,62 +1647,6 @@
       "price": 54000,
       "start_date": "2026-11-10",
       "end_date": "2026-11-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kringlan - Nóvember",
-      "line_item_name": "Kringlan - 20 Nóvember",
-      "price": 27000,
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kringlan - Nóvember",
-      "line_item_name": "Kringlan - 21 Nóvember",
-      "price": 32800,
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kringlan - Nóvember",
-      "line_item_name": "Kringlan - 22 Nóvember",
-      "price": 23500,
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kringlan - Nóvember",
-      "line_item_name": "Kringlan - 23-25 Nóvember",
-      "price": 66000,
-      "start_date": "2026-11-23",
-      "end_date": "2026-11-25",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kringlan - Nóvember",
-      "line_item_name": "Kringlan - 26 Nóvember",
-      "price": 28000,
-      "start_date": "2026-11-26",
-      "end_date": "2026-11-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kringlan - Nóvember",
-      "line_item_name": "Kringlan - 28 Nóvember",
-      "price": 33300,
-      "start_date": "2026-11-28",
-      "end_date": "2026-11-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kringlan - Nóvember",
-      "line_item_name": "Kringlan - 29 Nóvember",
-      "price": 36500,
-      "start_date": "2026-11-29",
-      "end_date": "2026-11-29",
       "seen_count": 1
     },
     {
@@ -2108,7 +2060,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 193500,
+      "price": 171900,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -2116,7 +2068,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 171900,
+      "price": 193500,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -2415,6 +2367,30 @@
       "price": 94100,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Súlur Björgunarsveit Akureyri - Flugeldasala  / Des '26",
+      "line_item_name": "Súlur Björgunarsveit - Flugeldasala, 27. til 30. des",
+      "price": 104000,
+      "start_date": "2026-12-27",
+      "end_date": "2026-12-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Súlur Björgunarsveit Akureyri - Flugeldasala  / Des '26",
+      "line_item_name": "Súlur Björgunarsveit - Flugeldasala, 31.des eftir kl. 16",
+      "price": 17333.33,
+      "start_date": "2026-12-31",
+      "end_date": "2026-12-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Súlur Björgunarsveit Akureyri - Flugeldasala  / Des '26",
+      "line_item_name": "Súlur Björgunarsveit - Flugeldasala, 31.des til kl. 16",
+      "price": 34666.67,
+      "start_date": "2026-12-31",
+      "end_date": "2026-12-31",
       "seen_count": 1
     },
     {
