@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T00:30:15.317Z",
+  "generated_at": "2026-11-09T10:53:01.318Z",
   "scope": {
     "report_start_date": "2026-11-09",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 473,
-    "unique_items": 324,
+    "items_seen": 478,
+    "unique_items": 329,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -706,6 +706,46 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "CCEP bjór",
+      "line_item_name": "CCEP bjór 12/14 nóv.",
+      "price": 90000,
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "CCEP bjór",
+      "line_item_name": "CCEP bjór 13 nóv.",
+      "price": 40500,
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "CCEP bjór",
+      "line_item_name": "CCEP bjór 19/21 nóv.",
+      "price": 101600,
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "CCEP bjór",
+      "line_item_name": "CCEP bjór 20 nóv.",
+      "price": 35000,
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "CCEP bjór",
+      "line_item_name": "CCEP bjór 26/28 nóv.",
+      "price": 80000,
+      "start_date": "2026-11-26",
+      "end_date": "2026-11-28",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Coca Cola Nóv. og des.",
       "line_item_name": "Coca Cola 02/04/07 des.",
       "price": 96000,
@@ -780,7 +820,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -788,7 +828,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -964,7 +1004,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -972,7 +1012,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -2068,7 +2108,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 171900,
+      "price": 193500,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -2076,7 +2116,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 193500,
+      "price": 171900,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
