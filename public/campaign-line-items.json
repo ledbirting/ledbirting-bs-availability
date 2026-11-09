@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T19:19:06.641Z",
+  "generated_at": "2026-11-09T00:30:15.317Z",
   "scope": {
-    "report_start_date": "2026-11-08",
+    "report_start_date": "2026-11-09",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 479,
-    "unique_items": 329,
+    "items_seen": 473,
+    "unique_items": 324,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -780,7 +780,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -788,7 +788,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -964,7 +964,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -972,7 +972,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1202,14 +1202,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 8. nóv / GRA, BORG / 2x1",
-      "price": 14000,
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-08",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Icelandair  / Hvíta húsið - Glerártorgi",
       "line_item_name": "Icelandair - Glerártorgi - des 2026",
       "price": 201500,
@@ -1383,14 +1375,6 @@
       "price": 20000,
       "start_date": "2026-11-02",
       "end_date": "2026-11-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Jakob Birgis - uppistand - nóv 2026",
-      "line_item_name": "Jakob Birgis - uppistand / 2. til 8. nóv / sun, mán / GRA",
-      "price": 15000,
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-08",
       "seen_count": 1
     },
     {
@@ -1611,14 +1595,6 @@
     },
     {
       "campaign_name": "Krabbameinsfélagið Framför - Ennemm / nóv 2026",
-      "line_item_name": "Krabbameinsfélagið Framför - Blái trefillinn - Sun 8.11 / 11x1",
-      "price": 68000,
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-08",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Krabbameinsfélagið Framför - Ennemm / nóv 2026",
       "line_item_name": "Krabbameinsfélagið Framför - Blái Trefillinn - Þri 10.11 / 9x1",
       "price": 54000,
       "start_date": "2026-11-10",
@@ -1704,14 +1680,6 @@
       "start_date": "2026-11-16",
       "end_date": "2026-12-18",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Landsbjörg - Neyðarkall",
-      "line_item_name": "Akureyri",
-      "price": 91000,
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-08",
-      "seen_count": 1
     },
     {
       "campaign_name": "Löður - Nóvember 2026",
@@ -1919,7 +1887,7 @@
       "price": 182400,
       "start_date": "2026-12-01",
       "end_date": "2026-12-08",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Orkan - Desember - 2026",
@@ -2151,14 +2119,6 @@
       "price": 15000,
       "start_date": "2026-11-29",
       "end_date": "2026-11-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "RVK Brewing / HN - nóv 2026",
-      "line_item_name": "Rvk Brewing - HN / 8. nóv / 2x1",
-      "price": 15000,
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-08",
       "seen_count": 1
     },
     {
