@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-10T21:11:19.150Z",
+  "generated_at": "2026-11-11T04:39:27.273Z",
   "scope": {
-    "report_start_date": "2026-11-10",
+    "report_start_date": "2026-11-11",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 480,
-    "unique_items": 324,
+    "items_seen": 479,
+    "unique_items": 319,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -39,7 +39,7 @@
       "price": 26000,
       "start_date": "2026-12-12",
       "end_date": "2027-01-16",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "campaign_name": "A4 / Datera - Langtímasamningur 2026 (frh. á samningi)",
@@ -255,7 +255,7 @@
       "price": 164400,
       "start_date": "2026-12-10",
       "end_date": "2026-12-12",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bestun/Epli  -Des",
@@ -719,7 +719,7 @@
       "price": 149400,
       "start_date": "2026-12-10",
       "end_date": "2026-12-30",
-      "seen_count": 2
+      "seen_count": 3
     },
     {
       "campaign_name": "BY-Lovisa inneign",
@@ -767,7 +767,7 @@
       "price": 110600,
       "start_date": "2026-12-08",
       "end_date": "2026-12-14",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Coca Cola Nóv. og des.",
@@ -1020,7 +1020,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
+      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1028,7 +1028,7 @@
     {
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
+      "price": 32500,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1291,14 +1291,6 @@
     },
     {
       "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 10. nóv / 4x1",
-      "price": 26000,
-      "start_date": "2026-11-10",
-      "end_date": "2026-11-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 14. nóv / 4x1",
       "price": 26000,
       "start_date": "2026-11-14",
@@ -1503,7 +1495,7 @@
       "price": 155000,
       "start_date": "2027-04-05",
       "end_date": "2027-04-09",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1647,14 +1639,6 @@
       "price": 64000,
       "start_date": "2026-11-14",
       "end_date": "2026-11-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Krabbameinsfélagið Framför - Ennemm / nóv 2026",
-      "line_item_name": "Krabbameinsfélagið Framför - Blái Trefillinn - Þri 10.11 / 9x1",
-      "price": 54000,
-      "start_date": "2026-11-10",
-      "end_date": "2026-11-10",
       "seen_count": 1
     },
     {
@@ -2039,7 +2023,7 @@
       "price": 198900,
       "start_date": "2026-12-08",
       "end_date": "2026-12-14",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Reykjagarður des.",
@@ -2243,14 +2227,6 @@
     },
     {
       "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
-      "line_item_name": "Smáralind - B2B / Datera / 10. nóv / 6x1",
-      "price": 23000,
-      "start_date": "2026-11-10",
-      "end_date": "2026-11-10",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
       "line_item_name": "Smáralind - B2B / Datera / 11. nóv / 6x1",
       "price": 27250,
       "start_date": "2026-11-11",
@@ -2311,14 +2287,6 @@
       "price": 21750,
       "start_date": "2026-11-20",
       "end_date": "2026-11-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Snilldarvörur nóv og des.",
-      "line_item_name": "Snilldarvörur 03/07/10 nóv. HB1-GRI-EH1",
-      "price": 75000,
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-13",
       "seen_count": 1
     },
     {
@@ -2415,14 +2383,6 @@
       "price": 67800,
       "start_date": "2026-11-22",
       "end_date": "2026-11-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "TM okt. pakki B.",
-      "line_item_name": "TM okt. pakki B. 10 nóv. BT-GLT2-GRAI-HAFT-HÖFT-GB-KEV-SFS2-SMT-VMEY-VLV2",
-      "price": 69000,
-      "start_date": "2026-11-10",
-      "end_date": "2026-11-10",
       "seen_count": 1
     },
     {
