@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:35:18.098Z",
+  "generated_at": "2026-11-12T21:42:38.684Z",
   "scope": {
     "report_start_date": "2026-11-12",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 468,
-    "unique_items": 313,
+    "items_seen": 491,
+    "unique_items": 337,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -399,6 +399,206 @@
       "price": 127500,
       "start_date": "2026-12-15",
       "end_date": "2026-12-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 1. des - Þri / 5x1",
+      "price": 35000,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 10. des - Fim / 6x1",
+      "price": 36500,
+      "start_date": "2026-12-10",
+      "end_date": "2026-12-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 11. des - Fös / 5x1",
+      "price": 32000,
+      "start_date": "2026-12-11",
+      "end_date": "2026-12-11",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 12. des - Lau / 5x1",
+      "price": 34000,
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 13. des - Sun / 5x1",
+      "price": 35000,
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 14. des - Mán / 5x1",
+      "price": 30000,
+      "start_date": "2026-12-14",
+      "end_date": "2026-12-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 15. des - Þri / 12x1",
+      "price": 78500,
+      "start_date": "2026-12-15",
+      "end_date": "2026-12-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 16. des - Mið / 12x1",
+      "price": 77500,
+      "start_date": "2026-12-16",
+      "end_date": "2026-12-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 17. des - Fim / 12x1",
+      "price": 76000,
+      "start_date": "2026-12-17",
+      "end_date": "2026-12-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 18. des - Fös / 12x1",
+      "price": 75500,
+      "start_date": "2026-12-18",
+      "end_date": "2026-12-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 19. des - Lau / 11x1",
+      "price": 74000,
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 20. des - Sun / 10x1",
+      "price": 62500,
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 21. des - Mán / 12x1",
+      "price": 78500,
+      "start_date": "2026-12-21",
+      "end_date": "2026-12-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 22. des - Þri / 12x1",
+      "price": 79000,
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 23. des - Mið / 13x1",
+      "price": 82500,
+      "start_date": "2026-12-23",
+      "end_date": "2026-12-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 24. des - Fim / 12x1",
+      "price": 77000,
+      "start_date": "2026-12-24",
+      "end_date": "2026-12-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 28. des - Mán / 12x1",
+      "price": 78000,
+      "start_date": "2026-12-28",
+      "end_date": "2026-12-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 29. des - Þri / 13x1",
+      "price": 83000,
+      "start_date": "2026-12-29",
+      "end_date": "2026-12-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 30. des - Fim / 13x1",
+      "price": 85000,
+      "start_date": "2026-12-30",
+      "end_date": "2026-12-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 31. des - Sun / 13x1",
+      "price": 84000,
+      "start_date": "2026-12-31",
+      "end_date": "2026-12-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 4. des - Fös / 5x1",
+      "price": 30000,
+      "start_date": "2026-12-04",
+      "end_date": "2026-12-04",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 5. des - Lau / 5x1",
+      "price": 33500,
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-05",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 6.des - Sun / 5x1",
+      "price": 32500,
+      "start_date": "2026-12-06",
+      "end_date": "2026-12-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 8. des - Þri / 5x1",
+      "price": 33500,
+      "start_date": "2026-12-08",
+      "end_date": "2026-12-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bónus / HN - des 2026",
+      "line_item_name": "Bónus 9. des - Mið / 5x1",
+      "price": 31000,
+      "start_date": "2026-12-09",
+      "end_date": "2026-12-09",
       "seen_count": 1
     },
     {
@@ -898,46 +1098,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Heiðmörk - Jólamarkaður og Jólatrjáasala - des 2025",
-      "line_item_name": "Heiðmörk - Jólamarkaður Heiðmörk  - Fimmtudagar - BRE1, HÖF2",
-      "price": 42000,
-      "start_date": "2026-11-26",
-      "end_date": "2026-12-18",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Heiðmörk - Jólamarkaður og Jólatrjáasala - des 2025",
-      "line_item_name": "Heiðmörk - Jólamarkaður Heiðmörk  - Föstudagar - BRE2, HÖF1",
-      "price": 42000,
-      "start_date": "2026-11-26",
-      "end_date": "2026-12-18",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Heiðmörk - Jólamarkaður og Jólatrjáasala - des 2025",
-      "line_item_name": "Heiðmörk - Jólamarkaður Heiðmörk  - Laugardagar - BRE1, BRE2, HÖF1, HÖF2 (tók út VES2 - uppseldur)",
-      "price": 84000,
-      "start_date": "2026-11-26",
-      "end_date": "2026-12-18",
-      "seen_count": 2
-    },
-    {
-      "campaign_name": "Heiðmörk - Jólamarkaður og Jólatrjáasala - des 2025",
-      "line_item_name": "Heiðmörk - Jólatrjáasala - 14. til 17. des - Grandi",
-      "price": 30000,
-      "start_date": "2026-12-14",
-      "end_date": "2026-12-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Heiðmörk - Jólamarkaður og Jólatrjáasala - des 2025",
-      "line_item_name": "Heiðmörk - Jólatrjáasala - 19. til 22. des - Grandi",
-      "price": 30000,
-      "start_date": "2026-12-19",
-      "end_date": "2026-12-22",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Hreyfing / HN - nóv '26",
       "line_item_name": "Hreyfing / 14. nóv / GRA, GBR Litlaún / 2x1",
       "price": 13000,
@@ -1191,6 +1351,38 @@
       "price": 94500,
       "start_date": "2026-11-11",
       "end_date": "2026-11-13",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandshótel - Gjafabréf og Spa / Datera - des 2026",
+      "line_item_name": "Íslandshótel - Gjafabréf og Spa / GRA (Mán, Fim)",
+      "price": 30000,
+      "start_date": "2026-12-07",
+      "end_date": "2026-12-19",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Íslandshótel - Gjafabréf og Spa / Datera - des 2026",
+      "line_item_name": "Íslandshótel - Gjafabréf og Spa / HÖF2 (Þri)",
+      "price": 10000,
+      "start_date": "2026-12-07",
+      "end_date": "2026-12-19",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Íslandshótel - Gjafabréf og Spa / Datera - nóv 2026",
+      "line_item_name": "Íslandshótel - Gjafabréf og Spa / GRA (Sun, Mán, Þri)",
+      "price": 22500,
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Íslandshótel - Gjafabréf og Spa / Datera - nóv 2026",
+      "line_item_name": "Íslandshótel - Gjafabréf og Spa / HÖF2 (Mið, Fös)",
+      "price": 15000,
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-21",
       "seen_count": 1
     },
     {
@@ -2068,7 +2260,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 45250,
+      "price": 79500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
@@ -2076,7 +2268,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 79500,
+      "price": 45250,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
