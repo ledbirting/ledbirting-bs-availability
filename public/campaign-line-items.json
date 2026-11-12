@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-11T21:43:15.774Z",
+  "generated_at": "2026-11-12T05:41:51.584Z",
   "scope": {
-    "report_start_date": "2026-11-11",
+    "report_start_date": "2026-11-12",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 497,
-    "unique_items": 334,
+    "items_seen": 485,
+    "unique_items": 323,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -407,7 +407,7 @@
       "price": 139000,
       "start_date": "2026-12-08",
       "end_date": "2026-12-14",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Björgunarsveitin - 15. des - 31. des GRANDI",
@@ -619,14 +619,6 @@
     },
     {
       "campaign_name": "Bónus / HN - nóv 2026",
-      "line_item_name": "Bónus 11. nóv - Mið / 9x1",
-      "price": 55000,
-      "start_date": "2026-11-11",
-      "end_date": "2026-11-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bónus / HN - nóv 2026",
       "line_item_name": "Bónus 13. nóv - Fös / 9x1",
       "price": 54000,
       "start_date": "2026-11-13",
@@ -703,14 +695,6 @@
       "price": 341600,
       "start_date": "2026-11-30",
       "end_date": "2026-12-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "BY-Lovisa inneign",
-      "line_item_name": "BY-Lovisa inneign 10-11 nóv",
-      "price": 99600,
-      "start_date": "2026-11-10",
-      "end_date": "2026-11-11",
       "seen_count": 1
     },
     {
@@ -852,7 +836,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -860,7 +844,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -978,14 +962,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Gæludýr / Hvíta húsið -  nóv 2026",
-      "line_item_name": "Gæludýr / 8. til 14. nóv / Mán, Mið / GRA",
-      "price": 15000,
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-14",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "GER samningur.",
       "line_item_name": "GER samningur. des 01-18 des.. KA2 og GLT2 laugardagar.",
       "price": 39000,
@@ -1045,14 +1021,6 @@
       "campaign_name": "Hagkaup Akureyri nóv.",
       "line_item_name": "Hagkaup Akureyri nóv.",
       "price": 32500,
-      "start_date": "2026-10-29",
-      "end_date": "2026-11-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hagkaup Akureyri nóv.",
-      "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 26000,
       "start_date": "2026-10-29",
       "end_date": "2026-11-12",
       "seen_count": 1
@@ -1458,14 +1426,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Jakob Birgis - uppistand - nóv 2026",
-      "line_item_name": "Jakob Birgis - uppistand / 8. til 12. nóv / mán og mið / GRA",
-      "price": 15000,
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-12",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Jb úr og skart - Nóv og des",
       "line_item_name": "Jb úr og skart - Nóv og des",
       "price": 117000,
@@ -1479,14 +1439,6 @@
       "price": 68000,
       "start_date": "2026-11-30",
       "end_date": "2026-12-01",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Jysk. okt. nóv.",
-      "line_item_name": "Jysk. Grandi 08/10/11  nóv.  Singles day.",
-      "price": 22500,
-      "start_date": "2026-11-05",
-      "end_date": "2026-11-11",
       "seen_count": 1
     },
     {
@@ -1535,7 +1487,7 @@
       "price": 155000,
       "start_date": "2027-07-05",
       "end_date": "2027-07-09",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -2026,14 +1978,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Pollýanna - Nóv-Des 2026",
-      "line_item_name": "Pollýanna - 9-11Nóv - Egilshöll, Hagasmári, Litlatún, Sæbraut, Vesturlandsvegur",
-      "price": 71400,
-      "start_date": "2026-11-09",
-      "end_date": "2026-11-11",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Pris - November",
       "line_item_name": "HAG",
       "price": 52200,
@@ -2196,6 +2140,14 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
+      "price": 45250,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "SÁÁ. des. 2026",
+      "line_item_name": "SÁÁ. des. 2026",
       "price": 79500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
@@ -2205,14 +2157,6 @@
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
       "price": 109600,
-      "start_date": "2026-12-01",
-      "end_date": "2026-12-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "SÁÁ. des. 2026",
-      "line_item_name": "SÁÁ. des. 2026",
-      "price": 45250,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
@@ -2271,7 +2215,7 @@
       "price": 78000,
       "start_date": "2026-11-30",
       "end_date": "2026-12-11",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Sérefni (okt , nóv og des)",
@@ -2279,14 +2223,6 @@
       "price": 97500,
       "start_date": "2026-11-02",
       "end_date": "2026-11-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Silkisvefn - nóv og des",
-      "line_item_name": "Silkisvefn - 10-11Nóv  - 6 skjáir",
-      "price": 44000,
-      "start_date": "2026-11-10",
-      "end_date": "2026-11-11",
       "seen_count": 1
     },
     {
@@ -2343,14 +2279,6 @@
       "price": 128600,
       "start_date": "2026-11-27",
       "end_date": "2026-11-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
-      "line_item_name": "Smáralind - B2B / Datera / 11. nóv / 6x1",
-      "price": 27250,
-      "start_date": "2026-11-11",
-      "end_date": "2026-11-11",
       "seen_count": 1
     },
     {
@@ -2507,14 +2435,6 @@
     },
     {
       "campaign_name": "TM okt. pakki B.",
-      "line_item_name": "TM okt. pakki B. 11 nóv. AK2-BT-GLT2-HAFT-HÖFT-HB1-KAPLA1-VLV1-SMT1",
-      "price": 57500,
-      "start_date": "2026-11-11",
-      "end_date": "2026-11-11",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "TM okt. pakki B.",
       "line_item_name": "TM okt. pakki B. 12 nóv. BT-AK1-GLT1-GRI-HAFT-HÖFT-SMT-VMEY.-HB2-KAPLA2-SFS1",
       "price": 73000,
       "start_date": "2026-11-12",
@@ -2543,14 +2463,6 @@
       "price": 104000,
       "start_date": "2026-11-22",
       "end_date": "2026-11-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Tölvutek Akureyri",
-      "line_item_name": "Tölvutek - 8-11Nóv Glerártorg #1",
-      "price": 26000,
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-11",
       "seen_count": 1
     },
     {
