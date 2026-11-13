@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T13:53:45.310Z",
+  "generated_at": "2026-11-13T21:09:56.630Z",
   "scope": {
     "report_start_date": "2026-11-13",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 479,
-    "unique_items": 329,
+    "items_seen": 474,
+    "unique_items": 324,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -804,7 +804,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -812,7 +812,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -1706,38 +1706,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Myllan - jólatertan / Datera - nóv  2026",
-      "line_item_name": "Myllan / Datera - 17. nóv 2026 / 5x1",
-      "price": 37500,
-      "start_date": "2026-11-17",
-      "end_date": "2026-11-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Myllan - jólatertan / Datera - nóv  2026",
-      "line_item_name": "Myllan / Datera - 18. nóv 2026 / 5x1",
-      "price": 37500,
-      "start_date": "2026-11-18",
-      "end_date": "2026-11-18",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Myllan - jólatertan / Datera - nóv  2026",
-      "line_item_name": "Myllan / Datera - 19. nóv 2026 / 4x1",
-      "price": 30000,
-      "start_date": "2026-11-19",
-      "end_date": "2026-11-19",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Myllan - jólatertan / Datera - nóv  2026",
-      "line_item_name": "Myllan / Datera - 20. nóv 2026 / 4x1",
-      "price": 30000,
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-20",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "N1 árssamingur Glerártorg.",
       "line_item_name": "N1 árssamingur Glerártorg.",
       "price": 2372500,
@@ -1791,14 +1759,6 @@
       "price": 34500,
       "start_date": "2026-12-14",
       "end_date": "2026-12-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Norðurflug / Datera - nóv 2026",
-      "line_item_name": "Norðurflug / Datera - 16. nóv / 5x1",
-      "price": 26500,
-      "start_date": "2026-11-16",
-      "end_date": "2026-11-16",
       "seen_count": 1
     },
     {
