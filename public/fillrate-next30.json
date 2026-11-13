@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T15:22:25.810Z",
+  "generated_at": "2026-11-13T21:32:44.739Z",
   "result": [
     {
       "date": "2026-11-13",
@@ -800,8 +800,8 @@
         {
           "id": 406591,
           "du_name": "Borgartún",
-          "fill_rate": 0.8196154000026691,
-          "rows_seen": 12
+          "fill_rate": 0.7529487333360024,
+          "rows_seen": 11
         },
         {
           "id": 237865,
@@ -866,8 +866,8 @@
         {
           "id": 237871,
           "du_name": "Grandi",
-          "fill_rate": 0.6350000000000222,
-          "rows_seen": 10
+          "fill_rate": 0.5683333333333556,
+          "rows_seen": 9
         },
         {
           "id": 237892,
@@ -890,8 +890,8 @@
         {
           "id": 527245,
           "du_name": "Hafnartorg #2 Lengja",
-          "fill_rate": 0.49118591666666656,
-          "rows_seen": 6
+          "fill_rate": 0.40785258333333324,
+          "rows_seen": 5
         },
         {
           "id": 527247,
@@ -902,8 +902,8 @@
         {
           "id": 527254,
           "du_name": "Hafnartorg #4 Kubbur",
-          "fill_rate": 0.42708333333333326,
-          "rows_seen": 5
+          "fill_rate": 0.34374999999999994,
+          "rows_seen": 4
         },
         {
           "id": 438452,
@@ -1022,8 +1022,8 @@
         {
           "id": 235462,
           "du_name": "Vesturlandsvegur #1",
-          "fill_rate": 0.7350000000019893,
-          "rows_seen": 12
+          "fill_rate": 0.6683333333353226,
+          "rows_seen": 11
         },
         {
           "id": 237863,
