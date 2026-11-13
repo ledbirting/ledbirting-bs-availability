@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-12T21:42:38.684Z",
+  "generated_at": "2026-11-13T04:59:03.671Z",
   "scope": {
-    "report_start_date": "2026-11-12",
+    "report_start_date": "2026-11-13",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 491,
-    "unique_items": 337,
+    "items_seen": 477,
+    "unique_items": 328,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -130,14 +130,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Beiersdorf - Eucerin - Hæ-P",
-      "line_item_name": "Beiersdorf - Eucerin - Hæ-P",
-      "price": 0,
-      "start_date": "2026-10-06",
-      "end_date": "2026-11-12",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
       "line_item_name": "Auður Ava - 18. nóv til 4. des 2026 (Mið, Lau)",
       "price": 103000,
@@ -239,7 +231,7 @@
       "price": 164400,
       "start_date": "2026-12-10",
       "end_date": "2026-12-12",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Bestun/Epli  -Des",
@@ -336,14 +328,6 @@
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Birtingahúsið Indó pakki B.",
-      "line_item_name": "Birtingahúsið Indó 09-12 nóv.",
-      "price": 127500,
-      "start_date": "2026-11-09",
-      "end_date": "2026-11-12",
-      "seen_count": 1
     },
     {
       "campaign_name": "Birtingahúsið SS.",
@@ -687,7 +671,7 @@
       "price": 149400,
       "start_date": "2026-12-10",
       "end_date": "2026-12-30",
-      "seen_count": 3
+      "seen_count": 2
     },
     {
       "campaign_name": "BY-Lovisa inneign",
@@ -759,7 +743,7 @@
       "price": 110600,
       "start_date": "2026-12-08",
       "end_date": "2026-12-14",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Coca Cola Nóv. og des.",
@@ -820,7 +804,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -828,7 +812,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -999,14 +983,6 @@
       "price": 13000,
       "start_date": "2026-12-21",
       "end_date": "2026-12-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hagkaup Akureyri nóv.",
-      "line_item_name": "Hagkaup Akureyri nóv.",
-      "price": 32500,
-      "start_date": "2026-10-29",
-      "end_date": "2026-11-12",
       "seen_count": 1
     },
     {
@@ -1394,20 +1370,12 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Jakob Birgis - uppistand - nóv 2026",
-      "line_item_name": "Jakob Birgis - uppistand / 2. til 12. nóv / þri og fim / HÖF2",
-      "price": 20000,
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-12",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Jb úr og skart - Nóv og des",
       "line_item_name": "Jb úr og skart - Nóv og des",
       "price": 117000,
       "start_date": "2026-11-20",
       "end_date": "2026-12-12",
-      "seen_count": 3
+      "seen_count": 2
     },
     {
       "campaign_name": "Jysk. okt. nóv.",
@@ -1439,7 +1407,7 @@
       "price": 155000,
       "start_date": "2027-08-09",
       "end_date": "2027-08-13",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kavita - 2027 árssamningur",
@@ -1495,7 +1463,7 @@
       "price": 45000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-12",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kjötkompaní nóv og des.",
@@ -1567,14 +1535,6 @@
       "price": 55000,
       "start_date": "2026-10-19",
       "end_date": "2026-11-13",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Krabbameinsfélagið Framför - Ennemm / nóv 2026",
-      "line_item_name": "Krabbameinsfélagið Framför - Blái Trefillinn - Fim 12.11 / 11x1",
-      "price": 74300,
-      "start_date": "2026-11-12",
-      "end_date": "2026-11-12",
       "seen_count": 1
     },
     {
@@ -1706,27 +1666,11 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Mars Media Payday. nóv og des.",
-      "line_item_name": "Mars Media Payday. nóv . GRANDI",
-      "price": 30000,
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-14",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Menningafélag Akureyrar Gjafakort.",
       "line_item_name": "Menningafélag Akureyrar Gjafakort. 08-14 nóv AK2 og GLT2",
       "price": 39000,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Menningafélag Akureyrar Gjafakort.",
-      "line_item_name": "Menningafélag Akureyrar Gjafakort. 10-12 nóv AK2 og GLT2",
-      "price": 26000,
-      "start_date": "2026-11-10",
-      "end_date": "2026-11-12",
       "seen_count": 1
     },
     {
@@ -2196,7 +2140,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 171900,
+      "price": 193500,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -2204,7 +2148,7 @@
     {
       "campaign_name": "Reykjagarður. nóv.",
       "line_item_name": "Reykjagarður. nóv.",
-      "price": 193500,
+      "price": 171900,
       "start_date": "2026-11-08",
       "end_date": "2026-11-14",
       "seen_count": 1
@@ -2395,14 +2339,6 @@
     },
     {
       "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
-      "line_item_name": "Smáralind - B2B / Datera / 12. nóv / 5x1",
-      "price": 25750,
-      "start_date": "2026-11-12",
-      "end_date": "2026-11-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Smáralind - Gjafakort B2B / Datera / 27. okt til 20. nóv 2026",
       "line_item_name": "Smáralind - B2B / Datera / 13. nóv / 6x1",
       "price": 26250,
       "start_date": "2026-11-13",
@@ -2546,14 +2482,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "TM okt. pakki B.",
-      "line_item_name": "TM okt. pakki B. 12 nóv. BT-AK1-GLT1-GRI-HAFT-HÖFT-SMT-VMEY.-HB2-KAPLA2-SFS1",
-      "price": 73000,
-      "start_date": "2026-11-12",
-      "end_date": "2026-11-12",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Tölvutek Akureyri",
       "line_item_name": "Tölvutek - 1-24DES Glerártorg #1",
       "price": 156000,
@@ -2583,7 +2511,7 @@
       "price": 0,
       "start_date": "2026-03-05",
       "end_date": "2028-04-05",
-      "seen_count": 18
+      "seen_count": 17
     },
     {
       "campaign_name": "Útivist og veiði",
