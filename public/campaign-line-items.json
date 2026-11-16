@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-15T18:28:09.740Z",
+  "generated_at": "2026-11-16T00:43:37.398Z",
   "scope": {
-    "report_start_date": "2026-11-15",
+    "report_start_date": "2026-11-16",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 447,
-    "unique_items": 299,
+    "items_seen": 443,
+    "unique_items": 294,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -327,7 +327,7 @@
       "price": 108000,
       "start_date": "2026-12-15",
       "end_date": "2026-12-23",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Birtingahúsið SS. des.",
@@ -343,7 +343,7 @@
       "price": 127500,
       "start_date": "2026-12-15",
       "end_date": "2026-12-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Bónus / HN - des 2026",
@@ -595,14 +595,6 @@
     },
     {
       "campaign_name": "Boozt - Sept til des",
-      "line_item_name": "Boozt - Vika 46",
-      "price": 350000,
-      "start_date": "2026-11-09",
-      "end_date": "2026-11-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Boozt - Sept til des",
       "line_item_name": "Boozt - Vika 46-48",
       "price": 1193200,
       "start_date": "2026-11-12",
@@ -748,7 +740,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -756,7 +748,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -1011,14 +1003,6 @@
     },
     {
       "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 15. nóv / GRA, GBR Litlatún / 2x1",
-      "price": 13000,
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
       "line_item_name": "Hreyfing / 17. nóv / GRA, GBR Litlatún / 2x1",
       "price": 13000,
       "start_date": "2026-11-17",
@@ -1127,14 +1111,6 @@
       "price": 510000,
       "start_date": "2026-11-01",
       "end_date": "2026-11-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 15. nóv / 4x1",
-      "price": 25500,
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
       "seen_count": 1
     },
     {
@@ -1255,7 +1231,7 @@
       "price": 10000,
       "start_date": "2026-12-07",
       "end_date": "2026-12-19",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Íslandshótel - Gjafabréf og Spa / Datera - nóv 2026",
@@ -1303,14 +1279,6 @@
       "price": 22500,
       "start_date": "2026-11-19",
       "end_date": "2026-11-29",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Kave home - Caravan - 15 okt - Haustpakki",
-      "line_item_name": "Kave home - Caravan - 15 okt",
-      "price": 284200,
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-15",
       "seen_count": 1
     },
     {
@@ -1579,14 +1547,6 @@
     },
     {
       "campaign_name": "Nathan Til hamingju.",
-      "line_item_name": "Til hamingju Nathan. 10/12/14/15 nóv. GRI-EH1-HB1-KAPlA1-GB-BH1",
-      "price": 146000,
-      "start_date": "2026-11-10",
-      "end_date": "2026-11-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Nathan Til hamingju.",
       "line_item_name": "Til hamingju Nathan. 24/26/28/29 nóv. GRI-EH1-GRI-HB1-KAPlA1-GB-VMEY-SMT-AK1",
       "price": 194000,
       "start_date": "2026-11-24",
@@ -1775,7 +1735,7 @@
       "price": 327250,
       "start_date": "2026-12-09",
       "end_date": "2026-12-15",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Orkan - Desember - 2026",
@@ -1996,7 +1956,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 79500,
+      "price": 45250,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
@@ -2004,7 +1964,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 45250,
+      "price": 79500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
@@ -2183,7 +2143,7 @@
       "price": 38600,
       "start_date": "2026-12-13",
       "end_date": "2026-12-19",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Sólar nóv.",
