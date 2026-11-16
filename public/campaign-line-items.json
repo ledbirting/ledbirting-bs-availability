@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T00:43:37.398Z",
+  "generated_at": "2026-11-16T10:36:44.892Z",
   "scope": {
     "report_start_date": "2026-11-16",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 443,
-    "unique_items": 294,
+    "items_seen": 447,
+    "unique_items": 298,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1538,6 +1538,38 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Myllan - jólatertan / Datera - nóv  2026",
+      "line_item_name": "Myllan / Datera - 17. nóv 2026 / 5x1",
+      "price": 37500,
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Myllan - jólatertan / Datera - nóv  2026",
+      "line_item_name": "Myllan / Datera - 18. nóv 2026 / 5x1",
+      "price": 37500,
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Myllan - jólatertan / Datera - nóv  2026",
+      "line_item_name": "Myllan / Datera - 19. nóv 2026 / 4x1",
+      "price": 30000,
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Myllan - jólatertan / Datera - nóv  2026",
+      "line_item_name": "Myllan / Datera - 20. nóv 2026 / 4x1",
+      "price": 30000,
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "N1 árssamingur Glerártorg.",
       "line_item_name": "N1 árssamingur Glerártorg.",
       "price": 2372500,
@@ -1587,8 +1619,8 @@
     },
     {
       "campaign_name": "Norðurflug / Datera - nóv 2026",
-      "line_item_name": "Norðurflug / Datera - 17. des / 5x1",
-      "price": 27000,
+      "line_item_name": "Norðurflug / Datera - 17. des / 6x1",
+      "price": 35000,
       "start_date": "2026-12-17",
       "end_date": "2026-12-17",
       "seen_count": 1
@@ -1603,8 +1635,8 @@
     },
     {
       "campaign_name": "Norðurflug / Datera - nóv 2026",
-      "line_item_name": "Norðurflug / Datera - 2. des / 5x1",
-      "price": 27000,
+      "line_item_name": "Norðurflug / Datera - 2. des / 6x1",
+      "price": 35000,
       "start_date": "2026-12-02",
       "end_date": "2026-12-02",
       "seen_count": 1
@@ -1635,8 +1667,8 @@
     },
     {
       "campaign_name": "Norðurflug / Datera - nóv 2026",
-      "line_item_name": "Norðurflug / Datera - 25. nóv / 5x1",
-      "price": 22500,
+      "line_item_name": "Norðurflug / Datera - 25. nóv / 6x1",
+      "price": 30500,
       "start_date": "2026-11-25",
       "end_date": "2026-11-25",
       "seen_count": 1
@@ -1651,16 +1683,16 @@
     },
     {
       "campaign_name": "Norðurflug / Datera - nóv 2026",
-      "line_item_name": "Norðurflug / Datera - 7. des / 5x1",
-      "price": 29500,
+      "line_item_name": "Norðurflug / Datera - 7. des / 6x1",
+      "price": 32000,
       "start_date": "2026-12-07",
       "end_date": "2026-12-07",
       "seen_count": 1
     },
     {
       "campaign_name": "Norðurflug / Datera - nóv 2026",
-      "line_item_name": "Norðurflug / Datera - 9. des / 5x1",
-      "price": 29500,
+      "line_item_name": "Norðurflug / Datera - 9. des / 6x1",
+      "price": 32000,
       "start_date": "2026-12-09",
       "end_date": "2026-12-09",
       "seen_count": 1
@@ -1956,7 +1988,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 45250,
+      "price": 79500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
@@ -1964,7 +1996,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 79500,
+      "price": 45250,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
