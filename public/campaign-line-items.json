@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T10:36:44.892Z",
+  "generated_at": "2026-11-16T21:37:26.810Z",
   "scope": {
     "report_start_date": "2026-11-16",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 447,
-    "unique_items": 298,
+    "items_seen": 459,
+    "unique_items": 308,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -178,6 +178,22 @@
       "seen_count": 2
     },
     {
+      "campaign_name": "Bestun /Ali",
+      "line_item_name": "Bestun /Ali",
+      "price": 16500,
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-18",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bestun /Ali",
+      "line_item_name": "Bestun /Ali",
+      "price": 182400,
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-18",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Bestun /Dekra",
       "line_item_name": "Bestun /Dekra",
       "price": 154000,
@@ -266,6 +282,30 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Bestun/kjarnafæði des 2026",
+      "line_item_name": "Bestun/kjarnafæði des 2026",
+      "price": 52500,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bestun/kjarnafæði des 2026",
+      "line_item_name": "Bestun/kjarnafæði des 2026",
+      "price": 30000,
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-15",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Bestun/kjarnafæði des 2026",
+      "line_item_name": "Bestun/kjarnafæði des 2026",
+      "price": 37500,
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-23",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Birtingahúsið  CCEP Víking og Thule",
       "line_item_name": "CCEP bjór 19/21 nóv.",
       "price": 101600,
@@ -336,6 +376,38 @@
       "start_date": "2026-12-08",
       "end_date": "2026-12-14",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Birtingahúsið Wolt.",
+      "line_item_name": "Birtingahúsið Wolt.01-07 des.",
+      "price": 166000,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Birtingahúsið Wolt.",
+      "line_item_name": "Birtingahúsið Wolt.01-22 des.",
+      "price": 75000,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-22",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Birtingahúsið Wolt.",
+      "line_item_name": "Birtingahúsið Wolt.08-14 des.",
+      "price": 141900,
+      "start_date": "2026-12-08",
+      "end_date": "2026-12-14",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Birtingahúsið Wolt.",
+      "line_item_name": "Birtingahúsið Wolt.15-22 des.",
+      "price": 267500,
+      "start_date": "2026-12-15",
+      "end_date": "2026-12-22",
+      "seen_count": 2
     },
     {
       "campaign_name": "Björgunarsveitin - 15. des - 31. des GRANDI",
@@ -760,6 +832,14 @@
       "start_date": "2026-03-01",
       "end_date": "2027-02-28",
       "seen_count": 4
+    },
+    {
+      "campaign_name": "Era sport - Tilboð",
+      "line_item_name": "Era sport - Tilboð",
+      "price": 195000,
+      "start_date": "2026-11-23",
+      "end_date": "2026-12-12",
+      "seen_count": 1
     },
     {
       "campaign_name": "Eyesland (samningur) - mars '26 til feb '27",
@@ -1538,7 +1618,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Myllan - jólatertan / Datera - nóv  2026",
+      "campaign_name": "Myllan - Heimilisbrauð / Datera - nóv  2026",
       "line_item_name": "Myllan / Datera - 17. nóv 2026 / 5x1",
       "price": 37500,
       "start_date": "2026-11-17",
@@ -1546,7 +1626,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Myllan - jólatertan / Datera - nóv  2026",
+      "campaign_name": "Myllan - Heimilisbrauð / Datera - nóv  2026",
       "line_item_name": "Myllan / Datera - 18. nóv 2026 / 5x1",
       "price": 37500,
       "start_date": "2026-11-18",
@@ -1554,7 +1634,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Myllan - jólatertan / Datera - nóv  2026",
+      "campaign_name": "Myllan - Heimilisbrauð / Datera - nóv  2026",
       "line_item_name": "Myllan / Datera - 19. nóv 2026 / 4x1",
       "price": 30000,
       "start_date": "2026-11-19",
@@ -1562,7 +1642,7 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Myllan - jólatertan / Datera - nóv  2026",
+      "campaign_name": "Myllan - Heimilisbrauð / Datera - nóv  2026",
       "line_item_name": "Myllan / Datera - 20. nóv 2026 / 4x1",
       "price": 30000,
       "start_date": "2026-11-20",
