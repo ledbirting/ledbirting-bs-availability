@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T06:28:11.215Z",
+  "generated_at": "2026-11-17T18:07:31.268Z",
   "scope": {
     "report_start_date": "2026-11-17",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 456,
-    "unique_items": 303,
+    "items_seen": 496,
+    "unique_items": 329,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -356,7 +356,7 @@
     {
       "campaign_name": "Birtingahúsið SS. des.",
       "line_item_name": "Birtingahúsið SS  16/18/21/23 des.. AK2-GRI-KAPLA1-GB-SFS1/SMT1-VLV1",
-      "price": 186000,
+      "price": 182000,
       "start_date": "2026-12-15",
       "end_date": "2026-12-23",
       "seen_count": 2
@@ -371,22 +371,22 @@
     },
     {
       "campaign_name": "Birtingahúsið SS. des.",
-      "line_item_name": "Birtingahúsið SS. 09/11/13 nóv. FJK-GLT1-GRI-KAPLA2-KEV-SFS2-SMT1-VLV2-BT-BH2-GB",
-      "price": 139000,
+      "line_item_name": "Birtingahúsið SS. 09/11/13 des. FJK-GLT1-GRI-KAPLA2-KEV-SFS2-SMT1-VLV2-BT-BH2-GB",
+      "price": 118000,
       "start_date": "2026-12-08",
       "end_date": "2026-12-14",
       "seen_count": 1
     },
     {
-      "campaign_name": "Birtingahúsið Wolt.",
+      "campaign_name": "Birtingahúsið Wolt. 01-22 des.",
       "line_item_name": "Birtingahúsið Wolt.01-07 des.",
-      "price": 166000,
+      "price": 208000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-07",
       "seen_count": 1
     },
     {
-      "campaign_name": "Birtingahúsið Wolt.",
+      "campaign_name": "Birtingahúsið Wolt. 01-22 des.",
       "line_item_name": "Birtingahúsið Wolt.01-22 des.",
       "price": 75000,
       "start_date": "2026-12-01",
@@ -394,17 +394,17 @@
       "seen_count": 2
     },
     {
-      "campaign_name": "Birtingahúsið Wolt.",
+      "campaign_name": "Birtingahúsið Wolt. 01-22 des.",
       "line_item_name": "Birtingahúsið Wolt.08-14 des.",
-      "price": 141900,
+      "price": 177150,
       "start_date": "2026-12-08",
       "end_date": "2026-12-14",
       "seen_count": 1
     },
     {
-      "campaign_name": "Birtingahúsið Wolt.",
+      "campaign_name": "Birtingahúsið Wolt. 01-22 des.",
       "line_item_name": "Birtingahúsið Wolt.15-22 des.",
-      "price": 267500,
+      "price": 301500,
       "start_date": "2026-12-15",
       "end_date": "2026-12-22",
       "seen_count": 2
@@ -796,7 +796,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -804,7 +804,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -819,10 +819,18 @@
     },
     {
       "campaign_name": "Era sport - Tilboð",
-      "line_item_name": "Era sport - Tilboð",
-      "price": 195000,
-      "start_date": "2026-11-23",
-      "end_date": "2026-12-12",
+      "line_item_name": "Era sport -  24-28 nóv",
+      "price": 32500,
+      "start_date": "2026-11-24",
+      "end_date": "2026-11-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Era sport - Tilboð",
+      "line_item_name": "Era sport - 10-15 des",
+      "price": 39000,
+      "start_date": "2026-12-10",
+      "end_date": "2026-12-15",
       "seen_count": 1
     },
     {
@@ -856,6 +864,14 @@
       "start_date": "2026-11-01",
       "end_date": "2026-11-29",
       "seen_count": 1
+    },
+    {
+      "campaign_name": "Farmers market (Flugur) - Grandi 2027",
+      "line_item_name": "Farmers market (Flugur) - Grandi 2027",
+      "price": 2722500,
+      "start_date": "2027-01-01",
+      "end_date": "2027-12-29",
+      "seen_count": 13
     },
     {
       "campaign_name": "Forlagið / HN - 1. til 21.des 2026",
@@ -986,6 +1002,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Hafnartorg Gallery / Datera - 30. nóv til 23. des",
+      "line_item_name": "Hafnartorg",
+      "price": 240000,
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-23",
+      "seen_count": 2
+    },
+    {
       "campaign_name": "Halldór úrsmiður Akureyri.",
       "line_item_name": "Halldór úrsmiður Akureyri.",
       "price": 84500,
@@ -1063,6 +1087,46 @@
       "price": 103000,
       "start_date": "2026-11-30",
       "end_date": "2026-12-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Heiðmörk - Jólamarkaður og Jólatrjáasala - des 2026",
+      "line_item_name": "Heiðmörk - Jólatrjáasala - 10. til 12. des - Hafnartorg",
+      "price": 30000,
+      "start_date": "2026-12-10",
+      "end_date": "2026-12-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Heiðmörk - Jólamarkaður og Jólatrjáasala - des 2026",
+      "line_item_name": "Heiðmörk - Jólatrjáasala - 17. til 19. des - Hafnartorg",
+      "price": 30000,
+      "start_date": "2026-12-17",
+      "end_date": "2026-12-19",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "HHÍ flokkahappdrætti  / HN - des 2026",
+      "line_item_name": "HHÍ flokkahappdrætti  / HN - 10. des 2026 til kl. 18 / 20x1",
+      "price": 94725,
+      "start_date": "2026-12-10",
+      "end_date": "2026-12-10",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "HHÍ flokkahappdrætti  / HN - des 2026",
+      "line_item_name": "HHÍ flokkahappdrætti  / HN - 8. des 2026 / 19x1",
+      "price": 121300,
+      "start_date": "2026-12-08",
+      "end_date": "2026-12-08",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "HHÍ flokkahappdrætti  / HN - des 2026",
+      "line_item_name": "HHÍ flokkahappdrætti  / HN - 9. des 2026 / 17x1",
+      "price": 110800,
+      "start_date": "2026-12-09",
+      "end_date": "2026-12-09",
       "seen_count": 1
     },
     {
@@ -1338,6 +1402,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Kælitækni - Vitamix - BF og CM - Nóvember 2026",
+      "line_item_name": "Kælitækni - Vitamix - Black Friday - 12 skjáir",
+      "price": 105375,
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kælitækni - Vitamix - BF og CM - Nóvember 2026",
+      "line_item_name": "Kælitækni - Vitamix - Cyber Monday - 21 skjár",
+      "price": 128300,
+      "start_date": "2026-11-30",
+      "end_date": "2026-11-30",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Kavita - 2027 árssamningur",
       "line_item_name": "Kavita - Ágúst",
       "price": 155000,
@@ -1490,6 +1570,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Krónan auka des.",
+      "line_item_name": "Krónan auka  05-06 des.",
+      "price": 148000,
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Krónan auka des.",
+      "line_item_name": "Krónan auka  18- 23 des.",
+      "price": 444000,
+      "start_date": "2026-12-18",
+      "end_date": "2026-12-23",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Landsbankinn - Nóvember/Desember",
       "line_item_name": "Landsbankinn - Akureyri",
       "price": 65000,
@@ -1527,6 +1623,22 @@
       "price": 75000,
       "start_date": "2026-11-15",
       "end_date": "2026-11-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lottó 65M - Getspá  / Ennemm - 20. til 21. nóv 2026",
+      "line_item_name": "Lottó 65M - Getspá  / Ennemm - 20. nóv",
+      "price": 92500,
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Lottó 65M - Getspá  / Ennemm - 20. til 21. nóv 2026",
+      "line_item_name": "Lottó 65M - Getspá  / Ennemm - 21. nóv til kl. 18",
+      "price": 105975,
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
       "seen_count": 1
     },
     {
@@ -1648,22 +1760,6 @@
       "start_date": "2026-11-17",
       "end_date": "2026-11-23",
       "seen_count": 1
-    },
-    {
-      "campaign_name": "New Proposal-11/13/2026, 10:31:28 AM",
-      "line_item_name": "Bestun/Kjarnafæði",
-      "price": 90000,
-      "start_date": "2026-12-01",
-      "end_date": "2026-12-12",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "New Proposal-11/13/2026, 10:31:28 AM",
-      "line_item_name": "New Proposal-11/13/2026, 10:31:28 AM",
-      "price": 30000,
-      "start_date": "2026-11-21",
-      "end_date": "2026-12-16",
-      "seen_count": 2
     },
     {
       "campaign_name": "Norðurflug / Datera - nóv 2026",
@@ -1898,6 +1994,46 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Partybúðin 1-23 des",
+      "line_item_name": "Partybúðin 13-19. des",
+      "price": 73500,
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-19",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Partybúðin 1-23 des",
+      "line_item_name": "Partybúðin 6-12. des",
+      "price": 108000,
+      "start_date": "2026-12-06",
+      "end_date": "2026-12-12",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Partybúðin 27-31. des",
+      "line_item_name": "Partybúðin 27-31. des",
+      "price": 354000,
+      "start_date": "2026-12-27",
+      "end_date": "2026-12-31",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Partyland 1-23. des",
+      "line_item_name": "Partyland 1-23. des",
+      "price": 238500,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-21",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Partyland 27-31. des",
+      "line_item_name": "Partyland 27-31. des",
+      "price": 222500,
+      "start_date": "2026-12-27",
+      "end_date": "2026-12-31",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Pollýanna - Nóv-Des 2026",
       "line_item_name": "Pollýanna - 27-31Nóv - Egilshöll, Hagasmári, Kaplakriki, Litlatún, Sæbraut, Smáratorg",
       "price": 117200,
@@ -2036,7 +2172,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 109600,
+      "price": 79500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
@@ -2044,7 +2180,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 79500,
+      "price": 109600,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
@@ -2250,6 +2386,14 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Sykurverk - Akureyri",
+      "line_item_name": "Sykurverk - Akureyri",
+      "price": 78000,
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-29",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Sýn 18-22 nóv.",
       "line_item_name": "Sýn 18 nóv. GRI-KAPLA1-GB-SMT-VLV2-BT",
       "price": 40000,
@@ -2287,6 +2431,70 @@
       "price": 67800,
       "start_date": "2026-11-22",
       "end_date": "2026-11-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tekk. Black friday.",
+      "line_item_name": "Tekk. Black friday 23 nóv. KAPLA1-HÆÐAS-GB-SMT-BH2",
+      "price": 28000,
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-23",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tekk. Black friday.",
+      "line_item_name": "Tekk. Black friday 24 nóv. KAPLA2-HÆÐAS-GB-SMT-EH2-VLV2",
+      "price": 35000,
+      "start_date": "2026-11-24",
+      "end_date": "2026-11-24",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tekk. Black friday.",
+      "line_item_name": "Tekk. Black friday 25 nóv. BH1-EH1-HÆSMI-KAPLA3-SMT-VLV1",
+      "price": 35000,
+      "start_date": "2026-11-25",
+      "end_date": "2026-11-25",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tekk. Black friday.",
+      "line_item_name": "Tekk. Black friday 26 nóv. EH1-HÆSMI-HASMI-HB2",
+      "price": 19800,
+      "start_date": "2026-11-26",
+      "end_date": "2026-11-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tekk. Black friday.",
+      "line_item_name": "Tekk. Black friday 27 nóv. BH1-EH2-HÆSMI-HASMI-KAPLA3-SMT.",
+      "price": 33300,
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tekk. Black friday.",
+      "line_item_name": "Tekk. Black friday 28 nóv. HÆÐAS-HAGAS-Höb2-KAPLA1-VLV2",
+      "price": 31800,
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tekk. Black friday.",
+      "line_item_name": "Tekk. Black friday 29 nóv. KAPLA2-GB-SMT-HÆSMT.BH1",
+      "price": 28000,
+      "start_date": "2026-11-29",
+      "end_date": "2026-11-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tekk. Black friday.",
+      "line_item_name": "Tekk. Black friday 30 nóv.FJH-GB-HASMI-HÆSMT-GRI-HÖFT.",
+      "price": 29550,
+      "start_date": "2026-11-30",
+      "end_date": "2026-11-30",
       "seen_count": 1
     },
     {
