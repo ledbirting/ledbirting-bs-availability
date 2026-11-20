@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T10:53:33.124Z",
+  "generated_at": "2026-11-20T19:36:01.718Z",
   "scope": {
     "report_start_date": "2026-11-20",
     "report_end_date": "2099-12-31",
@@ -17,9 +17,9 @@
     "truncated": true
   },
   "stats": {
-    "api_calls": 97,
-    "items_seen": 493,
-    "unique_items": 341,
+    "api_calls": 96,
+    "items_seen": 490,
+    "unique_items": 338,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -95,38 +95,6 @@
       "price": 49300,
       "start_date": "2026-11-27",
       "end_date": "2026-11-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Auður Kvika / HN - nóvember 2026",
-      "line_item_name": "Auður Kvika / HN - 20. nóv - 9x1",
-      "price": 52000,
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Auður Kvika / HN - nóvember 2026",
-      "line_item_name": "Auður Kvika / HN - 21. nóv - 10x1",
-      "price": 61500,
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Auður Kvika / HN - nóvember 2026",
-      "line_item_name": "Auður Kvika / HN - 22. nóv - 10x1",
-      "price": 65800,
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Auður Kvika / HN - nóvember 2026",
-      "line_item_name": "Auður Kvika / HN - 23. nóv - 10x1",
-      "price": 64500,
-      "start_date": "2026-11-23",
-      "end_date": "2026-11-23",
       "seen_count": 1
     },
     {
@@ -207,6 +175,14 @@
       "price": 100000,
       "start_date": "2026-11-18",
       "end_date": "2026-12-07",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
+      "line_item_name": "María Elísabet - 16. til 22. nóv 2026 (Mán, Fim) /(Fös, Lau, Sun)",
+      "price": 99000,
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-22",
       "seen_count": 1
     },
     {
@@ -739,26 +715,26 @@
     },
     {
       "campaign_name": "Carglass Akureyri 01-20 des.",
-      "line_item_name": "Carglass Akureyri 01-20 des.GLT1  mánudaga og fimmtudaga.",
-      "price": 32500,
+      "line_item_name": "Carglass Akureyri 01-14 des.GLT1. KA 1 og 2  mánudaga og fimmtudaga.",
+      "price": 78000,
       "start_date": "2026-12-01",
-      "end_date": "2026-12-20",
+      "end_date": "2026-12-14",
       "seen_count": 1
     },
     {
       "campaign_name": "Carglass Akureyri 01-20 des.",
-      "line_item_name": "Carglass Akureyri 01-20 des.GLT2-AK2 miðvikudaga og föstudaga.",
-      "price": 78000,
+      "line_item_name": "Carglass Akureyri 01-14 des.GLT2-AK2 miðvikudaga og föstudaga.",
+      "price": 52000,
       "start_date": "2026-12-01",
-      "end_date": "2026-12-20",
+      "end_date": "2026-12-14",
       "seen_count": 1
     },
     {
       "campaign_name": "Carglass Akureyri 01-20 des.",
-      "line_item_name": "Carglass Akureyri 01-20 des.KA1-GLT1.laugardaga og þriðjudaga.",
-      "price": 78000,
+      "line_item_name": "Carglass Akureyri 01-14 des.KA1-GLT1.laugardaga og þriðjudaga.",
+      "price": 52000,
       "start_date": "2026-12-01",
-      "end_date": "2026-12-20",
+      "end_date": "2026-12-14",
       "seen_count": 1
     },
     {
@@ -868,7 +844,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -876,7 +852,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -946,9 +922,9 @@
       "seen_count": 13
     },
     {
-      "campaign_name": "Flybus 23-28 nóv",
+      "campaign_name": "Flybus 23-29 nóv",
       "line_item_name": "Flybus 23-28 nóv",
-      "price": 57000,
+      "price": 33000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-28",
       "seen_count": 1
@@ -2332,7 +2308,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 45250,
+      "price": 79500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
@@ -2340,7 +2316,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 79500,
+      "price": 45250,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
