@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:46:08.536Z",
+  "generated_at": "2026-11-23T23:21:44.681Z",
   "scope": {
     "report_start_date": "2026-11-23",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 447,
-    "unique_items": 300,
+    "items_seen": 445,
+    "unique_items": 298,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -95,14 +95,6 @@
       "price": 48500,
       "start_date": "2026-11-27",
       "end_date": "2026-11-27",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Auður Kvika / HN - nóvember 2026",
-      "line_item_name": "Auður Kvika / HN - 24. nóv - 9x1",
-      "price": 61800,
-      "start_date": "2026-11-24",
-      "end_date": "2026-11-24",
       "seen_count": 1
     },
     {
@@ -666,14 +658,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Ciaogroup. concert. 27th of december.",
-      "line_item_name": "Ciaogroup. concert. 27th of december.",
-      "price": 100300,
-      "start_date": "2026-12-27",
-      "end_date": "2026-12-27",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Coca Cola Nóv. og des.",
       "line_item_name": "Coca Cola 02/04/07 des.",
       "price": 96000,
@@ -711,22 +695,6 @@
       "price": 70000,
       "start_date": "2026-11-28",
       "end_date": "2026-11-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Define The Line - des 2026",
-      "line_item_name": "Define The Line - mán, mið, fös",
-      "price": 186000,
-      "start_date": "2026-12-04",
-      "end_date": "2026-12-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Define The Line - des 2026",
-      "line_item_name": "Define The Line - þri, fim, lau",
-      "price": 142800,
-      "start_date": "2026-12-04",
-      "end_date": "2026-12-17",
       "seen_count": 1
     },
     {
@@ -935,6 +903,14 @@
       "price": 13000,
       "start_date": "2026-12-21",
       "end_date": "2026-12-21",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "GUM - Artasan - Signý - Tækifærispakki B",
+      "line_item_name": "GUM - Artasan - Signý - Tannverndarvikan",
+      "price": 581000,
+      "start_date": "2027-02-28",
+      "end_date": "2027-03-13",
       "seen_count": 1
     },
     {
@@ -1948,7 +1924,7 @@
     {
       "campaign_name": "Pipar Flybus.",
       "line_item_name": "_Pipar Flybus.1-23 des.",
-      "price": 22000,
+      "price": 16000,
       "start_date": "2026-12-27",
       "end_date": "2026-12-30",
       "seen_count": 1
@@ -1956,7 +1932,7 @@
     {
       "campaign_name": "Pipar Flybus.",
       "line_item_name": "Pipar Flybus.1-23 des.",
-      "price": 126500,
+      "price": 92000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-23",
       "seen_count": 2
@@ -2076,6 +2052,14 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
+      "price": 79500,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "SÁÁ. des. 2026",
+      "line_item_name": "SÁÁ. des. 2026",
       "price": 45250,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
@@ -2085,14 +2069,6 @@
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
       "price": 109600,
-      "start_date": "2026-12-01",
-      "end_date": "2026-12-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "SÁÁ. des. 2026",
-      "line_item_name": "SÁÁ. des. 2026",
-      "price": 79500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
@@ -2167,6 +2143,14 @@
       "price": 198000,
       "start_date": "2026-12-09",
       "end_date": "2026-12-22",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Silkisvefn - nóv og des",
+      "line_item_name": "Silkisvefn - viðbót 27-30 nóv",
+      "price": 40000,
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-30",
       "seen_count": 1
     },
     {
