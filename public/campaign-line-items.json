@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T19:00:20.512Z",
+  "generated_at": "2026-11-23T01:22:57.872Z",
   "scope": {
-    "report_start_date": "2026-11-22",
+    "report_start_date": "2026-11-23",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 464,
-    "unique_items": 314,
+    "items_seen": 455,
+    "unique_items": 309,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -178,14 +178,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Benedikt bókaútgáfa / Datera - nóv 2026",
-      "line_item_name": "María Elísabet - 16. til 22. nóv 2026 (Mán, Fim) /(Fös, Lau, Sun)",
-      "price": 99000,
-      "start_date": "2026-11-16",
-      "end_date": "2026-11-22",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Bestun -Ali-Des",
       "line_item_name": "Bestun -Ali-Des",
       "price": 399000,
@@ -287,7 +279,7 @@
       "price": 102000,
       "start_date": "2026-12-20",
       "end_date": "2026-12-22",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Bestun/kjarnafæði des 2026",
@@ -359,7 +351,7 @@
       "price": 108000,
       "start_date": "2026-12-15",
       "end_date": "2026-12-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Birtingahúsið Wolt. 01-22 des.",
@@ -375,7 +367,7 @@
       "price": 75000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-22",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Birtingahúsið Wolt. 01-22 des.",
@@ -391,7 +383,7 @@
       "price": 301500,
       "start_date": "2026-12-15",
       "end_date": "2026-12-22",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Björgunarsveitin - 15. des - 31. des GRANDI",
@@ -967,7 +959,7 @@
       "price": 26000,
       "start_date": "2026-12-20",
       "end_date": "2026-12-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "GER samningur.",
@@ -1159,14 +1151,6 @@
       "price": 110800,
       "start_date": "2026-12-09",
       "end_date": "2026-12-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 22. nóv / BORG, GRA, GBR Litlatún / 3x1",
-      "price": 19500,
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-22",
       "seen_count": 1
     },
     {
@@ -1403,14 +1387,6 @@
     },
     {
       "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 22. nóv / 4x1",
-      "price": 26000,
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
       "line_item_name": "IKEA - 24. nóv / 4x1",
       "price": 28500,
       "start_date": "2026-11-24",
@@ -1591,7 +1567,7 @@
       "price": 31000,
       "start_date": "2026-12-22",
       "end_date": "2026-12-23",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Kjötkompaní nóv og des.",
@@ -1639,7 +1615,7 @@
       "price": 30000,
       "start_date": "2026-12-21",
       "end_date": "2026-12-22",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Landsbankinn - Nóvember/Desember",
@@ -1879,7 +1855,7 @@
       "price": 173478.26,
       "start_date": "2026-12-16",
       "end_date": "2026-12-22",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Orkan - Desember - 2026",
@@ -2027,14 +2003,6 @@
     },
     {
       "campaign_name": "Pris - November",
-      "line_item_name": "HAG",
-      "price": 52200,
-      "start_date": "2026-11-04",
-      "end_date": "2026-11-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Pris - November",
       "line_item_name": "HOF 1",
       "price": 115000,
       "start_date": "2026-11-04",
@@ -2140,7 +2108,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 45250,
+      "price": 79500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
@@ -2156,7 +2124,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 79500,
+      "price": 45250,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
@@ -2322,14 +2290,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Sýn 18-22 nóv.",
-      "line_item_name": "Sýn 22 nóv. BH2-EH1-GRI-KAPLA2-GB-SMT-VLV1-KAPLA1-HSMI-EH-HB1",
-      "price": 67800,
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Tekk. Black friday.",
       "line_item_name": "Tekk. Black friday 23 nóv. KAPLA1-HÆÐAS-GB-SMT-BH2",
       "price": 28000,
@@ -2447,7 +2407,7 @@
       "price": 84500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Vera Design Akureyri og Smáralind",
@@ -2495,7 +2455,7 @@
       "price": 39000,
       "start_date": "2026-12-22",
       "end_date": "2026-12-31",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "VÍS / Datera Landsbyggðin - des '26",
