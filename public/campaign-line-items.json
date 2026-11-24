@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23T23:21:44.681Z",
+  "generated_at": "2026-11-24T08:19:41.156Z",
   "scope": {
-    "report_start_date": "2026-11-23",
+    "report_start_date": "2026-11-24",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 445,
-    "unique_items": 298,
+    "items_seen": 430,
+    "unique_items": 292,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -31,7 +31,7 @@
       "price": 2379000,
       "start_date": "2026-01-22",
       "end_date": "2027-01-22",
-      "seen_count": 3
+      "seen_count": 2
     },
     {
       "campaign_name": "Alvogen - samningur / jan til des 2026",
@@ -295,7 +295,7 @@
       "price": 37500,
       "start_date": "2026-12-19",
       "end_date": "2026-12-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Birtingahúsið  CCEP Víking og Thule",
@@ -327,7 +327,7 @@
       "price": 182000,
       "start_date": "2026-12-15",
       "end_date": "2026-12-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Birtingahúsið SS. des.",
@@ -615,7 +615,7 @@
       "price": 298800,
       "start_date": "2026-12-18",
       "end_date": "2026-12-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "BY-Lovisa inneign",
@@ -679,7 +679,7 @@
       "price": 102600,
       "start_date": "2026-12-21",
       "end_date": "2026-12-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Coca Cola Nóv. og des.",
@@ -700,7 +700,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -708,7 +708,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -939,14 +939,6 @@
     },
     {
       "campaign_name": "Hagkaup auka Akureyri.",
-      "line_item_name": "Hagkaup auka Akureyri.GLT1 22-23 nóv.",
-      "price": 13000,
-      "start_date": "2026-11-19",
-      "end_date": "2026-11-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hagkaup auka Akureyri.",
       "line_item_name": "Hagkaup auka Akureyri.GLT1 26/28 nóv.",
       "price": 13000,
       "start_date": "2026-11-26",
@@ -959,7 +951,7 @@
       "price": 84500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Happatreyjur Black friday.",
@@ -1063,14 +1055,6 @@
       "price": 110800,
       "start_date": "2026-12-09",
       "end_date": "2026-12-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 23. nóv / BORG, GRA / 2x1",
-      "price": 14000,
-      "start_date": "2026-11-23",
-      "end_date": "2026-11-23",
       "seen_count": 1
     },
     {
@@ -1479,7 +1463,7 @@
       "price": 31000,
       "start_date": "2026-12-22",
       "end_date": "2026-12-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Kjötkompaní nóv og des.",
@@ -1634,14 +1618,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Nathan Til hamingju.",
-      "line_item_name": "Til hamingju Nathan.18/20/23 nóv. BT-BH2-FJH-GLT-KEV-SFS-SMT-VLV1",
-      "price": 145500,
-      "start_date": "2026-11-17",
-      "end_date": "2026-11-23",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Norðurflug / Datera - nóv 2026",
       "line_item_name": "Norðurflug / Datera - 14. des / 6x1",
       "price": 34500,
@@ -1671,14 +1647,6 @@
       "price": 34500,
       "start_date": "2026-12-21",
       "end_date": "2026-12-21",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Norðurflug / Datera - nóv 2026",
-      "line_item_name": "Norðurflug / Datera - 23. nóv / 6x1",
-      "price": 31500,
-      "start_date": "2026-11-23",
-      "end_date": "2026-11-23",
       "seen_count": 1
     },
     {
@@ -1791,7 +1759,7 @@
       "price": 427500,
       "start_date": "2026-12-23",
       "end_date": "2026-12-27",
-      "seen_count": 1
+      "seen_count": 2
     },
     {
       "campaign_name": "Orkan - November 2026",
@@ -1935,7 +1903,7 @@
       "price": 92000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Pollýanna - Nóv-Des 2026",
@@ -2023,7 +1991,7 @@
       "price": 294000,
       "start_date": "2026-12-15",
       "end_date": "2026-12-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Reykjagarður des.",
@@ -2031,7 +1999,7 @@
       "price": 105000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-23",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Reykjastræti - Fast í Hafnartorgi",
@@ -2266,14 +2234,6 @@
       "seen_count": 17
     },
     {
-      "campaign_name": "Útivist og veiði",
-      "line_item_name": "Útivist og veiði",
-      "price": 78000,
-      "start_date": "2026-11-12",
-      "end_date": "2026-11-23",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Varmi - Nóv og des",
       "line_item_name": "Varmi - Ágúst",
       "price": 144800,
@@ -2295,14 +2255,6 @@
       "price": 84500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Vera Design Akureyri og Smáralind",
-      "line_item_name": "Vera Design - 10-23Nóv - Mán, Mið, Föst - Glerártorg #1",
-      "price": 39000,
-      "start_date": "2026-11-10",
-      "end_date": "2026-11-23",
       "seen_count": 1
     },
     {
