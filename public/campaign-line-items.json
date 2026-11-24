@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T08:19:41.156Z",
+  "generated_at": "2026-11-24T19:55:22.836Z",
   "scope": {
     "report_start_date": "2026-11-24",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 430,
-    "unique_items": 292,
+    "items_seen": 441,
+    "unique_items": 301,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -698,6 +698,22 @@
       "seen_count": 1
     },
     {
+      "campaign_name": "Define The Line - des 2026",
+      "line_item_name": "Define The Line - mán, mið, fös",
+      "price": 186000,
+      "start_date": "2026-12-04",
+      "end_date": "2026-12-17",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Define The Line - des 2026",
+      "line_item_name": "Define The Line - þri, fim, lau",
+      "price": 142800,
+      "start_date": "2026-12-04",
+      "end_date": "2026-12-17",
+      "seen_count": 1
+    },
+    {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
       "price": 52000,
@@ -1055,6 +1071,30 @@
       "price": 110800,
       "start_date": "2026-12-09",
       "end_date": "2026-12-09",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hnýfill hugmynd að plani.",
+      "line_item_name": "Hnýfill. 09/16 des.  AK2-EH1-GREN-HB1-GB-KEV-VLV1.",
+      "price": 81000,
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-20",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hnýfill hugmynd að plani.",
+      "line_item_name": "Hnýfill. 10/15 des. GLT2/GRI/KAPLA1/MOS/SFS/SMT.",
+      "price": 78000,
+      "start_date": "2026-12-10",
+      "end_date": "2026-12-16",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Hnýfill hugmynd að plani.",
+      "line_item_name": "Hnýfill. 11/18 des.  BH-FJH-KAPLA3-HÆÐAS-VLV2-SÆB2-SMT1.",
+      "price": 82000,
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-20",
       "seen_count": 1
     },
     {
@@ -2020,7 +2060,7 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 79500,
+      "price": 109600,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
@@ -2036,9 +2076,17 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
-      "price": 109600,
+      "price": 79500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Saffran - Akureyri - Tilboð - Febrúar",
+      "line_item_name": "Saffran - Akureyri - Tilboð - Glerártorg",
+      "price": 91000,
+      "start_date": "2027-02-01",
+      "end_date": "2027-02-14",
       "seen_count": 1
     },
     {
@@ -2207,6 +2255,30 @@
       "price": 78000,
       "start_date": "2026-11-18",
       "end_date": "2026-11-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Tekt tilboð í birtingar á Akureyri nóv og des.",
+      "line_item_name": "Tekt. GLT 1 sunnudaga og miðvikudaga frá 25 nóv - 31 des.",
+      "price": 71500,
+      "start_date": "2026-11-25",
+      "end_date": "2026-12-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Tekt tilboð í birtingar á Akureyri nóv og des.",
+      "line_item_name": "Tekt. GLT2 fimmtudaga og laugardaga. 25 nóv - 31 des.",
+      "price": 71500,
+      "start_date": "2026-11-25",
+      "end_date": "2026-12-31",
+      "seen_count": 2
+    },
+    {
+      "campaign_name": "Thomsen Reykjavík - Hafnartorg - 29.11 til 23.12",
+      "line_item_name": "Thomsen Reykjavík - Hafnartorg - 29.11 til 23.12",
+      "price": 250000,
+      "start_date": "2026-11-29",
+      "end_date": "2026-12-23",
       "seen_count": 1
     },
     {
