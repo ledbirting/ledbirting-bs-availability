@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T19:55:22.836Z",
+  "generated_at": "2026-11-25T03:56:12.715Z",
   "scope": {
-    "report_start_date": "2026-11-24",
+    "report_start_date": "2026-11-25",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 441,
-    "unique_items": 301,
+    "items_seen": 437,
+    "unique_items": 298,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -1099,14 +1099,6 @@
     },
     {
       "campaign_name": "Hreyfing / HN - nóv '26",
-      "line_item_name": "Hreyfing / 24. nóv / GRA, GBR Litlatún / 2x1",
-      "price": 13000,
-      "start_date": "2026-11-24",
-      "end_date": "2026-11-24",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hreyfing / HN - nóv '26",
       "line_item_name": "Hreyfing / 25. nóv / BORG, GRA / 2x1",
       "price": 14000,
       "start_date": "2026-11-25",
@@ -1319,14 +1311,6 @@
       "price": 27000,
       "start_date": "2026-12-07",
       "end_date": "2026-12-07",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "IKEA / HN - nóvember 2026 (500 þús pr. mánuð)",
-      "line_item_name": "IKEA - 24. nóv / 4x1",
-      "price": 28500,
-      "start_date": "2026-11-24",
-      "end_date": "2026-11-24",
       "seen_count": 1
     },
     {
@@ -1575,14 +1559,6 @@
       "price": 60000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-28",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Löður - Nóvember 2026",
-      "line_item_name": "Grandi auka",
-      "price": 22000,
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-24",
       "seen_count": 1
     },
     {
@@ -2060,6 +2036,14 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
+      "price": 79500,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "SÁÁ. des. 2026",
+      "line_item_name": "SÁÁ. des. 2026",
       "price": 109600,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
@@ -2069,14 +2053,6 @@
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
       "price": 45250,
-      "start_date": "2026-12-01",
-      "end_date": "2026-12-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "SÁÁ. des. 2026",
-      "line_item_name": "SÁÁ. des. 2026",
-      "price": 79500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
@@ -2287,7 +2263,7 @@
       "price": 156000,
       "start_date": "2026-12-01",
       "end_date": "2026-12-24",
-      "seen_count": 2
+      "seen_count": 1
     },
     {
       "campaign_name": "Tölvutek Akureyri",
