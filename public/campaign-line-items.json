@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T01:31:40.566Z",
+  "generated_at": "2026-11-26T11:52:22.187Z",
   "scope": {
     "report_start_date": "2026-11-26",
     "report_end_date": "2099-12-31",
@@ -18,21 +18,13 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 443,
-    "unique_items": 304,
+    "items_seen": 444,
+    "unique_items": 305,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
   },
   "items": [
-    {
-      "campaign_name": "1: Gæludýr / Hvíta húsið -  viðbót nóv 2026",
-      "line_item_name": "Gæludýr / 3. des / GLER1, GLER2",
-      "price": 12636,
-      "start_date": "2026-12-03",
-      "end_date": "2026-12-03",
-      "seen_count": 1
-    },
     {
       "campaign_name": "A4 / Datera - Langtímasamningur 2026 (frh. á samningi)",
       "line_item_name": "A4 / Glerártorg 1 - frh á samningi",
@@ -611,6 +603,14 @@
     },
     {
       "campaign_name": "BY-Lovisa inneign",
+      "line_item_name": "BY-Lovisa inneign 1 des.",
+      "price": 42300,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-01",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "BY-Lovisa inneign",
       "line_item_name": "BY-Lovisa inneign 10-12 des.",
       "price": 149400,
       "start_date": "2026-12-10",
@@ -636,9 +636,9 @@
     {
       "campaign_name": "BY-Lovisa inneign",
       "line_item_name": "BY-Lovisa inneign 28-29 nóv",
-      "price": 149400,
+      "price": 99600,
       "start_date": "2026-11-28",
-      "end_date": "2026-11-30",
+      "end_date": "2026-11-29",
       "seen_count": 1
     },
     {
@@ -867,16 +867,16 @@
     },
     {
       "campaign_name": "Gæludýr / Hvíta húsið -  des 2026",
-      "line_item_name": "Gæludýr / 1. til 23. des / Þri, Lau / GRA",
-      "price": 52500,
+      "line_item_name": "Gæludýr / 1. til 23. des / Mið, Fös, Lau / GLER1",
+      "price": 71500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-23",
       "seen_count": 1
     },
     {
       "campaign_name": "Gæludýr / Hvíta húsið -  des 2026",
-      "line_item_name": "Gæludýr / 1. til 23. des / Þri, Mið, Lau / GLER1",
-      "price": 71500,
+      "line_item_name": "Gæludýr / 1. til 23. des / Þri, Lau / GRA",
+      "price": 52500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-23",
       "seen_count": 1
@@ -903,6 +903,14 @@
       "price": 78000,
       "start_date": "2026-11-03",
       "end_date": "2026-11-30",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Gæludýr / Hvíta húsið -  viðbót nóv 2026",
+      "line_item_name": "Gæludýr / 3. des / GLER1, GLER2",
+      "price": 12636,
+      "start_date": "2026-12-03",
+      "end_date": "2026-12-03",
       "seen_count": 1
     },
     {
@@ -1527,6 +1535,14 @@
       "price": 15000,
       "start_date": "2026-11-26",
       "end_date": "2026-11-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Kökur og konfekt",
+      "line_item_name": "Kökur og konfekt",
+      "price": 740000,
+      "start_date": "2026-11-26",
+      "end_date": "2026-12-15",
       "seen_count": 1
     },
     {
@@ -2296,14 +2312,6 @@
       "start_date": "2026-11-25",
       "end_date": "2026-12-31",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Thomsen Reykjavík - Hafnartorg - 29.11 til 23.12",
-      "line_item_name": "Thomsen Reykjavík - Hafnartorg - 29.11 til 23.12",
-      "price": 250000,
-      "start_date": "2026-11-29",
-      "end_date": "2026-12-23",
-      "seen_count": 1
     },
     {
       "campaign_name": "Tölvutækni - Tilboð",
