@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T11:52:22.187Z",
+  "generated_at": "2026-11-26T20:54:14.722Z",
   "scope": {
     "report_start_date": "2026-11-26",
     "report_end_date": "2099-12-31",
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 444,
-    "unique_items": 305,
+    "items_seen": 442,
+    "unique_items": 303,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -95,6 +95,38 @@
       "price": 69000,
       "start_date": "2026-11-26",
       "end_date": "2026-11-26",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Auður Kvika / HN - nóvember 2026",
+      "line_item_name": "Auður Kvika / HN  - 27. nóv - 10x1",
+      "price": 56500,
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Auður Kvika / HN - nóvember 2026",
+      "line_item_name": "Auður Kvika / HN  - 28. nóv - 9x1",
+      "price": 52500,
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Auður Kvika / HN - nóvember 2026",
+      "line_item_name": "Auður Kvika / HN  - 29. nóv - 9x1",
+      "price": 52500,
+      "start_date": "2026-11-29",
+      "end_date": "2026-11-29",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "Auður Kvika / HN - nóvember 2026",
+      "line_item_name": "Auður Kvika / HN  - 30. nóv - 9x1",
+      "price": 51000,
+      "start_date": "2026-11-30",
+      "end_date": "2026-11-30",
       "seen_count": 1
     },
     {
@@ -698,25 +730,9 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Define The Line - des 2026",
-      "line_item_name": "Define The Line - mán, mið, fös",
-      "price": 186000,
-      "start_date": "2026-12-04",
-      "end_date": "2026-12-17",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Define The Line - des 2026",
-      "line_item_name": "Define The Line - þri, fim, lau",
-      "price": 142800,
-      "start_date": "2026-12-04",
-      "end_date": "2026-12-17",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 52000,
+      "price": 39000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -724,7 +740,7 @@
     {
       "campaign_name": "Dressmann 23-29 nóv. Akueryi.",
       "line_item_name": "Dressmann 23-29 nóv. Akueryi.",
-      "price": 39000,
+      "price": 52000,
       "start_date": "2026-11-23",
       "end_date": "2026-11-29",
       "seen_count": 1
@@ -1010,14 +1026,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Hagkaup auka Akureyri.",
-      "line_item_name": "Hagkaup auka Akureyri.GLT1 26/28 nóv.",
-      "price": 13000,
-      "start_date": "2026-11-26",
-      "end_date": "2026-11-30",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Halldór úrsmiður Akureyri.",
       "line_item_name": "Halldór úrsmiður Akureyri.",
       "price": 84500,
@@ -1119,30 +1127,6 @@
       "price": 110800,
       "start_date": "2026-12-09",
       "end_date": "2026-12-09",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hnýfill hugmynd að plani.",
-      "line_item_name": "Hnýfill. 09/16 des.  AK2-EH1-GREN-HB1-GB-KEV-VLV1.",
-      "price": 81000,
-      "start_date": "2026-12-05",
-      "end_date": "2026-12-20",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hnýfill hugmynd að plani.",
-      "line_item_name": "Hnýfill. 10/15 des. GLT2/GRI/KAPLA1/MOS/SFS/SMT.",
-      "price": 78000,
-      "start_date": "2026-12-10",
-      "end_date": "2026-12-16",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Hnýfill hugmynd að plani.",
-      "line_item_name": "Hnýfill. 11/18 des.  BH-FJH-KAPLA3-HÆÐAS-VLV2-SÆB2-SMT1.",
-      "price": 82000,
-      "start_date": "2026-12-05",
-      "end_date": "2026-12-20",
       "seen_count": 1
     },
     {
@@ -1996,7 +1980,7 @@
     {
       "campaign_name": "Ratsjá/66nord/Akureyri",
       "line_item_name": "Ratsjá/66nord/Akureyri",
-      "price": 409500,
+      "price": 71500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-25",
       "seen_count": 1
@@ -2004,7 +1988,7 @@
     {
       "campaign_name": "Ratsjá/66nord/Akureyri",
       "line_item_name": "Ratsjá/66nord/Akureyri",
-      "price": 71500,
+      "price": 409500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-25",
       "seen_count": 1
@@ -2100,6 +2084,14 @@
     {
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
+      "price": 79500,
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-06",
+      "seen_count": 1
+    },
+    {
+      "campaign_name": "SÁÁ. des. 2026",
+      "line_item_name": "SÁÁ. des. 2026",
       "price": 109600,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
@@ -2109,14 +2101,6 @@
       "campaign_name": "SÁÁ. des. 2026",
       "line_item_name": "SÁÁ. des. 2026",
       "price": 45250,
-      "start_date": "2026-12-01",
-      "end_date": "2026-12-06",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "SÁÁ. des. 2026",
-      "line_item_name": "SÁÁ. des. 2026",
-      "price": 79500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-06",
       "seen_count": 1
