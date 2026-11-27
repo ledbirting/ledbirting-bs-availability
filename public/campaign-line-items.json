@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T20:54:14.722Z",
+  "generated_at": "2026-11-27T03:28:06.932Z",
   "scope": {
-    "report_start_date": "2026-11-26",
+    "report_start_date": "2026-11-27",
     "report_end_date": "2099-12-31",
     "include_from_today_only": true
   },
@@ -18,8 +18,8 @@
   },
   "stats": {
     "api_calls": 96,
-    "items_seen": 442,
-    "unique_items": 303,
+    "items_seen": 432,
+    "unique_items": 293,
     "range_chunks_processed": 24,
     "stopped_on_empty_ranges": true,
     "max_range_chunks_reached": false
@@ -91,14 +91,6 @@
     },
     {
       "campaign_name": "Auður Kvika / HN - nóvember 2026",
-      "line_item_name": "Auður Kvika / HN  - 26. nóv - 12x1",
-      "price": 69000,
-      "start_date": "2026-11-26",
-      "end_date": "2026-11-26",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Auður Kvika / HN - nóvember 2026",
       "line_item_name": "Auður Kvika / HN  - 27. nóv - 10x1",
       "price": 56500,
       "start_date": "2026-11-27",
@@ -127,14 +119,6 @@
       "price": 51000,
       "start_date": "2026-11-30",
       "end_date": "2026-11-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Bauhaus 25-29 nóv",
-      "line_item_name": "Bauhaus 26 nóv",
-      "price": 105550,
-      "start_date": "2026-11-26",
-      "end_date": "2026-11-26",
       "seen_count": 1
     },
     {
@@ -320,14 +304,6 @@
       "start_date": "2026-01-01",
       "end_date": "2026-12-31",
       "seen_count": 2
-    },
-    {
-      "campaign_name": "Birtingahúsið SS.",
-      "line_item_name": "Birtingahúsið SS. 01/03/05/07 nóv. FJH-GLT2-GRI-KEV-VLV2",
-      "price": 121500,
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-26",
-      "seen_count": 1
     },
     {
       "campaign_name": "Birtingahúsið SS. des.",
@@ -610,14 +586,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Bónus auka - Höfðabakka / HN - nóv 2026",
-      "line_item_name": "Bónus Höfðabakka - 20. til 26. nóv",
-      "price": 64000,
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-26",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Boozt - Sept til des",
       "line_item_name": "Boozt - Vika 46-48",
       "price": 1193200,
@@ -655,14 +623,6 @@
       "price": 298800,
       "start_date": "2026-12-18",
       "end_date": "2026-12-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "BY-Lovisa inneign",
-      "line_item_name": "BY-Lovisa inneign 25-26 nóv",
-      "price": 99600,
-      "start_date": "2026-11-25",
-      "end_date": "2026-11-26",
       "seen_count": 1
     },
     {
@@ -874,14 +834,6 @@
       "seen_count": 1
     },
     {
-      "campaign_name": "Forlagið / HN - 10.  til 30.nóv 2026",
-      "line_item_name": "Forlagið - Nóvember 10.nóv - 30.nóv - Þri, Mið, Fim - Höfðabakki1",
-      "price": 45000,
-      "start_date": "2026-11-10",
-      "end_date": "2026-11-30",
-      "seen_count": 1
-    },
-    {
       "campaign_name": "Gæludýr / Hvíta húsið -  des 2026",
       "line_item_name": "Gæludýr / 1. til 23. des / Mið, Fös, Lau / GLER1",
       "price": 71500,
@@ -1031,14 +983,6 @@
       "price": 84500,
       "start_date": "2026-12-01",
       "end_date": "2026-12-23",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Happatreyjur Black friday.",
-      "line_item_name": "Happatreyjur 26 Nóv - 4 Stórir skjáir",
-      "price": 21250,
-      "start_date": "2026-11-26",
-      "end_date": "2026-11-26",
       "seen_count": 1
     },
     {
@@ -1803,14 +1747,6 @@
     },
     {
       "campaign_name": "Óskaskrín - 9 til 30 nóv",
-      "line_item_name": "Óskaskrín nóv - fim",
-      "price": 92400,
-      "start_date": "2026-11-09",
-      "end_date": "2026-11-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Óskaskrín - 9 til 30 nóv",
       "line_item_name": "Óskaskrín nóv - fös og laug",
       "price": 97800,
       "start_date": "2026-11-09",
@@ -1871,14 +1807,6 @@
       "price": 302500,
       "start_date": "2026-12-27",
       "end_date": "2026-12-31",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Penninn - Húsgögn  / HN  - BF og CM + helgin - nóv 2026",
-      "line_item_name": "Penninn - Húsgögn / HN  - 26. maí - Fimmtudagur / 8x1",
-      "price": 47300,
-      "start_date": "2026-11-26",
-      "end_date": "2026-11-26",
       "seen_count": 1
     },
     {
@@ -1951,14 +1879,6 @@
       "price": 117200,
       "start_date": "2026-11-27",
       "end_date": "2026-11-30",
-      "seen_count": 1
-    },
-    {
-      "campaign_name": "Pris - November",
-      "line_item_name": "HOF 1",
-      "price": 115000,
-      "start_date": "2026-11-04",
-      "end_date": "2026-11-26",
       "seen_count": 1
     },
     {
